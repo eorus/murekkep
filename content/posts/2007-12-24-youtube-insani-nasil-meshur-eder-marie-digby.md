@@ -1,0 +1,23 @@
+---
+title: 'Youtube insanı nasıl meşhur eder: Marie Digby'
+author: heartsmagic
+type: post
+date: 2007-12-23T22:54:07+00:00
+url: /youtube-insani-nasil-meshur-eder-marie-digby/
+dsq_thread_id:
+  - 959775616
+categories:
+  - Kültür Yaşam
+tags:
+  - müzik
+  - video
+  - youtube
+
+---
+Web 2.0 furyası hayatımızı kasıp kavurmaya başladığından beri İnternet alışkanlıklarımız da değişti. Eskiden durağan sayfalarla gezintimizi yaparken bu durum son zamanlarda sosyal içerikli ve dinamik sitelere kaymış durumda. Her geçen gün, bir şekilde yeni bir platform daha patlak veriyor. İnsanlar buralarda çeşitli şekillerde bağlantı kuruyorlar, paylaşımda bulunuyorlar, yazıyorlar, yorum yapıyorlar, kısacası &#8216;kendilerini ve yapabildiklerini gösteriyorlar&#8217;. Peki bu yapılanlar ne kadar kalabalık bir kitleye ulaşıyor? Sadece o platformun üyelerine mi, üyelerin çevrelerine mi, yoksa tüm dünyaya mı? Her platform bu kadar başarılı olur mu bilemiyorum ancak [Youtube][1] bu işi hakkıyla yerine getiriyor. Son zamanların en güncel ve en güzel örneklerinden birisi ise Marie Digby. Kimdir, ne yaptı, nasıl meşhur oldu?
+
+Aslen Japonya-İrlanda asıllı bir Amerikalı olan Marie Digby bir şarkıcı. Lise yıllarından beri müzikle ilgileniyor ve bu sevdası için Berekeley&#8217;deki Felsefe eğitimini dahi bırakmış durumda. Ancak bu seneye kadar adını sanını duyan var mıydı bilmem. Ufak çaplı bir yarışmayı kazandıktan sonra az da olsa yapımcı şirketlerin ilgisini çekmeyi başarmış 2004 yılında. İlk olarak 2005 yılında Rondor Music ile, 2006 yılında ise ise Disney&#8217;in sahibi olduğu Hollywood Records ile anlaşmış, hatta şarkıları bir araya getirilmiş ve albüm hazırlıkları başlar gibi olmuş. Ancak tüm bunlar onun duyulmasına yine sebep değil. Yazının başlığından ve girişten tahmin edebileceğiniz gibi kendisini meşhur eden platform Youtube. 2006 yılında üye olduğu Youtube&#8217;a ağırlıklı olarak bu yıl yaptığı kayıtları göndermeye başlamış. 6 ay önce öyle bir kayıt göndermiş ki, etrafı kasıp kavurmuş. Ben de kendisiyle bu kayıt sayesinde tanıştım. Meşhur şarkıcı Rihanna&#8217;nın &#8216;hit&#8217;lerinden biri olan Umbrella isimli şarkısına yaptığı &#8216;cover&#8217; kendisini meşhur etmeye yetmiş. Hakkını vermek lazım, şarkıya getirdiği yorum ve kendi çaldığı gitarı ile son derece güzel bir çalışma olmuş. Zaten öyle olacak ki, bir süre sonra kendisinin bu kaydı bir radyo istasyonunda dönmeye başlamış. Ardından hızla çok beğenilenler listesine girmiş. 2 Ağustos&#8217;ta ise bir gece şovu olan Last Call with Carson Daly şovda Amerikalı vatandaşların huzurunda canlı performans göstermiş. Olay kartopunun dağın zirvesinden yuvarlanmasına benziyor, aşağı doğru indikçe kütlesi büyüyor, etkisi artıyor. Şu an durum nasıl mı?
+
+Eylül itibariyle Youtube üzerinde 2.3 milyon kere gösterim, an itibariyle en fazla kayıt olunan 37. kullanıcı, en fazla kayıt olunan 9. şarkıcı, en çok görüntülenen 44. şahsiyet. Hal böyle olunca Yotube tayfası kendisini yılbaşında program yapmak üzere davet bile etmiş. Hollywood Records Umbrella &#8216;cover&#8217;ı için kaliteli bir kayıt yapmış, şu an radyolarda dönüyor, iTunes üzerinde satışta, kısacası Marie hızla şöhret basamaklarını tırmanıyor. Peki bunu neye borçlu? Elbette Youtube ve akıllı pazarlama hamlesi. Evet kendisi bu nedenle The Wall Street Journal&#8217;daki bir yazıda, &#8220;popülarite kazanmak için amatör ve halka yakınmış hissi vererek kayıtlar oluşturup, bunları Youtube&#8217;da yayımlamakla&#8221; eleştirilmiş. Doğru mudur? Kim bilir. Kendisi o kayıtları gönderdiğinde, &#8220;bir anlaşmasının olduğunu asla gizlemediğini, bu kayıtların promosyon eksikliğinden dolayı olan çaresizliğinin bir meyvesi olduğunu&#8221; belirtmiş. Kastî veya değil, yapılan iş cuk oturmuş. Amerika şu an kendisini tanıyor, turnelerde 2008 yılında çıkacak olan albümü için şarkılar söylemeye devam ediyor. Youtube&#8217;a koyduğu her kaydı için binlerce insan sayfasını ziyaret ediyor. Hülasa, şöhret olması için olabilecek her şey işlemeye devam ediyor. Son olarak kendisini meşhur eden Umbrella &#8216;cover&#8217;ını verelim, ancak kendisinin on parmağında on marifet olduğundan (piyano da çalabiliyor, iyi söylüyor, iyi şarkı yazıyor, güzel gülüyor, hoş görünüyor :) ) kendi sayfasını da ziyaret etmenizi tavsiye ederim, birçok başka parçanın yorumunu ve kendi şarkılarını bulabilirsiniz, <a href="http://www.youtube.com/profile?user=MarieDigby" target="_blank">şuradan buyurun.</a>
+
+ [1]: https://www.murekkep.org/etiket/youtube

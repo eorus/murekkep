@@ -1,0 +1,82 @@
+---
+title: Alınabilecek En İyi 10 Ücretli Android Uygulaması
+author: Alper
+type: post
+date: 2013-03-13T15:30:51+00:00
+url: /alinabilecek-en-iyi-10-ucretli-android-uygulamasi/
+featured_image: /wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun-100x100.jpg
+categories:
+  - Mobil
+tags:
+  - android
+  - uygulama
+
+---
+Android bir mobil işletim sistemi olarak en popüler zamanını yaşıyor ve kullanıcı sayısı her geçen gün artmaya devam ediyor. Android üzerinde sayıca oldukça fazla ücretsiz kullanabileceğiniz mobil uygulama mevcuttur. Android uygulamalarını genelde Google Play üzerinden ya da apk dosyasını yükleyerek kullanabiliyoruz. Google Play Store üzerinde birçok ücretsiz android uygulamasının yanısıra parayla satın alabileceğimiz ve satın almaya değecek ücretli uygulamalar da mevcuttur.
+
+Özellikle Google&#8217;ın Google Wallet mobil uygulamasıyla beraber kolayca satın alınabilen uygulamalar arasında mobil oyunlar başı çekiyor. Bunun dışında bazı uygulamalar sundukları özelliklerle satın alınmayı kullanıcı tarafında hak ediyor ve öne çıkıyor. Bugün sizlere Android işletim sisteminde satın alınabilecek **en iyi 10 ücretli android uygulamasını** sunuyor olacağız. Listeye eklemek istedikleriniz olursa yorumlarınızı bekliyoruz.
+
+## Alınabilecek En İyi 10 Ücretli Android Uygulaması
+
+### 1. Swiftkey Keyboard
+
+<a href="https://play.google.com/store/apps/details?id=com.touchtype.swiftkey" target="_blank">SwiftKey</a> android uygulaması Android sistemiyle gelen klavyenin yerini alıyor ve siz klavyeyi kullandıkça kendini geliştiren bir yapıya sahip. Önce kelimeleri tanıyor ardından siz aynı kelimeleri kullandıkça klavyeyi daha efektif bir şekilde kullanmanızı sağlıyor. Bunun arasında Gmail, Facebook, Twitter kullanımınızdaki kelimeleri de düşünürseniz oldukça önemli ve kullanışlı bir uygulama karşınıza çıkıyor.
+
+<img class="alignnone size-full wp-image-13261" alt="android-uygulamasi-swiftkey-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01.jpg" width="288" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01.jpg 288w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01-225x400.jpg 225w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01-28x50.jpg 28w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01-56x100.jpg 56w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01-112x200.jpg 112w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-01-171x305.jpg 171w" sizes="(max-width: 288px) 100vw, 288px" /><img class="alignnone size-full wp-image-13262" alt="android-uygulamasi-swiftkey-02" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02.jpg" width="288" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02.jpg 288w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02-225x400.jpg 225w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02-28x50.jpg 28w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02-56x100.jpg 56w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02-112x200.jpg 112w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-swiftkey-02-171x305.jpg 171w" sizes="(max-width: 288px) 100vw, 288px" /> 
+
+### 2. TuneInRadio
+
+<a href="https://play.google.com/store/apps/details?id=tunein.player" target="_blank">TuneIn</a> radyo online olarak müzik dinleyebileceğiniz bir başka android müzik uygulamasıdır. Dünya üzerindeki tüm radyoları müzik, spor, haber gibi canlı akışlarla takip edebilirsiniz. 70000 canlı radyo istasyonu ve 2 milyon podcast içeren android uygulaması TuneIn radyo, ücretsiz olarak android telefon ve [tablet][1] üzerinde kullanabileceğiniz mükemmel bir uygulamadır.
+
+<img alt="tunein-android-radyo" src="https://www.murekkep.org/wp-content/uploads/2013/03/tunein-android-radyo.jpg" width="307" height="512" />  <img alt="tunein-android-radyo-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/tunein-android-radyo-01.jpg" width="307" height="512" />
+
+### 3. Beautiful Widgets
+
+<a href="https://play.google.com/store/apps/details?id=com.levelup.beautifulwidgets" target="_blank">Beautiful widgets</a> muhtemelen android için en iyi özelleştirme araçlarından birisidir. Birçok android bileşeni (widgets) ve tema içeren Beautiful Widgets uygulaması, android ana ekranını özelleştirmeyi seven kullanıcılar için satın alınabilecek bir uygulamadır.
+
+<img class="alignnone size-full wp-image-13263" alt="android-uygulamasi-beautiful-widgets-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01.jpg" width="320" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01.jpg 320w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01-250x400.jpg 250w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01-31x50.jpg 31w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01-62x100.jpg 62w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01-125x200.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-01-190x305.jpg 190w" sizes="(max-width: 320px) 100vw, 320px" /><img class="alignnone size-full wp-image-13264" alt="android-uygulamasi-beautiful-widgets-02" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02.jpg" width="320" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02.jpg 320w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02-250x400.jpg 250w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02-31x50.jpg 31w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02-62x100.jpg 62w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02-125x200.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-beautiful-widgets-02-190x305.jpg 190w" sizes="(max-width: 320px) 100vw, 320px" /> 
+
+### 4. Paper Camera
+
+Paper Camera gerçek zamanlı olarak boyama efektleri ve çizgi karakterleri ekleyebileceğiniz eğlenceli bir kamera uygulamasıdır. Kamera ile birebir çalışan bu uygulama ile boyama efektlerini kolayca uygulayabilirsiniz.
+
+<img class="alignnone size-full wp-image-13265" alt="android-uygulamasi-paper" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper.jpg" width="512" height="307" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper.jpg 512w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper-400x239.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper-50x29.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper-125x74.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper-300x179.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-paper-508x305.jpg 508w" sizes="(max-width: 512px) 100vw, 512px" /> 
+
+### 5. OfficeSuite Pro 7
+
+<a href="https://play.google.com/store/apps/details?id=com.mobisystems.editor.office_registered" target="_blank">OfficeSuite Pro</a> android telefonunuzda Word, Excel ve PowerPoint dosyalarınızı görüntüleyip düzenleyebileceğiniz, baskı alıp, paylaşabileceğiniz tam donanımlı bir ofis uygulamasıdır. Android tabanlı [telefon][2] ve tablet bilgisayarlar üzerinde ofis çözümünü tam donanımlı olarak sunan bu uygulama aynı zamanda bulut depolama servisleri (Dropbox, Google Drive ve SkyDrive) ile senkronize bir şekilde çalışabilmektedir.
+
+<img class="alignnone size-full wp-image-13266" alt="android-uygulamasi-ofis" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis.jpg" width="512" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis.jpg 512w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis-400x250.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis-50x31.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis-125x78.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis-300x187.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-ofis-488x305.jpg 488w" sizes="(max-width: 512px) 100vw, 512px" /> 
+
+### 6. Camera ZOOM FX
+
+<a href="https://play.google.com/store/apps/details?id=slide.cameraZoom" target="_blank">Camera Zoom FX</a> sunduğu birçok özellik ile Android kamerasının yerini alan bir uygulama. ISO, odak ölçümleme, parlaklık, pozlama, kontrast, keskinlik gibi özellik ve filtreler sunan uygulama aynı zamanda Facebook ve Twitter gibi sosyal ağlara fotoğrafınızı yükleyebiliyor.
+
+<img class="alignnone size-full wp-image-13267" alt="android-uygulamasi-kamera" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera.jpg" width="512" height="307" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera.jpg 512w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera-400x239.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera-50x29.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera-125x74.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera-300x179.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-kamera-508x305.jpg 508w" sizes="(max-width: 512px) 100vw, 512px" /> 
+
+### 7. Asphalt 7: Heat
+
+Asphalt 7 herhalde Android&#8217;in en popüler araba yarışı oyunlarından birisidir. Dünyadaki 60 araba içeren bu Gameloft oyunu sunduğu grafiklerle Android cihazınızda nefis bir oyun tecrübesi sunar.
+
+<img class="alignnone size-full wp-image-13268" alt="android-uygulamasi-asphalt-oyun" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun.jpg" width="512" height="288" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun.jpg 512w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun-400x225.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun-50x28.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun-125x70.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-asphalt-oyun-300x168.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /> 
+
+### 8. Smart Tools
+
+<a href="https://play.google.com/store/apps/details?id=kr.aboy.tools" target="_blank">Smart Tools</a> adı üstünde akıllı araçlar sunan ve elinizdeki akıllı telefonla bu araçları efektif bir şekilde kullanmanızı sağlar. Uzunluk ölçülerinden el fenerine 15 farklı araç sunan Smart Tools olmazsa olmaz android uygulamalarındandır.
+
+<img class="alignnone size-full wp-image-13269" alt="android-uygulamasi-arac-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-01.jpg" width="307" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-01.jpg 307w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-01-239x400.jpg 239w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-01-182x305.jpg 182w" sizes="(max-width: 307px) 100vw, 307px" /><img class="alignnone size-full wp-image-13270" alt="android-uygulamasi-arac-02" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02.jpg" width="288" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02.jpg 288w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02-225x400.jpg 225w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02-28x50.jpg 28w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02-56x100.jpg 56w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02-112x200.jpg 112w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-arac-02-171x305.jpg 171w" sizes="(max-width: 288px) 100vw, 288px" /> 
+
+### 9. Apex Launcher Pro
+
+<a href="https://play.google.com/store/apps/details?id=com.anddoes.launcher.pro" target="_blank">Apex Launcher</a> bir başlatıcı ve Android 4.0 üstü sistemlerde çalışıyor. Android ana ekranı için birçok özelleştirilebilir seçenek sunan Apex Launcher mevcut Android başlatıcının yerini gayet güzel bir şekilde alıyor.
+
+<img class="alignnone size-full wp-image-13271" alt="android-uygulamasi-apex-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01.jpg" width="288" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01.jpg 288w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01-225x400.jpg 225w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01-28x50.jpg 28w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01-56x100.jpg 56w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01-112x200.jpg 112w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-01-171x305.jpg 171w" sizes="(max-width: 288px) 100vw, 288px" /><img class="alignnone size-full wp-image-13272" alt="android-uygulamasi-apex-02" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02.jpg" width="288" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02.jpg 288w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02-225x400.jpg 225w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02-28x50.jpg 28w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02-56x100.jpg 56w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02-112x200.jpg 112w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-apex-02-171x305.jpg 171w" sizes="(max-width: 288px) 100vw, 288px" /> 
+
+### 10. MyBackup Pro
+
+<a href="https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro" target="_blank">MyBackup Pro</a> yedekleme işlemleri için Android üzerinde kolay çözüm sunan bir uygulama. MyBackup Pro android uygulaması ile bulut depolama servislerine, SD kart üzerine uygulamalarınızı, fotoğraflarınızı, müzik ve videolarınızı, rehber ve çağrı kayıtlarınızı, SMS ve MMS mesajlarınızı, takvim ve sistem ayarlarınızı, ana ekran ayarlarınız gibi birçok veriyi bir kerede kolayca yedekleyebilirsiniz.
+
+<img class="alignnone size-full wp-image-13273" alt="android-uygulamasi-yedek-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-01.jpg" width="307" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-01.jpg 307w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-01-239x400.jpg 239w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-01-182x305.jpg 182w" sizes="(max-width: 307px) 100vw, 307px" /><img class="alignnone size-full wp-image-13274" alt="android-uygulamasi-yedek-02" src="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-02.jpg" width="307" height="512" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-02.jpg 307w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-02-239x400.jpg 239w, https://www.murekkep.org/wp-content/uploads/2013/03/android-uygulamasi-yedek-02-182x305.jpg 182w" sizes="(max-width: 307px) 100vw, 307px" />
+
+ [1]: https://www.murekkep.org/tablet "tablet"
+ [2]: https://www.murekkep.org/telefon "telefon"

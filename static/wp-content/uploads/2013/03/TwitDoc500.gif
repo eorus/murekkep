@@ -1,0 +1,126 @@
+
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+    <head> 
+    <title>TwitDoc.com - the EASY way to share your documents on Twitter</title> 
+    <link type="text/css" rel="stylesheet" href="/style.css?version=1" /> 
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="charCounter.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#frmTweet textarea").charCounter({ counterId: "counter" });
+        });
+    </script> 
+    <meta name="google-site-verification" content="_OExRaayiSIzj2RiM-odqdZxaRTdV5kXDDT0j0gLwyA" />
+    </head> 
+ 
+    <body>
+
+    <center>
+    <a href="index.asp"><img src="images/TwitDoc500.gif" border="0" alt="TwitDoc" style="margin-left: 10px;"></a>
+    <br /><span class="tagline">the EASY way to share your documents on twitter</span>
+    </center>
+
+    <center>
+    <table width="800" border=0 cellpadding=20>
+        <tr>
+            <td width="50%" valign=top>
+                <br /><center>
+                <span class="errmsg">Unable to locate this twitdoc page. Sorry.<BR></span>
+                <br /><br /><a href="https://api.twitter.com/oauth/authenticate?oauth_token=Nf1VWbOFOCk1Prg8X7kwAtcnnXGogDmaSBYzwVI5dM&force_login=false"><img border="0" src="images/connect.gif" alt="connect to twitter"/></a>
+                <br /><br /><a href="https://api.twitter.com/oauth/authenticate?oauth_token=Nf1VWbOFOCk1Prg8X7kwAtcnnXGogDmaSBYzwVI5dM&force_login=false"><span class="tiny">Please sign-in to your Twitter account</span></a>
+                <br /><br /><br /></center>
+                <span class="big">
+                <u>What we do:</u><br /><br />
+                1. Log in to your <a href="http://twitter.com" target=_blank>twitter</a> account<br /><br />
+                2. Upload your document to <a href="http://scribd.com" target=_blank>Scribd.com</a><br /><br />
+                3. Shorten the link (url) to your document<br /><br />
+                4. Send your tweet + link to <a href="http://twitter.com" target=_blank>twitter</a>
+                </span>
+            </td>
+            <td width="50%" valign=top align=center>
+                <br />
+                
+	<script src="http://widgets.twimg.com/j/2/widget.js"></script> 
+	<script>
+	    new TWTR.Widget({
+	        version: 2,
+	        type: 'search',
+	        search: 'twitdoc.com',
+	        interval: 2000,
+	        title: 'recent TwitDocs...',
+	        subject: '',
+	        width: 300,
+	        height: 400,
+	        theme: {
+	            shell: {
+	                background: '#3779b3',
+	                color: '#ffffff'
+	            },
+	            tweets: {
+	                background: '#ffffff',
+	                color: '#444444',
+	                links: '#1283b3'
+	            }
+	        },
+	        features: {
+	            scrollbar: false,
+	            loop: true,
+	            live: true,
+	            hashtags: true,
+	            timestamp: false,
+	            avatars: true,
+	            behavior: 'default'
+	        }
+	    }).render().start();
+	</script>
+
+            </td>
+        </tr>
+    </table>
+    </center>
+
+    <center>
+    <span class="verytinybk">Copyright 2009-2013 | ADPAD INC. | Littleton - Colorado - USA | <a href="apihelp.asp">Developers/API</a></span>
+    <br /><br />
+   <!-- google leaderboard ad --> 
+    <script type="text/javascript"><!--
+    google_ad_client = "pub-0947260636048268";
+    /* 728x90, created 4/2/10 */
+    google_ad_slot = "5848970598";
+    google_ad_width = 728;
+    google_ad_height = 90;
+    //-->
+    </script> 
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </center>
+
+    <!-- google analytics begin -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));    </script>    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-1356780-3");
+            pageTracker._trackPageview();
+        } catch (err) { }</script>
+    <!-- google analytics end -->
+
+    <!-- uservoice feedback begin -->
+    <script type="text/javascript">
+        var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
+        document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+    </script>    <script type="text/javascript">
+        UserVoice.Tab.show({
+            key: 'twitdoc',
+            host: 'twitdoc.uservoice.com',
+            forum: 'general',
+            alignment: 'left',
+            background_color: '#f00',
+            text_color: 'white',
+            hover_color: '#06C',
+            lang: 'en'
+        })    </script>
+    <!-- uservoice feedback end -->    <span class="verytiny"></span>
+    </body>
+    </html>

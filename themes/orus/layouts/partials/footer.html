@@ -1,0 +1,24 @@
+  <footer class="footer bg-light py-4">
+    <section class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+
+
+        <div class="social-links text-center">
+
+          {{ range .Site.Menus.footer }}
+{{ .Pre }}
+    <a href="{{ .URL }}">{{ .Name }}</a>
+
+  {{ end }}
+
+         </div>
+
+      {{ with .Site.Params.footercontent | safeHTML }}
+        <p>{{ . }}</p>
+      {{ end }}
+        </div>
+      </div>
+      <p class="footer text-center"><a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"> <i class="bi bi-cc-circle"></i></a> {{ now.Format "2006"}} Crafted with <i class="bi bi-heart-fill"></i> by Alper Orus  & Powered by <a href="https://gohugo.io/">Hugo</a></p>
+    </section>
+  </footer>

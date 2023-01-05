@@ -1,0 +1,81 @@
+{{ define "title" }}
+  {{- if eq .Kind "term" -}}
+    {{- i18n .Data.Singular | title -}}
+    {{- print ": " -}}
+  {{- end -}}
+
+  {{- .Title }} · {{ .Site.Title -}}
+{{ end }}
+{{ define "main" }}
+
+<section class="py-4 my-5">
+<div class="container">
+            <div class="row">
+                <!-- Blog entries-->
+                <div class="col-lg-8">
+                    <div class="row">
+      {{ range (.Paginator 10).Pages }}
+
+                            <!-- Blog post-->
+                            <article class="card mb-4 border-bottom shadow border-0">
+                              <div class="card-body">
+                                <div class="row no-gutters">
+                                    <div class="col-lg-6">
+                              {{if .Params.featured_image }}
+                              <a href="{{ .Permalink }}">
+                                <img class="card-img mb-2 w-100" src="{{ .Params.featured_image }}" alt="post-thumb" /></a>
+                              {{ else }}
+                              <a href="{{ .Permalink }}">
+                                <img class="card-img mb-2 w-100" src="https://dummyimage.com/700x350/dee2e6/6c757d.jpg" alt="post-image"
+                                /></a>
+                              {{end}}
+                                    </div>
+                                    <div class="col-lg-6">
+                                      <div class="rounded-pill mb-2">
+                                        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                                      </div>
+                                      <h2 class="card-title h4"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                                    <div class="small text-muted">
+                                      {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+{{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+<i class='bi bi-calendar-fill'></i>
+<time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time> <span class="separator">•</span>
+<i class='bi bi-clock-fill'></i></i> Okuma Süresi : {{ .ReadingTime }}dk
+<i class='bi bi-person-fill'></i> <a href="/">{{ .Site.Params.author }}</a>
+                                    </div>
+                                    <p class="card-text">{{ .Summary }}</p>
+
+      {{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+        <a class="btn btn-primary float-end" href="{{ .RelPermalink }}">Devamını Okuyun →</a>
+      {{ end }}
+
+                                </div><!-- col-lg-6-->
+                            </div><!-- card-body -->
+                            </div><!-- row gutters-->
+                        </article><!-- card-->
+
+      {{ end }}
+                    </div>
+                    <!-- Pagination-->
+                    <nav aria-label="Pagination">
+                        <hr class="my-2">
+                        {{ template "_internal/pagination.html" . }}
+                    </nav>
+                </div>
+              <!-- Side widgets-->
+                <div class="col-lg-4">
+
+                    <!-- Side widget-->
+                    <div class="card mb-4">
+                        <div class="card-header h3">Mürekkep Hakkında</div>
+                        <div class="card-body">Gökyüzü tonlarında ve kahve tadında bir internet güncesi olan, "İnternet Yaşam Rehberi" olarak sunduğumuz sitemizde, ağırlıklı olarak google, twitter, android, iphone, web 2.0 ve yeni nesil internet teknolojilerinden bahsedilmektedir. </div>
+                    </div>
+                    {{ partial "sidebar.html" . }}
+                </div>
+            </div>
+        </div>
+</section>
+
+
+{{ end }}

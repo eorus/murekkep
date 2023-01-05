@@ -1,0 +1,21 @@
+---
+title: Blog yazma araçları (Google Docs, Zoho, WriteToMyBLog, Performancing…)
+author: Fatih
+type: post
+date: 2007-01-11T13:42:58+00:00
+url: /blog-yazma-araclari-google-docs-zoho-writetomyblog-performancing/
+dsq_thread_id:
+  - 964479735
+categories:
+  - Google
+
+---
+<IMG ALIGN=left BORDER=1 SRC=https://www.murekkep.org/wp-content/uploads/2007/01/googledocs2.jpg STYLE=HEIGHT:121px;WIDTH:294px TITLE="Google Docs"><A HREF=http://docs.google.com TARGET=blank_ TITLE="Google Docs & Spreadsheets">Google Docs & Spreadsheets</A> uygulamasından direkt kendi günlüğümüze yazı yollayabileceğimizi duydum. Bu doğru bu bilmem, birazdan deneyeceğim.Çok iyi bir avantaj. Yazıların renklerini ayarlama, büyüklüğünü, yüklenen resimlerini otomatik olarak istediğiniz ölçeklere getirmesi gibi bir sürü özellik sağlıyor. Ve bildiğimiz metin düzenleyicilerin aynısı. Normal bir metin düzenleyici ile ne yapabiliyorsanız Google Docs ile de bunu yapabiliriz %90 kadar. Sevdim <A HREF=http://docs.google.com TARGET=blank_ TITLE="Google Docs">Google Docs</A> uygulamasını (yazınca şimdi). Tam kapsamlı şekilde kullanmadım, ama özellikleri itibariyle, <SPAN STYLE=FONT-WEIGHT:bold>yazmak</SPAN> için bire bire. Birden fazla Blog hesabı için herhangi seçenek bulamadım, sadece bir tane Blog hesabınız için izin veriyor. Ayrıca bir yerlerde okuduğum kadarıyla, Firefox 2.0 ile gelen denetleme mekanizması, Google Docs&#8217;da çalışmıyormuş. Türkçe denetleme kullananlar için bu bir eksiklik, fakat diğer diller için entegre denetleme sistemi var. Bir çok dil de mevcut, fakat neden Türkçe olmadığını henüz çözemedim. Umarım yakın zaman içinde onu da eklerler. En güzel yanı bence, tüm bunları geride bırakabilecek bir özellik var o da  
+<!--more-->bir kişiden fazla insanın aynı dosya üzerinde çalışabilmesi. Bu kulağa çok hoş geliyor. Örneğin Almanya&#8217;daki bir arkadaşımla bir dosya üzerinde çalışabiliriz. Wikipedia&#8217;daki gibi &#8220;revision&#8221;lar da var. Yazının tüm değişikliklerini kaydediyor. Daha da fazlası, dosyalarını her türlü dosya formatını çevirebilirsiniz. Pdf,Doc,Odt,Html,&#8230; formatları olarak bilgisayarınıza indirebilirsiniz. Ve Google gibi bir markanın sağladı kalite burada da hissedilebiliyor. Ayrıca diğer ürünleriyle entegreli bir biçimde çalışmanızı sağlıyor.
+
+  
+  
+Online Blog araçları olarak da <A HREF=http://writer.zoho.com/ TARGET=blank_ TITLE=Zoho>Zoho</A> ve <A HREF=http://writetomyblog.com/ TARGET=blank_ TITLE=WriteToMyBlog>WriteToMyBlog</A> var ayrıca. Zoho&#8217;yu henüz denemedim tam anlamıyla, zaten kendisi de Google Docs gibi Ajax uygulaması. Yani büyün benzerlikler taşıyor. Denemek için bir tane yeni dosya açtım ve Türkçe karakter içeren bir başlık atadım. Ardından dosya&#8217;nın içine bir kaç kelime ekleyip, kaydettim. Fakat burada Zoho benim gözümden düştü. Türkçe karakterleri saçma sapan değişik karakterler ile ifade etmeye başladı. Yani bu yönden eksikliği var. Google&#8217;in bu gibi bir eksikliği yok. Fakat Zoho&#8217;ya da haksızlık etmek istemiyorum. Net&#8217;e okuduğum kadarıyla, bir çok yönden Google Docs&#8217;dan daha avantajlıymış. Özellikle kullanım açısından daha <A HREF=http://lifev20.blogspot.com/2006/05/zoho-writer-rocks.html TARGET=blank_ TITLE=avantajlıymış>avantajlıymış</A>.  
+WritetoMyBlog&#8217;a gelince, ben beğenmedim açıkçası. WordPress&#8217;in kullandığın eklentinin aynısını kullanıyor hemen hemen. Yani örneğin bir bağlantı eklerken, ayrı bir pencere açılıyor. Bu yüzden de o pencerenin açılmasını bekliyorum. Bu da hoşuma gitmiyor. <A HREF=https://addons.mozilla.org/firefox/1730/ TARGET=blank_ TITLE=Performancing>Performancing</A> &#8216;e gelince. Kendisi bir Firefox eklentisi, kurduktan sonra F8&#8217;e basarak kullanabilirsiniz. Technorati ve del.icio.us ile uyumlu. Bundan uzun zaman önce de kullanmıştım. Fakat bana WordPress&#8217;in içindeki kendi yazma araçı ile pek bir belirgin farkı yaratamadı.  
+  
+Tüm bunlardan geriye Zoho ve Google Docs kalıyor tavsiye edebileceğim.<SPAN STYLE=FONT-STYLE:italic>(Yukarıdaki yazıyı Google Docs ile yazdım)</SPAN>

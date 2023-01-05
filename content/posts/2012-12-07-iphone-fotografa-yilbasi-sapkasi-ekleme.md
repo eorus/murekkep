@@ -1,0 +1,24 @@
+---
+title: 'iPhone ile Fotoğrafa Yılbaşı Şapkası Ekleme: Santa Hat'
+author: bkazar
+type: post
+date: 2012-12-07T13:51:34+00:00
+url: /iphone-fotografa-yilbasi-sapkasi-ekleme/
+featured_image: /wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-100x100.jpg
+dsq_thread_id:
+  - 962828364
+categories:
+  - Mobil
+tags:
+  - iphone
+
+---
+Yılbaşının yaklaşmasıyla yakınlarınıza, arkadaşlarınıza eğlenceli bir hediye vermek istiyorsanız bunun en güzel yolu [_fotoğrafa yılbaşı şapkası ekleme_][1]{.broken_link} programlarını kullanarak hazırladığınız fotoğraflardır. Biz de sizin için iPhone ile kullanılabilecek en başarılı fotoğrafa yılbaşı şapkası ekleme uygulaması olan &#8220;**Santa Hat**&#8221; iPhone uygulamasını tanıttık. Akıllı telefonların kamera performanslarının artmasıyla birlikte kullanıcılar bu özelliği çok daha fazla kullanmaya başladılar. Hatta kamera ya da daha açık konuşursak kullanabilecekleri instagram benzeri fotoğraf efekti çeşidine göre akıllı telefon seçmeye başladılar. Kamera ve fotoğraf çekme akıllı telefonlar için bu kadar ayırt edici bir özellik olunca mobil uygulama geliştiriciler de daha özelleşmiş [_fotoğraf efekt_][2]{.broken_link} uygulamaları hazırlamaya başladılar. Eskiden instagram fotoğraf efekti piyasasında tek başınayken şimdi binlerce fotoğraf efekti ekleyebileceğiniz mobil uygulama App Store ya da Play Store&#8217;da mevcut. Hatta öyle ki artık sevgililer günü fotoğraf efekti, yılbaşı fotoğraf efekti, fotoğrafa noel şapkası ekleme yazılımları gibi çok daha özelleşmiş alanlar için uygulama indirebiliyorsunuz. Çeşit bu kadar çok olunca tüm fotoğraf efekti uygulamalarını inceleme fırsatını bulamayabiliyorsunuz. Size yardımcı olmak adına en başarılı bulduğumuz _fotoğrafa yılbaşı şapkası ekleme _uygulaması Santa Hat&#8217;i tanıtalım istedik.<img class="alignright size-full wp-image-9697" title="fotografa-noel-şapkası-ekle" alt="fotografa-noel-şapkası-ekle" src="https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-noel-şapkası-ekle.png" width="182" height="182" srcset="https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-noel-şapkası-ekle.png 182w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-noel-şapkası-ekle-150x150.png 150w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-noel-şapkası-ekle-100x100.png 100w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-noel-şapkası-ekle-50x50.png 50w" sizes="(max-width: 182px) 100vw, 182px" /> Yazımızın başından beri tekrarladığımız gibi Santa Hat adından da anlaşılacağı üzere herhangi bir fotoğrafa yılbaşı şapkası ekleme konusuna odaklanmış bir mobil uygulama. İçinde birçok çeşit noel şapkası ekleme seçeneği bulunduran Santa Hat ile fotoğrafa eklediğiniz noel baba şapkasını boyutlandırabiliyor, konumunu ayarlayabiliyor böylece en uygun fotoğrafı oluşturabiliyorsunuz. Fotoğrafa noel fotoğrafı ekledikten sonra isterseniz iPhone galerisine kaydedebilirsiniz isterseniz de gelişmiş Facebook, Twitter ya da e-mail paylaşım yoluyla fotoğrafları sevdiklerinize gönderebilirsiniz. Hatta arkadaşınızın fotoğrafına eklediğiniz yılbaşı şapkasını direkt olarak onun Facebook zaman tünelinde paylaşabilirsiniz. Fotoğraf düzenlemedeki kolaylığı, fotoğraf efekti çeşitleri, hızlı paylaşım seçenekleri ve &#8220;[ücretsiz iOS fotoğraf uygulamaları][3]{.broken_link}&#8221; kategorisinde yer alması Santa Hat&#8217;i tanıtılmaya değer yapıyor. Siz de bu yılbaşın yakınlarınızı iPhone ile çektiğiniz fotoğrafa yılbaşı şapkası ekleme gibi eğlenceli bir yolla kutlamak istiyorsanız Santa Hat en doğru seçim olacaktır.
+
+<img class="aligncenter size-large wp-image-9696" title="fotografa-yılbaşı-şapkası-ekleme-1" alt="fotografa-yılbaşı-şapkası-ekleme-1" src="https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-400x300.jpg" width="400" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-400x300.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-266x200.jpg 266w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1-405x305.jpg 405w, https://www.murekkep.org/wp-content/uploads/2012/12/fotografa-yılbaşı-şapkası-ekleme-1.jpg 792w" sizes="(max-width: 400px) 100vw, 400px" /> 
+
+iPhone ile Fotoğrafa Yılbaşı Şapkası Ekleme Uygulaması _Santa Hat _İndir>>
+
+ [1]: https://www.murekkep.org/yilbasi-icin-online-fotograf-efektleri-3780 "fotoğrafa yılbaşı şapkası"
+ [2]: https://www.murekkep.org/instagram-fotograf-efekt-android-uygulamasi-9677 "android fotoğraf efekti"
+ [3]: https://www.murekkep.org/iphone-icin-en-iyi-10-fotograf-uygulamasi-8265 "iphone fotoğraf"

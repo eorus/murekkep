@@ -1,0 +1,113 @@
+baseURL = "/"
+title = "Mürekkep.Org"
+
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+theme = "orus"
+disqusShortname = "murekkep" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "UA-434251-2" # Enable Google Analytics by entering your tracking id
+summaryLength = 25
+canonifyURLs = true
+enableRobotsTXT = true
+# Define the number of posts per page
+paginate = 10
+
+[readingTime]
+one = "Bir dakika okuma süresi"
+other = "{{.Count}} dakika okuma süresi"
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series ="series"
+
+[params]
+    author = "Alper"
+    avatarurl = "/images/logo-b.png"
+    description = "İnternet Yaşam Rehberiniz"
+    keywords = "blog, photography, design, alper, personal, orus, eorus, linux, wordpress, hugo, frontend"
+    footercontent = "İnternet Yaşam Rehberi"
+    dateformat = "2 January 2006"
+    googleSiteVerification = "Ur3NhGSs9ankdmdYnv8qqvm8pEDEOCgStegcv94GBgA"
+    mainSections = ["posts"]
+
+menu = ['main', 'footer']
+
+[menu]
+[[menu.main]]
+  name = 'Ana Sayfa'
+  title = 'home page'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Sosyal'
+  title = 'Sosyal'
+  url = '/categories/sosyal/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Mobil'
+  title = 'Mobil'
+  url = '/categories/mobil/'
+  weight = 3
+
+[[menu.main]]
+  name = 'Masaüstü'
+  title = 'Masaustu'
+  url = '/categories/masaüstü/'
+  weight = 4
+
+[[menu.main]]
+  name = 'Teknoloji'
+  title = 'teknoloji'
+  url = '/categories/teknoloji/'
+  weight = 5
+
+[[menu.main]]
+  name = 'Fotoğraf'
+  title = 'fotograf'
+  url = '/categories/fotoğraf/'
+  weight = 6
+
+[[menu.footer]]
+  name = 'Home'
+  pre = "<i class='bi bi-chevron-compact-right'></i>"
+  url = '/'
+  weight = 10
+[[menu.footer]]
+  name = 'Hakkında'
+  pre = "<i class='bi bi-chevron-compact-right'></i>"
+  url = '/hakkinda'
+  weight = 20
+[[menu.footer]]
+  name = 'Reklam'
+  pre = "<i class='bi bi-chevron-compact-right'></i>"
+  url = '/reklam'
+  weight = 25
+[[menu.footer]]
+  name = 'Gizlilik Politikası'
+  pre = "<i class='bi bi-chevron-compact-right'></i>"
+  url = '/gizlilik-politikasi'
+  weight = 30
+[[menu.footer]]
+  name = 'İletisim'
+  pre = "<i class='bi bi-chevron-compact-right'></i>"
+  url = '/iletisim'
+  weight = 35
+
+
+[markup.goldmark.renderer]
+unsafe = true # Allow HTML in md files
+disableToc = "false"
