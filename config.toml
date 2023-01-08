@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://murekkep.org/"
 title = "Mürekkep.Org"
 
 languageCode = "en"
@@ -41,6 +41,15 @@ other = "{{.Count}} dakika okuma süresi"
     dateformat = "2 January 2006"
     googleSiteVerification = "Ur3NhGSs9ankdmdYnv8qqvm8pEDEOCgStegcv94GBgA"
     mainSections = ["posts"]
+
+#Schema MarkUP
+    logo = "/images/logo-b.png"
+    header = "İnternet Yaşam Rehberiniz"
+
+    facebook = "murekkeporg"
+    twitter = "murekkep"
+    instagram = "murekkep"
+    github = "eorus"
 
 menu = ['main', 'footer']
 

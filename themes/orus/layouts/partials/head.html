@@ -14,11 +14,10 @@
 
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-
 {{ if .IsHome}}
 <meta property="og:image" content="{{ .Site.Params.avatarurl }}">
 {{ else }}
-    {{ with .Params.Image }}
+{{ with .Params.featured_image }}
 <meta property="og:image" content="{{ . | absURL }}" />
     {{ end }}
 {{ end }}
@@ -45,4 +44,7 @@
 
     {{ template "_internal/google_analytics.html" . }}
     {{ hugo.Generator }}
+
+{{ partial "schema.html" . }}
+
 </head>
