@@ -1,0 +1,7 @@
+# Algolia-Crawler-Verif: 28B9627EDB2A1CBA
+User-agent: *
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
+
+Sitemap: https://murekkep.org/sitemap.xml
