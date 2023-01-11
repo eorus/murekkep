@@ -6,8 +6,8 @@ author: Alper
 date: 2006-09-26T02:59:56+00:00
 url: /hello-world/
 title: Merhaba Dünya :-)
-tags: deneme
+tags: 'List [ "android", "facebook" ] '
 type: post
-categories: Sosyal
+categories: 'List [ "Sosyal" ] '
 ---
 Mürekkep.org olarak ilk yazı. !
