@@ -1,8 +1,8 @@
 baseURL = "https://murekkep.org/"
 title = "Mürekkep.Org"
 
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "tr"
+DefaultContentLanguage = "tr"
 
 theme = "orus"
 disqusShortname = "murekkep" # Enable Disqus comments by entering your Disqus shortname
