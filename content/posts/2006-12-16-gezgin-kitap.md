@@ -24,6 +24,6 @@ Uygulama ile ilgili bilgi edinmek ve uygulamaya katılan insanlarla iletişim ku
 
 Kitapları ve paylaşmayı seviyorsanız bu furyaya siz de katılın.
 
- [1]: http://www.gezginkitap.com
- [2]: http://www.bookcrossing.com/
- [3]: http://groups.yahoo.com/group/bookcrossTR/
+ [1]: https://www.gezginkitap.com
+ [2]: https://www.bookcrossing.com/
+ [3]: https://groups.yahoo.com/group/bookcrossTR/

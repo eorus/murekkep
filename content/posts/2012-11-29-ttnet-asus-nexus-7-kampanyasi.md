@@ -21,4 +21,4 @@ TTNET Nexus 7 kampanyası hakkındaki ilk izlenim gayet makul fiyatlı olduğu y
 
  [1]: https://www.murekkep.org/32gb-nexus-7-piyasaya-cikiyor-8669 "32 GB nexus 7 fiyat"
  [2]: https://www.murekkep.org/ipad-mini-nexus-7-teknik-ozellikleri-8722
- [3]: http://www.ttnetwifi.com.tr/
+ [3]: https://www.ttnetwifi.com.tr/

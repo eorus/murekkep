@@ -27,7 +27,7 @@ Son bir alternatif olarak kullanıcı betiklerini kullanarak menüyü daraltma y
 
 <span style="color: #800000;"><strong>Firefox sağ tıklama menüsünü ve sekmeleri düzenlemek</strong></span>
 
-<a href="http://www.mozilla-europe.org/tr/firefox/" target="_blank" class="broken_link">Firefox</a> üzerine eklenti kurdukça sadece ön yüzde oluşan kalabalıktan ziyade sağ tıklama menüsünde de karışık bir durum ortaya çıkmaktadır. Bunu düzenleyebilecek benim bulduğum en güzel eklenti FfChrome Firefox Eklentisi. **FfChrome** sayesinde sağ tıklama menüsü küçülmüş ve gerekli olanlar kalmış gözüküyor. **Sağ tıklama** işleminden sonra ekstra bir tıklamaya gerek kalmadan fareyi hepsini göster (**show all**) kısmına getirince sağ tık menüsünde olan herşeyi arzu edersek görebiliyoruz.
+<a href="https://www.mozilla-europe.org/tr/firefox/" target="_blank" class="broken_link">Firefox</a> üzerine eklenti kurdukça sadece ön yüzde oluşan kalabalıktan ziyade sağ tıklama menüsünde de karışık bir durum ortaya çıkmaktadır. Bunu düzenleyebilecek benim bulduğum en güzel eklenti FfChrome Firefox Eklentisi. **FfChrome** sayesinde sağ tıklama menüsü küçülmüş ve gerekli olanlar kalmış gözüküyor. **Sağ tıklama** işleminden sonra ekstra bir tıklamaya gerek kalmadan fareyi hepsini göster (**show all**) kısmına getirince sağ tık menüsünde olan herşeyi arzu edersek görebiliyoruz.
 
 [FaviconizeTab Firefox Eklentisi][7] sekmelerde açık olan siteleri, [favicon][8] olarak tabir edilen sitelerin varsa kendi logo boyutuna çekiyor. Böylelikle hem faviconuna göre hangi sekmede ne olduğunu anlayabiliyorsunuz. Hem de yerden kazanmış oluyorsunuz.
 
@@ -54,8 +54,8 @@ Siz Firefox&#8217;u nasıl kullanıyorsunuz?
  [2]: https://www.murekkep.org/firefox-200-eklenti-cilginligi-105
  [3]: https://www.murekkep.org/page-addict-firefox-eklentisi-61
  [4]: https://addons.mozilla.org/en-US/firefox/addon/4762
- [5]: http://userstyles.org/style_screenshots/993_after.png
- [6]: http://userstyles.org/styles/993
+ [5]: https://userstyles.org/style_screenshots/993_after.png
+ [6]: https://userstyles.org/styles/993
  [7]: https://www.murekkep.org/faviconizetab-firefox-eklentisi-84
  [8]: https://www.murekkep.org/favicon-nedir-781
  [9]: https://addons.mozilla.org/en-US/firefox/addon/1759

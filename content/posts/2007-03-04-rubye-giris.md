@@ -18,4 +18,4 @@ tags:
 
 En son kısımdaki başlıklar, orjinalinde de henüz yer almadığı için sadece başlık olarak bırakılmıştır. Ruby sitesinde içerik oluştuğunda wikide de güncellenecektir.
 
- [1]: http://www.ruby-doc.org/
+ [1]: https://www.ruby-doc.org/

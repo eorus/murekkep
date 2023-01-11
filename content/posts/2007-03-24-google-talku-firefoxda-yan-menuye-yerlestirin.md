@@ -15,7 +15,7 @@ tags:
 
 ---
 Bundan 1 hafta önce Google Talk Gadget adında flash tabanlı anlık mesaj araçı [tanıtılmıştı][1]. Bu sayede Google Talk istemcisi olmadan bile [Google anasayfasından][2] kullanabiliyordunuz. Eğer Firefox eklentilerinden All-in-One Sidebar kullanıyorsanız, çok kolay bir şekilde yan menüye ekleyeblirsiniz. Tek yapmanız gereken  
-http://talkgadget.google.com/talkgadget/client
+https://talkgadget.google.com/talkgadget/client
 
 bağlantısını yer imlesi olarak kaydetmek. Ardından All-in-One Sidebar eklentisinden sol tıklama ile açabilirsiniz. All-in-One Sidebar eklentisi olmadan da yapılabilirsiniz. Fakat denemelerim sonucunda bunun çalışmadığını gördüm. Siz denemek isterseniz, kaydettiğiniz yer imlesine sağ tıklayarak, aşağıdaki kutucuğu işaretleyin.
 

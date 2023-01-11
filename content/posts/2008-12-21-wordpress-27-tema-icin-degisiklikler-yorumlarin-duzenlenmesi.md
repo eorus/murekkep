@@ -182,12 +182,12 @@ Böyle parça parça hangi elementlerin nerelere geldiğini aktarmaya çalışt�
 
 Tüm bu işlemleri yaptıktan sonra esas yapılması gereken ve yapmazsanız katmanlı yorumları aktif etmemiş olacağınız kısmı anlatalım. WordPress yönetim panelinizden aşağıdaki gibi ayarlar &#8211; tartışma kısmından **&#8220;katmanlı yorumlara izin ver&#8221;** çentik koyarak aktif etmeniz gerekmektedir. 
 
-Evet katmanlı (threaded) yorumları ve yorum dosyasını wordpress 2.7 için düzenlemek ilk etapta bu işlemleri gerektiriyor. Geçen hafta içerisinde yaptığımız değişiklikler aşamasında faydalandığımız kaynaklar aşağıdaki gibidir. Yeni katmanlı yorumların css düzenlemesi için özellikle son link olan <a href="http://cdharrison.com/2008/12/threaded-comments/" target="_blank">Stylizing Threaded/Nested Comments in WordPress 2.7</a>&#8216;e bakmanızı öneririz.
+Evet katmanlı (threaded) yorumları ve yorum dosyasını wordpress 2.7 için düzenlemek ilk etapta bu işlemleri gerektiriyor. Geçen hafta içerisinde yaptığımız değişiklikler aşamasında faydalandığımız kaynaklar aşağıdaki gibidir. Yeni katmanlı yorumların css düzenlemesi için özellikle son link olan <a href="https://cdharrison.com/2008/12/threaded-comments/" target="_blank">Stylizing Threaded/Nested Comments in WordPress 2.7</a>&#8216;e bakmanızı öneririz.
 
-  * <a href="http://ottodestruct.com/blog/2008/09/29/wordpress-27-comments-enhancements" target="_blank">WordPress 2.7 Comments Enhancements</a>
+  * <a href="https://ottodestruct.com/blog/2008/09/29/wordpress-27-comments-enhancements" target="_blank">WordPress 2.7 Comments Enhancements</a>
   * WordPress 2.7 Comment Threading
   * Migrating Plugins and Themes to 2.7/Enhanced Comment Display
-  * <a href="http://cdharrison.com/2008/12/threaded-comments/" target="_blank">Stylizing Threaded/Nested Comments in WordPress 2.7</a>
+  * <a href="https://cdharrison.com/2008/12/threaded-comments/" target="_blank">Stylizing Threaded/Nested Comments in WordPress 2.7</a>
 
 Umarım anlatımda eksikliklerimiz ya da aktarırken atladığımız unsurlar yoktur. Eğer varsa düzeltmek için görüşlerinizi bekliyoruz. WordPress 2.7&#8217;de yorumlar kısmını temanızda düzenlerken bir sorunla karşılaşmanız durumunda ya da bu yazıya ekleme yapmak isterseniz yorumlarınızı her zaman bekliyoruz.
 

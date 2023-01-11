@@ -19,11 +19,11 @@ WordPress&#8217;in yeni sürümü **wordpress 2.8** [duyuruldu][1]. WordPress 2.
 
 WordPress ekibi tarafından hazırlanan ve wordpress 2.8 yeniliklerinin anlatıldığı videoyu aşağıda bulabilirsiniz. 
 
-<embed src="http://v.wordpress.com/Pu3T4X8l" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="338" width="600" />
+<embed src="https://v.wordpress.com/Pu3T4X8l" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="338" width="600" />
 
 
 Blogunuzu **wordpress 2.8** sürüme yükseltmek için **yönetim paneli** ekranınızda yükseltme linkini görmemişseniz [wordpress 2.8 indirip][3] yükseltme işlemini manuel olarak gerçekleştirebilirsiniz. Ya da biraz bekleyip otomatik yükseltmeyi kullanabilirsiniz.
 
- [1]: http://wordpress.org/development/2009/06/wordpress-28/
+ [1]: https://wordpress.org/development/2009/06/wordpress-28/
  [2]: https://www.murekkep.org/wordpress-28-rc1-final-oncesi-surum-adayi-3335
- [3]: http://wordpress.org/download/
+ [3]: https://wordpress.org/download/

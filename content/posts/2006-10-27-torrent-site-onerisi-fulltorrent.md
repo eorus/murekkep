@@ -16,4 +16,4 @@ Torrent arama motoru olarak hizmete giren bir başka siteden bahsedeceğiz. Goog
 
 **FullTorrent.net ile ulaşılabilen torrent kaynakları** : IsoHunt,Meganova,MyBittorrent,Snarf-It,The Pirate Bay,Torrent Portal,TorrentBox,Torrentspy
 
-Link: http://www.fulltorrent.net/
+Link: https://www.fulltorrent.net/

@@ -21,5 +21,5 @@ Sizin için Google&#8217;da arayayım ([let me google that for you][1]) sorular�
 
 Sizin için Google&#8217;da arayayım ile karşılaştığımda aklıma Ezgi&#8217;nin Günlüğü&#8217;ndeki İroni ve Sarkazm yazısı ve tabii ki House M.D. geldi.
 
- [1]: http://lmgtfy.com/
- [2]: http://www.google.com.tr
+ [1]: https://lmgtfy.com/
+ [2]: https://www.google.com.tr

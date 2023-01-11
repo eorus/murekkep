@@ -25,4 +25,4 @@ _I’m Jack_ iPhone oyunu içinde en başarılı özelliklerden biri her bölüm
 
 **_[I’m Jack İndir][1]{.broken_link}_**
 
- [1]: http://itunes.apple.com/tr/app/im-jack/id527879444?l=tr&ls=1&mt=8
+ [1]: https://itunes.apple.com/tr/app/im-jack/id527879444?l=tr&ls=1&mt=8

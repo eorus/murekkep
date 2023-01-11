@@ -23,4 +23,4 @@ Aslında hayatmızda bir çok şey var, yapmamız gereken. Bu bir çok şeyi ya 
 
 [Todotist.com][1] benim hayatamı bir çok yönden kolaylaştırdı, daha önceden yapmam gereken fakat her seferinde ertelediğim işleri artık kolay takip edebiliyor ve tamamlıyorum. İşyerinizde, okulunuzda, hayatınızda her türlü alanda yardım edecektir size.
 
- [1]: http://todoist.com/
+ [1]: https://todoist.com/

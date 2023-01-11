@@ -16,9 +16,9 @@ tags:
 
 İşte burada Mobilicio.us araya giriyor. **Mobilicio.us** ile kolayca yer imlerinize cep telefonlarınızdan ulaşabilirsiniz. Sade bir arayüzüne sahip ve küçük ekranlar için optimize edilmiş bir sayfası var. Yer imlerinizi etiketlere göre arayabilme imkanınız da var. Şu an del.icio.us, ma.gnolia ve Wieze yer imleri siteleri destekleniyor. İleride başka siteler de desteklenebilir.
 
-Denemek için Demo sayfasına girebilir ve denyebilirsiniz. Kullanmak için yapmanız tek gereken, cep telefonunuz veya mobil aygıtınız ile http://mobilicio.us sayfasına girmek.  
+Denemek için Demo sayfasına girebilir ve denyebilirsiniz. Kullanmak için yapmanız tek gereken, cep telefonunuz veya mobil aygıtınız ile https://mobilicio.us sayfasına girmek.  
 _  
 Ek bilgi: Del.icio.us kullanıcıları Micro Persuasion sayfasındaki [bağlantıları][2] da inceleyebilirler._
 
- [1]: http://del.icio.us
- [2]: http://www.micropersuasion.com/2006/04/delicious_mobil.html
+ [1]: https://del.icio.us
+ [2]: https://www.micropersuasion.com/2006/04/delicious_mobil.html

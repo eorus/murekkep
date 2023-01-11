@@ -32,11 +32,11 @@ Smart Cover şık bir iPad 2 kapağı olmaktan ziyade akıllı davranışlarıyl
 
 &nbsp;
 
-<a href="http://www.apple.com/ipad/smart-cover/" target="_blank" class="broken_link">Apple iPad Smart Cover Sayfası</a>
+<a href="https://www.apple.com/ipad/smart-cover/" target="_blank" class="broken_link">Apple iPad Smart Cover Sayfası</a>
 
 5 tanesi deri olmak üzere 10 parlak renk seçeneği ile satılan **iPad 2 Smart Cover**, **Apple Store** üzerinde iPad 2&#8217;den ayrı olarak satılıyor. Şu anda deri olmayan smart coverların fiyatı **39$** iken deri olan iPad 2 smart cover **69$** fiyata satılıyor. Aşağıda ise **Apple iPad 2 Smart Cover** youtube videosunu izleyebilirsiniz.
 
-<embed type="application/x-shockwave-flash" width="560" height="349" src="http://www.youtube.com/v/JOnn0d-S7D0?fs=1&hl=en_US&rel=0" allowscriptaccess="always" allowfullscreen="true" />
+<embed type="application/x-shockwave-flash" width="560" height="349" src="https://www.youtube.com/v/JOnn0d-S7D0?fs=1&hl=en_US&rel=0" allowscriptaccess="always" allowfullscreen="true" />
 
  [1]: https://www.murekkep.org/apple-ipad-2-ozellikleri-5112
  [2]: https://www.murekkep.org/apple-ipad-2-fiyatlari-5923

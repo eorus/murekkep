@@ -40,6 +40,6 @@ Ayrıca Depp Keith&#8217;in 2. filmde oynamasını çok istemişse de kendisine 
 
 Kaynak:
 
-<a href="http://www.imdb.com" target="_blank">http://www.imdb.com</a>
+<a href="https://www.imdb.com" target="_blank">https://www.imdb.com</a>
 
 Sinema Dergisi

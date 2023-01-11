@@ -32,6 +32,6 @@ Açık kaynak yazılımlar konusunda yayın yapan edergi Enixma’nın **Mayıs 
   * Yaklaşan Mandriva 2009.1
   * Bsd &#8211; V
 
- [1]: http://www.enixma.org/
- [2]: http://tr.wikipedia.org/wiki/Enixma
- [3]: http://www.enixma.org/ilkeler.html
+ [1]: https://www.enixma.org/
+ [2]: https://tr.wikipedia.org/wiki/Enixma
+ [3]: https://www.enixma.org/ilkeler.html

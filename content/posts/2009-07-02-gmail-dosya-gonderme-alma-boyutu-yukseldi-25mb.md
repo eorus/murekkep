@@ -18,5 +18,5 @@ Eposta yazarken ve iletilerimizi oluştururken eklediğimiz dosyalar; yani **att
 
 Bu durumda diğer eposta servislerinin şu anda kullanmakta oldukları dosya eki boyutlarını dikkate aldığımızda henüz **25MB boyutu** kullanabileceğimiz bir alan bulunmuyor.
 
- [1]: http://mail.google.com/support/bin/answer.py?hlrm=en&answer=8770
- [2]: http://googlesystem.blogspot.com/2009/06/gmail-increases-maximum-attachment-size.html
+ [1]: https://mail.google.com/support/bin/answer.py?hlrm=en&answer=8770
+ [2]: https://googlesystem.blogspot.com/2009/06/gmail-increases-maximum-attachment-size.html

@@ -61,5 +61,5 @@ Fotoğraf çekmeyi, ortaya güzel bir şeyler çıkarmayı herkes sever. Fakat �
 
 &nbsp;
 
- [1]: http://www.gimp.org/
- [2]: http://opensword.org/Pixen/
+ [1]: https://www.gimp.org/
+ [2]: https://opensword.org/Pixen/

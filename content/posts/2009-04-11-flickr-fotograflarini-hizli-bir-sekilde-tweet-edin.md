@@ -31,5 +31,5 @@ Artık neredeyse tek bir tıklama ile kullanılan her uygulamadaki unsurları Tw
 
 Gördüğüm kadarıyla bu eklentinin tek eksiği Flickr fotoğraf linkini kısaltmadan twitter mesajına eklemesi diyebilirim.
 
- [1]: http://flickr.com
- [2]: http://twitter.com
+ [1]: https://flickr.com
+ [2]: https://twitter.com

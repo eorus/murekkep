@@ -19,7 +19,7 @@ tags:
 
 Eğer wordpress 2.8 sürüm adayını test etmek ya da çıkmadan önce wordpress 2.8 kurup denemek istiyorsanız [buradan][4] indirebilirsiniz.
 
- [1]: http://wordpress.org/development/2009/06/wordpress-2-8-release-candidate-1/
+ [1]: https://wordpress.org/development/2009/06/wordpress-2-8-release-candidate-1/
  [2]: https://www.murekkep.org/wordpress-28-beta-1-ve-yenilikler-2621
- [3]: http://wordpress.org/development/2009/06/summary-of-wordpress-dev-irc-meetup-for-20090603/
- [4]: http://wordpress.org/wordpress-2.8-RC1.zip
+ [3]: https://wordpress.org/development/2009/06/summary-of-wordpress-dev-irc-meetup-for-20090603/
+ [4]: https://wordpress.org/wordpress-2.8-RC1.zip

@@ -27,9 +27,9 @@ Firefox 3.6 için düşünülen performans iyileştirmesi sadece Firefox&#8217;u
 
 Firefox 3.6 için en heyecan verici ve uzun zamandır beklenen yeniliklerden bir tanesi kanımca **tema ve eklenti kurulumu** sonrası yeniden başlatılmanın artık sona erdirilmesi olacaktır. Firefox 3.6 kendi içinde tema ve eklenti kurulumunu gerçekleştirecek ve yeniden başlatılmayı artık gerektirmeyecek. 
 
-**Firefox 3.6** çıkış tarihine bakarsak, belirtilen tarih ilk etapta **2010 Mayıs** ayını işaret ediyor. **Gecko 1.9.2** tabanlı olması düşünülen Firefox 3.6&#8217;nın kod adı olarak belirlenen Namoroka ise Madagaskar&#8217;da bulunan <a href="http://en.wikipedia.org/wiki/Namoroka_National_Park" target="_blank">Namoroka National Park</a>&#8216;ı ifade ediyor. 
+**Firefox 3.6** çıkış tarihine bakarsak, belirtilen tarih ilk etapta **2010 Mayıs** ayını işaret ediyor. **Gecko 1.9.2** tabanlı olması düşünülen Firefox 3.6&#8217;nın kod adı olarak belirlenen Namoroka ise Madagaskar&#8217;da bulunan <a href="https://en.wikipedia.org/wiki/Namoroka_National_Park" target="_blank">Namoroka National Park</a>&#8216;ı ifade ediyor. 
 
 Detaylara <a href="https://wiki.mozilla.org/Firefox/Namoroka" target="_blank">Firefox/Namoroka</a> sayfasından bakılabilir.
 
- [1]: http://www.mozilla.org
+ [1]: https://www.mozilla.org
  [2]: https://www.murekkep.org/linux-ve-mac-icin-mozilla-prism-477

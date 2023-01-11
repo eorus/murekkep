@@ -18,12 +18,12 @@ Bildiğimiz üzere [Google][3], [Feedburner&#8217;ı satın aldıktan][4] sonra 
 
 Yani artık Feedburner ile ilgili gelişmeleri buradan takip edeceğiz.
 
- [1]: http://www.feedburner.com
+ [1]: https://www.feedburner.com
  [2]: https://www.murekkep.org
- [3]: http://www.google.com.tr
+ [3]: https://www.google.com.tr
  [4]: https://www.murekkep.org/google-guclenmeye-devam-ediyor-297
- [5]: http://www.google.com/adsense
- [6]: http://feedburnerstatus.blogspot.com/
- [7]: http://www.google.com/reader
- [8]: http://feedburnerstatus.blogspot.com/2009/01/older-known-issues-workarounds.html
- [9]: http://groups.google.com/
+ [5]: https://www.google.com/adsense
+ [6]: https://feedburnerstatus.blogspot.com/
+ [7]: https://www.google.com/reader
+ [8]: https://feedburnerstatus.blogspot.com/2009/01/older-known-issues-workarounds.html
+ [9]: https://groups.google.com/

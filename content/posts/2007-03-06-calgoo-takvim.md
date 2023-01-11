@@ -23,5 +23,5 @@ Calgoo, dün itibariyle takvim paylaşım programını beta olarak duyurdu. 2006
     Java tabanlı masaüstü takvimi Calgoo ile <strong>Google Takvim</strong>, <strong>Microsoft Outlook</strong> ve <strong>iCal</strong> senkronizasyonu yapılabiliyor. Uygulama Linux, Mac ve Windows üzerinde çalışabiliyor.
   </p>
 
- [1]: http://www.google.com/calendar
- [2]: http://maps.google.com/
+ [1]: https://www.google.com/calendar
+ [2]: https://maps.google.com/

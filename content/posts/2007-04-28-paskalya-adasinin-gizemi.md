@@ -27,4 +27,4 @@ Yazıyı bitirmeden önce bir teori daha söyleyeyim. Bazı araştırmalar, Pask
 
 _Kaynak: Internet&#8217;den bulduğum bir kaç yazı var, bunları da txt olarak kaydetmiştim, bu yüzden adreslerini tam olarak bilmiyorum. Dileyen olursa bu ingilizce yazıları yollayabilirim. Birde [Wikipedia][1]._
 
- [1]: http://en.wikipedia.org/wiki/Easter_island
+ [1]: https://en.wikipedia.org/wiki/Easter_island

@@ -23,4 +23,4 @@ Rss okuyucu olarak Google Reader kullanmanız durumunda oldukça işe yarayabile
 [Import iGoogle Feeds into Google Reader][2]
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [2]: http://googlesystem.blogspot.com/2009/05/import-igoogle-feeds-in-google-reader.html
+ [2]: https://googlesystem.blogspot.com/2009/05/import-igoogle-feeds-in-google-reader.html

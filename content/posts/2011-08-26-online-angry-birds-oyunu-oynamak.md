@@ -13,7 +13,7 @@ categories:
 ---
 Online olarak Angry Birds oyunu oynanabiliyor. Angry birds özellikle iPhone üzerinde başlayan popülerliğini android işletim sistemli akıllı telefonlar ve tablet pcler üzerinde devam ettirerek tarih yazmış bir oyundur. **Angry Birds oyunu** basitçe kızgın kuşların domuzlara karşı olan savaşını anlatıyor. kızgın kuşları bir sapanla fırlatıp oluşturulan düzenekleri yıkarak yeşil domuzları yok etmeye çalışıyorsunuz.
 
-PC masaüstü versiyonu da çıkan Angry Birds’ü oynamak bağımlılık yaratan bir hal alabiliyor. İnternet bağlantısı olan bir yerde online angry birds oyununu ücretsiz bir şekilde oynamanız mümkün. Chrome web mağazası (**chrome web store**) üzerinden canlı bir şekilde online oynanabilen angry birds oyununa <a href="http://chrome.angrybirds.com/" target="_blank">chrome.angrybirds.com</a> sitesinden ulaşılabiliyor.
+PC masaüstü versiyonu da çıkan Angry Birds’ü oynamak bağımlılık yaratan bir hal alabiliyor. İnternet bağlantısı olan bir yerde online angry birds oyununu ücretsiz bir şekilde oynamanız mümkün. Chrome web mağazası (**chrome web store**) üzerinden canlı bir şekilde online oynanabilen angry birds oyununa <a href="https://chrome.angrybirds.com/" target="_blank">chrome.angrybirds.com</a> sitesinden ulaşılabiliyor.
 
 <img class="alignnone size-full wp-image-6591" title="angry-birds-chrome" src="https://www.murekkep.org/wp-content/uploads/2011/08/angry-birds-chrome.jpg" alt="" width="400" height="231" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/angry-birds-chrome.jpg 400w, https://www.murekkep.org/wp-content/uploads/2011/08/angry-birds-chrome-300x173.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /> 
 

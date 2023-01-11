@@ -15,7 +15,7 @@ tags:
 ---
 Sonunda ilk **untethered iOS 6.1 Jailbreak** sinyalleri gelmeye başladı. Resmi adı Evasi0n iOS 6.1 Jailbreak olacak yazılım için geçtiğimiz hafta içinde bugün çıkacağından bahsediliyordu. Yazılımı hazırlayan kendilerine Evad3rs ismini takan ekip twitter hesaplarından internet sitesinin hazır olduğunu, untethered iOS 6.1 Jailbreak için kullanıcı ara yüzüne son dokunuşların yapıldığını belirtti.
 
-> The official evasi0n 6.1 jailbreak: http://evasi0n.com &#8212; Check regularly for updates! #evasi0n
+> The official evasi0n 6.1 jailbreak: https://evasi0n.com &#8212; Check regularly for updates! #evasi0n
 
 Evasi0n internet sitesinde iPhone üzerindeki takvim uygulamasında 3 rakamı görünüyor. Bunun çıkış tarihi olan 3 Şubat ile bağdaştırılması çok güzel olur. iOS 6.1 untethered **Jailbreak** çıktığında kurulum işlemleri en fazla beş dakikanızı alacaktır. Untethered Jailbreak yapmanın en güzel yanı da bilgisayarınızdan yalnızca bir kez yükleme yapacak olmanız.
 
@@ -36,4 +36,4 @@ Kendiniz takip etmek isterseniz: www.evasi0n.com
 Kaynak: [iMore][2]{.broken_link}
 
  [1]: https://www.murekkep.org/iphone-ve-ipod-touh-jailbreak-ios-6-0-1-nasil-yapilir-8930
- [2]: http://www.imore.com/evasi0n-jailbreak-will-be-first-untethered-ios-61-jailbreak-all-signs-again-point-sunday
+ [2]: https://www.imore.com/evasi0n-jailbreak-will-be-first-untethered-ios-61-jailbreak-all-signs-again-point-sunday

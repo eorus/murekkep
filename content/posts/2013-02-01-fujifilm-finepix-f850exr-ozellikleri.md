@@ -33,4 +33,4 @@ tags:
 
 <img class="aligncenter  wp-image-11455" alt="fujifilm-f850-exr" src="https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr.jpg" width="480" height="360" srcset="https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr.jpg 800w, https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr-400x300.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr-266x200.jpg 266w, https://www.murekkep.org/wp-content/uploads/2013/02/fujifilm-f850-exr-406x305.jpg 406w" sizes="(max-width: 480px) 100vw, 480px" />
 
- [1]: http://wp.me/p1eJph-2YE
+ [1]: https://wp.me/p1eJph-2YE

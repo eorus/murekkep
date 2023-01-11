@@ -20,5 +20,5 @@ tags:
 Haber : [New Release Schedule][3]
 
  [1]: https://www.murekkep.org/archlinux-08-voodoo-duyuruldu-240
- [2]: http://www.archlinux.org/
- [3]: http://www.archlinux.org/news/308/
+ [2]: https://www.archlinux.org/
+ [3]: https://www.archlinux.org/news/308/

@@ -26,13 +26,13 @@ Daha önce [Google][1]&#8216;ın mobil platform üzerine çalışmalar yaptığ�
 
 Aşağıda konu ile ilgili ilk açıklamaların yapıldığı youtube videosunu izleyebilirsiniz. Daha fazla ayrıntı için Android&#8217;in basın [duyurusuna][6], [Open Handset Alliance][7] olarak oluşturulmuş sitesindeki ayrıntılara ya da bu yazının oluşmasını sağlayan [kaynağa][8] bakabilirsiniz.
 
-[youtube width=&#8221;320&#8243; height=&#8221;240&#8243;]http://www.youtube.com/watch?v=U6x0zZsqI3s[/youtube]
+[youtube width=&#8221;320&#8243; height=&#8221;240&#8243;]https://www.youtube.com/watch?v=U6x0zZsqI3s[/youtube]
 
- [1]: http://www.google.com.tr
+ [1]: https://www.google.com.tr
  [2]: https://www.murekkep.org/linux-tabanli-google-phone-gphone-389
- [3]: http://online.wsj.com/article/SB118602176520985718.html
- [4]: http://www.reuters.com/article/technologyNews/idUSN0242431720070802
+ [3]: https://online.wsj.com/article/SB118602176520985718.html
+ [4]: https://www.reuters.com/article/technologyNews/idUSN0242431720070802
  [5]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [6]: http://www.openhandsetalliance.com/press_110507.html
- [7]: http://www.openhandsetalliance.com/android_overview.html
- [8]: http://www.techcrunch.com/2007/11/05/breaking-google-announces-android-and-open-handset-alliance/
+ [6]: https://www.openhandsetalliance.com/press_110507.html
+ [7]: https://www.openhandsetalliance.com/android_overview.html
+ [8]: https://www.techcrunch.com/2007/11/05/breaking-google-announces-android-and-open-handset-alliance/

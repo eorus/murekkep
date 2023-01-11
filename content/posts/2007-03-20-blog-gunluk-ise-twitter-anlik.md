@@ -24,6 +24,6 @@ Sms ve mobil uygulamalar ile twittera o an yapılanın gönderilmesi gibi bir du
 
 [Twitter][2] şu an için dişimi fırçaladım, şunu dinliyorum, az önce kapıyı kapattım vb&#8230; gibi gereksiz yazıların dışına çıkamayacak bir platform olarak zihinde yer ediyor. Bakalım zaman ne gösterecek.
 
- [1]: http://www.sosyomat.com/
- [2]: http://twitter.com/
- [3]: http://maps.google.com/
+ [1]: https://www.sosyomat.com/
+ [2]: https://twitter.com/
+ [3]: https://maps.google.com/

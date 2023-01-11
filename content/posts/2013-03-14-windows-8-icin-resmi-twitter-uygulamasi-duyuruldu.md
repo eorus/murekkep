@@ -27,7 +27,7 @@ Geniş ekran kullanıcılarının kenarlarda bol beyaz alan görebileceği tek s
 
 
 
-<a href="http://apps.microsoft.com/windows/tr-TR/app/twitter/8289549f-9bae-4d44-9a5c-63d9c3a79f35" target="_blank" class="broken_link">Windows 8 için Twitter indirin</a>
+<a href="https://apps.microsoft.com/windows/tr-TR/app/twitter/8289549f-9bae-4d44-9a5c-63d9c3a79f35" target="_blank" class="broken_link">Windows 8 için Twitter indirin</a>
 
  [1]: https://www.murekkep.org/windows-8-ozellikleri-6858 "Windows 8 Özellikleri"
  [2]: https://www.murekkep.org/twitter-resmi-fotograf-yukleme-ve-fotograf-paylasimi-6413 "Twitter Resmi Fotoğraf Yükleme ve Fotoğraf Paylaşımı"

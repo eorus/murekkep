@@ -14,7 +14,7 @@ tags:
 ---
 **Flickr** bildiğimiz üzere bir **fotoğraf paylaşım** sitesidir. Dünyanın dört bir tarafından kullanıcıların Flickr üzerinde paylaştığı birbirinden güzel, yüksek kaliteli fotoğrafları belirli etiketlerle ve içerdikleri konuya göre görüntüleyebiliyorsunuz. İlginç fotoğraflara ve görsel bir şölene dönüşebilen flickr fotoğraflarını **masaüstü duvar kağıdı**, arkaplanı olarak kullanmanız mümkün.
 
-Ücretsiz bir uygulama olan <a href="http://flickrwallpaper.codeplex.com/" target="_blank" class="broken_link">Flickr Wallpaper Rotator</a> ile flickr üzerindeki fotoğrafları **windows masaüstü duvar kağıdı** olarak kullanabiliyorsunuz. Flickr Wallpaper Rotator **ücretsiz ve basit bir uygulama** olarak bilgisayarınıza kurulumu yapıldıktan sonra görev çubuğuna yerleşiyor. **Flickr Wallpaper Rotator** içerisinde hangi flickr fotoğraflarını kullanmak istiyorsanız belirtebiliyorsunuz.
+Ücretsiz bir uygulama olan <a href="https://flickrwallpaper.codeplex.com/" target="_blank" class="broken_link">Flickr Wallpaper Rotator</a> ile flickr üzerindeki fotoğrafları **windows masaüstü duvar kağıdı** olarak kullanabiliyorsunuz. Flickr Wallpaper Rotator **ücretsiz ve basit bir uygulama** olarak bilgisayarınıza kurulumu yapıldıktan sonra görev çubuğuna yerleşiyor. **Flickr Wallpaper Rotator** içerisinde hangi flickr fotoğraflarını kullanmak istiyorsanız belirtebiliyorsunuz.
 
 ## Flickr Wallpaper Rotator Kullanımı
 

@@ -22,7 +22,7 @@ Tüm özellikleriyle kullanılabilen bing arama sayfasındaki fotoğraflar, bir 
 
 1. Bing Homepages : Bing Homepages, wordpress ile oluşturulmuş ve Bing anasayfasında yer alan her fotoğraf için ayrı bir başlık açılmış. Bu fotoğraflar için etiketler atanıyor ve yorum bırakılabiliyor. Örnek olarak Kapadokya fotoğrafının olduğu Hot Air Balloons &#8211; Turkey yazısına bakabilirsiniz. 
 
-2. <a href="http://www.istartedsomething.com/bingimages/" target="_blank" class="broken_link">Bing Image Archive</a> : Bing Image Archive &#8211; Bing Resim Arşivi ise bir takvim havasında hergün yayınlanan Bing arkaplan fotoğrafını oluşturuyor. Fotoğraf üzerine tıkladığınızda lightbox ile açılan fotoğrafın altında fotoğraf bilgilerine ulaşabiliyorsunuz. 
+2. <a href="https://www.istartedsomething.com/bingimages/" target="_blank" class="broken_link">Bing Image Archive</a> : Bing Image Archive &#8211; Bing Resim Arşivi ise bir takvim havasında hergün yayınlanan Bing arkaplan fotoğrafını oluşturuyor. Fotoğraf üzerine tıkladığınızda lightbox ile açılan fotoğrafın altında fotoğraf bilgilerine ulaşabiliyorsunuz. 
 
 Yukarıdaki iki bing fotoğraf arşiv sitesinden Bing Homepages, hem yorum bırakılabilme hem de gezinme açısından benim daha çok hoşuma gitti. Bing arkaplan fotoğraflarını sergileyen veya toplayan başka siteler bulursanız yorumlarınızda belirtebilirsiniz. Ona göre bu yazıyı güncelleyebiliriz.
 

@@ -22,7 +22,7 @@ Konu ile ilgili olarak Arda Kutsal&#8217;ın [Webrazzi][3]&#8216;de bugün yazd�
 
 Mürekkep.Org&#8217;un Bloxoo sayfası
 
- [1]: http://www.inveon.com.tr/
- [2]: http://www.yakuter.com/blograzzi-degil-bloxoo/
- [3]: http://www.webrazzi.com/
- [4]: http://www.webrazzi.com/2009/01/15/turk-blog-komunitesi-bloxooya-tasiniyor/
+ [1]: https://www.inveon.com.tr/
+ [2]: https://www.yakuter.com/blograzzi-degil-bloxoo/
+ [3]: https://www.webrazzi.com/
+ [4]: https://www.webrazzi.com/2009/01/15/turk-blog-komunitesi-bloxooya-tasiniyor/

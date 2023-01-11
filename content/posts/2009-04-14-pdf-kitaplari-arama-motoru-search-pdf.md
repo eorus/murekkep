@@ -23,5 +23,5 @@ Search PDF basit ve sade arayüzü ve getirdiği pdf arama sonuçlarına ekledi�
 
 **225 milyon** ücretsiz pdf dosyasına ulaşabileceğinizi söyleyen Search PDF&#8217;in arama eklentisini tarayıcınıza ekleyip, pdf aramalarınızı internet tarayıcınız üzerinden yapabiliyorsunuz. **Search PDF arama eklentisini** bulmakta zorluk çekerseniz, herhangi bir arama yaptıktan sonra sağ üst köşeye bakabilirsiniz. Dediğim gibi Search PDF oldukça sade hazırlanmış bir arayüze sahip.
 
- [1]: http://search-pdf-books.com/
+ [1]: https://search-pdf-books.com/
  [2]: https://www.murekkep.org/pdf-aramalari-icin-pdf-arama-motoru-1546

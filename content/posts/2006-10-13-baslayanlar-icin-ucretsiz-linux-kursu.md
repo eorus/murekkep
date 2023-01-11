@@ -12,12 +12,12 @@ tags:
   - linux
 
 ---
-<a target="_blank" href="http://www.linuxbasics.org/" class="broken_link">LinuxBasics.org</a>, _Linux kullanmak isteyen insanlara yardım eden camia_, şeklinde lanse edilen ve ikinci ücretsiz Linux sınıflarını sunan oluşum. Linux Temellerine Giriş.
+<a target="_blank" href="https://www.linuxbasics.org/" class="broken_link">LinuxBasics.org</a>, _Linux kullanmak isteyen insanlara yardım eden camia_, şeklinde lanse edilen ve ikinci ücretsiz Linux sınıflarını sunan oluşum. Linux Temellerine Giriş.
 
 Bu kurs, sistem hakkında daha fazla bilgi edinmek isteyen başlangıç seviyesindeki linux kullanıcısının linux sisteminin temelini öğrenmesine yönelik tasarlanmıştır. Daha gelişmiş linux kullanıcıları ise zaten bildikleri alanlarda farklı olan kısımları keşfedebilecek ya da hep öğrenmek istedikleri fakat imkan bulamadıkları konulara bakabilecekler.
 
-Çalışma süresince esas alınacak kitap LBook ise, Linux Temellerine Giriş&#8217;in düzenlenmiş halidir. Kursa katılmak için LBo mailing liste katılmanız gerekmektedir. (http://linuxbasics.org/cgi-bin/mailman/listinfo/qna/).
+Çalışma süresince esas alınacak kitap LBook ise, Linux Temellerine Giriş&#8217;in düzenlenmiş halidir. Kursa katılmak için LBo mailing liste katılmanız gerekmektedir. (https://linuxbasics.org/cgi-bin/mailman/listinfo/qna/).
 
 Dersler 19 Ekim 2006 tarihinde başlayacaktır. Ama 19 Ekim tarihinden sonra da katılımda bulunabilirsiniz.
 
-Daha fazla bilgi için; http://www.linuxbasics.org/course/start.
+Daha fazla bilgi için; https://www.linuxbasics.org/course/start.

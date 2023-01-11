@@ -20,16 +20,16 @@ Bu hafta vizyona girecek olan Barselona Barselona &#8211; **Vicky Christina Barc
 **66. Altın Küre 2009 Golden Globe Sonuçları : Kazananlar**  
 <!--more-->
 
-  * En İyi Film : <a href="http://www.imdb.com/title/tt1010048/" target="_blank">Slumdog Millionaire</a> 
-  * En İyi Film (Komedi veya Müzikal) : <a href="http://www.imdb.com/title/tt0497465/" target="_blank">Vicky Christina Barcelona</a>
-  * En İyi Erkek Oyuncu : <a href="http://www.imdb.com/name/nm0000620/" target="_blank">Mickey Rourke</a> ([The Wrestler][2])
-  * En İyi Yardımcı Erkek Oyuncu : <a href="http://www.imdb.com/name/nm0005132/" target="_blank">Heath Ledger</a> (<a href="http://www.imdb.com/title/tt0468569/" target="_blank">Batman &#8211; Dark Night</a>)
-  * En İyi Erkek Oyuncu (Komedi veya Müzikal) : <a href="http://www.imdb.com/name/nm0268199/" target="_blank">Colin Farrell</a> (<a href="http://www.imdb.com/title/tt0780536/" target="_blank">In Bruges</a>)
-  * En İyi Kadın Oyuncu: <a href="http://www.imdb.com/name/nm0000701/" target="_blank">Kate Winslet</a> (<a href="http://www.imdb.com/title/tt0959337/" target="_blank">Revolutionary Road</a>)
-  * En İyi Dizi : <a href="http://www.imdb.com/title/tt0804503/" target="_blank">Mad Men</a>
-  * En İyi Animasyon : <a href="http://www.imdb.com/title/tt0910970/" target="_blank">WALL-E</a>
+  * En İyi Film : <a href="https://www.imdb.com/title/tt1010048/" target="_blank">Slumdog Millionaire</a> 
+  * En İyi Film (Komedi veya Müzikal) : <a href="https://www.imdb.com/title/tt0497465/" target="_blank">Vicky Christina Barcelona</a>
+  * En İyi Erkek Oyuncu : <a href="https://www.imdb.com/name/nm0000620/" target="_blank">Mickey Rourke</a> ([The Wrestler][2])
+  * En İyi Yardımcı Erkek Oyuncu : <a href="https://www.imdb.com/name/nm0005132/" target="_blank">Heath Ledger</a> (<a href="https://www.imdb.com/title/tt0468569/" target="_blank">Batman &#8211; Dark Night</a>)
+  * En İyi Erkek Oyuncu (Komedi veya Müzikal) : <a href="https://www.imdb.com/name/nm0268199/" target="_blank">Colin Farrell</a> (<a href="https://www.imdb.com/title/tt0780536/" target="_blank">In Bruges</a>)
+  * En İyi Kadın Oyuncu: <a href="https://www.imdb.com/name/nm0000701/" target="_blank">Kate Winslet</a> (<a href="https://www.imdb.com/title/tt0959337/" target="_blank">Revolutionary Road</a>)
+  * En İyi Dizi : <a href="https://www.imdb.com/title/tt0804503/" target="_blank">Mad Men</a>
+  * En İyi Animasyon : <a href="https://www.imdb.com/title/tt0910970/" target="_blank">WALL-E</a>
 
 **66. Altın Küre 2009 Golden Globe** sonuçlarının tam listesine IMDB &#8211; Golden Globes sayfasından bakabilirsiniz. İzlemek isteyenler için bilgi ; ödül töreni bu akşam saat 22.00’de CNBC-e’de tekrar yayınlanacak.
 
  [1]: https://www.murekkep.org/2009-altin-kure-adaylari-565
- [2]: http://www.imdb.com/title/tt1125849/
+ [2]: https://www.imdb.com/title/tt1125849/

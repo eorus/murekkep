@@ -23,8 +23,8 @@ Yukarıda konuyla ilgili gmailda geçen alıştığımız yenilik habercisi kır
 
 Bu link şu anda sadece Gmail içerisinde yer alıyor. Yani Google&#8217;ın diğer hizmetleri olan Takvim, Dökümanlar vs.. içerisinde bu link yok. Benim yorumum Google gmail kullanan internet explorer kullanıcılarından kendi tarayıcısı olan Chrome&#8217;u kullanmalarını istiyor. Ve işler gittikçe kızışıyor.
 
- [1]: http://www.mozilla-europe.org/tr/firefox/
- [2]: http://www.google.com.tr/
- [3]: http://www.gmail.com
+ [1]: https://www.mozilla-europe.org/tr/firefox/
+ [2]: https://www.google.com.tr/
+ [3]: https://www.gmail.com
  [4]: https://www.murekkep.org/google-chrome-ve-tarayici-piyasasi-572
- [5]: http://www.google.com/chrome
+ [5]: https://www.google.com/chrome

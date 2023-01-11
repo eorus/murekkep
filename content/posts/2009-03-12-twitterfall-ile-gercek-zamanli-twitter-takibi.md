@@ -28,5 +28,5 @@ Bu özelliklerinin yanısıra Twitterfall üzerinden **twitter hesabınız** ile
 
 Sonuç olarak eğer Twitter üzerinde arama yapacaksanız ve kafanızda oluşturduğunuz belirli arama kriterleri varsa ve twitterdaki son durumu görüp oluşan trendi takip etmek istiyorsanız Twitterfall bu konuda tam ihtiyacı karşılayacak şekilde bir hizmet veriyor.
 
- [1]: http://twitterfall.com/
- [2]: http://twitter.com
+ [1]: https://twitterfall.com/
+ [2]: https://twitter.com

@@ -33,7 +33,7 @@ iPhone 4S&#8217;te pil sorunun donanımsal olmaktan ziyade yazılımsal olduğun
 
 iOs 5 ile beraber bu ayarın açık olması sistemin sürekli olarak kontrol etmesini gerektiriyordu. Zaman dilimi ayarının kapalı konumuna getirilmesi ile [iOS 5 işletim sistemi][2] yüklü iPhone 4S, iPhone 4 ve iPhone 3GS üzerinde pil sorunu büyük ölçüde giderilmiş ve şarj süresi yani pil ömrü artacak şekilde bir düzeltme yapılmış oluyor.
 
-Muhtemelen Apple konuyla ilgili bir güncellemeyi yakın zamanda yayınlayacaktır. **iPhone 4 serisi** akıllı telefonunuzun pil ömürünü uzatmak istiyorsanız <a title="iPhone 4s pil ömrünü uzatma önerileri" href="http://www.burcinyazici.com/iphone-4-iphone-4s-pil-omru-uzatma-onerileri-ipuclari-neler-nasil-1987.html" target="_blank">iPhone 4 ve iPhone 4S için Pil Ömrünü Uzatma Önerileri</a> yazısına mutlaka bakmalısınız.
+Muhtemelen Apple konuyla ilgili bir güncellemeyi yakın zamanda yayınlayacaktır. **iPhone 4 serisi** akıllı telefonunuzun pil ömürünü uzatmak istiyorsanız <a title="iPhone 4s pil ömrünü uzatma önerileri" href="https://www.burcinyazici.com/iphone-4-iphone-4s-pil-omru-uzatma-onerileri-ipuclari-neler-nasil-1987.html" target="_blank">iPhone 4 ve iPhone 4S için Pil Ömrünü Uzatma Önerileri</a> yazısına mutlaka bakmalısınız.
 
  [1]: https://www.murekkep.org/iphone-4s-ozellikleri-6921 "iPhone 4s özellikleri"
  [2]: https://www.murekkep.org/ios-5-ile-gelen-yeni-ozelliklerin-tum-listesi-6882 "iOS 5 Özellikleri"

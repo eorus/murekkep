@@ -28,6 +28,6 @@ Eğer Google dışına çıkmadan pdf araması yapmak isterseniz bunu kolay bir 
 
 Gelişmiş arama kullanarak yaptığınız bu değişiklikler sonrasında gelen google arama sonuçları size sadece pdf dosya biçimindeki sonuçları sıralayacaktır.
 
- [1]: http://google.com.tr
+ [1]: https://google.com.tr
  [2]: https://www.murekkep.org/pdf-aramalari-icin-pdf-arama-motoru-1546
  [3]: https://www.murekkep.org/pdf-kitaplari-arama-motoru-search-pdf-2024

@@ -22,5 +22,5 @@ Bu hafta başında 2011 Oscar Ödüllerini hangi artistlerin sunacağı açıkla
 
 Geçtiğimiz yıllarda özellikle izleyici rekoru kıran Billy Crystal sunumu ya da komedi sanatçılarından, David Letterman, Whoopi Goldberg, Steve Martin, Chris Rock gibi isimlerin yanında 2011 yılı için 32 yaşındaki James Franco ve 28 yaşındaki Anna Hathaway&#8217;in ne kadar etkili bir oscar töreni sunumu yapacakları açıkçası merak ediliyor.
 
- [1]: http://www.imdb.com/name/nm0290556/
- [2]: http://www.imdb.com/name/nm0004266/
+ [1]: https://www.imdb.com/name/nm0290556/
+ [2]: https://www.imdb.com/name/nm0004266/

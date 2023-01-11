@@ -32,4 +32,4 @@ Mavi Ajanda yeni bir oluşum. Şu an **Alpha** aşamasında ve konsept olarak g�
 
 Mavi Ajanda&#8217;yı daha yakından görebilmek için demo&#8217;ya bakabilirsiniz. [Murat Turan][1] kendi dilinde tüm özellikleri anlatıyor bu demo&#8217;da. Mavi Ajanda anasayfasından da kolayca kayıt olabilirsiniz. En son yeniliklerden haberdar olmak için Mavi Ajanda Blog&#8217;una bakabilirsiniz.
 
- [1]: http://www.muratturan.com/
+ [1]: https://www.muratturan.com/

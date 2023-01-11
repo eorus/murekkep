@@ -22,8 +22,8 @@ Windows 7 masaüstünüzü yeni yıla hazırlamak ister misiniz? Microsoft&#8217
 
 ### Windows 7 Holiday Lights Theme
 
-<a href="http://windows.microsoft.com/en-IN/windows/downloads/holiday-lights" target="_blank">Holiday Lights</a> tema paketi, içerdiği masaüstü arkaplan resimleri ve yeni yıl ışıkları ile Microsoft&#8217;un resmi **windows 7 tema indirme** sitesinde bulunuyor. **Holiday Lights themepack** için ilgili sayfada download butonuna tıklamanız yeterli olacaktır. 
+<a href="https://windows.microsoft.com/en-IN/windows/downloads/holiday-lights" target="_blank">Holiday Lights</a> tema paketi, içerdiği masaüstü arkaplan resimleri ve yeni yıl ışıkları ile Microsoft&#8217;un resmi **windows 7 tema indirme** sitesinde bulunuyor. **Holiday Lights themepack** için ilgili sayfada download butonuna tıklamanız yeterli olacaktır. 
 
 ### Windows 7 Tatil Temaları
 
-**Windows 7** için farklı ülkelerin tatil dönemlerine göre oluşturulmuş temalara ise <a href="http://windows.microsoft.com/en-IN/windows/downloads/personalize/themes?T1=holidays" target="_blank">buradan</a> ulaşabilirsiniz. Buradan Czech Winter, Czech Spring, Eerie Autumn, Harvest Time, Shamrocks, Valentine ve Year of the Tiger gibi temalara ulaşılabilir.
+**Windows 7** için farklı ülkelerin tatil dönemlerine göre oluşturulmuş temalara ise <a href="https://windows.microsoft.com/en-IN/windows/downloads/personalize/themes?T1=holidays" target="_blank">buradan</a> ulaşabilirsiniz. Buradan Czech Winter, Czech Spring, Eerie Autumn, Harvest Time, Shamrocks, Valentine ve Year of the Tiger gibi temalara ulaşılabilir.

@@ -23,4 +23,4 @@ Her ne kadar sınırlı kullanıma sahip olsa da rss okuyucusu ile takip ettiği
 
 [Google Reader on your Google Desktop][1]
 
- [1]: http://googlereader.blogspot.com/2009/05/google-reader-on-your-google-desktop.html
+ [1]: https://googlereader.blogspot.com/2009/05/google-reader-on-your-google-desktop.html

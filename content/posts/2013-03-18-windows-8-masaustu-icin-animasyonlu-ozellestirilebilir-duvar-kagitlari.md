@@ -21,6 +21,6 @@ DeskScapes uygulaması sayesinde animasyonlu duvar kağıtları oluşturmak ve k
 
 
 
-Windows 8 uygulaması <a href="http://www.stardock.com/products/deskscapes/index.asp" target="_blank">DeskScapes</a> indirin
+Windows 8 uygulaması <a href="https://www.stardock.com/products/deskscapes/index.asp" target="_blank">DeskScapes</a> indirin
 
  [1]: https://www.murekkep.org/windows-8-ozellikleri-6858 "Windows 8 Özellikleri"

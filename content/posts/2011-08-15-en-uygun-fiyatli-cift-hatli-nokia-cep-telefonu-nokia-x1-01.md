@@ -25,4 +25,4 @@ Nokia X1-01&#8217;in boyutları 112,2 x 47,3 x 16 mm şeklinde ve bildiğimiz, a
 
 **Nokia X1-01 fiyat aralığı** 199 &#8211; 236 TL civarında mağazaya göre değişiyor. **En uygun fiyat** Darty&#8217;de 200 TL olarak gözüküyor. Ama belki daha uygun fiyata bulabilirsiniz.
 
-Özet olarak gelişen teknolojiye ve mobil dünyaya adapte olamıyorum. Basit bir cep telefonu benim işimi görür diyenlerdenseniz, uygun fiyatı, çift hat özelliği ve şıklığıyla Nokia X1-01 tam size göre&#8230; <a href="http://www.burcinyazici.com/nokianin-uygun-fiyatli-ve-cift-sim-destekli-telefonu-nokia-x1-01-1464.html" target="_blank">Nokia X1-01 için detaylara</a> buradan bakabilirsiniz.
+Özet olarak gelişen teknolojiye ve mobil dünyaya adapte olamıyorum. Basit bir cep telefonu benim işimi görür diyenlerdenseniz, uygun fiyatı, çift hat özelliği ve şıklığıyla Nokia X1-01 tam size göre&#8230; <a href="https://www.burcinyazici.com/nokianin-uygun-fiyatli-ve-cift-sim-destekli-telefonu-nokia-x1-01-1464.html" target="_blank">Nokia X1-01 için detaylara</a> buradan bakabilirsiniz.

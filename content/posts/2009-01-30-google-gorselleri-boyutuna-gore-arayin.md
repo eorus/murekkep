@@ -24,6 +24,6 @@ Neler yapabilirsiniz. Açıkçası yapacağınız aramaya göre hayal gücünüz
 
 [Google Operating System][2] : [Find Images That Have a Certain Size][3]
 
- [1]: http://images.google.com/
- [2]: http://googlesystem.blogspot.com/
- [3]: http://googlesystem.blogspot.com/2009/01/find-images-that-have-certain-size.html
+ [1]: https://images.google.com/
+ [2]: https://googlesystem.blogspot.com/
+ [3]: https://googlesystem.blogspot.com/2009/01/find-images-that-have-certain-size.html

@@ -33,19 +33,19 @@ Hiçbir program yüklemeden sadece internet sitesine girerek shutter sayısın�
 ### Nikon Fotoğraf Makineleri için Shutter Sayısı Öğrenme
 
   * MyShutterCount
-  * <a title="camerashutter" href="http://www.camerashuttercount.com/" target="_blank">CameraShutterCount</a>
+  * <a title="camerashutter" href="https://www.camerashuttercount.com/" target="_blank">CameraShutterCount</a>
 
 Program yüklemeden shutter sayısı öğrenebileceğiniz araçlar da mümkündür. Aşağıdaki programları bilgisayarınıza yükleyerek shutter sayısını kolayca öğrenebilirsiniz.
 
   * PhotoMe
-  * <a title="exiftool" href="http://www.sno.phy.queensu.ca/~phil/exiftool/" target="_blank">ExifTool</a>
-  * <a title="opanda exif" href="http://www.opanda.com/en/iexif/download.htm" target="_blank">Opanda IExif</a>
+  * <a title="exiftool" href="https://www.sno.phy.queensu.ca/~phil/exiftool/" target="_blank">ExifTool</a>
+  * <a title="opanda exif" href="https://www.opanda.com/en/iexif/download.htm" target="_blank">Opanda IExif</a>
 
 Son olarak Nikon kullanıcılarının akıllı telefonları için Google Play Android platformundan indirebilecekleri “<a title="android shutter" href="https://play.google.com/store/apps/details?id=com.dynappmics.shuttercount" target="_blank" class="broken_link">Shutter Count</a>” uygulaması sayesinde Nikon fotoğraf makinenizden bir fotoğrafı Android cihazın SD kartına atarak direkt shutter sayısını öğrenebilirsiniz.
 
 ### Canon Fotoğraf Makineleri için Shutter Sayısı Öğrenme
 
-Canon **fotoğraf** makinelerinin shutter sayısını elde ettiğiniz fotoğraflardan eos info programı ile öğrenebilirsiniz. Ücretsiz olan EOS info programını makinenizi bilgisayara bağlayarak kullanabiliyorsunuz. EOS info programını **<a href="http://astrojargon.net/eosinfo.aspx" target="_blank" class="broken_link">buradan</a>** indirebilirsiniz.
+Canon **fotoğraf** makinelerinin shutter sayısını elde ettiğiniz fotoğraflardan eos info programı ile öğrenebilirsiniz. Ücretsiz olan EOS info programını makinenizi bilgisayara bağlayarak kullanabiliyorsunuz. EOS info programını **<a href="https://astrojargon.net/eosinfo.aspx" target="_blank" class="broken_link">buradan</a>** indirebilirsiniz.
 
 [<img class="alignnone wp-image-17385 size-full" title="Fotoğraf Makinelerinde Shutter Sayısı Nasıl Öğrenilir?" src="https://www.murekkep.org/wp-content/uploads/2017/01/eosinfo-shutter.jpg" alt="Fotoğraf Makinelerinde Shutter Sayısı Nasıl Öğrenilir?" width="600" height="744" srcset="https://www.murekkep.org/wp-content/uploads/2017/01/eosinfo-shutter.jpg 600w, https://www.murekkep.org/wp-content/uploads/2017/01/eosinfo-shutter-242x300.jpg 242w" sizes="(max-width: 600px) 100vw, 600px" />][3]
 
@@ -65,6 +65,6 @@ Olympus, **perde sayısını** EXIF verileri arasında saklamaz. Bunu öğrenmek
 
 Sony kullanıcıları için shutter sayı öğrenmenin maalesef bilinen bir yolu yok. Yukarıdaki programları deneyebilirsiniz fakat fazla bir garantisinin olmadığı söylenmekte. Makinenin ilk sahibiyseniz Sony, **perde sayısını** her 10.000 de **fotoğraf** dosyalarının adlandırması için makineyi başa döndürmektedir. Bu yöntem ile kaç kez sıfırlandığına bakarak kesin bir sonuç olmasa bile bir tahminde bulunabilirsiniz.
 
- [1]: http://www.turknikon.com/shutter-obturator-enstantane-perde-nedir-20893 "Shutter, Obtüratör, Enstantane, Perde Nedir?"
+ [1]: https://www.turknikon.com/shutter-obturator-enstantane-perde-nedir-20893 "Shutter, Obtüratör, Enstantane, Perde Nedir?"
  [2]: https://www.murekkep.org/wp-content/uploads/2017/01/shutter-sayisi-nedir.jpg
  [3]: https://www.murekkep.org/wp-content/uploads/2017/01/eosinfo-shutter.jpg

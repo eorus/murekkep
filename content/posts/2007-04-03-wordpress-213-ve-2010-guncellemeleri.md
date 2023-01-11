@@ -16,6 +16,6 @@ tags:
 
 Haber : [[1]][3]
 
- [1]: http://wordpress.org
- [2]: http://wordpress.org/download/
- [3]: http://wordpress.org/development/2007/04/wordpress-213-and-2010/
+ [1]: https://wordpress.org
+ [2]: https://wordpress.org/download/
+ [3]: https://wordpress.org/development/2007/04/wordpress-213-and-2010/

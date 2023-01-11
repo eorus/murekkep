@@ -34,5 +34,5 @@ tags:
       Google Gears&#8217;ın geleceği çok parlak hatta bazı yerlerde web 3.0 &#8216;ın başlangıcı olduğu yorumları bile var. Belki iddialı gelebilecek bir sav ama bence ileride Gears ile Wikipedia&#8217;yı offline takip edebilme olasılığını düşünmek bile ne kadar önemli olduğunu ortaya koyuyor.
     </p>
 
- [1]: http://www.google.com
- [2]: http://gears.google.com/
+ [1]: https://www.google.com
+ [2]: https://gears.google.com/

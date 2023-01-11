@@ -21,7 +21,7 @@ Sony&#8217;nin duyurmayı düşündüğü lensler arasında ise Zeiss 50mm F/1.4
 
 Sony&#8217;nin bu yeni [dijital fotoğraf makineleri][3] ve lenslerine ilişkin duyurusu 20 Şubat&#8217;ta düşünülen [Playstation 4][4]{.broken_link} etkinliğinde olabilir mi tarih yaklaştıkça bilgileri paylaşıyor olacağız.
 
-via <a href="http://www.sonyalpharumors.com/sr5-a58-nex-3n-and-three-a-mount-lens-to-come-soon/" target="_blank">SAR</a>
+via <a href="https://www.sonyalpharumors.com/sr5-a58-nex-3n-and-three-a-mount-lens-to-come-soon/" target="_blank">SAR</a>
 
  [1]: https://www.murekkep.org/kamera/sony/slt-a58 "Sony SLT-A58 - Alpha 58"
  [2]: https://www.murekkep.org/kamera/sony/nex-3n "sony nex 3n aynasız fotoğraf makinesi"

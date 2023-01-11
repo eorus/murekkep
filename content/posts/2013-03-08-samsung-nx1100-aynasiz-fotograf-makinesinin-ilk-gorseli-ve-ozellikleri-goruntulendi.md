@@ -29,6 +29,6 @@ Samsung smart camera serisine eklenmesi beklenen aynasız fotoğraf makinesi **S
   * 114&#215;62.5&#215;37.5mm
   * 222 gram
 
-via <a rel="external dofollow" title="Samsung NX1100 Images and Specs Leaked" href="http://www.dailycameranews.com/2013/03/samsung-nx1100-images-and-specs-leaked/">DCN</a>
+via <a rel="external dofollow" title="Samsung NX1100 Images and Specs Leaked" href="https://www.dailycameranews.com/2013/03/samsung-nx1100-images-and-specs-leaked/">DCN</a>
 
  [1]: https://www.murekkep.org/kamera "fotoğraf makinesi"

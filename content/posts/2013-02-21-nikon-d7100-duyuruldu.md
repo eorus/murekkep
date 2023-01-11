@@ -72,7 +72,7 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
   
   <tr>
     <td>
-      <img alt="" src="http://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_01.png" width="180" height="120" />
+      <img alt="" src="https://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_01.png" width="180" height="120" />
     </td>
     
     <td>
@@ -92,13 +92,13 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
     </td>
     
     <td>
-      <a href="http://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_01_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 10.7 MB)</a>
+      <a href="https://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_01_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 10.7 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="s" alt="" src="http://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_02.png" width="180" height="120" />
+      <img title="s" alt="" src="https://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_02.png" width="180" height="120" />
     </td>
     
     <td>
@@ -118,13 +118,13 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
     </td>
     
     <td>
-      <a href="http://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_02_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 9.44 MB)</a>
+      <a href="https://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_02_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 9.44 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="s" alt="" src="http://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_03.png" width="180" height="120" />
+      <img title="s" alt="" src="https://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_03.png" width="180" height="120" />
     </td>
     
     <td>
@@ -144,13 +144,13 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
     </td>
     
     <td>
-      <a href="http://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_03_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 9.86 MB)</a>
+      <a href="https://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_03_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 9.86 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="a" alt="" src="http://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_04.png" width="180" height="120" />
+      <img title="a" alt="" src="https://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_04.png" width="180" height="120" />
     </td>
     
     <td>
@@ -170,13 +170,13 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
     </td>
     
     <td>
-      <a href="http://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_04_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 6.52 MB)</a>
+      <a href="https://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_04_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 6.52 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="ssa" alt="" src="http://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_05.png" width="180" height="120" />
+      <img title="ssa" alt="" src="https://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_05.png" width="180" height="120" />
     </td>
     
     <td>
@@ -196,13 +196,13 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
     </td>
     
     <td>
-      <a href="http://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_05_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 15.0 MB)</a>
+      <a href="https://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_05_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 15.0 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="qd" alt="" src="http://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_06.png" width="180" height="120" />
+      <img title="qd" alt="" src="https://imaging.nikon.com/lineup/dslr/d7100/img/sample/img_06.png" width="180" height="120" />
     </td>
     
     <td>
@@ -222,7 +222,7 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
     </td>
     
     <td>
-      <a href="http://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_06_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 21.3 MB)</a>
+      <a href="https://chsvimg.nikon.com/lineup/dslr/d7100/img/sample/img_06_l.jpg" target="_blank" rel="nofollow" class="broken_link">(JPG : 21.3 MB)</a>
     </td>
   </tr>
 </table>
@@ -232,5 +232,5 @@ Nikon&#8217;un bu yeni [dijital SLR fotoğraf makinesi Nikon D7100][3] Mart ayı
  [1]: https://www.murekkep.org/kamera/nikon/ "nikon"
  [2]: https://www.murekkep.org/kamera/nikon/d7000 "nikon d7000"
  [3]: https://www.murekkep.org/kamera/nikon/d7100 "nikon d7100"
- [4]: http://www.turknikon.com/anti-aliasing-aa-filtre-nedir-nikon-d800ede-anti-aliasing-filtreyi-neden-kaldiriyor-5846 "aa filtre"
- [5]: http://www.turknikon.com/nikon-wu-1a-kablosuz-mobil-adaptorunu-duyurdu-8514 "wu-1a kablosuz mobil adaptör"
+ [4]: https://www.turknikon.com/anti-aliasing-aa-filtre-nedir-nikon-d800ede-anti-aliasing-filtreyi-neden-kaldiriyor-5846 "aa filtre"
+ [5]: https://www.turknikon.com/nikon-wu-1a-kablosuz-mobil-adaptorunu-duyurdu-8514 "wu-1a kablosuz mobil adaptör"

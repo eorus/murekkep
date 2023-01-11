@@ -25,7 +25,7 @@ Angry Birds oyununda **belirli bir açıda** ve **eğimi hesaplayarak** kuşlar�
 
 Kale kuşatma ve haritada ilerleme senaryosu üzerine bir flash oyun Crush the Castle 2. Adamlarınızla kalenin önüne geliyorsunuz ve bir mancınık yardımıyla tahta, üçlü tahta, taş gibi materyalleri belirli bir açıda fırlatıyorsunuz. Her kuşatma sonrası level geçtiğinizde attığınız elementler daha kuvvetli hale geliyor. Bir müddet oynayınca angry birds tarzı bir hava yakalayabiliyorsunuz. Güzel tarafı ise ücretsiz ve online oynanabilir olması.
 
-<a href="http://armorgames.com/play/6137/crush-the-castle-2" target="_blank">Crush the Castle 2 Oyna</a>
+<a href="https://armorgames.com/play/6137/crush-the-castle-2" target="_blank">Crush the Castle 2 Oyna</a>
 
 ### Sieger
 
@@ -33,7 +33,7 @@ Kale kuşatma ve haritada ilerleme senaryosu üzerine bir flash oyun Crush the C
 
 Kuşatma komutanı olarak kaledeki tutsakları kurtarmak için saldırıda bulunuyorsunuz. Bu oyunda level geçmeniz için kaleyi savunan askerleri öldürmeniz ve tutsakları kurtarmanız gerekiyor. Askerleri öldürmek için farenin şeklinin hedef haline dönüştüğü anda atışınızı yapmanız gerekiyor. Angry Birds ya da Crush the Castle 2 gibi sol taraftan birşey fırlatmak yerine cepheden hedefleri vuruyorsunuz.
 
-<a href="http://armorgames.com/play/6833/sieger" target="_blank">Sieger Oyna</a>
+<a href="https://armorgames.com/play/6833/sieger" target="_blank">Sieger Oyna</a>
 
 ### Sandcastle
 
@@ -41,4 +41,4 @@ Kuşatma komutanı olarak kaledeki tutsakları kurtarmak için saldırıda bulun
 
 Bu sefer kaleyi savunan sizsiniz. Sandcastle oyununda denizden gelen düşman kuvvetleri gemilerden attıkları toplarla kalenizi düşürmeye çalışıyor. Buna karşılık olarak kaleden attığınız toplarla gemileri vurmaya ve level geçmeye çalışıyorsunuz. Sandcastle oyununda Angry Birds gibi bir elementi fırlatıyorsunuz ancak hızını havadayken siz belirliyorsunuz. İlk levelda taş atarken oyunda ilerledikçe fırlattığınız materyaller değişiyor.
 
-<a href="http://armorgames.com/play/5137/sandcastle" target="_blank">Sandcastle Oyna</a>
+<a href="https://armorgames.com/play/5137/sandcastle" target="_blank">Sandcastle Oyna</a>

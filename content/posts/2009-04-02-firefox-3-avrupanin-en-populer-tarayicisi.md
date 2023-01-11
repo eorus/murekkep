@@ -28,8 +28,8 @@ Geçen hafta Avrupa İnternet tarayıcısı piyasasında İnternet Explorer 7 is
 
 StatCounter&#8217;a göre Şubat ayında İnternet Explorer 7 global pazar payı olarak %41 seviyelerindeyken Firefox %24 ile onu takip ediyordu. 
 
-Kaynak : Reuters haberi &#8220;<a href="http://www.reuters.com/article/technology-media-telco-SP/idUSLV51577320090331" target="_blank">Firefox 3 becomes top browser in Europe -study</a>&#8221; [Mürekkep.org][3] tarafından Türkçeleştirilmiştir.
+Kaynak : Reuters haberi &#8220;<a href="https://www.reuters.com/article/technology-media-telco-SP/idUSLV51577320090331" target="_blank">Firefox 3 becomes top browser in Europe -study</a>&#8221; [Mürekkep.org][3] tarafından Türkçeleştirilmiştir.
 
- [1]: http://www.mozilla-europe.org/tr/firefox/
- [2]: http://www.statcounter.com/
+ [1]: https://www.mozilla-europe.org/tr/firefox/
+ [2]: https://www.statcounter.com/
  [3]: https://www.murekkep.org/

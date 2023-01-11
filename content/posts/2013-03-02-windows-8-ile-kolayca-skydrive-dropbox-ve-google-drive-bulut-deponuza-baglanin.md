@@ -37,7 +37,7 @@ RainbowDrive Windows 8 uygulaması üzerinden **SkyDrive, Dropbox ve Google Driv
 
 RainbowDrive windows 8 uygulaması eğer bulut depolama hesaplarınız için çoklu bir kullanım gerçekleştiriyorsanız ve Dropboz, SkyDrive ve Google Drive gibi bulut depolama servislerini kullanıyorsanız mutlaka kullanmanız gereken bir uygulama. Hatta şu an için Windows 8 üzerinden bulut hesaplarındaki dosyalara erişim için en iyi uygulama diyebiliriz. RainbowDrive uygulaması Windows 8 ve Windows RT için aşağıdaki linkten indirilebilir.
 
-<a href="http://apps.microsoft.com/windows/en-us/app/rainbowdrive/5f310c18-5169-402b-ba98-28970bd388e5" target="_blank" class="broken_link">Windows Store &#8211; Rainbow Drive</a>
+<a href="https://apps.microsoft.com/windows/en-us/app/rainbowdrive/5f310c18-5169-402b-ba98-28970bd388e5" target="_blank" class="broken_link">Windows Store &#8211; Rainbow Drive</a>
 
  [1]: https://www.murekkep.org/top-10-cloud-storage-free-cloud-storage-services-7938 "free cloud storage services"
  [2]: https://www.murekkep.org/windows-8-ozellikleri-6858 "windows 8 özellikleri"

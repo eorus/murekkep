@@ -35,6 +35,6 @@ Bakü oteller, Bakü uçak bileti ve Bakü turları hakkında merak ettiğiniz h
 
 Eğlenceli bir tur planlamak, sevdikleriniz ile en keyifli olanı geçirmek ve dilediğiniz gibi tatil planı yapmak için tercihlerinizi şimdi yapmalı ve Bakü turları ile hayal ettiğiniz gibi bir yıl geçirmelisiniz. Sizi bekleyen en eğlenceli tatil seçeneklerinden olan Bakü turları ya da Azerbaycan turlarını şimdi planlayabilirsiniz.
 
- [1]: http://www.gezinomi.com/turlar/azerbeycan-turlari
+ [1]: https://www.gezinomi.com/turlar/azerbeycan-turlari
  [2]: https://www.murekkep.org/wp-content/uploads/2017/04/azerbaycan-baku-turlari.jpg
- [3]: http://www.gezinomi.com/turlar/baku-turlari
+ [3]: https://www.gezinomi.com/turlar/baku-turlari

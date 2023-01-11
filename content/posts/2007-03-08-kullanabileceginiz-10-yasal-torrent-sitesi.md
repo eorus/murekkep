@@ -40,9 +40,9 @@ Torrent sitelerini kullanıp tamamen yasal olan içerikleri indirmek mümkün. B
 
  [1]: https://www.murekkep.org/en-iyi-5-torrent-indirme-programi-7611 "torrent indirme programları"
  [2]: https://www.murekkep.org/torrent-nedir-torrent-dosyalari-nasil-calisir-3593 "torrent nedir"
- [3]: http://www.legaltorrents.com/
- [4]: http://www.publicdomaintorrents.com/
- [5]: http://www.legittorrents.info/
- [6]: http://www.bittorrent.com/
- [7]: http://www.torrentfreak.com/
- [8]: http://torrentfreak.com/sundance-winner-the-corporation-released-for-free-on-bittorrent/
+ [3]: https://www.legaltorrents.com/
+ [4]: https://www.publicdomaintorrents.com/
+ [5]: https://www.legittorrents.info/
+ [6]: https://www.bittorrent.com/
+ [7]: https://www.torrentfreak.com/
+ [8]: https://torrentfreak.com/sundance-winner-the-corporation-released-for-free-on-bittorrent/

@@ -17,5 +17,5 @@ Son bir yıl içerisinde wikiye katkım oldukça azalmış olsa bile geçtiğimi
 
 <p style="text-align: center">
 
- [1]: http://www.pbwiki.com/
- [2]: http://www.mediawiki.org/
+ [1]: https://www.pbwiki.com/
+ [2]: https://www.mediawiki.org/

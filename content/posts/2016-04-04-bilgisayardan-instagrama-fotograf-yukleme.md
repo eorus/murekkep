@@ -31,7 +31,7 @@ Bugün itibariyle bilgisayarınızda bulunan bir fotoğrafı Instagram&#8217;a y
 
 ### Gramblr ile bilgisayardan instagram üzerinde fotoğraf yükleme
 
-Öncelikle Windows XP, Vista, 7, 8, 8.1, 10 ve Mac OSX ile uyumlu olan Gramblr programını bilgisayarınıza indirip kuruyorsunuz. İndirmek için <a href="http://gramblr.com/uploader/#home" target="_blank" rel="nofollow external" class="broken_link">buraya </a>tıklayabilirsiniz.
+Öncelikle Windows XP, Vista, 7, 8, 8.1, 10 ve Mac OSX ile uyumlu olan Gramblr programını bilgisayarınıza indirip kuruyorsunuz. İndirmek için <a href="https://gramblr.com/uploader/#home" target="_blank" rel="nofollow external" class="broken_link">buraya </a>tıklayabilirsiniz.
 
 Gramblr ile bilgisayarınızdaki fotoğrafları instagram üzerinde  kolayca yükleyebilirsiniz. Program bir emülatör şeklinde çalıştığı için oldukça kolay bir arayüzü var ve sanki akıllı telefondan yüklüyormuş gibi kullanıcı dostu bir yapı sunuyor.
 

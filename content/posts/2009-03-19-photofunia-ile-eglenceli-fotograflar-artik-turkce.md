@@ -25,5 +25,5 @@ PhotoFunia ile tanıştıktan sonra &#8220;[PhotoFunia ile Resimlerinize Fark Ka
 
 Eğer çeviri ile ilgili gözünüze çarpan eksiklikler ya da yanlışlıklar olursa yorumlarınızda belirtebilir ya da iletişim kısmından bana ulaşabilirsiniz.
 
- [1]: http://www.photofunia.com
+ [1]: https://www.photofunia.com
  [2]: https://www.murekkep.org/photofunia-ile-resimlerinize-fark-katin-1297

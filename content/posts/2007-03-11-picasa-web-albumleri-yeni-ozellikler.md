@@ -16,7 +16,7 @@ tags:
   * [Official Google Blog][4]
   * [Picasa Web Albums][2]
 
- [1]: http://www.flickr.com
- [2]: http://picasaweb.google.com/
- [3]: http://www.google.com.tr
- [4]: http://googleblog.blogspot.com/2007/03/store-and-find-even-more-photos-on.html
+ [1]: https://www.flickr.com
+ [2]: https://picasaweb.google.com/
+ [3]: https://www.google.com.tr
+ [4]: https://googleblog.blogspot.com/2007/03/store-and-find-even-more-photos-on.html

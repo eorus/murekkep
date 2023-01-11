@@ -25,6 +25,6 @@ Windows üzerinde : **C:Program FilesMozilla Firefox**
 3. Firefox&#8217;u yeniden başlatın.
 
  [1]: https://www.murekkep.org/google-favicon-yenilendi-774
- [2]: http://www.google.com.tr
+ [2]: https://www.google.com.tr
  [3]: https://www.murekkep.org/favicon-nedir-781
  [4]: https://www.murekkep.org/firefox-klavye-kisayollari-261

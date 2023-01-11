@@ -24,6 +24,6 @@ Gürkan bizi mimlemiş, bizde bizim üzerimize düşen vazifeyi yerine getirelim
 Belirtmekte de fayda var bu liste uzar gider, sevdiklerim de hayatta olmazsa olmazlardan, ve bir çok şey daha. 3 Maddeye kısıtlayınca en önemlileri maddi olarak bunlar çıktı :) Benim de pas verdiklerim: T-İnfection, Raptiye ve [Blog Böceği][4]
 
  [1]: https://www.murekkep.org/hakkinda/
- [2]: http://www.google.com/reader/
- [3]: http://www.last.fm/user/sabutay/
- [4]: http://blogbocegi.blogspot.com/
+ [2]: https://www.google.com/reader/
+ [3]: https://www.last.fm/user/sabutay/
+ [4]: https://blogbocegi.blogspot.com/

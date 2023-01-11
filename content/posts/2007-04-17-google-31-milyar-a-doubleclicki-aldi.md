@@ -23,9 +23,9 @@ tags:
 
  [1]: https://www.murekkep.org/
  [2]: https://www.murekkep.org/google-youtubeu-aldi-peki-sonra-13
- [3]: http://www.doubleclick.com/
- [4]: http://www.microsoft.com
- [5]: http://techdirt.com/articles/20070402/070054.shtml
- [6]: http://www.google.com
- [7]: http://www.nytimes.com/
- [8]: http://www.nytimes.com/2007/04/14/technology/14DoubleClick.html?_r=1&ref=technology&oref=slogin
+ [3]: https://www.doubleclick.com/
+ [4]: https://www.microsoft.com
+ [5]: https://techdirt.com/articles/20070402/070054.shtml
+ [6]: https://www.google.com
+ [7]: https://www.nytimes.com/
+ [8]: https://www.nytimes.com/2007/04/14/technology/14DoubleClick.html?_r=1&ref=technology&oref=slogin

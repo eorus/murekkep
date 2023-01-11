@@ -16,6 +16,6 @@ tags:
 
 Takvimde seçtiğiniz herhangi bir güne tıkladığınızda, Atatürk&#8217;ün o gün için belgelenmiş tüm bilgilerine ulaşabiliyorsunuz. Bunun dışında Kurtuluş Savaşı kronolojisi, Çanakkale Savaşı fotoğraf albümü ve Atatürk&#8217;ün sözleri gibi bölümler içeren bu muhteşem site, açılış sayfasında dediği gibi **&#8220;Türkiye&#8217;nin yakın tarihi ve Mustafa Kemal&#8217;in başarı ve yaşam arşivi&#8221;** bizleri gurur duyduğumuz zamanın derinlerine doğru götürüyor.
 
-Teşekkürler &#8211; <http://www.ataturktoday.com/>
+Teşekkürler &#8211; <https://www.ataturktoday.com/>
 
- [1]: http://www.ataturktoday.com/
+ [1]: https://www.ataturktoday.com/

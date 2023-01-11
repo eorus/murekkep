@@ -26,4 +26,4 @@ TVYO platformunu biraz daha ayrıntılı incelemeye kalkarsak arkasında bir med
 
 Bunun yanı sıra TVYO Android ve iOS uygulamalarıyla tablet pc ve akıllı telefon üzerinden de izlenebiliyor.  Böyle büyük bir güçle başlatılan girişimde olması gereken zorunluluklardan sayılır mobil uygulama geliştirme. Doğuş Yayın Grubu yetkililerinin amacı tivibu veya internetteki video sitelerine rakip olmak olabilir fakat <span style="text-decoration: underline;">TVYO</span> kullanıcılar arasındaki yerini ne zaman sağlamlaştırır onu bekleyerek göreceğiz. [TVYO.com][1] şimdiye kadar göze hoş gelen bir geleneksel medyanın modernizasyon örneği.
 
- [1]: http://www.tvyo.com
+ [1]: https://www.tvyo.com

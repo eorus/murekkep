@@ -20,10 +20,10 @@ Neredeyse herkesi ya da çoğu kurumu twitter üzerinden takip etmenin mümkün 
 
 Microsoft&#8217;un twitter üzerinde servisleri ve ürünleri ile ilgili hesaplarından bazıları aşağıdaki gibi sıralanıyor. 
 
-<a href="http://twitter.com/microsoft" target="_blank">@Microsoft</a> &#8211; Microsoft  
-<a href="http://twitter.com/mswindows" target="_blank">@MSWindows</a> &#8211; Windows ürünleri  
+<a href="https://twitter.com/microsoft" target="_blank">@Microsoft</a> &#8211; Microsoft  
+<a href="https://twitter.com/mswindows" target="_blank">@MSWindows</a> &#8211; Windows ürünleri  
 @ie – Internet Explorer  
-<a href="http://twitter.com/bing" target="_blank">@Bing</a> – Bing arama motoru  
+<a href="https://twitter.com/bing" target="_blank">@Bing</a> – Bing arama motoru  
 @WindowsLive – Windows Live
 
 Microsoft&#8217;un diğer servisleri ve ürünleri için oluşturulmuş twitter hesaplarına buradan bakabilirsiniz.

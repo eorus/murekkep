@@ -19,7 +19,7 @@ Konumuz olan CoolFlick&#8217;e dönersek; **CoolFlick** yukarıda bahsetmeye ça
 CoolFlick üzerinden yaptığınız resim aramalarına karşılık Flickr üzerindeki **resimler** küçük boyutlarla (**thumbnail**) karşınıza geliyor. Cooliris&#8217;i yüklemeden ne olduğunu merak ediyorsanız mutlaka ziyaret etmelisiniz. Onun dışında eğer amacınız sadece 3 boyutlu Flickr resimlerini gezmek ise CoolFlick bu görevi fazlasıyla yerine getiriyor.
 
  [1]: https://www.murekkep.org/en-iyi-flickr-arama-araci-compfight-723
- [2]: http://www.deviantart.com/
- [3]: http://photobucket.com/
- [4]: http://picasaweb.google.com/
- [5]: http://flickr.com/
+ [2]: https://www.deviantart.com/
+ [3]: https://photobucket.com/
+ [4]: https://picasaweb.google.com/
+ [5]: https://flickr.com/

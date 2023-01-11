@@ -24,6 +24,6 @@ Son olarak tüm kişi listenizi **CSV** formatında içeriye ve dışarıya akta
 
 Ayrıntılar için : [Four changes to Gmail contacts][3]
 
- [1]: http://www.gmail.com
- [2]: http://gmailblog.blogspot.com/2009/02/sync-your-contacts-and-calendar-with.html
- [3]: http://gmailblog.blogspot.com/2009/02/four-changes-to-gmail-contacts.html
+ [1]: https://www.gmail.com
+ [2]: https://gmailblog.blogspot.com/2009/02/sync-your-contacts-and-calendar-with.html
+ [3]: https://gmailblog.blogspot.com/2009/02/four-changes-to-gmail-contacts.html

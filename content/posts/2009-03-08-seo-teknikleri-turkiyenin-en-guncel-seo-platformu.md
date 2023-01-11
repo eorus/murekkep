@@ -24,5 +24,5 @@ Sözü daha fazla uzatmadan emeği geçen herkese teşekkürlerimizi sunarak siz
 
  [1]: https://www.murekkep.org/google-seo-baslangic-rehberi-707
  [2]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [3]: http://www.yakuter.com/ve-nihayet-seo-teknikleri/
- [4]: http://murekkep.org
+ [3]: https://www.yakuter.com/ve-nihayet-seo-teknikleri/
+ [4]: https://murekkep.org

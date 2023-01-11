@@ -16,7 +16,7 @@ Bu sene 35. si düzenlenen 2009 [Halkın Seçimleri Ödülleri][1]&#8216;nin (Pe
 
 Tüm bunların dışında People&#8217;s Choice Awards blog sayfası eflatun görünümlü güzel temasıyla [WordPress][4] altyapısı kullanıyordu.
 
- [1]: http://tr.wikipedia.org/wiki/People%27s_Choice_%C3%96d%C3%BClleri
+ [1]: https://tr.wikipedia.org/wiki/People%27s_Choice_%C3%96d%C3%BClleri
  [2]: https://www.murekkep.org/2009-altin-kure-golden-globe-odulleri-800
  [3]: https://www.murekkep.org/2008-yilinin-en-iyi-filmleri-684
- [4]: http://www.wordpress.com
+ [4]: https://www.wordpress.com

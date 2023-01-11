@@ -20,10 +20,10 @@ tags:
 
 **Bing arama motoru** başlangıç sayfasına girdiğinizde &#8220;**yakında**&#8221; şeklindeki ifadeyi göreceksiniz. Tıkladığınızda ise sizi &#8220;**Decisionengine.com**&#8221; isimli sayfaya yönlendirip bir tanıtım videosu sunuluyor. Bing için açılan sayfanın başlık kısmına baktığımızda &#8220;**Microsoft&#8217;tan arama yapmanın daha iyi bir yolu**&#8221; şeklinde açıldığını görüyoruz. 
 
-Decision engine yani **karar alma motoru** şeklinde sunulan Bing üzerinde yaptığınız arama sonuçlarına istinaden ilişkili, benzer olabilecek diğer **arama sorguları** ekranın sol kısmında gösterilecekmiş. Discover Bing üzerinde yazılanlara baktığımızda gene karar alma üzerine yoğunlaşılıyor ve Bing & Decide şeklinde sloganlar görebiliyoruz. Bingle ve Karar ver. Bing ekran görüntülerine buradan bakabilirsiniz. Video tanıtımı ise <a href="http://www.decisionengine.com/" target="_blank">decisionengine.com</a> üzerinde sunuluyor. 
+Decision engine yani **karar alma motoru** şeklinde sunulan Bing üzerinde yaptığınız arama sonuçlarına istinaden ilişkili, benzer olabilecek diğer **arama sorguları** ekranın sol kısmında gösterilecekmiş. Discover Bing üzerinde yazılanlara baktığımızda gene karar alma üzerine yoğunlaşılıyor ve Bing & Decide şeklinde sloganlar görebiliyoruz. Bingle ve Karar ver. Bing ekran görüntülerine buradan bakabilirsiniz. Video tanıtımı ise <a href="https://www.decisionengine.com/" target="_blank">decisionengine.com</a> üzerinde sunuluyor. 
 
 Facebook ve Twitter üzerinden takip edilebilen Bing, ilk etapta Amerika üzerindeki kullanıcılar tarafından kullanılabilir şekilde sunuldu. **3 Haziran 2009** itibariyle ise dünya genelinde herkesin kullanabileceği şekilde hizmete girecek. 
 
-Dünya genelinde kullanılabilir hale geldiğinde, **[Bing][1]** ile ilgili kendi alacağımız ekran görüntüleriyle beraber daha detaylı bir değerlendirmede bulunacağız. Önümüzdeki haftaya kadar Bing ile ilgili ayrıntılı bilgiye Microsoft&#8217;un hazırladığı ve Silverlight kurulumu gerektiren <a href="http://www.discoverbing.com/" target="_blank">Discover Bing</a> isimli site üzerinden bakabilirsiniz.
+Dünya genelinde kullanılabilir hale geldiğinde, **[Bing][1]** ile ilgili kendi alacağımız ekran görüntüleriyle beraber daha detaylı bir değerlendirmede bulunacağız. Önümüzdeki haftaya kadar Bing ile ilgili ayrıntılı bilgiye Microsoft&#8217;un hazırladığı ve Silverlight kurulumu gerektiren <a href="https://www.discoverbing.com/" target="_blank">Discover Bing</a> isimli site üzerinden bakabilirsiniz.
 
- [1]: http://www.bing.com
+ [1]: https://www.bing.com

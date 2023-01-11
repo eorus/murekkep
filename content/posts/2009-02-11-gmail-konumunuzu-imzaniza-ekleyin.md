@@ -19,8 +19,8 @@ Bu yeni **Gmail** özelliğini aktif etmek için &#8220;**Ayarlar**&#8221; kısm
 
 [New in Labs: Add your location to your signature][5]
 
- [1]: http://www.google.com.tr
- [2]: http://gmail.com
- [3]: http://gmailblog.blogspot.com/
- [4]: http://gearsblog.blogspot.com/2008/10/wifi-based-geolocation-anyone.html
- [5]: http://gmailblog.blogspot.com/2009/02/new-in-labs-add-your-location-to-your.html
+ [1]: https://www.google.com.tr
+ [2]: https://gmail.com
+ [3]: https://gmailblog.blogspot.com/
+ [4]: https://gearsblog.blogspot.com/2008/10/wifi-based-geolocation-anyone.html
+ [5]: https://gmailblog.blogspot.com/2009/02/new-in-labs-add-your-location-to-your.html

@@ -12,7 +12,7 @@ tags:
   - youtube
 
 ---
-[Youtube][1] telif hakkı ihlâllerini engellemek için yeni uygulamasının beta sürümünü yayımladığını duyurdu<a href="http://googleblog.blogspot.com/2007/06/state-of-our-video-id-tools.html" target="_blank">[1]</a><a href="http://googleblog.blogspot.com/2007/10/latest-content-id-tool-for-youtube.html" target="_blank">[2].</a> Haliyle bu [Google][2]&#8216;ın kendisini satın almasından sonra olan bir gelişme. İşe ne kadar yarar bilinmez ancak Youtube&#8217;un buna bel bağladığı aşikâr. Kendilerinin söylediklerine göre de sistemleri şu anda güzel çalışıyor. Peki sistem nasıl çalışıyor?
+[Youtube][1] telif hakkı ihlâllerini engellemek için yeni uygulamasının beta sürümünü yayımladığını duyurdu<a href="https://googleblog.blogspot.com/2007/06/state-of-our-video-id-tools.html" target="_blank">[1]</a><a href="https://googleblog.blogspot.com/2007/10/latest-content-id-tool-for-youtube.html" target="_blank">[2].</a> Haliyle bu [Google][2]&#8216;ın kendisini satın almasından sonra olan bir gelişme. İşe ne kadar yarar bilinmez ancak Youtube&#8217;un buna bel bağladığı aşikâr. Kendilerinin söylediklerine göre de sistemleri şu anda güzel çalışıyor. Peki sistem nasıl çalışıyor?
 
 <!--more-->
 

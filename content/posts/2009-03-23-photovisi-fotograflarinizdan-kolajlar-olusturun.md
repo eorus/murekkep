@@ -30,6 +30,6 @@ Tekrar Photovisi&#8217;ye döndüğümüzde, **Photovisi** bilgisayarınızda bu
 
 18 farklı şablonun yer aldığı üyelik gerektirmeden ücretsiz bir şekilde fotoğraf kolajları oluşturabileceğiniz **Photovisi** üzerinde istediğiniz kadar kolaj yaratabiliyorsunuz.
 
- [1]: http://www.photovisi.com/
- [2]: http://tr.wikipedia.org/wiki/Kolaj
- [3]: http://flickr.com
+ [1]: https://www.photovisi.com/
+ [2]: https://tr.wikipedia.org/wiki/Kolaj
+ [3]: https://flickr.com

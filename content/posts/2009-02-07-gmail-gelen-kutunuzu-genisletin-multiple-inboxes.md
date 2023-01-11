@@ -18,7 +18,7 @@ Varsayılan olarak açılan Gmail gelen kutusunda tek bir bölüm yer alıyordu.
 
  [1]: https://www.murekkep.org/google-gears-ile-cevrimdisi-offline-gmail-960
  [2]: https://www.murekkep.org/gmail-etiketlere-labels-tasima-ve-yeni-menu-ekledi-1043
- [3]: http://www.gmail.com
- [4]: http://labs.google.com/
- [5]: http://gmailblog.blogspot.com/
- [6]: http://gmailblog.blogspot.com/2009/02/new-in-labs-multiple-inboxes.html
+ [3]: https://www.gmail.com
+ [4]: https://labs.google.com/
+ [5]: https://gmailblog.blogspot.com/
+ [6]: https://gmailblog.blogspot.com/2009/02/new-in-labs-multiple-inboxes.html

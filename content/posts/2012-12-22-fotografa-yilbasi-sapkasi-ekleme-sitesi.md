@@ -25,4 +25,4 @@ Bundan önce size birçok [fotoğraf efekti sitesi][4] tanıttık. Fakat [Funny.
  [2]: https://www.murekkep.org/iphone-fotografa-yilbasi-sapkasi-ekleme-9695 "fotoğrafa noel baba şapkası ekleme"
  [3]: https://www.murekkep.org/resme-yilbasi-sapkasi-ekleme-programi-9849 "resme yılbaşı şapkası ekleme"
  [4]: https://www.murekkep.org/en-iyi-5-fotograf-efekt-sitesi-1805 "fotoğraf efekt sitesi"
- [5]: http://funny.pho.to/tr/
+ [5]: https://funny.pho.to/tr/

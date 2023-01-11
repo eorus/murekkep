@@ -171,5 +171,5 @@ Andrew Pearce PDI&#8217;de bulunan DreamWorks Animation R&D grubunu yönetmekte.
                 </p>
                 
                 <p>
-                  Kaynak: <a href="http://www.linuxjournal.com/article/9653" target="_blank">http://www.linuxjournal.com/article/9653</a>
+                  Kaynak: <a href="https://www.linuxjournal.com/article/9653" target="_blank">https://www.linuxjournal.com/article/9653</a>
                 </p>

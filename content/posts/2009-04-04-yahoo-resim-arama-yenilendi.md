@@ -16,13 +16,13 @@ categories:
 
 Resim önizleme ekranında **resmin boyutu**, kaynağı ve yasal durumuyla ilgili açıklamalar yer alıyor. Alt kısımda ise resmin kaynağı olan web sayfasının açıldığını görebiliyorsunuz. Üst kısıma eklenen resim önizlemesine döndüğümüzde **arama sonuçlarınızı** devam ettirebilmeniz için yaptığınız resim aramasına istinaden gelen daha fazla sonuçlar gene ilk sayfadaki küçük resim boyutunda sıralanıyor. Daha fazla sonuç kısmının altında ise bu resim aramasını gerçekleştirenler aynı zamanda bu aramaları da yaptılar şeklinde küçük resimler ve altında gerçekleştirilen arama sorgularının yer aldığı bölümü görebiliyorsunuz.<!--more-->
 
-<img alt="" src="http://farm4.static.flickr.com/3404/3409896772_54af657c15.jpg" title="Yahoo Resim Arama" class="alignnone" width="500" height="252" />  
-<small><a href="http://www.flickr.com/photos/ysearchblog/3409896772/">Yahoo! Image Search new preview page</a></small>
+<img alt="" src="https://farm4.static.flickr.com/3404/3409896772_54af657c15.jpg" title="Yahoo Resim Arama" class="alignnone" width="500" height="252" />  
+<small><a href="https://www.flickr.com/photos/ysearchblog/3409896772/">Yahoo! Image Search new preview page</a></small>
 
 **Yahoo** görsellerde yapacağınız **görsel arama**ları için süzgeç (**filter**) uygulayabiliyorsunuz. Böylelikle aradığınız görselin boyutunu, rengini ve [Flickr][3] üzerindeki resimlerle ilişkili olup olamaması gerektiğini belirleyip aramalarınızı belirli sınırlar ile şekillendirebiliyorsunuz. 
 
 Image Search Preview Page Overhaul
 
- [1]: http://www.yahoo.com/
- [2]: http://images.search.yahoo.com/
- [3]: http://flickr.com
+ [1]: https://www.yahoo.com/
+ [2]: https://images.search.yahoo.com/
+ [3]: https://flickr.com

@@ -40,6 +40,6 @@ Kullanmakta olduğunuz torrent programı ile bir torrent dosyası indirmek isted
 
 **Torrent programları** BitTorrent protokolünü kullanarak torrent dosyalarını indiren ya da karşıya yükleyen ve yukarıda saydığımız **torrent dosyası** içerisindeki bilgileri işleyen bilgisayar programlarıdır. 
 
-Genel olarak <a href="http://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients" target="_blank">BitTorrent İstemcilerinin Karşılaştırmalarına</a> ve hangi işletim sisteminde hangi torrent programlarının olduğuna ilişkin Wikipedia üzerinde oluşturulmuş tabloya bakabilirsiniz. 
+Genel olarak <a href="https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients" target="_blank">BitTorrent İstemcilerinin Karşılaştırmalarına</a> ve hangi işletim sisteminde hangi torrent programlarının olduğuna ilişkin Wikipedia üzerinde oluşturulmuş tabloya bakabilirsiniz. 
 
 Torrent programları ve torrent sitelerine ilişkin detayları bir diğer torrent konu başlığında işleyeceğiz.

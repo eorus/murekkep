@@ -21,7 +21,7 @@ Bugün gene vizyona giren bir başka film daha var. &#8220;Muro: Nalet Olsun İ�
 
 Muhteşem A.R.O.G Filmi&#8217;nin Mütevazı Web Sitesi
 
-<a href="http://www.google.com.tr/movies?hl=tr&near=istanbul&dq=arog&sort=1&mid=8276abb8de793ffc&sa=X&oi=showtimes&ct=movie-link&cd=1" target="_blank">Arog Filminin İstanbul&#8217;daki Gösteri Zamanları </a>
+<a href="https://www.google.com.tr/movies?hl=tr&near=istanbul&dq=arog&sort=1&mid=8276abb8de793ffc&sa=X&oi=showtimes&ct=movie-link&cd=1" target="_blank">Arog Filminin İstanbul&#8217;daki Gösteri Zamanları </a>
 
 **Türü**: Komedi  
 **Ülke**: Türkiye  
@@ -30,5 +30,5 @@ Muhteşem A.R.O.G Filmi&#8217;nin Mütevazı Web Sitesi
 **Oyuncular**: Cem Yılmaz, Özge Özberk, Ozan Güven, Nil Karaibrahimgil, Özkan Uğur, Zafer Algöz  
 **Senaryo**: Cem Yılmaz
 
- [1]: http://www.gorafilm.com/
+ [1]: https://www.gorafilm.com/
  [2]: https://www.murekkep.org/kurtlar-vadisi-teror-199

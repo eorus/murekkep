@@ -15,7 +15,7 @@ tags:
   - tablet
 
 ---
-[Apple iPad 3 07 Mart 2012 tarihinde duyurulabilir][1]{.broken_link}. Bu tahmine göre iPad 3 için haber gündemi 07 Mart tarihi yaklaştıkça artarak devam ediyor. Kısaca toparlamak gerekirse **iPad 3** için neredeyse kesin olan bir konu varsa o da <a title="retina display nedir" href="http://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina Display teknolojisi</a> ve bu teknolojiye bağlı olarak meydana gelmesi muhtemel değişiklikler.
+[Apple iPad 3 07 Mart 2012 tarihinde duyurulabilir][1]{.broken_link}. Bu tahmine göre iPad 3 için haber gündemi 07 Mart tarihi yaklaştıkça artarak devam ediyor. Kısaca toparlamak gerekirse **iPad 3** için neredeyse kesin olan bir konu varsa o da <a title="retina display nedir" href="https://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina Display teknolojisi</a> ve bu teknolojiye bağlı olarak meydana gelmesi muhtemel değişiklikler.
 
 Yeni iPad 3 için Sharp tarafından üretilecek **yüksek çözünürlüklü bir Retina Ekran** olacağı ve ekran boyutunun **QXGA 9.7-inç** şeklinde olmasını beklediğimizi aktarmıştık. iPad 3 için en büyük beklenti ekran çözünürlüğü gibi gözüküyor. Bu yüzden **Apple iPad 3 için 2048 x 1536 piksel çözünürlüğünde bir Retina Ekran** bekleniyor.
 

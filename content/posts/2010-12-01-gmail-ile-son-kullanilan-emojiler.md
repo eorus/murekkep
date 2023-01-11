@@ -26,4 +26,4 @@ Tüm ifade emoji listesini görmeye gerek kalmadan sık kullandığınız ifadel
 
 Artık yeni bir gmail mesajı yarattığınızda son kullandığınız 10 emojiyi ekranda görebilirsiniz. Arzu ederseniz aşağı doğru açılan kısımdan favori emojilerinizi belirleyebilirsiniz. 
 
-<a href="http://gmailblog.blogspot.com/2010/11/new-in-labs-recently-used-emoji.html" target="_blank">New in Labs: Recently used emoji</a>
+<a href="https://gmailblog.blogspot.com/2010/11/new-in-labs-recently-used-emoji.html" target="_blank">New in Labs: Recently used emoji</a>

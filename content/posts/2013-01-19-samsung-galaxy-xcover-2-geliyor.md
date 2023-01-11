@@ -42,4 +42,4 @@ Kaynak: [SamMobile][3]
 
  [1]: https://www.murekkep.org/telefon
  [2]: https://www.murekkep.org/telefon/sony-xperia-z
- [3]: http://www.sammobile.com/2013/01/18/exclusive-next-generation-of-the-galaxy-x-cover-is-here/
+ [3]: https://www.sammobile.com/2013/01/18/exclusive-next-generation-of-the-galaxy-x-cover-is-here/

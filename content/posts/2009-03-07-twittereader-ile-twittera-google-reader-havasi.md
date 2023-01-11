@@ -31,5 +31,5 @@ Google Reader kullananlar bilirler. **Google Reader** ile yüzlerce siteyi rss b
 
 **TwitteReader** arzu edilirse twitter hesap bilgileriyle giriş yapılarak arzu edilirse bilgisayarınıza program indirilerek kullanılabiliyor. TwitteReader temiz arayüzü ve Google Reader tarzından dolayı takip açısından ön plana çıkıyor. Çünkü aynı email kontrolü yapar gibi tek bir yere girip Twitter adına herşeyi yapabiliyorsunuz.
 
- [1]: http://twitter.com
- [2]: http://www.google.com/reader/
+ [1]: https://twitter.com
+ [2]: https://www.google.com/reader/

@@ -27,6 +27,6 @@ Bunun haricinde bir de sıkca duyduğumuz sansür olaylarından da kurtulmuş ol
 
 [[bkz.][3]]
 
- [1]: http://www.opendns.com
+ [1]: https://www.opendns.com
  [2]: https://www.murekkep.org/firefox-klavye-kisayollari-261
- [3]: http://www.lifehacker.com/software/shortcuts/browse-the-web-with-keyword-shortcuts-254431.php
+ [3]: https://www.lifehacker.com/software/shortcuts/browse-the-web-with-keyword-shortcuts-254431.php

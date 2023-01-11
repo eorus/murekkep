@@ -27,7 +27,7 @@ Compfight aramalarınızda gelişmiş arama seçenekleri olarak etiket araması 
 
 [Compfight][4]{.broken_link}&#8216;ın birçok konuda yararlı bir resim arama aracı olduğunu düşünüyorum. Blog yazanların veya internet üzerinde belirli resimlere ulaşıp bunları kullananlar dışında eğitim sektöründe de yoğun bir şekilde kullanılabileceğini düşünüyorum. Öğretmenlerin hazırlayacakları konularda ya da öğrencilerin ödevlerinde kullanacakları resimleri aratıp bulabilecekleri bir kaynak diyebiliriz.
 
- [1]: http://www.google.com.tr/
- [2]: http://www.flickr.com/
- [3]: http://creativecommons.org/licenses/by-nc-sa/3.0/
- [4]: http://compfight.com/
+ [1]: https://www.google.com.tr/
+ [2]: https://www.flickr.com/
+ [3]: https://creativecommons.org/licenses/by-nc-sa/3.0/
+ [4]: https://compfight.com/

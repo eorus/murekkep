@@ -22,7 +22,7 @@ Windows 8 Nature Teması 4 adet HD ve 2 adet geniş ekran için tasarlanmış du
 
 <img class="aligncenter size-full wp-image-7851" title="windows-8-tema" src="https://www.murekkep.org/wp-content/uploads/2012/02/windows-8-tema.jpg" alt="" width="500" height="265" srcset="https://www.murekkep.org/wp-content/uploads/2012/02/windows-8-tema.jpg 500w, https://www.murekkep.org/wp-content/uploads/2012/02/windows-8-tema-400x212.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/02/windows-8-tema-50x26.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/02/windows-8-tema-235x125.jpg 235w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
-<a title="Windows 8 Nature Themepack" href="http://jaycee13.deviantart.com/art/Windows-8-Nature-Themepack-283696818" target="_blank" class="broken_link">Windows 8 Nature Themepack</a>
+<a title="Windows 8 Nature Themepack" href="https://jaycee13.deviantart.com/art/Windows-8-Nature-Themepack-283696818" target="_blank" class="broken_link">Windows 8 Nature Themepack</a>
 
  [1]: https://www.murekkep.org/windows-8-ozellikleri-6858 "Windows 8 özellikleri"
  [2]: https://www.murekkep.org/windows-8-indirilmeye-hazir-windows-8-pre-beta-indir-6850 "windows 8 pre-beta"

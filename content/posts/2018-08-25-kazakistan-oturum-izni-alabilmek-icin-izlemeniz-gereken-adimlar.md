@@ -23,4 +23,4 @@ Kazakistan vatandaşlığına kabul için uygulanan basitleştirilmiş prosedür
 
 Son 10 yıldır siyasi üyelikler daha zor bir hale gelmiştir. Kırgızistan’da Kazakistan’a olan işçi göçleri son zamanlarda büyük bir artış göstermektedir. Bu da ülke ekonomisini, toplu ve siyaseti etkileyen bir tablo oluşturdu.  Kazakistan gezilecek yerler konusunda araştırma yaptığınız zaman Almatı lüks otelleri ile sizi cezbedecektir. Artık başkenti bu şehir değil Astana’dır. Almatı Asya’nın önde gelen finansal oyuncularından birisidir. Ayrıca bu güzel şehir dağlara yakın bir hayat sunar size ve dilediğiniz gibi yürüyüşler yaparak temiz havanın tadını çıkarabilirsiniz.
 
- [1]: http://gezilecek.org/
+ [1]: https://gezilecek.org/

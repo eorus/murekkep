@@ -32,7 +32,7 @@ Açılış sayfasında da bahsedildiği üzere flash dahil tüm eklenti desteği
 
 Linux ve Mac üzerinde Google tarafından sağlanan Google Chrome tarayıcısı için daha kararlı sürüm olan Beta sürümü beklemek gerekecek gibi gözüküyor.
 
- [1]: http://code.google.com/chromium/
- [2]: http://blog.chromium.org/2009/06/danger-mac-and-linux-builds-available.html
- [3]: http://dev.chromium.org/getting-involved/dev-channel
- [4]: http://code.google.com/p/chromium/issues/list?can=2&q=OS:Linux,Mac
+ [1]: https://code.google.com/chromium/
+ [2]: https://blog.chromium.org/2009/06/danger-mac-and-linux-builds-available.html
+ [3]: https://dev.chromium.org/getting-involved/dev-channel
+ [4]: https://code.google.com/p/chromium/issues/list?can=2&q=OS:Linux,Mac

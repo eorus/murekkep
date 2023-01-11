@@ -23,11 +23,11 @@ Tablet bilgisayarların hafıza seçeneklerinin düşük olmasının en önemli 
 
 ## iPad Hafızasını Artırmanın 5 Yolu
 
-### 1. <a href="http://www.kingston.com/us/usb/wireless/" target="_blank">Kingston Wi drive</a>
+### 1. <a href="https://www.kingston.com/us/usb/wireless/" target="_blank">Kingston Wi drive</a>
 
 <img class="size-full wp-image-13586 alignnone" alt="ipad-hafiza-artirma-01" src="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01.jpg" width="543" height="406" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01.jpg 543w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01-400x299.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01-267x200.jpg 267w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-01-407x305.jpg 407w" sizes="(max-width: 543px) 100vw, 543px" /> 
 
-### 2. <a href="http://www.seagate.com/external-hard-drives/portable-hard-drives/wireless/seagate-satellite/" target="_blank" class="broken_link">Seagate GoFlex Satellite</a>
+### 2. <a href="https://www.seagate.com/external-hard-drives/portable-hard-drives/wireless/seagate-satellite/" target="_blank" class="broken_link">Seagate GoFlex Satellite</a>
 
 <img class="alignnone size-full wp-image-13587" alt="ipad-hafiza-artirma-02" src="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02.jpg" width="360" height="438" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02.jpg 360w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02-328x400.jpg 328w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02-41x50.jpg 41w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02-82x100.jpg 82w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02-164x200.jpg 164w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-02-250x305.jpg 250w" sizes="(max-width: 360px) 100vw, 360px" /> 
 
@@ -35,7 +35,7 @@ Tablet bilgisayarların hafıza seçeneklerinin düşük olmasının en önemli 
 
 <img class="alignnone size-full wp-image-13588" alt="ipad-hafiza-artirma-03" src="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-03.jpg" width="423" height="214" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-03.jpg 423w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-03-400x202.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-03-50x25.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-03-125x63.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-03-300x151.jpg 300w" sizes="(max-width: 423px) 100vw, 423px" /> 
 
-### 4. <a href="http://www.airstash.com/" target="_blank" class="broken_link">AirStash</a>
+### 4. <a href="https://www.airstash.com/" target="_blank" class="broken_link">AirStash</a>
 
 <img class="alignnone size-full wp-image-13589" alt="ipad-hafiza-artirma-04" src="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04.jpg" width="487" height="323" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04.jpg 487w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04-400x265.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04-125x82.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04-300x200.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/03/ipad-hafiza-artirma-04-459x305.jpg 459w" sizes="(max-width: 487px) 100vw, 487px" /> 
 

@@ -26,7 +26,7 @@ Yakın zamanda yaşadığımız [2007 Akademi Ödülleri][3]&#8216;nden hatırla
 
 Festival ile ilgili tüm bilgilere buradan ulaşabilirsiniz. Eğer İstanbul Film Festivali yeterli gelmezse Nisan Ayı içerisinde hemen devamında [Ankara Uluslararası Film Festivali][4]&#8216;ne bakabilirsiniz.
 
- [1]: http://www.iksv.org/
- [2]: http://www.akbank.com/
+ [1]: https://www.iksv.org/
+ [2]: https://www.akbank.com/
  [3]: https://www.murekkep.org/2007-akademi-odulleri-79-oscar-sonuclari-209
  [4]: https://www.murekkep.org/ankara-uluslararasi-film-festivali-185

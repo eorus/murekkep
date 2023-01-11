@@ -18,7 +18,7 @@ tags:
 ---
 Sony bu sene bir [telefon][1] içerisinde bulunması gereken donanım ve tasarım gereksinimlerini gayet güzel bir şekilde birleştirerek oldukça iddialı akıllı telefonunu, Sony Xperia Z modelini duyurdu. İlk defa [CES 2013][2] fuarında tanıtılan Sony&#8217;nin yeni amiral gemisi akıllı telefonu [Sony Xperia Z][3] için tam olarak **çıkış tarihi** belli olmasa bile fiyatıyla ilgili olarak internet dünyasının önemli alışveriş sitesi Amazon üzerinde ön sipariş alınmaya başlandı.
 
-<a href="http://www.amazon.de/Sony-Smartphone-Touchscreen-Quadcore-Megapixel/dp/B00AXSXDFI" target="_blank">Amazon Almanya üzerinde ön siparişte</a> olan **Sony Xperia Z satış fiyatı 649 euro** olarak listelenmiş. Bu da Sony Xperia Z satış fiyatının **867 usd** gibi bir fiyata yani **1500 &#8211; 1600 TL** gibi Türk Lirası aralığına denk geldiğini gösteriyor.
+<a href="https://www.amazon.de/Sony-Smartphone-Touchscreen-Quadcore-Megapixel/dp/B00AXSXDFI" target="_blank">Amazon Almanya üzerinde ön siparişte</a> olan **Sony Xperia Z satış fiyatı 649 euro** olarak listelenmiş. Bu da Sony Xperia Z satış fiyatının **867 usd** gibi bir fiyata yani **1500 &#8211; 1600 TL** gibi Türk Lirası aralığına denk geldiğini gösteriyor.
 
 [Sony Xperia Z özellikleri][4] ve yine beraber duyurulduğu [Sony Xperia Z ile Xperia ZL arasındaki farklarla][5] ilgili yazılarımızdan bakabilirsiniz. Sony Xperia Z&#8217;nin Mart ayı gibi Türkiye&#8217;de satışına başlanacağını bekliyoruz. Ancak yukarıda belirttiğimiz Amazon Almanya ön sipariş fiyatının ülkemize giriş yaptıktan sonra nasıl şekilleneceğini hep beraber göreceğiz.
 

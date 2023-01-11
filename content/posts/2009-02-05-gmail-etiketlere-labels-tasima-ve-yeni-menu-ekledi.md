@@ -26,7 +26,7 @@ Gmail&#8217;ı efektif bir şekilde kullanan herkes için çok kullanışlı ve 
 
 [Gmail Blog][3] : [New ways to label with &#8220;Move to&#8221; and auto-complete][4]
 
- [1]: http://www.google.com.tr
- [2]: http://www.gmail.com
- [3]: http://gmailblog.blogspot.com/
- [4]: http://gmailblog.blogspot.com/2009/02/new-ways-to-label-with-move-to-and-auto.html
+ [1]: https://www.google.com.tr
+ [2]: https://www.gmail.com
+ [3]: https://gmailblog.blogspot.com/
+ [4]: https://gmailblog.blogspot.com/2009/02/new-ways-to-label-with-move-to-and-auto.html

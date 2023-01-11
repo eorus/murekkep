@@ -20,7 +20,7 @@ Yeni yılın gelişi hiç şüphesiz tüm insanlarda bir heyecan yaratıyor. Asl
 <img class="aligncenter size-full wp-image-9713" title="blog-1" src="https://www.murekkep.org/wp-content/uploads/2012/12/blog-1.png" alt="blog-1" width="400" height="284" srcset="https://www.murekkep.org/wp-content/uploads/2012/12/blog-1.png 400w, https://www.murekkep.org/wp-content/uploads/2012/12/blog-1-50x35.png 50w, https://www.murekkep.org/wp-content/uploads/2012/12/blog-1-125x88.png 125w, https://www.murekkep.org/wp-content/uploads/2012/12/blog-1-281x200.png 281w" sizes="(max-width: 400px) 100vw, 400px" /> 
 
 <p style="text-align: center;">
-  <a title="blog" href="http://btemplates.com/2008/11/25/snowman/demo/">Önizleme</a> | <a title="blog" href="http://btemplates.com/download/697/">İNDİR</a>
+  <a title="blog" href="https://btemplates.com/2008/11/25/snowman/demo/">Önizleme</a> | <a title="blog" href="https://btemplates.com/download/697/">İNDİR</a>
 </p>
 
 <p style="text-align: center;">
@@ -28,7 +28,7 @@ Yeni yılın gelişi hiç şüphesiz tüm insanlarda bir heyecan yaratıyor. Asl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://btemplates.com/2008/11/30/santa-and-reindeers/demo/">Önizleme</a> | <a href="http://btemplates.com/download/718/">İNDİR</a>
+  <a href="https://btemplates.com/2008/11/30/santa-and-reindeers/demo/">Önizleme</a> | <a href="https://btemplates.com/download/718/">İNDİR</a>
 </p>
 
 <p style="text-align: center;">
@@ -36,7 +36,7 @@ Yeni yılın gelişi hiç şüphesiz tüm insanlarda bir heyecan yaratıyor. Asl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://btemplates.com/2009/12/01/christmas-v2/demo/">Önizleme</a> | <a href="http://btemplates.com/download/1485/">İNDİR</a>
+  <a href="https://btemplates.com/2009/12/01/christmas-v2/demo/">Önizleme</a> | <a href="https://btemplates.com/download/1485/">İNDİR</a>
 </p>
 
 <p style="text-align: center;">
@@ -44,7 +44,7 @@ Yeni yılın gelişi hiç şüphesiz tüm insanlarda bir heyecan yaratıyor. Asl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://btemplates.com/2009/12/01/christmas-v1/demo/">Önizleme</a> | <a href="http://btemplates.com/download/1484/">İNDİR</a>
+  <a href="https://btemplates.com/2009/12/01/christmas-v1/demo/">Önizleme</a> | <a href="https://btemplates.com/download/1484/">İNDİR</a>
 </p>
 
 <p style="text-align: center;">
@@ -52,7 +52,7 @@ Yeni yılın gelişi hiç şüphesiz tüm insanlarda bir heyecan yaratıyor. Asl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://merry-christmas-day.blogspot.com/">Önizleme</a> | <a href="http://taolaga.googlepages.com/temlatechristmas.xml">İNDİR</a>
+  <a href="https://merry-christmas-day.blogspot.com/">Önizleme</a> | <a href="https://taolaga.googlepages.com/temlatechristmas.xml">İNDİR</a>
 </p>
 
 <p style="text-align: center;">
@@ -60,7 +60,7 @@ Yeni yılın gelişi hiç şüphesiz tüm insanlarda bir heyecan yaratıyor. Asl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://btemplates.com/2008/03/16/birdie%E2%80%99s-enchanted-christmas/demo/" class="broken_link">Önizleme</a> | <a href="http://btemplates.com/download/189/">İNDİR</a>
+  <a href="https://btemplates.com/2008/03/16/birdie%E2%80%99s-enchanted-christmas/demo/" class="broken_link">Önizleme</a> | <a href="https://btemplates.com/download/189/">İNDİR</a>
 </p>
 
 <p style="text-align: center;">

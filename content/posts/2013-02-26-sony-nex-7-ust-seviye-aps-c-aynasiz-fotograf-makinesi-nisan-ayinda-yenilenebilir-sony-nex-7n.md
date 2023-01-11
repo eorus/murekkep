@@ -20,7 +20,7 @@ Sony&#8217;nin 2013 itibariyle özellikle NEX serisindeki fotoğraf makinesi mod
 
 <img class="alignnone size-full wp-image-12249" alt="sony-nex-7-successor" src="https://www.murekkep.org/wp-content/uploads/2013/02/sony-nex-7-successor.jpg" width="600" height="280" /> 
 
-via <a title="Sony NEX-7n Announcement in April, Expecting New 24 Megapixel Sensor" href="http://www.dailycameranews.com/2013/02/sony-nex-7n-announcement-in-april-expecting-new-24-megapixel-sensor/" rel="external dofollow">DCN</a>
+via <a title="Sony NEX-7n Announcement in April, Expecting New 24 Megapixel Sensor" href="https://www.dailycameranews.com/2013/02/sony-nex-7n-announcement-in-april-expecting-new-24-megapixel-sensor/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera/sony/nex-3n "sony nex-3n aynasız fotoğraf makinesi"
  [2]: https://www.murekkep.org/kamera/sony/nex-7 "sony nex-7"

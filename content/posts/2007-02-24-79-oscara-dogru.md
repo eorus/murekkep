@@ -18,8 +18,8 @@ Oscar&#8217;ın habercisi sayılan Golden Globe, geçmiş yıllarda her zaman be
 
 79. Akademi Ödülleri Tüm Aday Listesi
 
- [1]: http://www.ntvmsnbc.com/
- [2]: http://imdb.com/title/tt0457430/
- [3]: http://imdb.com/title/tt0407887/
- [4]: http://imdb.com/title/tt0449467/
- [5]: http://imdb.com/name/nm0000217/
+ [1]: https://www.ntvmsnbc.com/
+ [2]: https://imdb.com/title/tt0457430/
+ [3]: https://imdb.com/title/tt0407887/
+ [4]: https://imdb.com/title/tt0449467/
+ [5]: https://imdb.com/name/nm0000217/

@@ -16,7 +16,7 @@ Samsung&#8217;un satış rekorları kıran önemli akıllı telefonu Samsung Gal
 
 **Samsung Galaxy S3 için Android 4.1.2 güncellemesiyle** beraber Samsung&#8217;un premium suite adı ile duyurduğu önemli yenilikler yer alıyor. Page buddy, paper artist, en iyi yüz ifadesi gibi pek çok işlevsel yeniliğin yer aldığı Premium Suite paketi Android 4.1.2 güncellemesiyle Samsung Galaxy S3 kullanıcılarına sunulmuş oluyor.
 
-<a href="http://www.sammobile.com/2012/12/05/galaxy-s-iii-receives-android-4-1-2-jelly-bean-update-lots-of-new-features/" target="_blank" rel="external">Galaxy S III receives Android 4.1.2 Jelly Bean Update, Lots of new features</a>
+<a href="https://www.sammobile.com/2012/12/05/galaxy-s-iii-receives-android-4-1-2-jelly-bean-update-lots-of-new-features/" target="_blank" rel="external">Galaxy S III receives Android 4.1.2 Jelly Bean Update, Lots of new features</a>
 
   * Android 4.1.2 – JZO54K
   * Multi-Görünüm (Multi-Windows Multitasking, Note II ile aynı)

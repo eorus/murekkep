@@ -20,6 +20,6 @@ Google+ ile bir başka kullanıcıya direkt mesaj gönderebiliyorsunuz. Google p
 
 Google+ üzerinde ziyaret ettiğiniz kullanıcı profilinin ekranında sol kısımdaki **profil resminin hemen altında ileti gönder butonu** sayesinde ilgili kullanıcıya direkt olarak ileti gönderebiliyorsunuz. Tıkladığınızda ise ilgili kullanıcıya ileti gönderebilmeniz için bir ekran açılıyor.
 
-**Google+** ileti penceresinde fotoğraf,video,link ekleyebileceğiniz ve mesajınızı yazabileceğiniz bir alan bulunuyor. Aşağıda Mürekkep olarak desteklediğimiz <a title="Türk Nikon" href="http://www.turknikon.com/" target="_blank" class="broken_link">Türk Nikon</a> platformuna göndermek üzere olduğumuz iletinin bir örneğini görebilirsiniz.
+**Google+** ileti penceresinde fotoğraf,video,link ekleyebileceğiniz ve mesajınızı yazabileceğiniz bir alan bulunuyor. Aşağıda Mürekkep olarak desteklediğimiz <a title="Türk Nikon" href="https://www.turknikon.com/" target="_blank" class="broken_link">Türk Nikon</a> platformuna göndermek üzere olduğumuz iletinin bir örneğini görebilirsiniz.
 
 <img class="alignnone size-full wp-image-7028" title="google-plus2" src="https://www.murekkep.org/wp-content/uploads/2011/11/google-plus2.jpg" alt="" width="500" height="308" srcset="https://www.murekkep.org/wp-content/uploads/2011/11/google-plus2.jpg 500w, https://www.murekkep.org/wp-content/uploads/2011/11/google-plus2-300x184.jpg 300w, https://www.murekkep.org/wp-content/uploads/2011/11/google-plus2-400x246.jpg 400w" sizes="(max-width: 500px) 100vw, 500px" />

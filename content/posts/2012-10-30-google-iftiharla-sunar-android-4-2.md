@@ -36,7 +36,7 @@ Daha önce Swype adında bir mobil uygulama duymuş muydunuz? Duymadıysanız Sw
 </p>
 
 <p style="text-align: left;">
-  <a title="android 4.2 klavye" href="http://wp.me/p1eJph-2iA"><em>Swype Benzeri Klavye Android 4.x&#8217;e nasıl yüklenir?</em></a>
+  <a title="android 4.2 klavye" href="https://wp.me/p1eJph-2iA"><em>Swype Benzeri Klavye Android 4.x&#8217;e nasıl yüklenir?</em></a>
 </p>
 
 ## Çoklu Kullanıcı Desteği (Yalnızca Tabletlerde)
@@ -61,6 +61,6 @@ Google Android 4.2 ile gerçekten de beklentileri karşılamış gibi gözüküy
 
 [ Miracast kablosuz ekran desteği hakkında detaylı bilgi >>][3]
 
- [1]: http://wp.me/p1eJph-2ik "photo sphere"
+ [1]: https://wp.me/p1eJph-2ik "photo sphere"
  [2]: https://www.murekkep.org/nexus-10-ile-android-4-2-coklu-kullanici-ozelligi-9120 "android 4.2 çoklu kullanıcı"
- [3]: http://wp.me/p1eJph-2mV
+ [3]: https://wp.me/p1eJph-2mV

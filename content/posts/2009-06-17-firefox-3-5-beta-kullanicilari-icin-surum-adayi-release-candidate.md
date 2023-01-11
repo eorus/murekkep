@@ -17,7 +17,7 @@ tags:
   - yazılım
 
 ---
-**Firefox 3.5 beta** süreci içerisinde bir taraftan da firefox 3 serisinin güncellemeleri duyurulmaya devam ediyordu. Son firefox 3 güncellemesi olan firefox 3.0.11 duyurusundan sonra firefox 3.5 için neredeyse release candidate olarak bildiğimiz final öncesi sürüm adayına yaklaştığımızdan bahsetmiştik. Birinci **<a href="http://blog.mozilla.com/blog/2009/06/17/firefox-35-beta-users-will-receive-update-to-early-release-candidate/" target="_blank">firefox 3.5 release candidate</a>** duyurusu bugün **Mozilla Blog** ve **Mozilla Developer Center** üzerinden yapıldı. 
+**Firefox 3.5 beta** süreci içerisinde bir taraftan da firefox 3 serisinin güncellemeleri duyurulmaya devam ediyordu. Son firefox 3 güncellemesi olan firefox 3.0.11 duyurusundan sonra firefox 3.5 için neredeyse release candidate olarak bildiğimiz final öncesi sürüm adayına yaklaştığımızdan bahsetmiştik. Birinci **<a href="https://blog.mozilla.com/blog/2009/06/17/firefox-35-beta-users-will-receive-update-to-early-release-candidate/" target="_blank">firefox 3.5 release candidate</a>** duyurusu bugün **Mozilla Blog** ve **Mozilla Developer Center** üzerinden yapıldı. 
 
 **Firefox 3.5** için birinci sürüm adayı (**rc1**) direkt olarak indirilebilir durumda bulunmuyor. Firefox 3.5 beta 4 duyurulduktan sonra indirip kuran 800.000 kullanıcı göz önünde bulundurularak, halihazırda firefox 3.5 beta kullanıcılarının güncelleme yaparak firefox 3.5 release candidate (**firefox 3.5rc1build2**) sürüme yükseltmeleri uygun görülmüş. **Firefox 3.5 RC1** sürüme ulaşmak için [firefox 3.5 beta indirip][1], kurup. Ardından yardım menüsünden &#8220;**Güncellemeleri kontrol et**&#8221; şeklinde yükseltme seçeneği seçildiğinde, firefox 3.5 final öncesi sürüm adayına ulaşılabiliyor. 
 
@@ -35,7 +35,7 @@ Mozilla&#8217;nın **firefox 3.5 release candidate** ve beta sürümler için uy
 
 **Firefox 3.5 çıkış tarihi** ise bu ayın sonları olarak ifade ediliyor. 
 
-<a href="http://www.mozilla.com/en-US/firefox/3.5/releasenotes/" target="_blank">Firefox 3.5 (Release Candidate 1) Release Notes</a> | Firefox 3.5 beta users will receive update to early release candidate
+<a href="https://www.mozilla.com/en-US/firefox/3.5/releasenotes/" target="_blank">Firefox 3.5 (Release Candidate 1) Release Notes</a> | Firefox 3.5 beta users will receive update to early release candidate
 
- [1]: http://www.mozilla.com/en-US/firefox/all-beta.html
- [2]: http://www.mozilla.com/firefox/geolocation
+ [1]: https://www.mozilla.com/en-US/firefox/all-beta.html
+ [2]: https://www.mozilla.com/firefox/geolocation

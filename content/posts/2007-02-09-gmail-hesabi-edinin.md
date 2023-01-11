@@ -18,5 +18,5 @@ Tabi bu kadar zaman boyunca bir arkadaşınızdan davet almadıysanız. Görüne
 
 Kaynak : [BBC][2]
 
- [1]: http://mail.google.com/mail/signup
- [2]: http://news.bbc.co.uk/2/hi/business/6338183.stm
+ [1]: https://mail.google.com/mail/signup
+ [2]: https://news.bbc.co.uk/2/hi/business/6338183.stm

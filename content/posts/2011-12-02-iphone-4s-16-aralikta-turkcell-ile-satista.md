@@ -19,7 +19,7 @@ tags:
 ---
 **Turkcell iPhone 4S&#8217;i 16 Aralık tarihinde Türkiye&#8217;de satışa sunuyor** olacak. Apple tarafından yakın zamanda iPhone 4S olarak duyurulan ve diğer iPhone modelleri gibi oldukça yankı uyandıran iPhone 4S modelinin Turkcell tarafından satış için duyurulan tarihi **16 Aralık 2011 Cuma** gözüküyor.
 
-<img class="alignright size-full wp-image-7242" title="turkcell-twitter" src="https://www.murekkep.org/wp-content/uploads/2011/12/turkcell-twitter.jpg" alt="" width="300" height="241" /> <a href="http://www.turkcell.com.tr" target="_blank">Turkcell</a> bir diğer **iPhone 4 modeli** olan 8GB&#8217;lık iPhone için bugün satışlara başlamışken gene 01 Aralık tarihini dikkate alırsak <a title="Turkcell Twitter" href="http://twitter.com/#%21/Turkcell/status/142312925019906048" target="_blank">Turkcell&#8217;in Twitter üzerinden iPhone 4S duyurusu</a> aşağıdaki gibi oldu.
+<img class="alignright size-full wp-image-7242" title="turkcell-twitter" src="https://www.murekkep.org/wp-content/uploads/2011/12/turkcell-twitter.jpg" alt="" width="300" height="241" /> <a href="https://www.turkcell.com.tr" target="_blank">Turkcell</a> bir diğer **iPhone 4 modeli** olan 8GB&#8217;lık iPhone için bugün satışlara başlamışken gene 01 Aralık tarihini dikkate alırsak <a title="Turkcell Twitter" href="https://twitter.com/#%21/Turkcell/status/142312925019906048" target="_blank">Turkcell&#8217;in Twitter üzerinden iPhone 4S duyurusu</a> aşağıdaki gibi oldu.
 
 > Aramızda kalsın, iPhone 4S 16 Aralık&#8217;ta @Turkcell&#8217;de :)
 

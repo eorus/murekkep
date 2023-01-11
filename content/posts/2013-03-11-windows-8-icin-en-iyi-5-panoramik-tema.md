@@ -21,11 +21,11 @@ Windows 8 temalara bir diğer eklenen özellik ise panoramik temalar. Panoramik 
 
 Bridges Panorama windows 8 panoramik teması başta Tokyo, Paris, ve San Francisco olmak üzere dünyanın en güzel şehirlerindeki mükemmel ve ikonlaşmış köprü fotoğraflarını masaüstünüze getiriyor. 7 yüksek çözünürlüklü duvar kağıdından (wallpaper) oluşan temayı Windows 8, Windows RT tablet ve masaüstlerinde kullanabiliyorsunuz.
 
-<a href="http://windows.microsoft.com/en-us/windows/bridges-panoramic-download-theme" target="_blank"><img class="alignnone size-full wp-image-12669" alt="kopruler-panoramik-temasi" src="https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi.jpg" width="484" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi.jpg 484w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-300x185.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" /></a>
+<a href="https://windows.microsoft.com/en-us/windows/bridges-panoramic-download-theme" target="_blank"><img class="alignnone size-full wp-image-12669" alt="kopruler-panoramik-temasi" src="https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi.jpg" width="484" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi.jpg 484w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/kopruler-panoramik-temasi-300x185.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" /></a>
 
 &nbsp;
 
-Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/bridges-panoramic-download-theme" target="_blank">Köprüler Panoramik Tema</a> İndirin.
+Windows 8 için <a href="https://windows.microsoft.com/tr-TR/windows/bridges-panoramic-download-theme" target="_blank">Köprüler Panoramik Tema</a> İndirin.
 
 ### 2. Şehir manzaraları panoramik teması
 
@@ -33,7 +33,7 @@ Dünyanın en harika ufuk çizgilerinden bazılarının çarpıcı görüntüler
 
 <img class="alignnone size-full wp-image-12670" alt="windows-8-panoramik-tema-sehirler" src="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-sehirler.jpg" width="484" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-sehirler.jpg 484w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-sehirler-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-sehirler-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-sehirler-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-sehirler-300x185.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" /> 
 
-Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/cityscapes-panoramic-download-theme" target="_blank">Şehir manzaraları panoramik temasını</a> indirin.
+Windows 8 için <a href="https://windows.microsoft.com/tr-TR/windows/cityscapes-panoramic-download-theme" target="_blank">Şehir manzaraları panoramik temasını</a> indirin.
 
 ### 3. Ormanlar panoramik teması
 
@@ -41,7 +41,7 @@ Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/cityscapes-
 
 <img class="alignnone size-full wp-image-12671" alt="windows-8-panoramik-tema-ormanlar" src="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-ormanlar.jpg" width="484" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-ormanlar.jpg 484w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-ormanlar-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-ormanlar-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-ormanlar-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-ormanlar-300x185.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" /> 
 
-Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/forests-panoramic-download-theme" target="_blank">Ormanlar panoramik temasını</a> indirin.
+Windows 8 için <a href="https://windows.microsoft.com/tr-TR/windows/forests-panoramic-download-theme" target="_blank">Ormanlar panoramik temasını</a> indirin.
 
 ### 4. Gece Karanlığı ve Yıldız Işığı panoramik teması
 
@@ -49,7 +49,7 @@ Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/forests-pano
 
 <img class="alignnone size-full wp-image-12672" alt="windows-8-panoramik-tema-gece" src="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-gece.jpg" width="484" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-gece.jpg 484w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-gece-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-gece-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-gece-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-gece-300x185.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" /> 
 
-Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/nightfall-and-starlight-panoramic-download-theme" target="_blank">Gece Karanlığı ve Yıldız Işığı panoramik temasını</a> indirin.
+Windows 8 için <a href="https://windows.microsoft.com/tr-TR/windows/nightfall-and-starlight-panoramic-download-theme" target="_blank">Gece Karanlığı ve Yıldız Işığı panoramik temasını</a> indirin.
 
 ### 5. Görkemli Dağlar panoramik teması
 
@@ -57,7 +57,7 @@ Dünyanın en muhteşem sıradağlarının görkemli fotoğraflarını, çift mo
 
 <img class="alignnone size-full wp-image-12673" alt="windows-8-panoramik-tema-dag" src="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-dag.jpg" width="484" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-dag.jpg 484w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-dag-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-dag-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-dag-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/windows-8-panoramik-tema-dag-300x185.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" /> 
 
-Windows 8 için <a href="http://windows.microsoft.com/tr-TR/windows/majestic-mountains-panoramic-download-theme" target="_blank">Görkemli Dağlar panoramik temasını</a> indirin.
+Windows 8 için <a href="https://windows.microsoft.com/tr-TR/windows/majestic-mountains-panoramic-download-theme" target="_blank">Görkemli Dağlar panoramik temasını</a> indirin.
 
  [1]: https://www.murekkep.org/windows-8-ozellikleri-6858 "Windows 8 Özellikleri"
  [2]: https://www.murekkep.org/masaustu-arka-plani-icin-15-mukemmel-ay-duvar-kagidi-moon-wallpapers-12619 "Masaüstü Arka Planı için 15 Mükemmel Ay Duvar Kağıdı [Moon Wallpapers]"

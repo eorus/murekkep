@@ -42,6 +42,6 @@ Hepsi bu kadar. Detaylar için [W3C][5] sayfasına WordPress için Codex&#8217;e
 
  [1]: https://www.murekkep.org/google-favicon-yenilendi-774
  [2]: https://www.murekkep.org
- [3]: http://www.favicon.cc/
- [4]: http://www.favicon.cc
- [5]: http://www.w3.org/2005/10/howto-favicon
+ [3]: https://www.favicon.cc/
+ [4]: https://www.favicon.cc
+ [5]: https://www.w3.org/2005/10/howto-favicon

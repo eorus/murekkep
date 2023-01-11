@@ -23,7 +23,7 @@ Aşağıda Canon EOS 70D dijital SLR fotoğraf makinesi hakkında ortaya atılan
 
 Bir ara 18 megapiksel çözünürlük ile bahsi geçen Canon EOS 60D yenilemesi Canon EOS 70D için beklenti **22 megapiksel** efektif çözünürlük olarak güncelleniyor. **%100 vizör kapsama** alanı ile **8 fps** hızında sürekli çekim ile gelecek model, **1080p video kaydı** yapabilecek. Canon EOS 70D’nin aynı Canon’un 600D üzerinde uyguladığı gibi **dokunmatik arka panel LCD ekrana** sahip olması bekleniyor.
 
-via <a title="canon eos 70d announcement specs" href="http://www.dailycameranews.com/2013/03/canon-eos-70d-announcement-expected-on-march-22/" rel="external dofollow">DCN</a>
+via <a title="canon eos 70d announcement specs" href="https://www.dailycameranews.com/2013/03/canon-eos-70d-announcement-expected-on-march-22/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera/canon "canon "
  [2]: https://www.murekkep.org/kamera/canon/eos-70d "canon eos 70d"

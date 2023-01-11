@@ -41,7 +41,7 @@ Tam ismi Canon EOS-b dijital SLR fotoğraf makinesi olarak geçen yeni Canon gö
 
 Canon EOS-b dijital SLR fotoğraf makinesinin Best Buy üzerinde henüz bir görseli bulunmuyor. Küçük boyutlu Canon gövde Canon EOS-b kit olarak Canon EF-S 18-55 F/3.5-5.6 IS lens ile beraber listeleniyor ve satış fiyatı 799$ fiyat etiketiyle sunuluyor.
 
-via <a title="Canon EOS 100D / EOS-B 18MP Digital SLR Camera Full Specifications" href="http://www.dailycameranews.com/2013/03/canon-eos-100d-eos-b-18mp-digital-slr-camera-full-specifications/" rel="external dofollow">DailyCameraNews</a>
+via <a title="Canon EOS 100D / EOS-B 18MP Digital SLR Camera Full Specifications" href="https://www.dailycameranews.com/2013/03/canon-eos-100d-eos-b-18mp-digital-slr-camera-full-specifications/" rel="external dofollow">DailyCameraNews</a>
 
  [1]: https://www.murekkep.org/canon-kucuk-boyutlu-dslr-cikarabilir-canon-eos-700d-13282 "canon küçük boyutlu dslr "
  [2]: https://www.murekkep.org/kamera/canon "canon"

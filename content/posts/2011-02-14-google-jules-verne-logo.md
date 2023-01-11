@@ -14,7 +14,7 @@ Google doodle olarak bilinen bu değişiklikler bazen kalıcı olabiliyor. Daha 
 
 Geçtiğimiz günlerde **Jules Verne&#8217;in doğum gününü** gerçekten mükemmel bir doodle ile kutlayan Google, Jules Verne&#8217;in 183. doğum gününde denizler altında 20000 fersah romanından yola çıkıp, nautilus içerisinde keşif ve macerayı anasayfasına taşımıştı. **Google Jules Verne** logosunun daha büyük haline gene arşivlenmiş logo sayfasından bakabiliyorsunuz.
 
-Daha büyük ve geniş bir şekilde **Nautilus** ile denizler altını keşfetmek ve belki de internet tarayıcınızın performansını gözlemlemek için kalıcı <a href="http://www.google.com/logos/verne_hd.html" target="_blank">jules verne doodle</a> sayfasını ziyaret edebilirsiniz.
+Daha büyük ve geniş bir şekilde **Nautilus** ile denizler altını keşfetmek ve belki de internet tarayıcınızın performansını gözlemlemek için kalıcı <a href="https://www.google.com/logos/verne_hd.html" target="_blank">jules verne doodle</a> sayfasını ziyaret edebilirsiniz.
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
  [2]: https://www.murekkep.org/google-anasayfa-online-pacman-oyunu-3575

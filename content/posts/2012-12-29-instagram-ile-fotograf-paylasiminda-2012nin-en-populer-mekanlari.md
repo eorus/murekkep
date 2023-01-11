@@ -18,7 +18,7 @@ tags:
 ---
 **Fotoğraf yükleme ve paylaşım** hizmeti sağlayan ve yüklenen fotoğraflara uyguladığı efektler ile oldukça popüler olan sosyal ağ **Instagram**, özellikle akıllı cep telefonu kullanıcıları tarafından tercih edilmektedir. Bu sayede kullanıcılarının fotoğraf yüklerken tercihe göre konum bilgisini de tutan Instagram, 2012 yılında oldukça fazla sayıda kullanıcı tarafından yüklenen fotoğrafların hangi mekanlardan yüklendiğini ve buna göre **2012 yılının Instagram açısından en popüler mekanlarını** duyurmuş oldu.
 
-Instagram resmi olarak <a href="http://blog.instagram.com/post/38962824191/2012s-most-popular-locations-on-instagram-what" target="_blank" class="broken_link">kendi blogu üzerinden paylaştığı bilgide</a> 2012 yılında çekilmiş ve [Instagram üzerinden çeşitli efektler uygulanarak][1] yüklenmiş ve paylaşılmış fotoğrafların arasından, en çok fotoğrafın paylaşıldığı mekanları ayırmaya çalışmış.
+Instagram resmi olarak <a href="https://blog.instagram.com/post/38962824191/2012s-most-popular-locations-on-instagram-what" target="_blank" class="broken_link">kendi blogu üzerinden paylaştığı bilgide</a> 2012 yılında çekilmiş ve [Instagram üzerinden çeşitli efektler uygulanarak][1] yüklenmiş ve paylaşılmış fotoğrafların arasından, en çok fotoğrafın paylaşıldığı mekanları ayırmaya çalışmış.
 
 Instagram&#8217;a en çok fotoğraf yüklenerek (>100000) ilk sırayı alan yer ise Tayland&#8217;ın başkenti Bangkok&#8217;ta **Suvarnabhumi Havalimanı** olmuş. 2012&#8217;nin en popüler mekanları arasına giren diğer yerler ise şu şekilde oluşuyor.<figure id="attachment_10252" aria-describedby="caption-attachment-10252" style="width: 600px" class="wp-caption aligncenter">
 

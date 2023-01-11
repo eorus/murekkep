@@ -19,5 +19,5 @@ RTÜK istatistiklerine göre 13 Şubat tarihine kadar _444 1 178_ hattına gelen
 
 [Hürriyet][1] &#8211; Kurtlar Vadisi Tartışması başlıklı internet sayfasında bununla ilgili bir anket oluşturmuş. [Buradan][2] ayrıntılarına ulaşabilir. Arzu ederseniz ankete katılabilirsiniz.
 
- [1]: http://www.hurriyet.com.tr/
- [2]: http://www.hurriyet.com.tr/gundem/5955050.asp?m=1&gid=112&srid=3601&oid=1
+ [1]: https://www.hurriyet.com.tr/
+ [2]: https://www.hurriyet.com.tr/gundem/5955050.asp?m=1&gid=112&srid=3601&oid=1

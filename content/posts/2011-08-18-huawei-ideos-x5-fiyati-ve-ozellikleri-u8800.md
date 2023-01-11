@@ -16,7 +16,7 @@ tags:
   - turkcell
 
 ---
-**Huawei IDEOS X5 fiyatı ve özellikleri** hakkında bilgi vermeden önce Huawei&#8217;nin U8800 olarak geçen ve ülkemizde de Turkcell iletişim merkezlerinde kolayca bulabileceğiniz <a href="http://www.turkcell.com.tr/bireysel/cihazlar/Sayfalar/ceptelefonlari/ideos-x5.aspx" target="_blank">Huawei Ideos X5 modeli </a>fiyat ve performans açısından öne çıkıyor. Akıllı cep telefonları konusunda uzman ama genelde başka markalar için üretim yapan Huawei markasını duymamış olabilirsiniz. En yakın örnek olarak Turkcell T10 olarak duyurulan android işletim sistemli akıllı telefon aslında bir **Huwaei modeli**.
+**Huawei IDEOS X5 fiyatı ve özellikleri** hakkında bilgi vermeden önce Huawei&#8217;nin U8800 olarak geçen ve ülkemizde de Turkcell iletişim merkezlerinde kolayca bulabileceğiniz <a href="https://www.turkcell.com.tr/bireysel/cihazlar/Sayfalar/ceptelefonlari/ideos-x5.aspx" target="_blank">Huawei Ideos X5 modeli </a>fiyat ve performans açısından öne çıkıyor. Akıllı cep telefonları konusunda uzman ama genelde başka markalar için üretim yapan Huawei markasını duymamış olabilirsiniz. En yakın örnek olarak Turkcell T10 olarak duyurulan android işletim sistemli akıllı telefon aslında bir **Huwaei modeli**.
 
 ## Huawei U8800 IDEOS X5 Özellikleri
 

@@ -19,7 +19,7 @@ tags:
   - uygulama
 
 ---
-**Twitter uygulaması** hem Android hem de iPhone platformları için güncellendir. <a href="http://blog.twitter.com/2012/02/twitter-mobile-app-updates-for-iphone.html" target="_blank">Twitter blog</a> üzerinden yapılan duyuruya göre hem android işletim sistemi hem de ios üzerinde çalışan mobil twitter uygulaması için yeni özellikler ve iyileştirmeler eklenmiş gibi gözüküyor.
+**Twitter uygulaması** hem Android hem de iPhone platformları için güncellendir. <a href="https://blog.twitter.com/2012/02/twitter-mobile-app-updates-for-iphone.html" target="_blank">Twitter blog</a> üzerinden yapılan duyuruya göre hem android işletim sistemi hem de ios üzerinde çalışan mobil twitter uygulaması için yeni özellikler ve iyileştirmeler eklenmiş gibi gözüküyor.
 
 Hem **Android** hem de iPhone için ortak olarak yeni tweet çevirme kısayolları eklendi. Böylelikle android veya iphone twitter uygulamasında ana ekrandayken bir tweet üzerine gelip parmağınızla dokunmatik ekranı sağa kaydırdığınızda ilgili tweete cevap verme, **retweet** etme, favorilere ekleme, paylaşma ve tweet atan kişinin twitter profilini görüntülemek için kısayol düğmelerini görebiliyor olacağız. Tabi bunu ana ekranda mevcut twitter akışını kaybetmeden anında kaydırarak görebileceğiz.
 

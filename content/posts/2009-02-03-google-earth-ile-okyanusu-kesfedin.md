@@ -24,8 +24,8 @@ Google Earth&#8217;ü ana sayfasından indirebilirsiniz. Daha fazla bilgi için 
   1. [Dive into the new Google Earth][4]
   2. [A deep dive into the ocean in Google Earth][5]
 
- [1]: http://earth.google.com/
- [2]: http://earth.google.com/tour.html
+ [1]: https://earth.google.com/
+ [2]: https://earth.google.com/tour.html
  [3]: https://www.murekkep.org/googleearth-ile-gorebilceginiz-ilginc-yerler-400
- [4]: http://googleblog.blogspot.com/2009/02/dive-into-new-google-earth.html
- [5]: http://google-latlong.blogspot.com/2009/02/deep-dive-into-ocean-in-google-earth.html
+ [4]: https://googleblog.blogspot.com/2009/02/dive-into-new-google-earth.html
+ [5]: https://google-latlong.blogspot.com/2009/02/deep-dive-into-ocean-in-google-earth.html

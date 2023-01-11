@@ -19,7 +19,7 @@ Windows 7 tema paketleri her önemli günde, mevsimde farklı **duvar kağıtlar
 
 Aşk kuşlarından oluşan 5 yüksek kaliteli sevgililer günü temalı masaüstü duvar kağıdının yanısıra bu tema içeriğinde ağırlıklı olarak pembe ve mor kullanılmış.
 
-Windows 7 sevgililer günü temasını indirmek için <a href="http://windows.microsoft.com/en-gb/windows/downloads/lovebirds" target="_blank">lovebirds tema sayfasına gidip</a> alt kısımdaki download linkine tıklamanız yeterli olacaktır.
+Windows 7 sevgililer günü temasını indirmek için <a href="https://windows.microsoft.com/en-gb/windows/downloads/lovebirds" target="_blank">lovebirds tema sayfasına gidip</a> alt kısımdaki download linkine tıklamanız yeterli olacaktır.
 
  [1]: https://www.murekkep.org/sevgililer-gunu-icin-8-iphone-duvar-kagidi-iphone-wallpaper-4230
  [2]: https://www.murekkep.org/windows-7-yeni-yil-temalari-indirin-3580

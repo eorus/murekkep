@@ -68,7 +68,7 @@ Fotopedi üzerindeki <a title="Nikon Fiyatları" href="https://www.fotopedi.org/
 
 Fotopedi haber ve duyurusu sayfası ise Nikon&#8217;dan haberler, kullanım tecrübeleri ve ilginç fotoğraflar ile aktif bir şekilde ilerlemeye devam ediyor.
 
-Nikon&#8217;un sarısı ve siyahından oluşan temasıyla Fotopedi&#8217;yi destekliyoruz. Fotopedi Facebook üzerinde beğenebilirsiniz. <a title="Türk Nikon Facebook" href="http://www.facebook.com/turknikon" target="_blank" rel="noopener">http://www.facebook.com/fkulup</a> Fotopedi&#8217;yi Twitter üzerinden takip edebilirsiniz. <a title="Türk Nikon Twitter" href="http://twitter.com/turknikon" target="_blank" rel="noopener">http://twitter.com/turknikon</a>
+Nikon&#8217;un sarısı ve siyahından oluşan temasıyla Fotopedi&#8217;yi destekliyoruz. Fotopedi Facebook üzerinde beğenebilirsiniz. <a title="Türk Nikon Facebook" href="https://www.facebook.com/turknikon" target="_blank" rel="noopener">https://www.facebook.com/fkulup</a> Fotopedi&#8217;yi Twitter üzerinden takip edebilirsiniz. <a title="Türk Nikon Twitter" href="https://twitter.com/turknikon" target="_blank" rel="noopener">https://twitter.com/turknikon</a>
 
  [1]: https://www.fotopedi.org/lensler/nikon-lensler
  [2]: https://www.fotopedi.org/fotograf-cekim-teknikleri

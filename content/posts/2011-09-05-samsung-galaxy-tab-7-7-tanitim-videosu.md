@@ -16,7 +16,7 @@ tags:
 ---
 Samsung Galaxy Tab 7.7 duyurusu IFA2011 fuarında Berlin&#8217;de yapıldı. [Samsung Galaxy Tab 7.7 özellikleri][1]{.broken_link} hakkında detayları iletmiştik. Dünyanın **Super Amoled Plus** ekranına sahip **mobil tableti samsung galaxy tab 7.7** bu özellik sayesinde daha keskin renkler ve geniş bir renk paleti dahilinde ışık değişimini algılayan teknolojiye sahip. Galaxy Tab 7.7&#8217;nin ekranı TFT ekran değil AMOLED ekran.
 
-Peki <a href="http://www.burcinyazici.com/super-amoled-ekran-nedir-1574.html" target="_blank">Super AMOLED ekran nedir?</a> Kısaca super amoled ekran daha ince olur. Super AMOLED görüntü kalitesi olarak da daha üstün performans sağlar. Renkler daha canlı görüntülenir, hareketli görüntüler ise daha keskin görünürler. Ayrıca ekrana bakış açısı daha geniştir. Bu özellikleriyle Super AMOLED ekran samsung galaxy tab için eşsiz bir ekran teknolojisi sunar.
+Peki <a href="https://www.burcinyazici.com/super-amoled-ekran-nedir-1574.html" target="_blank">Super AMOLED ekran nedir?</a> Kısaca super amoled ekran daha ince olur. Super AMOLED görüntü kalitesi olarak da daha üstün performans sağlar. Renkler daha canlı görüntülenir, hareketli görüntüler ise daha keskin görünürler. Ayrıca ekrana bakış açısı daha geniştir. Bu özellikleriyle Super AMOLED ekran samsung galaxy tab için eşsiz bir ekran teknolojisi sunar.
 
 Şimdi bu dünyanın **Super AMOLED Plus ekran** deneyimi sunan **ilk mobil tableti Samsung Galaxy Tab 7.7**&#8216;i daha yakından tanıyalım. Youtube üzerindeki **samsung galaxy tab 7.7 tanıtım videosuna** aşağıdan bakabilirsiniz.
 

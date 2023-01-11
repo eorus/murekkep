@@ -24,6 +24,6 @@ iPhone Backup Extractor yedeği alınmış iTunes verilerini CSV, Vcard veya ICA
 
 iPhone ve iPad ile alınmış iTunes yedeklerini kurtarmak ve geri yüklemek için oldukça yararlı olan iPhone Backup Extractor uygulamasını aşağıdaki linkten indirebilirsiniz.
 
-<a href="http://www.iphonebackupextractor.com/" target="_blank">iPhone Backup Extractor</a> indirin.
+<a href="https://www.iphonebackupextractor.com/" target="_blank">iPhone Backup Extractor</a> indirin.
 
  [1]: https://www.murekkep.org/telefon "telefon"

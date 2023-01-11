@@ -16,6 +16,6 @@ tags:
 
 **Flickr** sitesinde herhangi bir resmi açtığınızda artık resme sağ tıkladığınızda &#8220;**Flickr Resminin Tam Boyutunu İndir**&#8221; &#8211; &#8220;Download Original Flickr Image&#8221; ibaresini görebileceksiniz. Download Flickr Original Firefox eklentisi ile sadece Flickr üzerinde kullanıcıların herkese açık olarak yayınladıkları resimlerin tam boyutları indirilebiliyor. &#8220;All Rights Reserved&#8221; şeklinde lisans ile koruma altına alınmış olanlar ya da kullanıcının **resim indirme** özelliğini inaktif etmiş olduğu resimlerde bu eklenti işlevini yitiriyor.
 
- [1]: http://www.flickr.com/
+ [1]: https://www.flickr.com/
  [2]: https://www.murekkep.org/en-iyi-flickr-arama-araci-compfight-723
- [3]: http://www.mozilla-europe.org/tr/firefox/
+ [3]: https://www.mozilla-europe.org/tr/firefox/

@@ -18,7 +18,7 @@ Daha önce yazdığım yazılarımda da belirtiğim gibi Gmail&#8217;e geçtim. 
 
 <span style="font-weight: bold">1. Mail-Watcher(Xfce-eklentisi)</span>
 
-Xfce&#8217;in paneli için hazırlanan bir eklenti. Hazır <a title="Xfce" target="blank_" href="http://www.xfce.org/">Xfce</a> kullanıyorken, pacman vasıtasıyla kurdum. Unstable deposunda kendisi mevcut. Kurduktan sonra panel&#8217;e ekledim ve sağ tıklayarak <span style="font-style: italic">properties</span>&#8216;den gereken ayarlarımı yaptım. Add butonuna tıklayarak hesap ekliyorsunuz. İstediğiniz kadar ekleyebilirsiniz. Ayarlardan, belirli aralıklarda bakmasını sağlayabilirsiniz. Ben bunu 3 dakika yaptım.Simgenin üstüne tıklayınca neler olacağını da ayarlayabilirsiniz. Burada Firefox&#8217;da yeni bir sekme açıp, gmail.com&#8217;a gitmesini yazdım. Ve yeni gelen e-postalar için de bir komut yazabilirsiniz. Örneğin <span style="font-style: italic; background-color: #c0c0c0">aplay /home/fatih/ses.wav</span> gibi, böylelikle Gmail&#8217;inize yeni e-postalar gelince seçtiğiniz ses çalacak. Zenity gibi araçlar da kullanabilirsiniz.
+Xfce&#8217;in paneli için hazırlanan bir eklenti. Hazır <a title="Xfce" target="blank_" href="https://www.xfce.org/">Xfce</a> kullanıyorken, pacman vasıtasıyla kurdum. Unstable deposunda kendisi mevcut. Kurduktan sonra panel&#8217;e ekledim ve sağ tıklayarak <span style="font-style: italic">properties</span>&#8216;den gereken ayarlarımı yaptım. Add butonuna tıklayarak hesap ekliyorsunuz. İstediğiniz kadar ekleyebilirsiniz. Ayarlardan, belirli aralıklarda bakmasını sağlayabilirsiniz. Ben bunu 3 dakika yaptım.Simgenin üstüne tıklayınca neler olacağını da ayarlayabilirsiniz. Burada Firefox&#8217;da yeni bir sekme açıp, gmail.com&#8217;a gitmesini yazdım. Ve yeni gelen e-postalar için de bir komut yazabilirsiniz. Örneğin <span style="font-style: italic; background-color: #c0c0c0">aplay /home/fatih/ses.wav</span> gibi, böylelikle Gmail&#8217;inize yeni e-postalar gelince seçtiğiniz ses çalacak. Zenity gibi araçlar da kullanabilirsiniz.
 
 Sadece Gmail deyip geçmeyelim.Daha fazlası var, desteklenen protokoller aşağıdaki gibi:  
 <br style="font-weight: bold" /> 
@@ -48,7 +48,7 @@ Uzun zaman önce Exim4, Mutt, Fetchmail, Procmail dörtlüsünü kullanıyordum.
 
 Bir de eklentiyi istediğiniz yere koymakta serbestsiniz. Ben yukarı sağ köşeye yerleştirdim. Sağ tıklayarak özelliklerine giderseniz, Log diye bir bölüm daha görürsünüz. Burada çıkan hataları sizin için tutuyor.
 
-Mail-watcher ana sayfası: http://spuriousinterrupt.org/projects/mailwatch
+Mail-watcher ana sayfası: https://spuriousinterrupt.org/projects/mailwatch
 
 <span style="font-weight: bold">2. Checkgmail</span>
 
@@ -60,7 +60,7 @@ En güzel yanı ise, yeni gelen e-postalarını nasıl bildirdiğidir. Yukarıda
 
 Bu anlık iletiden sonra üzerine geldiğinize bir çok işlem yapabileceğinizi görüyorsunuz. Spam olarak işaretleyebilirsiniz, silebilirsiniz, okumuş olarak işaretleyebilirsiniz, arşivinize ekleyebilirsiniz. Kimden geldiğini ve kaç tane e-posta geldiğini de gösteriyor. Küçük bir rapor gibi.
 
-Checkgmail ana sayfası : <a title="http://checkgmail.sourceforge.net/" target="blank_" href="http://checkgmail.sourceforge.net/">http://checkgmail.sourceforge.net/</a>
+Checkgmail ana sayfası : <a title="https://checkgmail.sourceforge.net/" target="blank_" href="https://checkgmail.sourceforge.net/">https://checkgmail.sourceforge.net/</a>
 
 <span style="font-weight: bold">3. Gmail Checker</span>
 
@@ -70,7 +70,7 @@ Gmail Checker için eklenti sayfası : https://addons.mozilla.org/firefox/3179/
 
  <span style="font-weight: bold">4. Diğer uyarıcılar</span>
 
-Bunun haricinde bir çok uyarıcı daha var. Onlara da bakabilirsiniz. Kde için de <a title="kcheckgmail" target="blank_" href="http://sf.net/projects/kcheckgmail">kcheckgmail</a> uygulaması var. Kcheckgmail ise tahminimce checkgmail&#8217;in kde&#8217;ye uyarlanmış hali. Bilmiyorum bunu, kullananlar varsa, buraya yazabilirler. Firefox için de eklentiler mevcut. Küçük bir simge olarak durum çubuğuna yerleşen eklentiler var :Gmail Manager, Gmail Notifier. Bu iki eklenti de ben&#8217;de çalışmadığı için deneyemedim. Ama Gmail Manager&#8217;in çok kapsamlı olduğunu biliyorum.
+Bunun haricinde bir çok uyarıcı daha var. Onlara da bakabilirsiniz. Kde için de <a title="kcheckgmail" target="blank_" href="https://sf.net/projects/kcheckgmail">kcheckgmail</a> uygulaması var. Kcheckgmail ise tahminimce checkgmail&#8217;in kde&#8217;ye uyarlanmış hali. Bilmiyorum bunu, kullananlar varsa, buraya yazabilirler. Firefox için de eklentiler mevcut. Küçük bir simge olarak durum çubuğuna yerleşen eklentiler var :Gmail Manager, Gmail Notifier. Bu iki eklenti de ben&#8217;de çalışmadığı için deneyemedim. Ama Gmail Manager&#8217;in çok kapsamlı olduğunu biliyorum.
 
  <span style="font-weight: bold">5. Sonuç</span>
 

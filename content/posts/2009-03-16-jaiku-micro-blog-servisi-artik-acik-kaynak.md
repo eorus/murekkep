@@ -25,9 +25,9 @@ Ancak Google bu konuda fikir değiştirmiş olacak ki Jaiku&#8217;yu önce [Goog
 [JaikuEngine is now open source!][7]
 
  [1]: https://www.murekkep.org/mobil-dunyaya-hazirlik-jaiku-artik-googlea-ait-457
- [2]: http://www.google.com.tr
+ [2]: https://www.google.com.tr
  [3]: https://www.murekkep.org/google-bazi-servislerini-kapatiyor-825
- [4]: http://jaikido.blogspot.com/2009/03/jaiku-is-now-served-from-app-engine.html
- [5]: http://www.apache.org/licenses/LICENSE-2.0
- [6]: http://code.google.com/p/jaikuengine
- [7]: http://jaikido.blogspot.com/2009/03/jaikuengine-is-now-open-source.html
+ [4]: https://jaikido.blogspot.com/2009/03/jaiku-is-now-served-from-app-engine.html
+ [5]: https://www.apache.org/licenses/LICENSE-2.0
+ [6]: https://code.google.com/p/jaikuengine
+ [7]: https://jaikido.blogspot.com/2009/03/jaikuengine-is-now-open-source.html

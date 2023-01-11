@@ -23,9 +23,9 @@ Daha önce [Google][1]&#8216;ın işletim sistemi çıkaracağı hakkında haber
   </p>
   
   <p>
-    Kaynaklar : <a href="http://online.wsj.com/article/SB118602176520985718.html">Wall Street Journal</a> , <a href="http://www.reuters.com/article/technologyNews/idUSN0242431720070802">Reuters</a> , <a href="http://www.reuters.com/article/technologyNews/idUSN0242431720070802"></a><a href="http://snapvoip.blogspot.com/2007/08/google-phone-coming-soon.html">Resim</a>
+    Kaynaklar : <a href="https://online.wsj.com/article/SB118602176520985718.html">Wall Street Journal</a> , <a href="https://www.reuters.com/article/technologyNews/idUSN0242431720070802">Reuters</a> , <a href="https://www.reuters.com/article/technologyNews/idUSN0242431720070802"></a><a href="https://snapvoip.blogspot.com/2007/08/google-phone-coming-soon.html">Resim</a>
   </p>
 
- [1]: http://www.google.com.tr
- [2]: http://online.wsj.com/article/SB118602176520985718.html
- [3]: http://www.reuters.com/article/technologyNews/idUSN0242431720070802
+ [1]: https://www.google.com.tr
+ [2]: https://online.wsj.com/article/SB118602176520985718.html
+ [3]: https://www.reuters.com/article/technologyNews/idUSN0242431720070802

@@ -28,10 +28,10 @@ Bu aşamada tek sıkıntınız bookmarklarınıza atadığınız etiketler olaca
 
 ## Delicious Alternatifleri
 
-<a href="http://diigo.com" target="_blank"><strong>Diigo</strong></a> – Online not alma servisi olan Diigo, bunun yanısıra bookmarkları da ekleme özelliğine sahip. Ücretsiz olmayan Diigo üzerinde şimdiden delicious yer imlerini nasıl aktaracağınıza dair bir bölüm bile hazırlanmış.
+<a href="https://diigo.com" target="_blank"><strong>Diigo</strong></a> – Online not alma servisi olan Diigo, bunun yanısıra bookmarkları da ekleme özelliğine sahip. Ücretsiz olmayan Diigo üzerinde şimdiden delicious yer imlerini nasıl aktaracağınıza dair bir bölüm bile hazırlanmış.
 
-<a title="Evernote" href="http://www.evernote.com/" target="_blank"><strong>Evernote</strong></a> – Oldukça popüler olan not alma uygulaması Evernote üzerine delicious bookmarklarınızı aktarabilirsiniz. Ancak delicious ile etiketlediğiniz bookmarkların etiketleri aktarılamıyor.
+<a title="Evernote" href="https://www.evernote.com/" target="_blank"><strong>Evernote</strong></a> – Oldukça popüler olan not alma uygulaması Evernote üzerine delicious bookmarklarınızı aktarabilirsiniz. Ancak delicious ile etiketlediğiniz bookmarkların etiketleri aktarılamıyor.
 
-<a title="Pinboard.in" href="http://pinboard.in/" target="_blank"><strong>Pinboard.in</strong></a> – Bir diğer ücretli bookmark servisi Pinboard ile delicious bookmarklarınızı yeni bir ortama taşıyabilirsiniz.
+<a title="Pinboard.in" href="https://pinboard.in/" target="_blank"><strong>Pinboard.in</strong></a> – Bir diğer ücretli bookmark servisi Pinboard ile delicious bookmarklarınızı yeni bir ortama taşıyabilirsiniz.
 
-<a title="Historio.us" href="http://Historio.us" target="_blank"><strong>Historio.us</strong></a> – Pinboard gibi sade bir servis olan Historio.us ile delicious bookmarklarını aktarabilir, bookmark olarak eklediğiniz siteler içerisinde arama yapabilirsiniz.
+<a title="Historio.us" href="https://Historio.us" target="_blank"><strong>Historio.us</strong></a> – Pinboard gibi sade bir servis olan Historio.us ile delicious bookmarklarını aktarabilir, bookmark olarak eklediğiniz siteler içerisinde arama yapabilirsiniz.

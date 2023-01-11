@@ -20,5 +20,5 @@ Bir güzellik ise tüm [Google Dökümanlar][2] hizmetleri gibi, bunda da arkada
 
 Çok basit bir dilde, bu özelliğin ne kadar güzel olabileceğini anlatmışlar. İzlemenizi tavsiye ederim. Ayrıca sunumlar özelliği de tamamen **Türkçe** olarak kullanılabiliyor. [docs.google.com][2] adresinizden girip bu yeni özelliği deneyebilirsiniz. Fakat buna rağmen şöyle bir eksiklik var. Şu an itibariyle sadece MS Powerpoint dosyaları karşı tarafa yüklenebiliyor. OOO Impress dosyaları kullanılamıyor. Yakın zaman içinde bunu da eklerler tahminen.
 
- [1]: http://google-d-s.blogspot.com/2007/09/and-now-we-present.html
- [2]: http://docs.google.com
+ [1]: https://google-d-s.blogspot.com/2007/09/and-now-we-present.html
+ [2]: https://docs.google.com

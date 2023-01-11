@@ -18,10 +18,10 @@ Açıkçası geçen gün [twitter ile ilgili bir yazı][2]{.broken_link} yazmı�
 
 WordPress eklentisi için Alexking tarafından bir de yol haritası hazırlanmış. Ona da [buradan][7] bakabilirsiniz.
 
- [1]: http://www.twitter.com/
+ [1]: https://www.twitter.com/
  [2]: https://www.murekkep.org/blog-gunluk-ise-twitter-anlik-230
- [3]: http://lorelle.wordpress.com/2007/03/22/integrating-twitter-into-your-wordpress-blog/
- [4]: http://alexking.org/
+ [3]: https://lorelle.wordpress.com/2007/03/22/integrating-twitter-into-your-wordpress-blog/
+ [4]: https://alexking.org/
  [5]: https://www.murekkep.org/wordpress-eklenti-dizini-229
- [6]: http://alexking.org/blog/2007/03/12/twitter-tools-10b1
- [7]: http://alexking.org/blog/2007/03/07/twitter-tools-roadmap
+ [6]: https://alexking.org/blog/2007/03/12/twitter-tools-10b1
+ [7]: https://alexking.org/blog/2007/03/07/twitter-tools-roadmap

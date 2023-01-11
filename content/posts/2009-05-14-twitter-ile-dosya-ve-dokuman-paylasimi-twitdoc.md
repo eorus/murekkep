@@ -19,7 +19,7 @@ Microblog servisi twitter, 140 karakterlik mesaj ile sınırlı kalmak kaydıyla
 
 Twitter üzerinde fotoğraf paylaşımı için [Twitpic][2]{.broken_link}, Tweetphoto ve [Pix.im][3]{.broken_link} servisleri ile twitter her geçen gün daha fazla paylaşımı destekleyen bir sosyal medya kıvamına gelirken, karşımıza tüm döküman formatlarını ve görsel tabir ettiğimiz resim dosyası formatlarını destekleyen **[Twitdoc][4]** çıkabiliyor. 
 
-<img alt="" src="http://www.twitdoc.com/TwitDoc500.gif" title="Twitdoc" class="alignnone" width="500" height="107" /> 
+<img alt="" src="https://www.twitdoc.com/TwitDoc500.gif" title="Twitdoc" class="alignnone" width="500" height="107" /> 
 
 **Twitdoc** dosya paylaşım işlemini Twitter üzerinden gerçekleştirmeye yarayan ilk servis olarak duyuruldu. Twitdoc döküman formatları içerisinde **PDF** dosyaları, Microsoft Office dökümanları, Openoffice dökümanları gibi bilinen çoğu döküman formatını destekliyor. Bunun yanısıra görsel resim formatlarının çoğu dökümanların yanısıra **dosya paylaşımı** için kullanılabiliyor. 
 
@@ -30,4 +30,4 @@ Twitdoc anasayfasında da görebileceğimiz üzere dosya yükleme ve twitter hes
  [1]: https://www.murekkep.org/twitter-nedir-gorsel-twitter-rehberi-2059
  [2]: https://www.murekkep.org/twitpic-ile-fotograflarinizi-twittera-gonderin-1894
  [3]: https://www.murekkep.org/twitterda-fotograf-paylasimi-pixim-2119
- [4]: http://www.twitdoc.com/
+ [4]: https://www.twitdoc.com/

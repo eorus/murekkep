@@ -19,7 +19,7 @@ tags:
 ---
 Bilgisayarıma Windows 7 yükleyebilir miyim? Ya da başka bir deyişle, bilgisayarım windows 7 kurulumunu, yükseltmesini kaldırabilir mi? Bildiğimiz üzere bu hafta 05 Mayıs tarihi itibariyle Microsoft, [Windows 7 RC Sürüm Adayı][1] için duyurusunu yaptı. Windows 7 kullanımı için gereken belirli sistem gereksinimleri de duyuruldu. 
 
-Microsoft konu ile ilgili olarak **Windows 7 sürüme yükseltme** yapmak isteyenlerin kullandığı bilgisayarların sistem gereksinimleri yeterli mi diye bir yükseltme danışmanı sunmuş. **<a href="http://www.microsoft.com/windows/windows-7/upgrade-advisor.aspx" target="_blank" class="broken_link">Windows 7 Upgrade Advisor</a>**.
+Microsoft konu ile ilgili olarak **Windows 7 sürüme yükseltme** yapmak isteyenlerin kullandığı bilgisayarların sistem gereksinimleri yeterli mi diye bir yükseltme danışmanı sunmuş. **<a href="https://www.microsoft.com/windows/windows-7/upgrade-advisor.aspx" target="_blank" class="broken_link">Windows 7 Upgrade Advisor</a>**.
 
 Yapılan duyuruda **Microsoft** der ki; &#8220;Genel olarak eğer bir bilgisayar Windows Vista&#8217;yı çalıştırabiliyorsa o zaman o bilgisayar üzerinde Windows 7 çalışabilir diyebiliriz. Ama eğer kullandığınız bilgisayarda Windows Vista çalıştırmıyorsanız ya da sadece kullandığınız sistemin Windows 7 çalıştırmak için hazır olup olmadığını merak ediyorsanız, bunun için Windows 7 yükseltme danışmanı beta ile sisteminizi kontrol edebilirsiniz.&#8221;
 

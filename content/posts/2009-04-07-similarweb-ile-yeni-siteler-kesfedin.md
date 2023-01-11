@@ -23,5 +23,5 @@ tags:
 
 Yeni siteleri keşfetmek konusunda arama yapmanıza gerek kalmadan güzel bir çözüm sunan SimilarWeb firefox eklentisi içerisinde çıkan benzer sitelerin gerçekten ilişkili olup olmadığı konusunda bildiride bulunup eklentinin gelişimine yardımcı olabiliyorsunuz.
 
- [1]: http://similarweb.com/
- [2]: http://www.mozilla-europe.org/tr/firefox/
+ [1]: https://similarweb.com/
+ [2]: https://www.mozilla-europe.org/tr/firefox/

@@ -32,9 +32,9 @@ En iyi film dalındaki 5 adayı kısaca sıralamak gerekirse;
 
  [1]: https://www.murekkep.org/2009-oscar-adaylari-901
  [2]: https://www.murekkep.org/oscar-2009-oncesi-883
- [3]: http://www.imdb.com/title/tt0421715/
- [4]: http://www.imdb.com/title/tt1010048/
- [5]: http://www.imdb.com/title/tt1013753/
- [6]: http://www.imdb.com/title/tt0976051/
- [7]: http://www.imdb.com/name/nm0001449/
- [8]: http://www.imdb.com/title/tt0870111/
+ [3]: https://www.imdb.com/title/tt0421715/
+ [4]: https://www.imdb.com/title/tt1010048/
+ [5]: https://www.imdb.com/title/tt1013753/
+ [6]: https://www.imdb.com/title/tt0976051/
+ [7]: https://www.imdb.com/name/nm0001449/
+ [8]: https://www.imdb.com/title/tt0870111/

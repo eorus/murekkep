@@ -20,7 +20,7 @@ Kısaltılmış internet adreslerinin orjinal halini bulun olarak aktarmak isted
 
 **Untiny** sitesinde de belirtildiği üzere bazı ülkelerde **tinyurl** gibi kısaltma servislerinin bloklanması üzerine böyle bir hizmetin devreye sokulduğu aktarılıyor. Aslında kısa url adresi engellenmiş durumda olsa bile içeriğindeki uzun internet adresi engelli durumda olmayacağı için Untiny ile orjinal halini edinebileceğiniz belirtiliyor. 
 
-**Untiny** kullanımını kolaylaştırmak için küçük eklentiler yapılmış. sitenin sol üst kısmında Add-ons şeklinde görülebilen bu eklentiler Untiny içerisine girmeden direkt adres kısmından kısa linkleri dönüştürebilmenizi sağlıyor. Bunun için &#8220;**http://untiny.me?url=**&#8221; gibi bir uzantının arkasına elinizdeki kısa url adresini yazabilirsiniz. Örnek : &#8220;**http://untiny.me?url=http://tiny.pl/htk**&#8220;. Bunun dışında hem [firefox arama kutusuna ekleyebiliyorsunuz][2]{.broken_link} hem de sunulmuş bir greasemonkey betiği bulunuyor.
+**Untiny** kullanımını kolaylaştırmak için küçük eklentiler yapılmış. sitenin sol üst kısmında Add-ons şeklinde görülebilen bu eklentiler Untiny içerisine girmeden direkt adres kısmından kısa linkleri dönüştürebilmenizi sağlıyor. Bunun için &#8220;**https://untiny.me?url=**&#8221; gibi bir uzantının arkasına elinizdeki kısa url adresini yazabilirsiniz. Örnek : &#8220;**https://untiny.me?url=https://tiny.pl/htk**&#8220;. Bunun dışında hem [firefox arama kutusuna ekleyebiliyorsunuz][2]{.broken_link} hem de sunulmuş bir greasemonkey betiği bulunuyor.
 
- [1]: http://untiny.me/
+ [1]: https://untiny.me/
  [2]: https://www.murekkep.org/firefox-arama-kutusuna-eklemek-icin-en-populer-arama-motorlari-2033

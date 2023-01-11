@@ -18,5 +18,5 @@ categories:
 
 **Search Cube** ile oluşan kübü **klavyenizin okları** yardımıyla ya da **shift + fare** ile istediğiniz gibi döndürebiliyorsunuz. Seach Cube kullanmak isterseniz tarayıcınızda javascriptin aktif olması ve flashplayer versiyonunun 9 veya üstü olması gerekiyormuş.
 
- [1]: http://google.com.tr
- [2]: http://www.symmetri.com/
+ [1]: https://google.com.tr
+ [2]: https://www.symmetri.com/

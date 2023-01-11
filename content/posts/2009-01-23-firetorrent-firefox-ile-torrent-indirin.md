@@ -18,7 +18,7 @@ Bunların yanısıra bildiğimiz üzere [Firefox][4]{.broken_link} bir internet 
 
 Henüz test aşamasında olan **FireTorrent** için Firefox içine gömülü torrent indirme eklentisi gözüyle bakabiliriz. Belirli özellikler eklenerek geliştirildiği takdirde basit yoldan torrent dosyalarını yönetmek ve indirmek için gayet uygun bir **firefox eklentisi** kazanmış oluruz.
 
- [1]: http://azureus.sourceforge.net/
- [2]: http://www.utorrent.com/
- [3]: http://www.transmissionbt.com/
- [4]: http://www.mozilla-europe.org/tr/firefox/
+ [1]: https://azureus.sourceforge.net/
+ [2]: https://www.utorrent.com/
+ [3]: https://www.transmissionbt.com/
+ [4]: https://www.mozilla-europe.org/tr/firefox/

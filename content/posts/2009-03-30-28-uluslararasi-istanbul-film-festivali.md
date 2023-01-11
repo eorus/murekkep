@@ -28,5 +28,5 @@ Festivali online olarak takip etmek için **İstanbul Film Festivali Gazetesi** 
 
 İstanbul Film Festivali için hangi sinemada hangi filmler hangi seansta oynuyor şeklinde oluşturulmuş tüm filmlerin listelendiği 2009 çizelgesine bakabilirsiniz.
 
- [1]: http://www.iksv.org/
+ [1]: https://www.iksv.org/
  [2]: https://www.murekkep.org/pandoranin-kutusu-1067

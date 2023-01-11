@@ -21,4 +21,4 @@ tags:
 > 
 > Ayda 100 milyondan fazla videonun izlendiği İzlesene, Türkiye&#8217;nin en çok ziyaret edilen ilk 100 sitesi içinde yer almaktadır ve günde 150 binden fazla tekil ziyaretçiye video keyfi yaşatmaktadır.
 > 
-> Bize http://www.izlesene.com/ adresinden ulaşabilirsiniz
+> Bize https://www.izlesene.com/ adresinden ulaşabilirsiniz

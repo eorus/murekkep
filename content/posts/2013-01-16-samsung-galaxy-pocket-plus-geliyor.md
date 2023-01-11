@@ -38,5 +38,5 @@ Daha önce Vodafone ile kampanyalı olarak sunulan Samsung Galaxy Pocket küçü
 Aslında ilk çıkan Samsung Galaxy Pocket ile bu yeni cihaz arasında çok büyük farklar yok. Zaten [Galaxy S2 Plus özellikleri][3] ile de Samsung çığır açmamıştı. Hatta neredeyse sadece Android Jelly Bean desteği sunuyordu ekstra olarak. Belki de bu yeni “Plus” olayı **Samsung**’un yeni stratejisidir. Şimdi bu yeni Galaxy üyesine dönecek olursak üzerindeki TouchWiz ara yüzünü tabi ki Galaxy S3 üzerindeki kadar gelişkin beklememek gerekiyor. Kısıtlı donanım özellikleri buna mecbur kılıyor tabi. Samsung Galaxy Pocket Plus çıkış tarihi olarak bu yılın ilk yarısı bekleniyor.
 
  [1]: https://www.murekkep.org/telefon
- [2]: http://www.sammobile.com/2013/01/15/samsung-to-bring-the-galaxy-pocket-plus-soon/
+ [2]: https://www.sammobile.com/2013/01/15/samsung-to-bring-the-galaxy-pocket-plus-soon/
  [3]: https://www.murekkep.org/samsung-galaxy-s2-plus-karsimizda-10678

@@ -22,8 +22,8 @@ Bilindiği üzere [Adobe][1]{.broken_link}, Flash Player 9 [duyurusunu][2]{.brok
   * İndirdiğiniz ve açtığınız arşivdeki **libflashplayer.so** dosyasını plugins dizini (örn./opt/mozilla/lib/plugins/) altına atıyoruz.
   * Açık olan firefox varsa kapatıyoruz ve tekrar açıyoruz. Adres kısmına about:plugins yazıyoruz. Burada Shokwave Flash olarak gözüken kısımda yazan sürüm numarasının 9.0.xxx şeklinde gözüktüğüne kanaat getiriyoruz.
 
-Hepsi bu kadar. Test etmek için Macromedia Flash Player 8 ve üzeri isteyen bir siteye gidin. Örnek: http://www.cnbce.com/
+Hepsi bu kadar. Test etmek için Macromedia Flash Player 8 ve üzeri isteyen bir siteye gidin. Örnek: https://www.cnbce.com/
 
- [1]: http://www.adobe.com/
- [2]: http://labs.adobe.com/technologies/flashplayer9/
- [3]: http://labs.adobe.com/downloads/flashplayer9.html
+ [1]: https://www.adobe.com/
+ [2]: https://labs.adobe.com/technologies/flashplayer9/
+ [3]: https://labs.adobe.com/downloads/flashplayer9.html

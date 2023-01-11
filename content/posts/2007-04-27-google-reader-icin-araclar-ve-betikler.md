@@ -29,10 +29,10 @@ Google Reader online rss okuyucu pazarında en çok kullanılan yazılımlardan 
 
 Kaynak [[1][7]]\[2\]\[3\]
 
- [1]: http://googlereader.blogspot.com/2007/04/go-go-reader-gadget.html
- [2]: http://googlesystem.blogspot.com/2006/12/how-to-add-search-to-google-reader.html
- [3]: http://persistent.info/archives/2006/10/13/google-reader-redux
+ [1]: https://googlereader.blogspot.com/2007/04/go-go-reader-gadget.html
+ [2]: https://googlesystem.blogspot.com/2006/12/how-to-add-search-to-google-reader.html
+ [3]: https://persistent.info/archives/2006/10/13/google-reader-redux
  [4]: https://www.murekkep.org/google-chrome-ve-tarayici-piyasasi-572
- [5]: http://persistent.info/archives/2006/05/06/google-reader-subscribe
- [6]: http://toolbar.google.com/
- [7]: http://www.lifehacker.com/software/google-reader/hack-attack-getting-good-with-google-reader-233712.php
+ [5]: https://persistent.info/archives/2006/05/06/google-reader-subscribe
+ [6]: https://toolbar.google.com/
+ [7]: https://www.lifehacker.com/software/google-reader/hack-attack-getting-good-with-google-reader-233712.php

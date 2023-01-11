@@ -13,7 +13,7 @@ tags:
   - yazılım
 
 ---
-**Torrent dosyalarını indirmek** için kullanabileceğiniz <a href="http://www.utorrent.com/" target="_blank">uTorrent</a>, ücretsiz bir torrent programıdır. uTorrent (a very tiny bittorrent client) sitesinde belirtildiği gibi oldukça küçük boyutlarda (yaklaşık 386kb) olan ve torrent sitelerinde paylaşılan **.torrent** uzantılı linkleri açarak torrent dosyalarını hızlı bir şekilde indirebilmenizi sağlar. Bkz. &#8220;[Torrent Nedir? Torrent Dosyaları Nasıl Çalışır?][1]{.broken_link}&#8221;
+**Torrent dosyalarını indirmek** için kullanabileceğiniz <a href="https://www.utorrent.com/" target="_blank">uTorrent</a>, ücretsiz bir torrent programıdır. uTorrent (a very tiny bittorrent client) sitesinde belirtildiği gibi oldukça küçük boyutlarda (yaklaşık 386kb) olan ve torrent sitelerinde paylaşılan **.torrent** uzantılı linkleri açarak torrent dosyalarını hızlı bir şekilde indirebilmenizi sağlar. Bkz. &#8220;[Torrent Nedir? Torrent Dosyaları Nasıl Çalışır?][1]{.broken_link}&#8221;
 
 **Torrent programları** içerisinde boyutunun küçük olması, kullanışlı arayüzü ve sunduğu birçok özellik sayesinde ön plana çıkan **uTorrent**, bugün itibariyle baktığımızda torrent indirme uygulamaları arasında **en popüler torrent programı** olmuştur.
 

@@ -33,4 +33,4 @@ Buna göre NEX-6&#8217;dan gövde yapısını, NEX-7&#8217;den 24 megapiksel se
 
 Sony A6000 aynasız fotoğraf makinesi için resmi duyuru CP+ 2014 etkinliği öncesinde 12 Şubat tarihinde gerçekleşecek. Sony A6000 fiyatı ise sadece gövde **€650 / $899** olurken,  lens kit ile beraber fiyatın yaklaşık **€800** / **$999 **civarında olması bekleniyor.
 
-via **<a title="Sony A6000 Specifications and Price Leaked" href="http://www.dailycameranews.com/2014/02/sony-a6000-specifications-price/" rel="external dofollow">Sony A6000 Specifications and Price Leaked</a>**
+via **<a title="Sony A6000 Specifications and Price Leaked" href="https://www.dailycameranews.com/2014/02/sony-a6000-specifications-price/" rel="external dofollow">Sony A6000 Specifications and Price Leaked</a>**

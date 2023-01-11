@@ -28,6 +28,6 @@ Bir usb disk, flash bellek içerisine yükleyeceğiniz **taşınabilir firefox 4
 
 **Taşınabilir Firefox 4 yüklemek** için aşağıdaki linkten taşınabilir firefox paketini indirip [taşınabilir harddiske][1]{.broken_link} veya usb flash bellek üzerine yükleyebilirsiniz. Otomatik olarak yaratılan FirefoxPortable dizininde gerekli dosyalar yüklenmiş olacak. Çalıştırmak için FirefoxPortable.exe dosyasını çift tıklamanız yeterli olacaktır.
 
-<a href="http://portableapps.com/apps/internet/firefox_portable" target="_blank">Taşınabilir Firefox 4 indirin</a>
+<a href="https://portableapps.com/apps/internet/firefox_portable" target="_blank">Taşınabilir Firefox 4 indirin</a>
 
  [1]: https://www.murekkep.org/tasinabilir-harddisk-alim-rehberi-4020

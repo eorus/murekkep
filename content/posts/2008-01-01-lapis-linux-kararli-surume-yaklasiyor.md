@@ -17,6 +17,6 @@ Bir süredir devam eden Lapis Linux çalışmaları son günlerde iyice hızland
 
 Duyuru: Forum bağlantısı.
 
-Bilgi: <a href="http://lapis.linux-sevenler.org/" title="Lapis Linux" target="_blank" class="broken_link">http://lapis.linux-sevenler.org/</a>
+Bilgi: <a href="https://lapis.linux-sevenler.org/" title="Lapis Linux" target="_blank" class="broken_link">https://lapis.linux-sevenler.org/</a>
 
 <p style="text-align: center">

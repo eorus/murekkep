@@ -32,5 +32,5 @@ Wordle üzerinde bir metin kaynağından, **delicious** yerimlerinden ya da bir 
 
 **Üyelik** gerektirmeden **ücretsiz** ve **hızlı** bir şekilde **kelime bulutları** oluşturabileceğiniz Wordle ile yarattığınız kelime bulutlarının çıktısını alabiliyorsunuz. Ya da resim olarak kaydetmek istiyorsanız ekran görüntüsünü alıp, bilgisayarınıza kaydedebilirsiniz.
 
- [1]: http://www.wordle.net/
- [2]: http://tr.wikipedia.org/wiki/Etiket_Bulutu
+ [1]: https://www.wordle.net/
+ [2]: https://tr.wikipedia.org/wiki/Etiket_Bulutu

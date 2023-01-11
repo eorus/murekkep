@@ -23,5 +23,5 @@ Bunu şu şekilde düşünebilirsiniz. Bir tasarım oluşturdunuz ancak henüz i
 
 Lipsum&#8217;un tarihçesine [wikipedia&#8217;dan][2] bakabilirsiniz. Örnek Lipsum yazısı oluşturmak için [internetteki evine][1] gidebilirsiniz. Ya da bunun için oluşturulmuş firefox eklentisini kullanarak örnek yazı oluşturabilirsiniz.
 
- [1]: http://www.lipsum.com/
- [2]: http://tr.wikipedia.org/wiki/Lorem_Ipsum
+ [1]: https://www.lipsum.com/
+ [2]: https://tr.wikipedia.org/wiki/Lorem_Ipsum

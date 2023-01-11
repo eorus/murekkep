@@ -21,10 +21,10 @@ Aslında Firefox kullananlar için pek yenilik olarak bahsetmemek gerekiyor. Ç�
 [Official Gmail Blog][7] : [New in Labs: Browser title bar tweaks][8]
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [2]: http://gmail.com
- [3]: http://lifehacker.com/software/exclusive-lifehacker-download/better-gmail-2-firefox-extension-for-new-gmail-320618.php
- [4]: http://www.mozilla-europe.org/tr/firefox/
- [5]: http://4.bp.blogspot.com/_JE4qNpFW6Yk/SaSvCapMaaI/AAAAAAAAARM/y6AVUN59kuQ/s400/title_tweaks.jpg
- [6]: http://labs.google.com/
- [7]: http://gmailblog.blogspot.com/
- [8]: http://gmailblog.blogspot.com/2009/02/new-in-labs-browser-title-bar-tweaks.html
+ [2]: https://gmail.com
+ [3]: https://lifehacker.com/software/exclusive-lifehacker-download/better-gmail-2-firefox-extension-for-new-gmail-320618.php
+ [4]: https://www.mozilla-europe.org/tr/firefox/
+ [5]: https://4.bp.blogspot.com/_JE4qNpFW6Yk/SaSvCapMaaI/AAAAAAAAARM/y6AVUN59kuQ/s400/title_tweaks.jpg
+ [6]: https://labs.google.com/
+ [7]: https://gmailblog.blogspot.com/
+ [8]: https://gmailblog.blogspot.com/2009/02/new-in-labs-browser-title-bar-tweaks.html

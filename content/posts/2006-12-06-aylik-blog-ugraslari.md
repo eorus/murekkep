@@ -21,5 +21,5 @@ Aralık ayı içinse yeni uğraşı Kasım ayına göre biraz daha kolay gözük
 
 [Cartoonist For a Month][2]
 
- [1]: http://hungryforamonth.blogspot.com/
- [2]: http://www.cartoonistforamonth.blogspot.com/
+ [1]: https://hungryforamonth.blogspot.com/
+ [2]: https://www.cartoonistforamonth.blogspot.com/

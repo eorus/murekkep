@@ -25,9 +25,9 @@ Fakat **&#8220;Ubuntu Feisty Fawn Herd 1&#8221;** daha çok genç bir deneme sü
 Böyle giderse, [Ubuntu takvmine][3] göre, 22 Mart 2007&#8217;de ilk Beta 7.04 sürümü, 12 Nisan ilk RC(Sürüm adayı) ve 19 Nisan da resmi sürümü çıkacaktır. Ayrıca resmi sürümün kararlaşması süreçinde bir çok deney sürümleri de çıkacaktır.
 
 Kaynaklar:  
-<http://www.pro-linux.de/news/2006/10572.html>  
-<http://www.ubuntu.com/testing/herd1>
+<https://www.pro-linux.de/news/2006/10572.html>  
+<https://www.ubuntu.com/testing/herd1>
 
  [1]: https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Issue22#head-4517186ac5555585fc00d672877a66399da3710b
- [2]: http://kernelnewbies.org/Linux_2_6_19
+ [2]: https://kernelnewbies.org/Linux_2_6_19
  [3]: https://wiki.ubuntu.com/FeistyReleaseSchedule

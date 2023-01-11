@@ -10,13 +10,13 @@ categories:
   - Teknoloji
 
 ---
-Alexa nedir? **Alexa rank değeri nasıl yükseltilir?** <a href="http://www.alexa.com/" target="_blank">Alexa</a> &#8211; web information company, Amazon&#8217;a ait bir internet şirketidir. Web sitelerinin trafiklerine göre derecelendirmesini yapan ve buna göre bir değer atayan değerleme sistemidir. **Alexa toolbar** yüklü kişilerin web sitelerinde yarattığı trafik ve sitenin edindiği geri linkler ile beraber hesaplayarak derecelendirme yapan Alexa şu anda dünyada internet sitelerinin hangi sırada olduğunu belirleyen önemli bilgileri sunar.
+Alexa nedir? **Alexa rank değeri nasıl yükseltilir?** <a href="https://www.alexa.com/" target="_blank">Alexa</a> &#8211; web information company, Amazon&#8217;a ait bir internet şirketidir. Web sitelerinin trafiklerine göre derecelendirmesini yapan ve buna göre bir değer atayan değerleme sistemidir. **Alexa toolbar** yüklü kişilerin web sitelerinde yarattığı trafik ve sitenin edindiği geri linkler ile beraber hesaplayarak derecelendirme yapan Alexa şu anda dünyada internet sitelerinin hangi sırada olduğunu belirleyen önemli bilgileri sunar.
 
 Alexa rank ya da **Alexa traffic rank** olarak geçen sayısal değer sizin dünyada bulunan internet siteleri içerisinde hangi sırada bulunduğunuzu gösterir. Bu sıralamanın yanısıra local tabir edebileceğimiz yerel sıralamanız da aynı şekilde Alexa trafik derecesi ile gösterilmektedir. Alexa trafik istatistiklerinde gösterilen bilgiler son 3 aylık ve son 1 aylık site ziyaret değişimlerini sergiler. Sayfa görüntüleme (**page view**), sitede kalma süresi (**bounce**), gibi google analytics üzerinden daha detaylı edinebileceğiniz bilgileri aktarır.
 
 ## Alexa Rank Değeri Yükseltmenin 7 Yolu
 
-1. <a href="http://www.alexa.com/toolbar" target="_blank">Alexa Toolbar</a> ücretsiz olarak indirin ve kurun. Eğer internet tarayıcı olarak Firefox kullanıyorsanız SearchStatus isimli firefox eklentisini de kurabilirsiniz. SearchStatus eklentisi Alexa rank gösterimi yanısıra **google pagerank** detaylarını, **no follow linkleri**, meta etiketleri ve sitenizdeki kelimelerin ağırlıklarını detaylı bir şekilde verebilmektedir.  
+1. <a href="https://www.alexa.com/toolbar" target="_blank">Alexa Toolbar</a> ücretsiz olarak indirin ve kurun. Eğer internet tarayıcı olarak Firefox kullanıyorsanız SearchStatus isimli firefox eklentisini de kurabilirsiniz. SearchStatus eklentisi Alexa rank gösterimi yanısıra **google pagerank** detaylarını, **no follow linkleri**, meta etiketleri ve sitenizdeki kelimelerin ağırlıklarını detaylı bir şekilde verebilmektedir.  
 2. Sitenize ya da blogunuza Alexa rank widget ekleyin. Sitenizden yapılacak Alexa yönlendirmeleri faydalı olacaktır.  
 3. Çevrenizdeki kişilere Alexa toolbar kullanmalarını söyleyin. **Alexa toolbar** takip sistemi ile faydasını göreceksiniz. Sitenizin Alexa üzerindeki profil sayfasını değerlendirmelerini isteyin.  
 4. Stumbleupon ve Digg üzerinden gelen trafik sitenizde ciddi bir trafiğe yol açacağından Alexa Rank değerine yükseltici etkisi olmaktadır.  

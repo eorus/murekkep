@@ -17,4 +17,4 @@ tags:
 ---
 Cuma akşamı bir ara Beyaz Show&#8217;u açtığımda PiknikTube gibi bir video paylaşım içeriğinden bahsedildi. İsim olarak herhalde daha bize uygun bir isim bulunamazdı. <strike>Alan adı olarak baktığımda .net ve .com uzantıları ile değil de .biz olarak pikniktube sayfasına ulaşılabiliyoruz.</strike> İzlesene.com&#8217;dan sonra bir de piknik tüpümüz var.
 
-http://www.pikniktube.com/
+https://www.pikniktube.com/

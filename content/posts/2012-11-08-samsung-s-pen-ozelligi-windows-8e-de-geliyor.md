@@ -25,5 +25,5 @@ Samsung tarafından tabletlerde kullanışlılığı arttırmak üzere geliştir
 [ Samsung ATIV Smart PC Teknik Özellikleri ve Fiyatı >>][3]
 
  [1]: https://www.murekkep.org/samsung-ativ-windows-8-smart-pc-teknik-ozellikleri-9030
- [2]: http://www.youtube.com/watch?feature=player_embedded&v=EWUBZjaZY7E
+ [2]: https://www.youtube.com/watch?feature=player_embedded&v=EWUBZjaZY7E
  [3]: https://www.murekkep.org/samsung-ativ-windows-8-smart-pc-teknik-ozellikleri-9030 "samsung smart pc teknik özellikleri ve fiyatı"

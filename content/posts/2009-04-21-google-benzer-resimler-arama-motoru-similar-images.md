@@ -18,7 +18,7 @@ Geçtiğimiz ay tanıtmaya başladığımız resim arama motorlarından &#8220;[
 
 Google görseller olarak bildiğimiz Google&#8217;ın resim arama motoru ise yakın zamanda [renge göre resim arama][3]{.broken_link} ve [boyuta göre resim arama][4]{.broken_link} konusunda resim arama kriterlerini zenginleştirerek gelişmeye devam etmişti.
 
-Google Labs&#8217;ın şu an için deneysel olarak sunduğu **Similar Images**, benzer resimler arama motoru, <a href="http://googleblog.blogspot.com/" target="_blank">Resmi Google Günlüğü</a>&#8216;nde tanıtıldı. Önce **Google benzer resimler arama motoru** Similar Images hakkında bilgi verelim. <!--more-->
+Google Labs&#8217;ın şu an için deneysel olarak sunduğu **Similar Images**, benzer resimler arama motoru, <a href="https://googleblog.blogspot.com/" target="_blank">Resmi Google Günlüğü</a>&#8216;nde tanıtıldı. Önce **Google benzer resimler arama motoru** Similar Images hakkında bilgi verelim. <!--more-->
 
 ### Similar Images &#8211; Benzer Resimler
 
@@ -26,7 +26,7 @@ Yeni fikirler konusunda araştırma ve beyin fırtınası yapan Google Labs tara
 
 > Resim arama her türlü görseli bulabileceğiniz bir araç fakat bazen aradığınız resmi kelimelerle ifade ederek bulabilmek zor olmaktadır. Yeni benzer resimler özelliği bu fikir ile ortaya çıktı. Benzer resimleri kullanarak mevcut arama sonucunda gözüken resimlere benzer olanları sadece benzer linkine tıklayarak bulabilirsiniz. Bunun için aradığınız metni detaylandırmanıza gerek olmadan görsel sonuçlar üzerinden benzerliği kullanarak sonuçlara ulaşabilirsiniz.
 
-Similar images sayfası : http://similar-images.googlelabs.com/
+Similar images sayfası : https://similar-images.googlelabs.com/
 
 Oldukça faydalı ve sonuçlarının gayet iyi olduğunu düşündüğüm similar images üzerinde birkaç test yapalım. Arama kelimemiz &#8220;atatürk&#8221; olsun.
 
@@ -46,5 +46,5 @@ Bu arada Google Labs&#8217;ın yeni arayüzü ve takip aracı olarak google labs
  [2]: https://www.murekkep.org/resim-arama-motoru-gazopa-2087
  [3]: https://www.murekkep.org/google-gorseller-renklere-gore-arama-1900
  [4]: https://www.murekkep.org/google-gorselleri-boyutuna-gore-arayin-993
- [5]: http://google.com.tr
- [6]: http://googleblog.blogspot.com/2009/04/hard-at-play-in-google-labs-with.html
+ [5]: https://google.com.tr
+ [6]: https://googleblog.blogspot.com/2009/04/hard-at-play-in-google-labs-with.html

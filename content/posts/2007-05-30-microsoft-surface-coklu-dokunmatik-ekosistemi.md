@@ -22,5 +22,5 @@ Aslında Microsoft ürünlerini hiç kullanmasam dahi, pek bir yenilik getirmese
 
 [youtube]FlZxuqjJDgk[/youtube]
 
- [1]: http://www.microsoft.com/surface/
- [2]: http://www.popularmechanics.com/blogs/technology_news/4213259.html
+ [1]: https://www.microsoft.com/surface/
+ [2]: https://www.popularmechanics.com/blogs/technology_news/4213259.html

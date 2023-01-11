@@ -25,6 +25,6 @@ tags:
   * (32-bit) için 16 GB disk alanı / (64-bit) için 20 GB disk alanı
   * WDDM 1.0 veya daha yüksek sürücülü grafik işlemci DirectX 9 
 
-<a href="http://www.microsoft.com/windows/windows-7/download.aspx" target="_blank" class="broken_link">Windows 7 RC İndirme Sayfası</a>
+<a href="https://www.microsoft.com/windows/windows-7/download.aspx" target="_blank" class="broken_link">Windows 7 RC İndirme Sayfası</a>
 
- [1]: http://www.microsoft.com/windows/windows-7/
+ [1]: https://www.microsoft.com/windows/windows-7/

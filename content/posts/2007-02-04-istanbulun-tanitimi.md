@@ -16,4 +16,4 @@ categories:
 
 Turizm Bakanlığı bu konuda birşey yapar mı bilemeyiz ama, kulağa oldukça hoş geldiğini belirtmeliyim. Bilmem siz ne düşünürsünüz?
 
- [1]: http://www.ntv.com.tr/
+ [1]: https://www.ntv.com.tr/

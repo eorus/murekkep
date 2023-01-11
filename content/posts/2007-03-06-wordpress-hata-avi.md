@@ -22,11 +22,11 @@ Yukarıda belirtilen saatte hata avı süreci [irc.freenode.net][5] üzerinde [#
 
 Daha fazla bilgiyi [Codex][8] üzerinde bulabilirsiniz.
 
- [1]: http://www.wordpress.org/
- [2]: http://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=7&year=2007&hour=1&min=0&sec=0&p1=0,
- [3]: http://wordpress.org/download/svn/
- [4]: http://trac.wordpress.org/
+ [1]: https://www.wordpress.org/
+ [2]: https://www.timeanddate.com/worldclock/fixedtime.html?month=3&day=7&year=2007&hour=1&min=0&sec=0&p1=0,
+ [3]: https://wordpress.org/download/svn/
+ [4]: https://trac.wordpress.org/
  [5]: irc://irc.freenode.net
  [6]: irc://irc.freenode.net/wordpress-bugs
- [7]: http://codex.wordpress.org/
- [8]: http://codex.wordpress.org/WordPress_Bug_Hunts
+ [7]: https://codex.wordpress.org/
+ [8]: https://codex.wordpress.org/WordPress_Bug_Hunts

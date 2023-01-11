@@ -58,31 +58,31 @@ Pınar, Linux Günlüğü&#8217;nde bizi Z-Blog&#8217;lamış. Biraz bilgi edini
 **Bu ise Aldığımız Orjinal Liste**
 
   1. DmRy : Günlük Haftalık Aylık
-  2. <a href="http://gezegen.linux.org.tr" target="_blank">Linux Gezegeni</a>
+  2. <a href="https://gezegen.linux.org.tr" target="_blank">Linux Gezegeni</a>
   3. Pardus Dünyası
-  4. <a href="http://biyolokum.com" target="_blank">Kriptografi Gördüm, Wunjo…</a>
-  5. <a href="http://meren.org/blog/" target="_blank">Meren’s Wall</a>
+  4. <a href="https://biyolokum.com" target="_blank">Kriptografi Gördüm, Wunjo…</a>
+  5. <a href="https://meren.org/blog/" target="_blank">Meren’s Wall</a>
   6. Moleschino
-  7. <a href="http://burkinafasafiso.com/" target="_blank" class="broken_link">Burkina Fasa Fiso Halk Cemahiriyesi</a>
+  7. <a href="https://burkinafasafiso.com/" target="_blank" class="broken_link">Burkina Fasa Fiso Halk Cemahiriyesi</a>
   8. Mürekkep
-  9. <a href="http://www.queenoflub.com/smile/" target="_blank" class="broken_link">Queen of Lub</a>
- 10. <a href="http://zikzak.blogspot.com/" target="_blank">Zikzak Weblog</a>
+  9. <a href="https://www.queenoflub.com/smile/" target="_blank" class="broken_link">Queen of Lub</a>
+ 10. <a href="https://zikzak.blogspot.com/" target="_blank">Zikzak Weblog</a>
  11. [hakan.uygun.yazıyor.*][13]{.broken_link}
- 12. <a href="http://ilkerender.blogspot.com/" target="_blank">Tamamen Saçmalık</a>
- 13. <a href="http://masaustum.blogspot.com/" target="_blank">Masaüstüm</a>
+ 12. <a href="https://ilkerender.blogspot.com/" target="_blank">Tamamen Saçmalık</a>
+ 13. <a href="https://masaustum.blogspot.com/" target="_blank">Masaüstüm</a>
  14. Back to the 80’s
- 15. <a href="http://www.photoshop-tr.com" target="_blank">Photoshop TR</a>
+ 15. <a href="https://www.photoshop-tr.com" target="_blank">Photoshop TR</a>
 
- [1]: http://moblogsmoproblems.blogspot.com/2006/12/revenge-of-z-lister.html
- [2]: http://www.technorati.com/
- [3]: http://www.pcnet.com.tr/ayyas/z-blog-listesi
- [4]: http://www.teknoseyir.com/
- [5]: http://www.acemiblogcu.com/
- [6]: http://burkinafasafiso.com/
- [7]: http://www.oceangray.net/
- [8]: http://blogbocegi.blogspot.com/
- [9]: http://teknoist.com/
- [10]: http://www.yakuter.com/
- [11]: http://www.pcnet.com.tr/ayyas
- [12]: http://www.sadibey.com/
- [13]: http://www.hakanuygun.com/blog/
+ [1]: https://moblogsmoproblems.blogspot.com/2006/12/revenge-of-z-lister.html
+ [2]: https://www.technorati.com/
+ [3]: https://www.pcnet.com.tr/ayyas/z-blog-listesi
+ [4]: https://www.teknoseyir.com/
+ [5]: https://www.acemiblogcu.com/
+ [6]: https://burkinafasafiso.com/
+ [7]: https://www.oceangray.net/
+ [8]: https://blogbocegi.blogspot.com/
+ [9]: https://teknoist.com/
+ [10]: https://www.yakuter.com/
+ [11]: https://www.pcnet.com.tr/ayyas
+ [12]: https://www.sadibey.com/
+ [13]: https://www.hakanuygun.com/blog/

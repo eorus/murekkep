@@ -21,5 +21,5 @@ Bu yeni gmail özelliği sizin sıkça yazıştığınız arkadaş grubu, aileni
 
 [New in Labs: Suggest more recipients][2]
 
- [1]: http://gmail.com
- [2]: http://gmailblog.blogspot.com/2009/04/new-in-labs-suggest-more-recipients.html
+ [1]: https://gmail.com
+ [2]: https://gmailblog.blogspot.com/2009/04/new-in-labs-suggest-more-recipients.html

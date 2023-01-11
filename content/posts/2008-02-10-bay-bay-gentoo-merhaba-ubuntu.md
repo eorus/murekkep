@@ -35,4 +35,4 @@ Fedora Core 8: bu işletim sisteminin varlık sebebini bile çözebilmiş değil
 
 openSuSE: şiddetli olarak düşündüğüm sistemlerden bir tanesi, ancak paket yöneticisi yüzünden tercih edemedim.
 
- [1]: http://www.gentoo.org/ "Gentoo Linux"
+ [1]: https://www.gentoo.org/ "Gentoo Linux"

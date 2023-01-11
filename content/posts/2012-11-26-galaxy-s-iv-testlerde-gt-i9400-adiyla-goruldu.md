@@ -26,5 +26,5 @@ Samsung’un en üst düzey akıllı telefonu olan Galaxy S3 kırdığı satış
 
 &nbsp;
 
- [1]: http://wp.me/p1eJph-2lK
+ [1]: https://wp.me/p1eJph-2lK
  [2]: https://www.murekkep.org/samsung-galaxy-s-4-quad-core-islemciyle-gelecek-8851 "Samsung Galaxy S4 Teknik Özellikleri (muhtemel özellikler)"

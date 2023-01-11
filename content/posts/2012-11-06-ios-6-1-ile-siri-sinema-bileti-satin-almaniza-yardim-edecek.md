@@ -20,4 +20,4 @@ tags:
 
 iOS 6.1 geliştirme aşamasında yardımcı olan yazılım geliştiricilerinin söylediğine göre sistem yalnızca Amerika’da geçerli ve sadece bazı sinemalarla uyumlu olarak çalışacak. <span style="text-decoration: underline;">iOS 6.1</span> hakkındaki gelişmeleri merakla beklemeye devam ediyoruz.
 
- [1]: http://wp.me/p1eJph-2jC "ios 6.0.1"
+ [1]: https://wp.me/p1eJph-2jC "ios 6.0.1"

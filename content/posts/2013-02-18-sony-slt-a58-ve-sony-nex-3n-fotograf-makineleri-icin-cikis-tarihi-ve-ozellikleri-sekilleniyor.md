@@ -46,7 +46,7 @@ Sony SLT-A58 satış fiyatı 18-55mm SAM II kit lens ile beraber $599 olarak bek
 
 Sony NEX-3N fotoğraf makinesi satış fiyatı 16-50mm kit lens ile beraber $499 olarak bekleniyor. [Sony NEX-3N ilk sızan görselleri][5]{.broken_link} için tıklayın.
 
-kaynak : <a href="http://photorumors.com/2013/02/18/sony-a58-and-nex-3n-camera-specifications-and-more-details-on-the-announcement-next-week/" target="_blank">PR</a>
+kaynak : <a href="https://photorumors.com/2013/02/18/sony-a58-and-nex-3n-camera-specifications-and-more-details-on-the-announcement-next-week/" target="_blank">PR</a>
 
  [1]: https://www.murekkep.org/kamera "fotoğraf makinesi"
  [2]: https://www.murekkep.org/kamera/sony/slt-a58 "sony slt-a58 alpha 58"

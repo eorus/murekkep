@@ -16,7 +16,7 @@ tags:
 ---
 Google tarafından Google Chrome kullanıcıları için sunulan **chrome web mağazası** üzerinden online [chrome tema][1]{.broken_link}, chrome uygulama ve [chrome uzantısı][2]{.broken_link} yükleyebiliyorsunuz. 2010 yılında duyurulan **chrome web mağazası** üzerinde ücretsiz uygulamaların yanısıra ücretli olarak da uygulama indirilebiliyor.
 
-Chrome web mağazası &#8211; uygulamalar, uzantılar ve temalar üzerinden bir uygulama indirdiğinizde bu uygulamayı en çok ziyaret edilen sayfa listesinde görebiliyorsunuz. <a title="Chrome Web Store" href="http://chrome.google.com/webstore" target="_blank">Chrome web mağazası</a> üzerinde uygulamaların yanısıra birçok **google chrome teması ve uzantısı** bulabilirsiniz.
+Chrome web mağazası &#8211; uygulamalar, uzantılar ve temalar üzerinden bir uygulama indirdiğinizde bu uygulamayı en çok ziyaret edilen sayfa listesinde görebiliyorsunuz. <a title="Chrome Web Store" href="https://chrome.google.com/webstore" target="_blank">Chrome web mağazası</a> üzerinde uygulamaların yanısıra birçok **google chrome teması ve uzantısı** bulabilirsiniz.
 
 **Chrome web mağazası** üzerinden indirilen uygulamalar hem Google Chrome tarayıcısı ile çalışırken hem de Gogole tarafından oluşturulan Chrome OS işletim sisteminde de çalışabilmektedir. Chrome web mağazası üzerinde çeşitli kategoriler altında sunulan bu uygulamalar, arzu edilirse chrome web mağazası üzerindeki arama kutusu sayesinde arama yapılarak da ulaşılabilmektedir.
 

@@ -40,7 +40,7 @@ Turkcell, 2011 yılında 300 bin adet sattığı T10 ve T20 Maxiphone modellerin
 
 ## Turkcell T11 Maxiphone Fiyatı
 
-<a title="Turkcell T11 Maxiphone" href="http://www.turkcell.com.tr/bireysel/kampanyalar/Sayfalar/Turkcell-T11-Kampanyasi.aspx" target="_blank">Turkcell T11 Maxiphone</a> kontratsız peşin fiyatı 389TL olarak belirlendi. Turkcell T11 389TL fiyatının içerisinde telefonun kılıfı, arka kapak ve ekran koruyucusundan oluşan aksesuar seti, 3 ay boyunca her yöne 250dk konuşma, 250MB internet ve Turkcell Müzik&#8217;ten ücretsiz 50 şarkı bulunuyor.
+<a title="Turkcell T11 Maxiphone" href="https://www.turkcell.com.tr/bireysel/kampanyalar/Sayfalar/Turkcell-T11-Kampanyasi.aspx" target="_blank">Turkcell T11 Maxiphone</a> kontratsız peşin fiyatı 389TL olarak belirlendi. Turkcell T11 389TL fiyatının içerisinde telefonun kılıfı, arka kapak ve ekran koruyucusundan oluşan aksesuar seti, 3 ay boyunca her yöne 250dk konuşma, 250MB internet ve Turkcell Müzik&#8217;ten ücretsiz 50 şarkı bulunuyor.
 
 Turkcell T11 kontratlı fiyatı ise mevcut Turkcell tarifenize ek olarak ilk etapta 24 ay x 14.90TL şeklinde belirlenmiş. Bu paket içerisinde internet kullanımı 3 aylık toplam 250MB belirlenmiş. Bir diğer Turkcell T11 kontratlı paketi ise 24 ay boyunca 250MB internet paketiyle beraber aylık 27.5TL şeklinde belirlenmiş.
 

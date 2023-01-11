@@ -27,10 +27,10 @@ Torrent uzantılı linkleri açabileceğiniz ve **torrent dosyası indirme** sü
 ## En İyi 5 Torrent İndirme Programı
 
   1. [uTorrent][2]{.broken_link} (Windows, Mac, Linux)
-  2. <a title="Deluge" href="http://deluge-torrent.org/" target="_blank">Deluge</a> (Windows, Mac, Linux)
-  3. <a title="Transmission" href="http://www.transmissionbt.com/" target="_blank">Transmission</a> (Mac, Linux)
+  2. <a title="Deluge" href="https://deluge-torrent.org/" target="_blank">Deluge</a> (Windows, Mac, Linux)
+  3. <a title="Transmission" href="https://www.transmissionbt.com/" target="_blank">Transmission</a> (Mac, Linux)
   4. rTorrent/ruTorrent (Linux)
-  5. <a title="Vuze" href="http://www.vuze.com/" target="_blank">Vuze</a> (Windows/Mac/Linux)
+  5. <a title="Vuze" href="https://www.vuze.com/" target="_blank">Vuze</a> (Windows/Mac/Linux)
 
  [1]: https://www.murekkep.org/2011-yili-en-populer-torrent-siteleri-7258 "En popüler torrent siteleri [2011]"
  [2]: https://www.murekkep.org/torrent-dosya-indirme-programi-utorrent-4061 "uTorrent"

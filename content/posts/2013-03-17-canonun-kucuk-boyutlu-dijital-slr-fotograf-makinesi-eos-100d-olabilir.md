@@ -34,7 +34,7 @@ Canon EOS 100D dijital fotoğraf makinesinin fiyatı Canon dizilişindeki Powers
   * EF ve EF-S lens desteği
   * HD video
 
-via <a title="canon eos 100d small dslr" href="http://www.dailycameranews.com/2013/03/canon-new-small-camera-eos-100d-dslr/" rel="external dofollow">DCN</a>
+via <a title="canon eos 100d small dslr" href="https://www.dailycameranews.com/2013/03/canon-new-small-camera-eos-100d-dslr/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera/canon/eos-70d "canon eos 70d"
  [2]: https://www.murekkep.org/canon-eos-70d-cikis-tarihi-mart-sonu-olabilir-12298 "canon eos 70d çıkış tarihi"

@@ -20,4 +20,4 @@ Dosya arama üzerine kurulu FileCrop arama sonuçlarında, isterseniz **Rapidsha
 
 Dosya arama motoru **FileCrop** üzerinde arama yaptığınızda gelen arama sonuçlarının yanında dosya formatının ne olduğu ile ilgili küçük ikon, dosyanın adı, dosyanın boyutu, dosyanın hangi kaynaktan elde edildiği ve **dosya paylaşım sitesinden** kaç kere indirildiğini görebiliyorsunuz.
 
- [1]: http://www.filecrop.com/
+ [1]: https://www.filecrop.com/

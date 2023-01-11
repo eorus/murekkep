@@ -9,4 +9,4 @@ categories:
   - Sosyal
 
 ---
-http://www.webeyn.com/instagramdan-resim-nasil-indirilir/
+https://www.webeyn.com/instagramdan-resim-nasil-indirilir/

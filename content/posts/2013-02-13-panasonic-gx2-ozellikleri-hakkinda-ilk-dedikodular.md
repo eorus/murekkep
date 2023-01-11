@@ -19,6 +19,6 @@ Hava sızdırmaz magnezyum alaşımlı gövde ile gelmesi beklenen yeni Panasoni
 
 <img class="aligncenter size-full wp-image-11886" alt="panasonic-gx2" src="https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2.png" width="600" height="191" srcset="https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2.png 600w, https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2-400x127.png 400w, https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2-50x15.png 50w, https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2-125x39.png 125w, https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2-300x95.png 300w, https://www.murekkep.org/wp-content/uploads/2013/02/panasonic-gx2-580x184.png 580w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-via <a title="First Rumors About Panasonic GX2 Specifications  " href="http://www.dailycameranews.com/2013/02/first-rumors-about-panasonic-gx2-specifications/" rel="external dofollow">daily camera news</a>
+via <a title="First Rumors About Panasonic GX2 Specifications  " href="https://www.dailycameranews.com/2013/02/first-rumors-about-panasonic-gx2-specifications/" rel="external dofollow">daily camera news</a>
 
  [1]: https://www.murekkep.org/kamera "fotoğraf makinesi"

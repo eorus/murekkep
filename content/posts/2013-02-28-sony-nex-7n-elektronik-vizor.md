@@ -29,7 +29,7 @@ Mevcut [Sony NEX 7][4] modeline göre %60 daha iyi görüntü çözünürlüğü
   * Sony NEX-7 ile benzer gövde yapısı
   * Isınma gibi sorunların iyileştirilmesi
 
-via <a title="Sony NEX-7N Will Have a New EVF with 3.8 Million Dot Resolution" href="http://www.dailycameranews.com/2013/02/sony-nex-7n-will-have-a-new-evf-with-3-8-million-dot-resolution/" rel="external dofollow">DCN</a>
+via <a title="Sony NEX-7N Will Have a New EVF with 3.8 Million Dot Resolution" href="https://www.dailycameranews.com/2013/02/sony-nex-7n-will-have-a-new-evf-with-3-8-million-dot-resolution/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera/sony/nex-3n/ "sony nex-3n aynasız fotoğraf makinesi"
  [2]: https://www.murekkep.org/sony-nex-7-ust-seviye-aps-c-aynasiz-fotograf-makinesi-nisan-ayinda-yenilenebilir-sony-nex-7n/ "Sony NEX-7 Üst Seviye APS-C Aynasız Fotoğraf Makinesi Nisan Ayında Yenilenebilir : Sony NEX-7N"

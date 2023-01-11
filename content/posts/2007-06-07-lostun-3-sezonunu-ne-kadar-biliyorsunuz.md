@@ -20,4 +20,4 @@ Bildiğiniz üzere Lost, Mayıs&#8217;ın son haftasında 2 saatlik final bölü
 
  [1]: https://www.murekkep.org/lost-2010-yilinda-bitecek-289
  [2]: https://www.murekkep.org/ve-lost-3-sezonu-kapatti-299
- [3]: http://lost.about.com/library/quiz/bl_season3_quiz.htm
+ [3]: https://lost.about.com/library/quiz/bl_season3_quiz.htm

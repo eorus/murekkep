@@ -37,9 +37,9 @@ Loonapix ile fotoğraflarınıza uygulayabileceğiniz işlemler aşağıdaki gib
 
 Eğer efektler yeterli gelmezse daha önce tanıtımlarını yaptığımız [Photofunia][2], [Funphotobox][3] ve [Photo505][6] gibi fotoğraf efekt sitelerine bakabilirsiniz.
 
- [1]: http://www.loonapix.com/
+ [1]: https://www.loonapix.com/
  [2]: https://www.murekkep.org/photofunia-ile-resimlerinize-fark-katin-1297
  [3]: https://www.murekkep.org/funphotobox-resimleriniz-icin-eglenceli-efektler-1371
- [4]: http://flickr.com
+ [4]: https://flickr.com
  [5]: https://www.murekkep.org/isminizle-avatar-resmi-olusturun-1515
  [6]: https://www.murekkep.org/photo505-ile-fotograflariniza-dijital-efektler-1584

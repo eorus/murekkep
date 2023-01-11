@@ -28,21 +28,21 @@ Günümüzde internet üzerinde popüler olsun ya da olmasın her türlü e-kita
 
 ## En İyi Ücretsiz Kitap İndirme Siteleri
 
-### 1. <a href="http://www.onlinefreeebooks.net/" target="_blank">OnlineFreeEBooks</a>
+### 1. <a href="https://www.onlinefreeebooks.net/" target="_blank">OnlineFreeEBooks</a>
 
 ### 2. FreeBookSpot
 
-### 3. <a href="http://www.free-ebooks.net/" target="_blank">Free eBooks</a>
+### 3. <a href="https://www.free-ebooks.net/" target="_blank">Free eBooks</a>
 
 ### 4. Project Gutenberg
 
-### 5. <a href="http://freecomputerbooks.com/" target="_blank">Free Computer Books</a>
+### 5. <a href="https://freecomputerbooks.com/" target="_blank">Free Computer Books</a>
 
-### 6. <a href="http://www.bookyards.com/" target="_blank">Bookyards</a>
+### 6. <a href="https://www.bookyards.com/" target="_blank">Bookyards</a>
 
-### 7. <a href="http://www.ebooks-space.com/" target="_blank">eBooks Space</a>
+### 7. <a href="https://www.ebooks-space.com/" target="_blank">eBooks Space</a>
 
-### 8. <a href="http://www.e-booksdirectory.com/" target="_blank">E-Books Directory</a>
+### 8. <a href="https://www.e-booksdirectory.com/" target="_blank">E-Books Directory</a>
 
 ### 9. Free EBooks Download
 

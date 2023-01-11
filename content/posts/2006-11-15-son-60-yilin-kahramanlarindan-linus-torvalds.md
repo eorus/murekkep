@@ -14,6 +14,6 @@ tags:
 ---
 Linux&#8217;un kurucusu [Linus Torvalds][1], Time Gazetesi&#8217;nin Avrupa [sürümünde][2] yayımlanan Son 60 Yılın kahramanlarından biri oldu.Kendisi &#8220;**İsyancı ve Lider**&#8221; kategorisine layik görüldü. İlk olarak 1991 bu fikri ortaya [atmıştı][3]. Zamanında hiç bir şey gibi gözüken bu proje, sonradan sonraya bambaşka bir hal aldı. Şimdilerde Süper bilgisayarlardan, küçük cep telefonlarına kadar her alanda Linux&#8217;ün etkisini görüyoruz. Hiç kimseyi aldırmadan yolundan giden, ve onun gibi düşünen gönüllüler ile büyük bir başarıyı hak etmiştir.
 
- [1]: http://en.wikipedia.org/wiki/Linus_Torvalds
- [2]: http://www.time.com/time/europe/
- [3]: http://groups.google.de/group/comp.os.minix/msg/b813d52cbc5a044b?dmode=source
+ [1]: https://en.wikipedia.org/wiki/Linus_Torvalds
+ [2]: https://www.time.com/time/europe/
+ [3]: https://groups.google.de/group/comp.os.minix/msg/b813d52cbc5a044b?dmode=source

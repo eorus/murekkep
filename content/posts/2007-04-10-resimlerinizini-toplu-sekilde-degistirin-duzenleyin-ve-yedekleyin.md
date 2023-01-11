@@ -20,6 +20,6 @@ Web&#8217;deki fotoğraflarımı 1024&#215;768 olarak paylaşmak istedim. Bunun 
 
 _Betik otomatik olarak kopyalarını sizin için alıyor_). Bu sayede orjinal resimlerinize bir zarar gelme ihtimali de yok.
 
-Kullanmak için : http://bbips.org/downloads/bbipsinstall.sh betiğini indirip, çalıştırın. Kendisi gerekli olan programları indirip kuracaktır(Imagemagick kurulu olması gerekiyor). Ardından da **bbips** adlı komutu resimlerinizin içindeki klasörde çalıştırın. Hepsi bu kadar.
+Kullanmak için : https://bbips.org/downloads/bbipsinstall.sh betiğini indirip, çalıştırın. Kendisi gerekli olan programları indirip kuracaktır(Imagemagick kurulu olması gerekiyor). Ardından da **bbips** adlı komutu resimlerinizin içindeki klasörde çalıştırın. Hepsi bu kadar.
 
 _(Not: Betik Linux altında çalışmaktadır)_

@@ -17,4 +17,4 @@ WordPress 2.7 sürümün duyurulmasıyla biz blog yöneticileri sağlıklı ve i
 
 A Journey Through Five Years of WordPress Interface
 
- [1]: http://www.wordpress-tr.com/
+ [1]: https://www.wordpress-tr.com/

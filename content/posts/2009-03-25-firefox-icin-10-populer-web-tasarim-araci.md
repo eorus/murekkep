@@ -18,7 +18,7 @@ tags:
 ---
 Firefox&#8217;u mükemmel kılan birçok özellikten herhalde en hoşumuza gideni eklenti desteğinin olması ve bu eklentilerle Firefox&#8217;u istediğimiz gibi özelleştirebilmemiz olduğunu söyleyebiliriz. Sayısız **Firefox eklentisi** her alanda birçok konuda Firefox&#8217;a artı değer katmaktadır. Tabi bununla beraber kullanıcı tarafında da bu eklentiler hayatı kolaylaştıran, hatta yeri geldiğinde ücretli olarak piyasada bulunan çoğu yazılımdan daha önemli işleve sahip olabilmektedirler.
 
-**Web tasarımı** konusunda ise <a href="http://www.mozilla-europe.org/tr/firefox/" target="_blank" class="broken_link">Firefox</a> eklentileriyle hemen hemen herşeyi yapabilecek duruma gelebiliyoruz. **CSS** araçlarından **FTP** erişimine, **Renk** seçiminden **Ekran görüntüsü** almaya kadar eklentilerle Firefox&#8217;u **web tasarımı** konusunda en verimli şekilde kullanabiliyorsunuz.<!--more-->
+**Web tasarımı** konusunda ise <a href="https://www.mozilla-europe.org/tr/firefox/" target="_blank" class="broken_link">Firefox</a> eklentileriyle hemen hemen herşeyi yapabilecek duruma gelebiliyoruz. **CSS** araçlarından **FTP** erişimine, **Renk** seçiminden **Ekran görüntüsü** almaya kadar eklentilerle Firefox&#8217;u **web tasarımı** konusunda en verimli şekilde kullanabiliyorsunuz.<!--more-->
 
 ### Firefox için 10 Popüler Web Tasarım Aracı
 

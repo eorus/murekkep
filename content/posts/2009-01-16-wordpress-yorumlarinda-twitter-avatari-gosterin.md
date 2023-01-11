@@ -30,7 +30,7 @@ Bu eklenti Twitter üzerinden bilgileri getirmeye çalışırken günlüklerin y
 
 * Twitter Avatars In Comments WordPress Plugin
 
- [1]: http://www.smashingmagazine.com/
- [2]: http://wordpress.org/
- [3]: http://twitter.com/
- [4]: http://www.gravatar.com/
+ [1]: https://www.smashingmagazine.com/
+ [2]: https://wordpress.org/
+ [3]: https://twitter.com/
+ [4]: https://www.gravatar.com/

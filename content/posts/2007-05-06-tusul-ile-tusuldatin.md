@@ -17,5 +17,5 @@ tags:
 
 Tusul bir ilk değil belki ama Oyyla ile birlikte Türkiye&#8217;de içerik paylaşımının gelişiminde önemli bir diğer kilometre taşı olacağını söyleyebilirim. Henüz Tusul kelimesinin nereden geldiğini bulamadığım site hakkındaki gelişmeleri blog sayfasından takip edebiliyorsunuz.
 
- [1]: http://www.digg.com
+ [1]: https://www.digg.com
  [2]: https://www.murekkep.org/oyyla-com-turkce-digg-227

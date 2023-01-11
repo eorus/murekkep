@@ -29,7 +29,7 @@ Bana sorarsanız **Android** işletim sistemli [Samsung Galaxy Tab 10.1][4], IOS
 
 **Apple iPad 2 vs Samsung Galaxy Tab 10.1 karşılaştırması için yaralı olabilecek linkler**
 
-&#8211; <a href="http://www.burcinyazici.com/apple-ipad-2-mi-samsung-galaxy-tab-10-1-mi-1524.html" target="_blank">Apple iPad 2 mi? Samsung Galaxy Tab 10.1 mi?</a>
+&#8211; <a href="https://www.burcinyazici.com/apple-ipad-2-mi-samsung-galaxy-tab-10-1-mi-1524.html" target="_blank">Apple iPad 2 mi? Samsung Galaxy Tab 10.1 mi?</a>
 
 &#8211; [Tablet PC Nedir? En İyi Tablet PC Hangisi?][5]
 

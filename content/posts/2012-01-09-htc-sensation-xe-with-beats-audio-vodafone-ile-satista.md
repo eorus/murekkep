@@ -22,7 +22,7 @@ HTC&#8217;nin **Beats Audio** kullanılarak geliştirilmiş akıllı telefonu **
 
 Vodafone tarafından Türkiye&#8217;de satışa sunulan [HTC Sensation XE with Beats Audio][1] modeli ile birlikte toplam **1000 şarkı hediye** ediliyor. **Vodafone HTC Sensation XE kampanyasına katılmak** isteyen kullanıcılara kampanya dahilinde Vodafone Cep Avantaj tarifelerinden birini kullanmayı 24 ay taahhüt eden aboneler ayda **61 TL** gibi bir taksit tutarıyla **HTC Sensation XE with Beats Audio sahibi** olabiliyorlar.
 
-**Htc Sensation XE with Beats Audio kısa özellikleri** aşağıdaki gibi olup <a title="Vodafone Htc Sensation XE" href="http://www.vodafone.com.tr/Cihazlar/HTC-Sensation-XE.php" target="_blank" class="broken_link">Vodafone Htc Sensation XE</a> sayfasından kampanya detaylarına ulaşabilirsiniz.
+**Htc Sensation XE with Beats Audio kısa özellikleri** aşağıdaki gibi olup <a title="Vodafone Htc Sensation XE" href="https://www.vodafone.com.tr/Cihazlar/HTC-Sensation-XE.php" target="_blank" class="broken_link">Vodafone Htc Sensation XE</a> sayfasından kampanya detaylarına ulaşabilirsiniz.
 
 <img class="aligncenter size-full wp-image-7481" title="htc-sensation-xe" src="https://www.murekkep.org/wp-content/uploads/2012/01/htc-sensation-xe.jpg" alt="" width="400" height="310" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/htc-sensation-xe.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/htc-sensation-xe-50x38.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/htc-sensation-xe-161x125.jpg 161w" sizes="(max-width: 400px) 100vw, 400px" /> 
 

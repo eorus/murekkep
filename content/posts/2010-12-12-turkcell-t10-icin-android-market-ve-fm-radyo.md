@@ -17,7 +17,7 @@ tags:
 ---
 **Turkcell T10**, geçtiğimiz ay Turkcell tarafından duyurulduğundan beri Turkcell iletişim Merkezleri&#8217;nde hem kontratlı hem de kontratsız olarak alınabiliyor. Kontratlı fiyatında 60 saat mobil tv, internet paketi ve konuşma gibi özelliklerle geldiğinden telefonun fiyatı 29 Tl&#8217;den 24 ay gibi bir taksitle satılıyor. Eğer kontratsız, yani sadece cihazı almak isterseniz kendi aldığım fiyat olan 327 TL diyebilirim. Sanırım 232$ olan fiyat kur fiyatına göre TİM&#8217;lerde değişiklik gösterebiliyor.
 
-**Turkcell T10 alınır mı?** Turkcell T10 nasıl bir telefon? Turkcell T10 özelliklerine Turkcell&#8217;in sitesindeki <a href="http://www.turkcell.com.tr/bireysel/kampanyalar/telefoncihazkampanyalari/TurkcellT10" target="_blank">Turkcell T10 sayfasından</a> bakabilirsiniz. Bilmeyenler için Turkcell T10 için aslında **Huawei** firmasının ürettiği **u8110** modeli diyebiliriz. **Akıllı telefon** olarak sunulan T10&#8217;un içerisinde kullanılan işletim sistemi android işletim sistemi. [Google Android Mobil Telefonlar][1]{.broken_link} için açık kaynak kodlu, tablet pc ve akıllı telefonlar üzerinde kullanılan dünyada oldukça yaygın ve geliştirmeye açık telefonlar diyebiliriz.
+**Turkcell T10 alınır mı?** Turkcell T10 nasıl bir telefon? Turkcell T10 özelliklerine Turkcell&#8217;in sitesindeki <a href="https://www.turkcell.com.tr/bireysel/kampanyalar/telefoncihazkampanyalari/TurkcellT10" target="_blank">Turkcell T10 sayfasından</a> bakabilirsiniz. Bilmeyenler için Turkcell T10 için aslında **Huawei** firmasının ürettiği **u8110** modeli diyebiliriz. **Akıllı telefon** olarak sunulan T10&#8217;un içerisinde kullanılan işletim sistemi android işletim sistemi. [Google Android Mobil Telefonlar][1]{.broken_link} için açık kaynak kodlu, tablet pc ve akıllı telefonlar üzerinde kullanılan dünyada oldukça yaygın ve geliştirmeye açık telefonlar diyebiliriz.
 
 ## Turkcell T10 Özellikleri
 
@@ -46,10 +46,10 @@ Eğer bir Turkcell T10 sahibi iseniz, bu şekilde bir değişiklik yapmak isters
 
 Türkçe Kaynak :  
 -Turkcell T10&#8217;a Rom Atma Huawei u8110&#8217;a Çevirme  
-&#8211;<a href="http://forum.donanimhaber.com/m_44963400/tm.htm" target="_blank">Turkcell T10 a.k.a Huawei u8110 Kullanıcıları (Cihaz hakkında herşey)</a>
+&#8211;<a href="https://forum.donanimhaber.com/m_44963400/tm.htm" target="_blank">Turkcell T10 a.k.a Huawei u8110 Kullanıcıları (Cihaz hakkında herşey)</a>
 
 İngilizce Kaynak:
 
-&#8211;<a href="http://forum.xda-developers.com/showthread.php?p=8518133" target="_blank" class="broken_link">[ROM] [Huawei U8100/U8110/U8120] [Eclair] The Celestial Teapot RLS3 [2010-11-09]</a>
+&#8211;<a href="https://forum.xda-developers.com/showthread.php?p=8518133" target="_blank" class="broken_link">[ROM] [Huawei U8100/U8110/U8120] [Eclair] The Celestial Teapot RLS3 [2010-11-09]</a>
 
  [1]: https://www.murekkep.org/google-android-mobil-telefonlar-3715

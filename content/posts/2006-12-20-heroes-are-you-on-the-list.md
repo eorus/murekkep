@@ -36,5 +36,5 @@ Kış arasına 22 Ocak 2007&#8217;de son verecek olan Heroes&#8217;un Promo vide
 
 [youtube]EfdMc7PgwPM[/youtube]
 
- [1]: http://www.nbc.com/Heroes/
- [2]: http://heroeswiki.com/Main_Page
+ [1]: https://www.nbc.com/Heroes/
+ [2]: https://heroeswiki.com/Main_Page

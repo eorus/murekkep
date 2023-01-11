@@ -20,5 +20,5 @@ categories:
 
 [New in Labs: Inserting images][2]
 
- [1]: http://gmail.com
- [2]: http://gmailblog.blogspot.com/2009/04/new-in-labs-inserting-images.html
+ [1]: https://gmail.com
+ [2]: https://gmailblog.blogspot.com/2009/04/new-in-labs-inserting-images.html

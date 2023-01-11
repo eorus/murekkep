@@ -12,13 +12,13 @@ tags:
   - internet
 
 ---
-Google&#8217;ın **adres kısaltma servisi** ya da bir internet adresini kısa url edinmeniz gerektiğinde kullanabileceğiniz servisi <a href="http://goo.gl/" target="_blank">Goo.gl </a>(url shortener) duymuşsunuzdur. **Kısaltılmış url adresleri** sosyal paylaşım sitelerinde ve özellikle twitter üzerinde oldukça işe yarıyor. Kısa url yaratabileceğiniz servisler olarak [TinyUrl][1]{.broken_link}, [FoxyUrl][2]{.broken_link} ve [Tini.us][3]{.broken_link} gibi örnekleri sayabiliriz. **İnternet adres kısaltma servisleri** sayesinde uzun bulduğunuz her internet sitesinin linkini kısa url haline getirebilirsiniz.
+Google&#8217;ın **adres kısaltma servisi** ya da bir internet adresini kısa url edinmeniz gerektiğinde kullanabileceğiniz servisi <a href="https://goo.gl/" target="_blank">Goo.gl </a>(url shortener) duymuşsunuzdur. **Kısaltılmış url adresleri** sosyal paylaşım sitelerinde ve özellikle twitter üzerinde oldukça işe yarıyor. Kısa url yaratabileceğiniz servisler olarak [TinyUrl][1]{.broken_link}, [FoxyUrl][2]{.broken_link} ve [Tini.us][3]{.broken_link} gibi örnekleri sayabiliriz. **İnternet adres kısaltma servisleri** sayesinde uzun bulduğunuz her internet sitesinin linkini kısa url haline getirebilirsiniz.
 
 Kısaltılmış internet adresini kopyalayabilir, facebook, twitter gibi her türlü **sosyal ağ** üzerinde kolayca paylaşabilirsiniz.
 
 ## Google url kısaltma servisi Goo.gl
 
-**Kısa url** yaratmak için kullanabileceğiniz **goo.gl uzantılı** kısa linki yaratmak için basit bir şekilde http://goo.gl adresine gidebilirsiniz. Eğer google hesabınız ile giriş yapıp goo.gl ile kısa url yarattıysanız, geçmişe yönelik olarak edindiğiniz kısaltılmış url adreslerini de görebiliyorsunuz.
+**Kısa url** yaratmak için kullanabileceğiniz **goo.gl uzantılı** kısa linki yaratmak için basit bir şekilde https://goo.gl adresine gidebilirsiniz. Eğer google hesabınız ile giriş yapıp goo.gl ile kısa url yarattıysanız, geçmişe yönelik olarak edindiğiniz kısaltılmış url adreslerini de görebiliyorsunuz.
 
 Goo.gl ile kısaltılan url adresinin detaylarını görmek istediğinizde google farkı ortaya çıkıyor. Bilgi olarak uzun url bilgisi, **kısa url bilgisi**, ne zaman yaratıldığı, **QR kodu** şeklindeki görseli, kaç kere tıklandığı aktarıldığı üst kısmın yanısıra google analytics havasına bürünen, alt kısımda yaratılan kısa url&#8217;ye kaç kere tıklandığı, hangi trafik kaynaklarından tıklanıldığı, kısa urlye yönlendiren siteler ve ilgili ziyaretçilerin ülke, kullanılan tarayıcı ve işletim sistemi bilgileri veriliyor.
 

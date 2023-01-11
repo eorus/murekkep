@@ -75,7 +75,7 @@ Saçma gelebilir ama kar manzara fotoğrafı çekmek için kat kat, kalın kalı
   </p>
   
   <p>
-    Kaynak: http://www.digitalcameraworld.com/
+    Kaynak: https://www.digitalcameraworld.com/
   </p>
   
   <p>

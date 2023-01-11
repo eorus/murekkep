@@ -22,5 +22,5 @@ Dizi şu an 1 sezonun 5 bölüme ulaşmış. Kısaca anlatmak gerekiyorsa. [22da
 
 Konusu itibariyle, X-men&#8217;i andırması hoşuma gitti. Bir film değil de dizi olması da X-men sevenleri sevindiriyor haliyle.Dizideki oyuncular da birbiri ile bağlantılı aynen Lost\`daki gibi. İçin içinde bilim-kurgu öğeleri de var. Henüz seyretmedim, ama en kısa zamanda başlayacağım. Bakalım, görelim nasıl gelişecek.
 
- [1]: http://www.nbc.com/Heroes/
- [2]: http://www.22dakika.org/
+ [1]: https://www.nbc.com/Heroes/
+ [2]: https://www.22dakika.org/

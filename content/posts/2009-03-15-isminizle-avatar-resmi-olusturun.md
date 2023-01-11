@@ -20,5 +20,5 @@ Avatar resmi genelde forum üyeliklerinizde ya da sosyal ağlarda kullanmak üze
 
 Arzu ederseniz oluşturduğunuz avatar resmini sağ tıklayıp bilgisayarınıza kaydedebilirsiniz.
 
- [1]: http://www.gravatar.com/
- [2]: http://turnyournameintoaface.com/
+ [1]: https://www.gravatar.com/
+ [2]: https://turnyournameintoaface.com/

@@ -20,13 +20,13 @@ Microsoft&#8217;un bu alanda da faaliyet göstermesi gayet güzel. Halihazırda 
 
 Windows Live Translator&#8217;a aşağıdaki linklerden ulaşabilirsiniz.
 
-  * <http://translator.live.com/>{.broken_link}
-  * <http://translate.live.com/>{.broken_link}
-  * <http://windowslivetranslator.com/> 
+  * <https://translator.live.com/>{.broken_link}
+  * <https://translate.live.com/>{.broken_link}
+  * <https://windowslivetranslator.com/> 
 
 Kaynak : [Google Operating System][4]
 
- [1]: http://translator.live.com/
- [2]: http://www.google.com/language_tools
- [3]: http://www.systransoft.com/
- [4]: http://googlesystem.blogspot.com/2007/09/microsoft-launches-translation-service.html
+ [1]: https://translator.live.com/
+ [2]: https://www.google.com/language_tools
+ [3]: https://www.systransoft.com/
+ [4]: https://googlesystem.blogspot.com/2007/09/microsoft-launches-translation-service.html

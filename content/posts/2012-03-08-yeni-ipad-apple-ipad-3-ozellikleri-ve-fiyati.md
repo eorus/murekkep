@@ -21,7 +21,7 @@ Apple sonunda 3. nesil olarak adlandırılan **yeni iPad** tanıtımını yaptı
   <a title="iOS 5 ile Gelen Yeni Özelliklerin Tüm Listesi" href="https://www.murekkep.org/ios-5-ile-gelen-yeni-ozelliklerin-tum-listesi-6882" target="_blank" class="broken_link">iOS 5 ile Gelen Yeni Özelliklerin Tüm Listesi</a>
 </p>
 
-**iPad 2&#8217;den dört kat daha fazla piksel**. Keskin metinler ve çok daha zengin renkler. Retina ekran teknolojisi iPad ile olan ekran deneyiminizi tamamen dönüştürüyor. Herşeyin inanılmaz derecede gerçekçi gözüktüğü bir ekran teknolojisi olan Retina Display, mükemmel detayları ekranda kolayca yakalamanızı sağlıyor. **Apple yeni iPad** içerisine eklediği retina ekran için &#8220;**bir mobil cihaz üzerinde bugüne kadar yapılmış en iyi ekran**&#8221; yorumunu yapıyor. Detayları ve iPad 2 ekranı ile karşılaştırması için <a title="New iPad Features" href="http://www.apple.com/ipad/features/" target="_blank">new iPad features</a> sayfasına mutlaka bakmanızı tavsiye ederiz.
+**iPad 2&#8217;den dört kat daha fazla piksel**. Keskin metinler ve çok daha zengin renkler. Retina ekran teknolojisi iPad ile olan ekran deneyiminizi tamamen dönüştürüyor. Herşeyin inanılmaz derecede gerçekçi gözüktüğü bir ekran teknolojisi olan Retina Display, mükemmel detayları ekranda kolayca yakalamanızı sağlıyor. **Apple yeni iPad** içerisine eklediği retina ekran için &#8220;**bir mobil cihaz üzerinde bugüne kadar yapılmış en iyi ekran**&#8221; yorumunu yapıyor. Detayları ve iPad 2 ekranı ile karşılaştırması için <a title="New iPad Features" href="https://www.apple.com/ipad/features/" target="_blank">new iPad features</a> sayfasına mutlaka bakmanızı tavsiye ederiz.
 
 **Yeni iPad**, Apple&#8217;ın 5 megapiksel gelişmiş optik ile tasarlanmış **iSight kamera** yapısına sahip. iSight kamera, piyasadaki en iyi görüntüyü vermek için gelişmiş bir optik kullanır. **ƒ/2.4 diyaframa** sahip ve beş element lens ile, daha keskin görüntü üretmek için verimli bir ışık yakalar.Yeni iPad kamerası ile mükemmel fotoğraflar çekip, **1080p HD video çekim** yapabilirsiniz.
 
@@ -31,7 +31,7 @@ Apple sonunda 3. nesil olarak adlandırılan **yeni iPad** tanıtımını yaptı
 
 ### Yeni iPad Ekran Özellikleri
 
-  * <a title="retina display nedir" href="http://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina ekran teknolojisi</a>
+  * <a title="retina display nedir" href="https://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina ekran teknolojisi</a>
   * IPS teknolojisine sahip 9,7 inçlik (diyagonal) LED aydınlatmalı parlak, geniş, çoklu dokunmatik ekran
   * Inç başına 264 piksel çözünürlükte **2048 x 1536 piksel çözünürlük** (ppi)
   * Çoklu dil ve aynı anda karakter görüntüleme desteği
@@ -132,8 +132,8 @@ Sizi yeni iPad tanıtım videosuyla başbaşa bırakmadan önce şunu söyleyebi
 
 ## Yeni iPad (3. Jenerasyon) Bonus Pack
 
-  * <a title="Yeni iPad Hangi Ülkede Ne zaman Satışa Çıkacak" href="http://www.burcinyazici.com/yeni-ipad-hangi-ulkede-ne-zaman-satisa-cikacak-2383.html" target="_blank">Yeni iPad Hangi Ülkede Ne Zaman Satışa Çıkacak?</a>&#8211; via Burçin Yazıcı
+  * <a title="Yeni iPad Hangi Ülkede Ne zaman Satışa Çıkacak" href="https://www.burcinyazici.com/yeni-ipad-hangi-ulkede-ne-zaman-satisa-cikacak-2383.html" target="_blank">Yeni iPad Hangi Ülkede Ne Zaman Satışa Çıkacak?</a>&#8211; via Burçin Yazıcı
   * Yeni iPad ile iPad2 Karşılaştırma &#8211; via TabletPcTurk
-  * <a title="iPad 3 5MP Kamera ile Duyuruldu" href="http://www.turknikon.com/ipad-3-5mp-kamera-ile-duyuruldu-7202" target="_blank" class="broken_link">iPad 3, 5MP Kamera ile Duyuruldu</a> &#8211; via TürkNikon
+  * <a title="iPad 3 5MP Kamera ile Duyuruldu" href="https://www.turknikon.com/ipad-3-5mp-kamera-ile-duyuruldu-7202" target="_blank" class="broken_link">iPad 3, 5MP Kamera ile Duyuruldu</a> &#8211; via TürkNikon
 
  [1]: https://www.murekkep.org/tablet-pc-almak-icin-5-neden-5897 "tablet pc almak"

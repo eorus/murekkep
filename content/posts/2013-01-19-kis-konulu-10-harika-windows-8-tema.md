@@ -20,7 +20,7 @@ Daha fazla kış arka planı için hazırladığımız [yazımızı][1] okuyabil
 </p>
 
 <p style="text-align: left;">
-  <a href="http://www.windows8theme.net/win8themes/FreezingWinter.deskthemepack">Windows 8 Tema İndir</a>
+  <a href="https://www.windows8theme.net/win8themes/FreezingWinter.deskthemepack">Windows 8 Tema İndir</a>
 </p>
 
 <p style="text-align: left;">

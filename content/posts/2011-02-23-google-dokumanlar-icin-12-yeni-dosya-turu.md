@@ -27,4 +27,4 @@ categories:
 * TrueType (.TTF)  
 * XML Paper Specification (.XPS)
 
-<a href="http://googledocs.blogspot.com/2011/02/12-new-file-formats-in-google-docs.html" target="_blank">12 New File Formats in Google Docs</a>
+<a href="https://googledocs.blogspot.com/2011/02/12-new-file-formats-in-google-docs.html" target="_blank">12 New File Formats in Google Docs</a>

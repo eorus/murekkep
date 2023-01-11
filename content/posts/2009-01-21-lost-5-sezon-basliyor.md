@@ -16,5 +16,5 @@ Saat 20:00&#8217;de **Lost 5&#215;00** olarak 4. sezon özetini içeren özet b�
 
 Herkese iyi seyirler
 
- [1]: http://abc.go.com/
+ [1]: https://abc.go.com/
  [2]: https://www.murekkep.org/lost-2010-yilinda-bitecek-289

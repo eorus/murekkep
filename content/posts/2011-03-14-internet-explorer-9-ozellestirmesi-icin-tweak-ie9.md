@@ -25,6 +25,6 @@ Tweak IE9 ekranındaki seçimlerinizi yaptıktan sonra Tweak IE9 butonuna basara
 
 Windows 7 üzerinde hem 32-bit hem de 64-bit olmak üzere **internet explorer 9** için iki platformu da destekliyor.
 
-<a href="http://www.itknowledge24.com/" target="_blank">TweakIE9 </a>
+<a href="https://www.itknowledge24.com/" target="_blank">TweakIE9 </a>
 
  [1]: https://www.murekkep.org/webin-gelecegini-web-o-wonder-ile-tecrube-edin-5811

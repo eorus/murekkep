@@ -26,7 +26,7 @@ Bu hafta 20 Şubat tarihinde duyurulması beklenen Sony&#8217;nin yeni dijital S
 
 &nbsp;
 
-kaynak : <a href="http://digicame-info.com/2013/02/58slt-a58.html" target="_blank">Digicaminfo</a>
+kaynak : <a href="https://digicame-info.com/2013/02/58slt-a58.html" target="_blank">Digicaminfo</a>
 
  [1]: https://www.murekkep.org/kamera "fotoğraf makinesi"
  [2]: https://www.murekkep.org/sony-slt-a58-sony-nex-3n-ve-3-yeni-sony-lens-yakinda-duyurulabilir-11685 "Sony SLT-A58, Sony NEX-3N ve 3 yeni Sony lens duyurusu"

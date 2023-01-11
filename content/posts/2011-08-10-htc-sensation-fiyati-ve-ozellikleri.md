@@ -24,4 +24,4 @@ HTC’nin güçlü telefonlarından biri olan **HTC Sensation** (bir multimedya 
 
 <img class="alignnone size-full wp-image-6408" title="htc_sensation" src="https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation.jpg" alt="" width="280" height="280" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation.jpg 280w, https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation-150x150.jpg 150w, https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation-250x250.jpg 250w, https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation-100x100.jpg 100w, https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation-50x50.jpg 50w, https://www.murekkep.org/wp-content/uploads/2011/08/htc_sensation-200x200.jpg 200w" sizes="(max-width: 280px) 100vw, 280px" /> 
 
-<a href="http://www.vodafone.com.tr/Cihazlar/HTC-Sensation.php?default_id=bireysel-bireysel-HTCSensation" target="_blank" class="broken_link">Vodafone &#8211; HTC Sensation</a>
+<a href="https://www.vodafone.com.tr/Cihazlar/HTC-Sensation.php?default_id=bireysel-bireysel-HTCSensation" target="_blank" class="broken_link">Vodafone &#8211; HTC Sensation</a>

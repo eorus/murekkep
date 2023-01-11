@@ -29,10 +29,10 @@ Senaryo: Sema Ergenekon, Eylem Canpolat
 
 Oyuncular: Cansu Dere, Mehmet Akif Alakurt, Zeynep Eronat, Menderes Samancılar, Fatoş Tez, Fatoş Sezer, Muhammed Cangören, Kartal Balaban, Devrim Saltoğlu, Cemal Toktaş, Boncuk Yılmaz, Tayanç Ayaydın
 
- [1]: http://abc.go.com/primetime/lost/index
- [2]: http://www.nbc.com/Heroes/
- [3]: http://www.diziler.com/index.php?page=shows&id=1091
- [4]: http://www.diziler.com/index.php?page=shows&id=128
- [5]: http://tr.wikipedia.org/wiki/Midyat%2C_Mardin
- [6]: http://tr.wikipedia.org/wiki/Mardin_%28il%29
- [7]: http://tr.wikipedia.org/wiki/Hasankeyf
+ [1]: https://abc.go.com/primetime/lost/index
+ [2]: https://www.nbc.com/Heroes/
+ [3]: https://www.diziler.com/index.php?page=shows&id=1091
+ [4]: https://www.diziler.com/index.php?page=shows&id=128
+ [5]: https://tr.wikipedia.org/wiki/Midyat%2C_Mardin
+ [6]: https://tr.wikipedia.org/wiki/Mardin_%28il%29
+ [7]: https://tr.wikipedia.org/wiki/Hasankeyf

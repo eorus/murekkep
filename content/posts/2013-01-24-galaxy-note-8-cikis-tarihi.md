@@ -31,7 +31,7 @@ Belgede [Galaxy XCover 2][4] çıkış tarihi için de Şubat ayı belirtilmiş
 
 Önümüzdeki ay yapılacak olan MWC 2013 de en az CES 2013 kadar ilgi çekici geçecek gibi gözüküyor.
 
- [1]: http://www.technobuffalo.com/
+ [1]: https://www.technobuffalo.com/
  [2]: https://www.murekkep.org/galaxy-note-2-android-4-1-2-guncellemesi-geldi-9834
  [3]: https://www.murekkep.org/samsung-galaxy-pocket-plus-geliyor-10962
  [4]: https://www.murekkep.org/samsung-galaxy-x-cover-2-geliyor-11103

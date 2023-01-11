@@ -20,9 +20,9 @@ Web sitesi konum değerini ölçmek için 5 online araç toparlamaya çalıştı
 
 ## Web Sitesi Konum Değerini Ölçmek için 5 Online Araç
 
-1. <a href="http://website-worth.org/" target="_blank" class="broken_link">Website Worth</a>  
+1. <a href="https://website-worth.org/" target="_blank" class="broken_link">Website Worth</a>  
 2. Site Trail &#8211; Websie News and Analysis  
-3. <a href="http://allaboutsite.com/" target="_blank">All About Site</a> &#8211; Free Website Analyzer | SEO Tool |  
+3. <a href="https://allaboutsite.com/" target="_blank">All About Site</a> &#8211; Free Website Analyzer | SEO Tool |  
 4. Website Shadow &#8211; Web Information Value | Calculator and Reviews  
 5. Cube Stat &#8211; Website Value Calculator, Estimations and Information
 

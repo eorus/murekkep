@@ -18,7 +18,7 @@ Tabii ki klasik görünümden bahsetmiyoruz. Belki de hiç değişmeyecek şekil
 
 [Personality goes a long way][4]
 
- [1]: http://www.google.com
- [2]: http://googleblog.blogspot.com/
- [3]: http://groups.google.com/group/Google_Web_Search_Help-Personalizing/topics
- [4]: http://googleblog.blogspot.com/2007/03/personality-goes-long-way.html
+ [1]: https://www.google.com
+ [2]: https://googleblog.blogspot.com/
+ [3]: https://groups.google.com/group/Google_Web_Search_Help-Personalizing/topics
+ [4]: https://googleblog.blogspot.com/2007/03/personality-goes-long-way.html

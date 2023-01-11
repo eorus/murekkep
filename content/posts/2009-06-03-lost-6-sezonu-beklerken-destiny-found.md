@@ -71,4 +71,4 @@ Lost 6. Sezonda Görüşmek Üzere.
 Namaste!
 
  [1]: https://www.murekkep.org/lost-5-sezon-final-yorumlari-2493
- [2]: http://vimeo.com
+ [2]: https://vimeo.com

@@ -54,7 +54,7 @@ Windows 8 üzerinde **fotoğraf düzenleme** aracı olarak kullanabileceğiniz g
     </p>
     
     <p>
-      Windows 8 için <a href="http://apps.microsoft.com/windows/tr-TR/app/photo-editor/cdd22d88-c0c4-4fff-a741-fe5ea3692b22" target="_blank" class="broken_link">Photo Editor</a> indirin.
+      Windows 8 için <a href="https://apps.microsoft.com/windows/tr-TR/app/photo-editor/cdd22d88-c0c4-4fff-a741-fe5ea3692b22" target="_blank" class="broken_link">Photo Editor</a> indirin.
     </p>
   </div>
 </div>

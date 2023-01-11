@@ -18,5 +18,5 @@ Panimages.org resimler için arama yapmamızı sağlayan yeni bir proje. Bu proj
 
 Resim arama &#8211; Resim Arama Motoru
 
- [1]: http://www.google.com.tr
- [2]: http://www.flickr.com/
+ [1]: https://www.google.com.tr
+ [2]: https://www.flickr.com/

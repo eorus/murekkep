@@ -26,4 +26,4 @@ tags:
 Not olarak site adresi girmektense zaten firefox kullandığım için yan menüde böyle yardımcı bir unsurun bulunması daha kolayıma gidiyor. Tercih sizin! İster firefox eklentisi ile SimilarWeb&#8217;i ister web arayüzü olarak SimilarSites&#8217;ı kullanabilirsiniz.
 
  [1]: https://www.murekkep.org/similarweb-ile-yeni-siteler-kesfedin-1843
- [2]: http://www.similarsites.com/
+ [2]: https://www.similarsites.com/

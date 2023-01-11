@@ -19,4 +19,4 @@ Bu kapsamda düşündüğümüzde Avea aslında çok da geç kalmış değil. Ar
 
 [Avea inTouch Teknik Özellikleri >>][1]
 
- [1]: http://wp.me/p1eJph-2pf "avea intouch teknik özellikler"
+ [1]: https://wp.me/p1eJph-2pf "avea intouch teknik özellikler"

@@ -37,4 +37,4 @@ iPhone, iPad ve iPod Touch ile uyumlu olan yeni Winzip uygulaması **iOS 4.2 ve 
 **Önizlemesi olabilir sıkıştırılmış dosya türleri:**  
 .txt, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .rtf, .pdf, .key, .numbers, .pages, .htm, .html, .jsp, .bmp, .jpg, .jpeg, .tif, .tiff, .png, .gif
 
-AppStore üzerinden <a title="Winzip AppStore" href="http://itunes.apple.com/us/app/winzip/id500637987" target="_blank">iPhone, iPad ve iPod Touch için Winzip İndirin</a>
+AppStore üzerinden <a title="Winzip AppStore" href="https://itunes.apple.com/us/app/winzip/id500637987" target="_blank">iPhone, iPad ve iPod Touch için Winzip İndirin</a>

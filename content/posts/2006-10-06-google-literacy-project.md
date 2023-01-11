@@ -14,7 +14,7 @@ tags:
 
 Site aracılığı ile eğitim konusunda dünya çapında yapılan tüm işlerden haber alma imkanımız olacak. Faaliyetleri takip edebileceğiz. Google&#8217;ın kampanyası, [UNESCO][3] ve [LitCam][4]&#8216;ın (Frankfurt Fuarı organizatörlerinin başlattığı eğitim kampanyası) işbirliği ve desteğiyle yürütülüyor.
 
- [1]: http://www.google.com.tr
- [2]: http://www.buchmesse.de
- [3]: http://www.unesco.org
- [4]: http://www.litcam.de/
+ [1]: https://www.google.com.tr
+ [2]: https://www.buchmesse.de
+ [3]: https://www.unesco.org
+ [4]: https://www.litcam.de/

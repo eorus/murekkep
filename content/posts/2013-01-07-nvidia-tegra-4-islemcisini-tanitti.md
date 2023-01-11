@@ -19,4 +19,4 @@ Yeni Tegra 4, bir önceki model olan Tegra 3 gibi dört çekirdekli, düşük en
 
 &nbsp;
 
- [1]: http://wp.me/p1eJph-2Jq
+ [1]: https://wp.me/p1eJph-2Jq

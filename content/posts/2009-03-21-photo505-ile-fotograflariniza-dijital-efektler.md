@@ -22,6 +22,6 @@ Photofunia , Funphotobox ve Photo505 için bir kıyaslama yapacak olursak **dosy
 
 **Photo505** hazır şablonlar üzerinden farklı fotoğraf efektleriyle fotoğraflarınıza eğlenceli sonuçlar oluşturmanızı sağlıyor.
 
- [1]: http://www.photo505.com/
+ [1]: https://www.photo505.com/
  [2]: https://www.murekkep.org/photofunia-ile-resimlerinize-fark-katin-1297
  [3]: https://www.murekkep.org/funphotobox-resimleriniz-icin-eglenceli-efektler-1371

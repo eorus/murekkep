@@ -40,16 +40,16 @@ Belirli kategorilerde **2013 Oscar** sonuçlarına ve ödül alanlara bakars
 **2013 Oscar En İyi Yardımcı Erkek Oyuncu**  
 **Kazanan : ****[Christoph Waltz][10]** &#8211; [Django Unchained][11] (2012)
 
-**2013 Oscar Sonuçları (ödülleri)** için tam listeye <a title="IMDB Oscar Nominations" href="http://www.imdb.com/oscars/nominations/" target="_blank">Imdb – Road To The Oscars</a> sayfasından bakabilirsiniz.
+**2013 Oscar Sonuçları (ödülleri)** için tam listeye <a title="IMDB Oscar Nominations" href="https://www.imdb.com/oscars/nominations/" target="_blank">Imdb – Road To The Oscars</a> sayfasından bakabilirsiniz.
 
- [1]: http://www.imdb.com/title/tt1024648/
- [2]: http://www.imdb.com/name/nm0000487/
- [3]: http://www.imdb.com/title/tt0454876/
- [4]: http://www.imdb.com/name/nm0000358/
- [5]: http://www.imdb.com/title/tt0443272/
- [6]: http://www.imdb.com/name/nm2225369/
- [7]: http://www.imdb.com/title/tt1045658/
- [8]: http://www.imdb.com/name/nm0004266/
- [9]: http://www.imdb.com/title/tt1707386/
- [10]: http://www.imdb.com/name/nm0910607/
- [11]: http://www.imdb.com/title/tt1853728/
+ [1]: https://www.imdb.com/title/tt1024648/
+ [2]: https://www.imdb.com/name/nm0000487/
+ [3]: https://www.imdb.com/title/tt0454876/
+ [4]: https://www.imdb.com/name/nm0000358/
+ [5]: https://www.imdb.com/title/tt0443272/
+ [6]: https://www.imdb.com/name/nm2225369/
+ [7]: https://www.imdb.com/title/tt1045658/
+ [8]: https://www.imdb.com/name/nm0004266/
+ [9]: https://www.imdb.com/title/tt1707386/
+ [10]: https://www.imdb.com/name/nm0910607/
+ [11]: https://www.imdb.com/title/tt1853728/

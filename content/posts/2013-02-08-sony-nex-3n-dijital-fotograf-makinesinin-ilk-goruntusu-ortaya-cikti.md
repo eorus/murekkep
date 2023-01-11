@@ -20,7 +20,7 @@ SonyAlphaRumors tarafından sızan Sony Nex-3N&#8217;in ilk görüntüsünü aş
 
 Sony NEx-3N için sızan bu görüntüden çıkan sonuçlar bunlar. Yakın zamanda resmi Sony NEX-3N duyurusu sonrası teknik özellikleri ve detayları ayrıca paylaşıyor olacağız.
 
-via <a href="http://www.sonyalpharumors.com/sr5-first-image-of-the-new-nex-3n/" target="_blank">SAR</a>
+via <a href="https://www.sonyalpharumors.com/sr5-first-image-of-the-new-nex-3n/" target="_blank">SAR</a>
 
  [1]: https://www.murekkep.org/sony-slt-a58-sony-nex-3n-ve-3-yeni-sony-lens-yakinda-duyurulabilir-11685 "sony slt-a58 ve sony nex-3n ve sony lens duyuru"
  [2]: https://www.murekkep.org/kamera "fotoğraf makinesi"

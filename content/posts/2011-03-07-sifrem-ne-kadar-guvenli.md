@@ -16,7 +16,7 @@ tags:
 
 Peki **kullandığınız şifreler ne kadar güvenli?** Bazen internet sitelerinin üyelik formunu doldururken **şifre belirleme** aşamasına geldiğinizde size bir bar şeklinde girdiğiniz şifrenin hangi derecede güvenli olduğunu ifade eden özellikler görmüşsünüzdür.
 
-<a href="http://howsecureismypassword.net/" target="_blank">How Secure is My Password?</a> isimli sitede basit bir şekilde kullandığınız şifrenin ne kadar güvenli olduğu ve bir bilgisayar üzerinden ne kadar bir sürede kırılabileceği cevabı veriliyor.
+<a href="https://howsecureismypassword.net/" target="_blank">How Secure is My Password?</a> isimli sitede basit bir şekilde kullandığınız şifrenin ne kadar güvenli olduğu ve bir bilgisayar üzerinden ne kadar bir sürede kırılabileceği cevabı veriliyor.
 
 Ekran görüntüsündeki şifre &#8220;**password**&#8221; ve buna göre sık kullanılan 500 şifre arasında yer aldığı ve **anında kırılabilecek bir şifre** kombinasyonu olduğu bilgisi veriliyor.
 

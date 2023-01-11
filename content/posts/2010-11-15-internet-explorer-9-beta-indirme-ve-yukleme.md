@@ -24,4 +24,4 @@ Sabitlenmiş siteler (**Pinned Sites**) olarak bahsedilen yenilik hali hazırda 
 
 Nihayet internet explorer 9 bir **indirme yöneticisi** ile tanışıyor. Gelişmiş sekmeler özelliği ile sekmeler arası geçişler, taşı bırak fonksiyonları eklenmiş. Gene chrome ve firefox üzerinden çok önceden tanıdığımız bir özellik internet explorer 9 ile karşımıza çıkıyor. İnternet Explorer 9 ile adres çubuğu üzerinden arama yapılabilecek. 
 
-İnternet Explorer 9 Beta indirmek ve yüklemek için Microsoft&#8217;un **<a href="http://windows.microsoft.com/tr-TR/internet-explorer/download/ie-9/worldwide" target="_blank">İnternet Explorer 9 indirme</a>** sayfasına gidebilirsiniz.
+İnternet Explorer 9 Beta indirmek ve yüklemek için Microsoft&#8217;un **<a href="https://windows.microsoft.com/tr-TR/internet-explorer/download/ie-9/worldwide" target="_blank">İnternet Explorer 9 indirme</a>** sayfasına gidebilirsiniz.

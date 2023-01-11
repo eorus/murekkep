@@ -12,7 +12,7 @@ tags:
 
 ---
 <p style="text-align: center">
-  <a href="http://fedoraproject.org/"></a>
+  <a href="https://fedoraproject.org/"></a>
 </p>
 
 Evet dün itibariyle [Fedora][1] 8 duyuruldu. Ve indirilmeye hazır. Kurtadam Fedora 8&#8217;i oluşturan özelliklere kısaca değinecek olursak :
@@ -25,9 +25,9 @@ Evet dün itibariyle [Fedora][1] 8 duyuruldu. Ve indirilmeye hazır. Kurtadam Fe
 
 Fedora 8 ile beraber gelen özelliklerin ayrıntılı listesine [buradan][5] bakabilirsiniz. Bunun yanısıra şöyle genel olarak bakacak olursak Kernel 2.6.23 çekirdek kullanan Fedora üzerinde, Gnome 2.20, KDE 3.5.8, XFCE 4.4.1 ve Openoffice 2.3 bulunuyor. Fedora 8&#8217;i indirmek için [buraya][6] bakabilirsiniz.
 
- [1]: http://fedoraproject.org/
- [2]: http://fedoraproject.org/wiki/Releases/Features/NodokaTheme
- [3]: http://fedoraproject.org/wiki/Releases/FeaturePulseaudio
- [4]: http://fedoraproject.org/wiki/Releases/FeaturePolicyKit
- [5]: http://fedoraproject.org/wiki/Releases/8/FeatureList
- [6]: http://fedoraproject.org/get-fedora
+ [1]: https://fedoraproject.org/
+ [2]: https://fedoraproject.org/wiki/Releases/Features/NodokaTheme
+ [3]: https://fedoraproject.org/wiki/Releases/FeaturePulseaudio
+ [4]: https://fedoraproject.org/wiki/Releases/FeaturePolicyKit
+ [5]: https://fedoraproject.org/wiki/Releases/8/FeatureList
+ [6]: https://fedoraproject.org/get-fedora

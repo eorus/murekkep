@@ -19,5 +19,5 @@ Günümüzün en iyi web mail servislerden biri olan [Gmail][1] şüphesiz bir �
 
 Gördüğünüz gibi istemeden bile bazı sorunlara neden olabiliriz. Bunların hiçbirini Gmail&#8217;in daha önce söylediğini ya da belirtiğini hatırlamıyorum. Fakat yine de dikkat etmekte yarar var.
 
- [1]: http://mail.google.com/mail/
- [2]: http://www.labnol.org/internet/email/gmail-daily-limit-sending-bulk-email/2191/
+ [1]: https://mail.google.com/mail/
+ [2]: https://www.labnol.org/internet/email/gmail-daily-limit-sending-bulk-email/2191/

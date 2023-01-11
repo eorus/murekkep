@@ -22,6 +22,6 @@ tags:
 
 Android için Google Maps 5.0, [android versiyonu][1]{.broken_link} 1.6 ve üzeri olan telefonlarda android market üzerinden güncellenebiliyor. Yeni sürüm Google Maps 5.0 ile gelen **3D görünüm** ve **offline özellikleri** kullanmak için ise android işletim sistemi yüklü cihazınızdaki android versiyonunuzun 2.0 ve üzeri olması gerekiyor.
 
-<a href="http://www.google.com/mobile/maps/3d/" target="_blank">Google Maps for mobile in 3D</a>
+<a href="https://www.google.com/mobile/maps/3d/" target="_blank">Google Maps for mobile in 3D</a>
 
  [1]: https://www.murekkep.org/cep-telefonunda-android-versiyonunu-bulun-3692

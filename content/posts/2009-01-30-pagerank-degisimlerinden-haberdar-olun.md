@@ -15,5 +15,5 @@ Arama motorlarının fazlasıyla önem kazandığı ve [Google][1]&#8216;ın bu 
 Google üzerinden herhangi bir arama yaptığınızda size sayfaları getirme şeklini belirleyen bir kriter var. Adı **Pagerank**. Sitelerin Pagerank değeri 0 ile 10 arasında belirleniyor ve arama sonuçlarında **Pagerank değeri** yüksek olan siteler önce gösteriliyor. Google bu Pagerank değerlendirmesini ilgili sitenin içeriğine ve güvenilirliğine göre belirliyor.  
 **Sitenizin Pagerank değeri** değiştiğinde email ile bilgilendirilmek isteyebilirsiniz. Bunun için PageRankAlert isimli bir site oluşturulmuş. Üye olduktan sonra pagerank değişimini takip etmek istediğiniz her siteyi ekleyebiliyorsunuz. Hem site içerisinden kullanıcı adınızla giriş yapıp takip edebilirsiniz. Hem de arzu ederseniz listelediğiniz siteler için pagerank değerlerinin değişmesi durumunda sizi **email** ile bilgilendiriyorlar.
 
- [1]: http://www.google.com.tr
+ [1]: https://www.google.com.tr
  [2]: https://www.murekkep.org/google-seo-baslangic-rehberi-707

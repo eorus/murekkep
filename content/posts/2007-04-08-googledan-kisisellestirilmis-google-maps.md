@@ -18,6 +18,6 @@ Artık [Google Maps][1] üzerinde kişiselleştirilmiş haritalarınızı oluşt
 
 Link : [Create Personalized Google Maps][3]
 
- [1]: http://maps.google.com/
- [2]: http://earth.google.com/
- [3]: http://googlesystem.blogspot.com/2007/04/create-personalized-google-maps.html
+ [1]: https://maps.google.com/
+ [2]: https://earth.google.com/
+ [3]: https://googlesystem.blogspot.com/2007/04/create-personalized-google-maps.html

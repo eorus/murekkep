@@ -36,5 +36,5 @@ Sunucu versiyonu, Masaüstü versiyonu ve Intel Atom işlemciler ile gelen mini 
 Ubuntu 9.04 İndir | [Ubuntu 9.04 Duyuru Notları][3]{.broken_link} | Ubuntu 9.04 Haberi
 
  [1]: https://www.murekkep.org/ubuntu-904-jaunty-jackalope-beta-hazir-1667
- [2]: http://www.ubuntu.com/getubuntu/upgrading
- [3]: http://www.ubuntu.com/getubuntu/releasenotes/904
+ [2]: https://www.ubuntu.com/getubuntu/upgrading
+ [3]: https://www.ubuntu.com/getubuntu/releasenotes/904

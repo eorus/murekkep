@@ -33,8 +33,8 @@ WordPress 2.7&#8217;ye yükseltme yapmadan önce aşağıdaki unsurları kontrol
 
 Ve [Coltrane][5].
 
- [1]: http://www.wordpress-tr.com
- [2]: http://markjaquith.wordpress.com/2008/12/10/wordpress-27-now-available/
- [3]: http://www.wordpress-tr.com/belgeler/wordpress/wordpress-surum-yukseltme/
- [4]: http://www.wordpress-tr.com/indir/
- [5]: http://en.wikipedia.org/wiki/John_Coltrane
+ [1]: https://www.wordpress-tr.com
+ [2]: https://markjaquith.wordpress.com/2008/12/10/wordpress-27-now-available/
+ [3]: https://www.wordpress-tr.com/belgeler/wordpress/wordpress-surum-yukseltme/
+ [4]: https://www.wordpress-tr.com/indir/
+ [5]: https://en.wikipedia.org/wiki/John_Coltrane

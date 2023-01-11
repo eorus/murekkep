@@ -21,7 +21,7 @@ iPad 2 birçok açıdan birinci nesil iPad&#8217;e göre hem grafik özellikleri
 
 ## En İyi 5 iPad 2 Oyun
 
-  * <a title="angry birds hd" href="http://itunes.apple.com/us/app/angry-birds-hd/id364234221?mt=" target="_blank" class="broken_link">Angry Birds HD</a>
+  * <a title="angry birds hd" href="https://itunes.apple.com/us/app/angry-birds-hd/id364234221?mt=" target="_blank" class="broken_link">Angry Birds HD</a>
 
 En popüler mobil oyun diyebileceğimiz Angry Birds HD iPad 2 üzerinde nefis grafiklerle daha güzel oynanıyor.
 
@@ -37,7 +37,7 @@ Bir diğer mobil oyun klasiği Fruit Ninja da iPad 2 üzerinde oynanabiliyor.
 
 Grafiklerinin iPad 2 üzerinde çok güzel olduğu, bağımlılık yaratan bir oyun Doodle Blast HD!
 
-  * <a title="Labyrinth 2 HD Lite" href="http://itunes.apple.com/us/app/labyrinth-2-hd-lite/id365526686?mt=8" target="_blank">Labyrinth 2 HD Lite</a>
+  * <a title="Labyrinth 2 HD Lite" href="https://itunes.apple.com/us/app/labyrinth-2-hd-lite/id365526686?mt=8" target="_blank">Labyrinth 2 HD Lite</a>
 
 Klasik labirent oyunu. iPad 2&#8217;nin geniş ekranında daha farklı ve güzel oynanıyor.
 

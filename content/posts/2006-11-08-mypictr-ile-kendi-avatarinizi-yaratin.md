@@ -19,10 +19,10 @@ Tamam çok zor birşey değil. Basit bir bilgisayar kullanıcısı bile artık h
 
 Gelelim Mypictr adresine&#8230; Mypictr isim durumu ile gene bir ..ickr tadında bir web sitesidir. Ücretsizdir. Siteye resim upload edebiliyorsunuz ve upload ettiğiniz resminizi istediğiniz boyutta şekillendirebiliyorsunuz. Buraya kadar herşey tamam. Mypictr&#8217;nin en güzel tarafı ise upload edip boyutlandırdığınız resminizi sık olarak kullanılan networklere anında sizin adınıza avatar olarak yerleştirmesi. Bunların içerisinde [youtube][1],[flickr][2],[digg][3],[technorati][4],[last.fm][5] vs.. gibi siteler bulunuyor. Hatırlatılması gereken bir unsur ise Mypictr oluşturduğunuz resim dosyalarınızı serverlarında saklamıyor. Yaklaşık 10 dk. kadar serverda bulunduruyor. İlgili sitelere gönderimi yapıp avatarları yerleştiriyor.
 
-Link : http://mypictr.com/
+Link : https://mypictr.com/
 
- [1]: http://www.youtube.com
- [2]: http://www.flickr.com
- [3]: http://www.digg.com
- [4]: http://www.technorati.com
- [5]: http://www.last.fm
+ [1]: https://www.youtube.com
+ [2]: https://www.flickr.com
+ [3]: https://www.digg.com
+ [4]: https://www.technorati.com
+ [5]: https://www.last.fm

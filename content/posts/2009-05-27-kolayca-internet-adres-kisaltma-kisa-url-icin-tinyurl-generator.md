@@ -18,7 +18,7 @@ tags:
 ---
 İnternet üzerinde kısa url adresi edinmek ve kolay bir şekilde internet adreslerini kısaltmak için servisler bulunuyor. Eğer uzun internet adreslerini kısaltmak konusunda uğraşlar içinde bulunduysanız muhtemelen **tinyurl** internet sitesini fazlasıyla kullanmışsınızdır. **Kısa url adresi edinmek** konusunda tinyurl oldukça popüler ve önemli bir yere sahip bir servis olarak karşımıza çıkıyor. 
 
-<a href="http://tinyurl.com/" target="_blank">Tinyurl</a> sitesine baktığımızda internet adresini kısaltmak için web üzerinden ya da diğer farklı araçlarla sunulmuş alternatifler olduğunu görebiliyoruz. Tinyurl kısa url servisini kullanarak internet adres kısaltma işlemi için basit bir firefox eklentisi olan Tinyurl Generator&#8217;ın bu işi kolay bir şekilde gerçekleştirdiğini görüyoruz. 
+<a href="https://tinyurl.com/" target="_blank">Tinyurl</a> sitesine baktığımızda internet adresini kısaltmak için web üzerinden ya da diğer farklı araçlarla sunulmuş alternatifler olduğunu görebiliyoruz. Tinyurl kısa url servisini kullanarak internet adres kısaltma işlemi için basit bir firefox eklentisi olan Tinyurl Generator&#8217;ın bu işi kolay bir şekilde gerçekleştirdiğini görüyoruz. 
 
 TinyUrl Generator firefox eklentisini kurduktan sonra sağ alt kısımda durum çubuğuna link ikonu şeklinde yerleştiğini görebilirsiniz. Amaç tinyurl servisi ile uzun bulduğunuz internet adreslerinin kısa linklerini oluşturmaksa, işlemin çok basit bir şekilde gerçekleştiğini söyleyebiliriz. 
 

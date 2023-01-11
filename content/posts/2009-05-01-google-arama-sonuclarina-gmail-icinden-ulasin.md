@@ -28,6 +28,6 @@ Kolaylıklar dünyası Gmail&#8217;a yakışır bir şekilde gelen **google aram
 
 Detaylar için : [New in Labs: Google Search right in Gmail][3]
 
- [1]: http://gmail.com
- [2]: http://google.com.tr
- [3]: http://gmailblog.blogspot.com/2009/04/new-in-labs-google-search-right-in.html
+ [1]: https://gmail.com
+ [2]: https://google.com.tr
+ [3]: https://gmailblog.blogspot.com/2009/04/new-in-labs-google-search-right-in.html

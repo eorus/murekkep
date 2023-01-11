@@ -28,9 +28,9 @@ Tini ile 4 farklı kısa adres oluşturma şekli bulunuyor demiştik. Resimde de
 
 Tini.us **url kısaltma aracı** hakkında aktarabileceklerimiz bunlar. Açıkçası **kısa url edinme** ve **internet adresi kısaltma** servisleri içerisinde **Tini.us** sunmuş olduğu güvenli ve özel olabilecek seçeneklerle farklı kısa url konusunu farklı bir noktaya taşıyor. Sonuçta önemli olan elinizdeki uzun linki kısaltabilmek. Eğer bu aşamada güvenlik sizin için önem taşıyorsa Tini.us tam size göre diyebiliriz. 
 
-Tini hakkındaki görüşlerinizi yorumlarınızda belirtebilirsiniz. [Mürekkep][4] için yorum eklenmiş örnek Tini kısa linki ise bu şekildedir : http://tini.us/a8a
+Tini hakkındaki görüşlerinizi yorumlarınızda belirtebilirsiniz. [Mürekkep][4] için yorum eklenmiş örnek Tini kısa linki ise bu şekildedir : https://tini.us/a8a
 
  [1]: https://www.murekkep.org/kolay-bir-sekilde-internet-adresi-kisaltma-icin-foxy-url-2207
  [2]: https://www.murekkep.org/firefox-eklentisi-urlbarext-ile-adres-cubugunu-zenginlestirin-971
- [3]: http://tini.us/
+ [3]: https://tini.us/
  [4]: https://www.murekkep.org

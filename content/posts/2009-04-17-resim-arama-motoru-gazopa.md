@@ -19,7 +19,7 @@ categories:
 
 Aradığınız resmi ifade etmek kelimelerle daha zor olabileceği için (bunu beğendiğiniz bir ayakkabı modelinin benzerini aramak gibi düşünebilirsiniz) elinizdeki bir resim üzerinden arama yapmak, arama sonuçları için daha iyi sonuçlar verecektir. **Gazopa** benzer resimleri arama işlemini gerçekleştirirken resim özellikleri olarak renk ve resmin şekline bakıyor. Resim araması yapmak için bilgisayarınızdan resim yükleyerek ya da internet linkini (url) vererek aramanızı gerçekleştirebiliyorsunuz. Detaylar için Gazopa Demo Video&#8217;ya bakılabilir. 
 
-Arama sonuçlarının verimliliği konusunda <a href="http://tineye.com/" target="_blank">TinEye</a> biraz daha ön plana çıksa da bu şekilde **benzer resimleri** arayabilmek, henüz yeni gelişen bir sürece sahip olduğu için, zamanla yol alabileceğini ve daha verimli sonuçlara ulaşılabileceğini düşünebiliriz.
+Arama sonuçlarının verimliliği konusunda <a href="https://tineye.com/" target="_blank">TinEye</a> biraz daha ön plana çıksa da bu şekilde **benzer resimleri** arayabilmek, henüz yeni gelişen bir sürece sahip olduğu için, zamanla yol alabileceğini ve daha verimli sonuçlara ulaşılabileceğini düşünebiliriz.
 
 Gazopa&#8217;ya üye olma işlemi davetiye ile yapılıyor. Email adresinizi girerek kolayca üyelik işleminizi gerçekleştirebiliyorsunuz. Şu an için 50 milyon resim barındıran **Gazopa** için oluşturulmuş bir de Firefox eklentisi mevcut.
 

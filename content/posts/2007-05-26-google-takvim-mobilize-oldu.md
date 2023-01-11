@@ -18,8 +18,8 @@ tags:
 
 24 Mayıs tarihli [Google Blog][3] duyurusunda yer alan [habere][4] göre mobil telefonunuzdan [calendar.google.com][5]{.broken_link} adresini ziyaret etmeniz yeterli oluyor. Giriş yaptıktan sonra yaklaşmakta olan olaylar, tarih, saat, belirtmişseniz yeri ve davetliler olarak karşınıza çıkıyor.
 
- [1]: http://www.google.com.tr
- [2]: http://www.google.com/calendar/
- [3]: http://googleblog.blogspot.com/
- [4]: http://googleblog.blogspot.com/2007/05/calendar-for-mobile-devices.html
- [5]: http://www.google.com/calendar/m
+ [1]: https://www.google.com.tr
+ [2]: https://www.google.com/calendar/
+ [3]: https://googleblog.blogspot.com/
+ [4]: https://googleblog.blogspot.com/2007/05/calendar-for-mobile-devices.html
+ [5]: https://www.google.com/calendar/m

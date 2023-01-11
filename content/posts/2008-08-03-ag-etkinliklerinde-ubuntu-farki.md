@@ -25,6 +25,6 @@ Gün sonunda Vista&#8217;yı Age of Empires&#8217;a sokamadığımız için sade
 
 Eğer hala sırf oyun için sabit disklerinizin bir bölümünü XP&#8217;ye ayırıyorsanız ya da bu yüzden Gnu/Linux&#8217;a geçemiyorsanız, 1 kere daha düşünüp Ubuntu&#8217;yu bir deneyin derim.
 
- [1]: http://www.transgaming.com/
- [2]: http://en.wikipedia.org/wiki/Counter-strike
- [3]: http://www.playonlinux.com/en/
+ [1]: https://www.transgaming.com/
+ [2]: https://en.wikipedia.org/wiki/Counter-strike
+ [3]: https://www.playonlinux.com/en/

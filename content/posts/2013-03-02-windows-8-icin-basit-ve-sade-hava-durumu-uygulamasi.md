@@ -21,7 +21,7 @@ Hava durumu tahminleri Dark Sky tarafından sağlanan **Windows 8 için Breezy h
 
 Windows 8 için hava durumu uygulamasını aşağıdaki linkten indirebilirsiniz.
 
-<a title="windows 8 hava durumu uygulaması" href="http://apps.microsoft.com/windows/en-us/app/f9f15fc9-eba7-4f62-92d6-ec05d5cea853" rel="external" class="broken_link">Windows Store &#8211; Breezy</a>
+<a title="windows 8 hava durumu uygulaması" href="https://apps.microsoft.com/windows/en-us/app/f9f15fc9-eba7-4f62-92d6-ec05d5cea853" rel="external" class="broken_link">Windows Store &#8211; Breezy</a>
 
  [1]: https://www.murekkep.org/telefon "telefon"
  [2]: https://www.murekkep.org/windows-8-ozellikleri-6858 "windows 8 özellikleri"

@@ -26,5 +26,5 @@ Yaklaşık bir haftadır Lost ile oldukça ilgili bir siteyle karşı karşıya 
 Namaste!
 
  [1]: https://www.murekkep.org/ve-lost-3-sezonu-kapatti-299
- [2]: http://www.enterthehatch.com/
- [3]: http://www.youtube.com/watch?v=PZ4VuFjxo40
+ [2]: https://www.enterthehatch.com/
+ [3]: https://www.youtube.com/watch?v=PZ4VuFjxo40

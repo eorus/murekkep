@@ -17,6 +17,6 @@ Merhaba, yayın hayatına başladığımız 2007 senesinin başından itibaren b
 
 Mürekkep.Org’un eski teması Aralık 2010 itibariyle son buldu. **WordPress 3** ile beraber daha sade ve okunabilirliği ön plana çıkartan Mystique teması ile kısa bir geçiş yaptık. Şu an için Howl’s Moving Castle‘daki ateş cini **Calcifer**, hem logomuzda hem de favicon olarak hergün Mürekkep üzerinden sizlere merhaba demeye devam edecek.
 
-Son olarak bizi Twitter <a href="http://twitter.com/murekkep" target="_blank">@murekkep</a> üzerinden de takip edebileceğinizi tekrar hatırlatır, iyi okumalar dileriz.
+Son olarak bizi Twitter <a href="https://twitter.com/murekkep" target="_blank">@murekkep</a> üzerinden de takip edebileceğinizi tekrar hatırlatır, iyi okumalar dileriz.
 
  [1]: https://www.murekkep.org

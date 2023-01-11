@@ -17,7 +17,7 @@ Kış mevsiminin tüm güzelliklerinin yansıtan nefes kesen **20 mükemmel k�
 
 Kışın birbirinden güzel manzaralar ve kompozisyonlar oluşur ancak genelde havanın soğukluğu sebebiyle diğer mevsimlere göre daha az fotoğraf çekimi yapılır.
 
-**Muhteşem kış fotoğrafı** nasıl çekilir? İşte buna örnek olabileceğini düşündüğümüz birbirinden güzel resimleri toparlamaya çalıştık.  Umarız siz de <a href="http://www.turknikon.com/sogukta-fotograf-cekmek-22495" target="_blank" rel="noopener" class="broken_link">soğukta fotoğraf çekmekten</a> yorulmazsınız ve böyle kareler yakalarsınız. Arzu ederseniz kış temalı instagram fotoğraflarınızı bizlerle paylaşabilirsiniz.
+**Muhteşem kış fotoğrafı** nasıl çekilir? İşte buna örnek olabileceğini düşündüğümüz birbirinden güzel resimleri toparlamaya çalıştık.  Umarız siz de <a href="https://www.turknikon.com/sogukta-fotograf-cekmek-22495" target="_blank" rel="noopener" class="broken_link">soğukta fotoğraf çekmekten</a> yorulmazsınız ve böyle kareler yakalarsınız. Arzu ederseniz kış temalı instagram fotoğraflarınızı bizlerle paylaşabilirsiniz.
 
 ### 20 Mükemmel Kış Fotoğrafı
 

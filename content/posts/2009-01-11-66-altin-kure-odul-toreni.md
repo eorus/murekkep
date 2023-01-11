@@ -21,4 +21,4 @@ Bunun yanısıra geceye hazırlık olarak sinema yazarları Selim Eyüboğlu ve 
 Ödül Töreni sonrası 2009 Altın Küre Ödülleri başlığında görüşmek üzere.
 
  [1]: https://www.murekkep.org/2009-altin-kure-adaylari-565
- [2]: http://www.ntvmsnbc.com/
+ [2]: https://www.ntvmsnbc.com/

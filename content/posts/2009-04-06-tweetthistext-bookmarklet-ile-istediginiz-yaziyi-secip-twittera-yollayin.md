@@ -24,4 +24,4 @@ TweetThisText bir **bookmarklet**. Yani kullandığınız internet tarayıcısı
 
 **Firefox** veya **Google Chrome** kullanıyorsanız Tweetthistext bookmarkletini kolayca fare ile yer imleri (bookmarks) çubuğuna taşıyıp kullanabilirsiniz. **İnternet Explorer** kullanıcıları bookmarklete sağ tıklayıp sık kullanılanlar içerisine aldıktan sonra yer imleri araç çubuğunda gözükecek şekilde ayarlayabilirler.
 
- [1]: http://twitter.com
+ [1]: https://twitter.com

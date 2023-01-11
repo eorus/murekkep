@@ -24,5 +24,5 @@ Bu kampanya Napster üyelerine 1 senelik olan **$180 dolar** üyelik hizmetini �
 
 Kaynak : [1]
 
- [1]: http://www.napster.com/
- [2]: http://en.wikipedia.org/wiki/Napster
+ [1]: https://www.napster.com/
+ [2]: https://en.wikipedia.org/wiki/Napster

@@ -28,4 +28,4 @@ Daha fazla bilgi için Google Developer Day sitesine bakabilirsiniz.
 
 Kaynak[[1][1]]
 
- [1]: http://googleblog.blogspot.com/2007/04/may-31-is-google-developer-day.html
+ [1]: https://googleblog.blogspot.com/2007/04/may-31-is-google-developer-day.html

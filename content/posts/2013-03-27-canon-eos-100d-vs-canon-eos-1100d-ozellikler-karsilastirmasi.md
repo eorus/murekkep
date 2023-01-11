@@ -419,7 +419,7 @@ Aşağıda Canon’un giriş seviyesindeki yeni gövdesi EOS 100D ile EOS 1100D�
   </tr>
 </table>
 
-via <a title="Canon EOS 100D / Rebel SL1 Vs. EOS 1100D / Rebel T3 Specifications Comparison" href="http://www.dailycameranews.com/2013/03/canon-eos-100d-rebel-sl1-vs-eos-1100d-rebel-t3-specifications-comparison/" rel="external dofollow">Canon EOS 100D / Rebel SL1 Vs. EOS 1100D / Rebel T3 Specifications Comparison</a>
+via <a title="Canon EOS 100D / Rebel SL1 Vs. EOS 1100D / Rebel T3 Specifications Comparison" href="https://www.dailycameranews.com/2013/03/canon-eos-100d-rebel-sl1-vs-eos-1100d-rebel-t3-specifications-comparison/" rel="external dofollow">Canon EOS 100D / Rebel SL1 Vs. EOS 1100D / Rebel T3 Specifications Comparison</a>
 
  [1]: https://www.murekkep.org/kamera/canon/ "canon"
  [2]: https://www.murekkep.org/kamera/ "fotoğraf makinesi"

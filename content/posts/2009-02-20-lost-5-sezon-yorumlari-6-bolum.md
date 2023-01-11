@@ -77,5 +77,5 @@ Son bölümle birlikte dizinin zaman konusunda, işin içinden çıkılmayı zor
 
 Haftaya **Lost 7. bölüm**, adı üzerinde Locke merkezli bir bölüm olacak. John Locke&#8217;un ada dışına çıktığında neler yaptığı, kimlerle görüştüğünü göreceğiz. Ayrıca adaya geri geldiğinde tekrar hayata dönüp dönmeyeceği de bu bölümde ortaya çıkacak. Promo videosuna buradan bakabilirsiniz.
 
- [1]: http://abc.go.com/primetime/lost/
+ [1]: https://abc.go.com/primetime/lost/
  [2]: https://www.murekkep.org/lost-5-sezon-yorumlari-956

@@ -19,7 +19,7 @@ Nikon&#8217;un D7000 yerine hangi isimle devam edeceği dedikodularda tam olarak
 
 <img class="aligncenter size-full wp-image-11514" alt="nikon-d7000" src="https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000.png" width="511" height="406" srcset="https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000.png 511w, https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000-400x317.png 400w, https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000-50x39.png 50w, https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000-125x100.png 125w, https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000-251x200.png 251w, https://www.murekkep.org/wp-content/uploads/2013/02/nikon-d7000-383x305.png 383w" sizes="(max-width: 511px) 100vw, 511px" /> 
 
-Türk Nikon üzerinde yer alan <a href="http://www.turknikon.com/nikon-d7000-nisan-ayindan-once-yenilenebilir-nikon-d400-d8000-veya-nikon-d7100-17672" target="_blank" class="broken_link">Nikon D7000 yenileniyor haberinde</a> muhtemel **Nikon D7100** ya da Nikon D8000 özellikleri ise aşağıdaki gibi sıralanmış.
+Türk Nikon üzerinde yer alan <a href="https://www.turknikon.com/nikon-d7000-nisan-ayindan-once-yenilenebilir-nikon-d400-d8000-veya-nikon-d7100-17672" target="_blank" class="broken_link">Nikon D7000 yenileniyor haberinde</a> muhtemel **Nikon D7100** ya da Nikon D8000 özellikleri ise aşağıdaki gibi sıralanmış.
 
   * 24 megapiksel çözünürlük
   * ISO 100 – 6400

@@ -78,8 +78,8 @@ WP Greet Box eklentisini yeni kullanmaya başladık. Siz günlüğünüzde bu ek
 **WordPress Eklenti Dizini** : [Wp Greet Box Eklentisi][5]  
 **Weblogtoolscollection Yazısı** : Plugin Review: WP Greet Box
 
- [1]: http://wordpress.org/extend/plugins/wp-greet-box/other_notes/
+ [1]: https://wordpress.org/extend/plugins/wp-greet-box/other_notes/
  [2]: https://www.murekkep.org
- [3]: http://www.digg.com
- [4]: http://www.twitter.com
- [5]: http://wordpress.org/extend/plugins/wp-greet-box/
+ [3]: https://www.digg.com
+ [4]: https://www.twitter.com
+ [5]: https://wordpress.org/extend/plugins/wp-greet-box/

@@ -36,7 +36,7 @@ Canon EOS 700D / Rebel T5i beklenen özellikleri ise aşağıdaki gibi oluşuyor
   * EF ve EF-S lens desteği
   * HD video
 
-via CR, <a title="Canon EOS 700D / Rebel T5i Rumored Specifications" href="http://www.dailycameranews.com/2013/03/canon-eos-700d-rebel-t5i-rumored-specifications/" rel="external dofollow">DCN</a>
+via CR, <a title="Canon EOS 700D / Rebel T5i Rumored Specifications" href="https://www.dailycameranews.com/2013/03/canon-eos-700d-rebel-t5i-rumored-specifications/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera/canon/eos-70d "canon eos 70d"
  [2]: https://www.murekkep.org/canon-eos-70d-cikis-tarihi-mart-sonu-olabilir-12298 "canon eos 70d çıkış tarihi"

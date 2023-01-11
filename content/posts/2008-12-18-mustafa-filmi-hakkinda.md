@@ -19,7 +19,7 @@ Mustafa filmi bildiğimiz üzere 29 Ekim Cumhuriyet Bayramı&#8217;nda gösterim
 
 > Hegel’e göre “Hiçbir kahraman uşağı için kahraman değildir. Kahraman, kahraman olmadığı için değil, uşak, uşak olduğu için. Kahraman uşağa, kahraman olarak değil, yiyen içen, giyinen, kısacası, ona kendi özeline özgü arzuları, düşünceleri ve gereksinimleri olan bir birey olarak görünür” (Tinin Fenomenolojisi, Oxford, 1977, Miller çevirisi, sf, 404)
 
-Birçok televizyon programı, köşe yazısından sonra Cumhuriyet yazarı Sayın Ergin Yildizoglu&#8217;nun <a href="http://globalpolitikultur.blogspot.com/" target="_blank">GlobalPolitikültür</a> isimli blog sayfasındaki <a href="http://globalpolitikultur.blogspot.com/2008/11/mustafa.html" target="_blank">&#8220;Mustafa&#8221;</a> başlıklı yazıyı okudum. Yukarıdaki alıntı ilgili yazıdan yapılmıştır. Bana göre bu konu hakkındaki en gerçekçi ve doğru yazı olduğunu söyleyebilirim. Öncelikle [bu yazıyı][4] ve sonrasında &#8220;[Mustafa ile ilgili bırakılan notlar üzerine][5]&#8221; başlıklı yazıyı okumanızı özellikle tavsiye ediyorum.
+Birçok televizyon programı, köşe yazısından sonra Cumhuriyet yazarı Sayın Ergin Yildizoglu&#8217;nun <a href="https://globalpolitikultur.blogspot.com/" target="_blank">GlobalPolitikültür</a> isimli blog sayfasındaki <a href="https://globalpolitikultur.blogspot.com/2008/11/mustafa.html" target="_blank">&#8220;Mustafa&#8221;</a> başlıklı yazıyı okudum. Yukarıdaki alıntı ilgili yazıdan yapılmıştır. Bana göre bu konu hakkındaki en gerçekçi ve doğru yazı olduğunu söyleyebilirim. Öncelikle [bu yazıyı][4] ve sonrasında &#8220;[Mustafa ile ilgili bırakılan notlar üzerine][5]&#8221; başlıklı yazıyı okumanızı özellikle tavsiye ediyorum.
 
 Mustafa filmi hakkında Mürekkep.Org üzerinde geçen ay yaptığımız anketin sorusu şu şekildeydi.
 
@@ -34,5 +34,5 @@ Bu vesileyle Mustafa filmi hakkında sizlerin yorumlarını bekliyorum.
  [1]: https://www.murekkep.org/arog-filmi-552
  [2]: https://www.murekkep.org/
  [3]: https://www.murekkep.org/arog-filmi-hakkinda-yorumlar-555
- [4]: http://globalpolitikultur.blogspot.com/2008/11/mustafa.html
- [5]: http://globalpolitikultur.blogspot.com/2008/11/mustafa-braklan-notlar-zerine.html
+ [4]: https://globalpolitikultur.blogspot.com/2008/11/mustafa.html
+ [5]: https://globalpolitikultur.blogspot.com/2008/11/mustafa-braklan-notlar-zerine.html

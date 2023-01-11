@@ -22,7 +22,7 @@ Bunun için birbirinden farklı şekilde dizayn edilmiş battery case olarak ge�
 
 ### 1. Brando Power Jacket
 
-<a href="http://shop.brando.com/Power-Jacket-for-iPhone-5_p8269c191d3.html" target="_blank">Brando’s Power Jacket</a> battery case iPhone 5 için 2000mAh gücünde pil desteği sağlıyor. Aynı zamanda iPhone 5&#8217;i darbelere karşı koruyucu özelliğe sahip. iPhone 5 için siyah ve beyaz şarj kılıfı seçenekleri sunan bu battery case satış fiyatı ise $36.
+<a href="https://shop.brando.com/Power-Jacket-for-iPhone-5_p8269c191d3.html" target="_blank">Brando’s Power Jacket</a> battery case iPhone 5 için 2000mAh gücünde pil desteği sağlıyor. Aynı zamanda iPhone 5&#8217;i darbelere karşı koruyucu özelliğe sahip. iPhone 5 için siyah ve beyaz şarj kılıfı seçenekleri sunan bu battery case satış fiyatı ise $36.
 
 <img class="alignnone size-full wp-image-12495" alt="Brando-power-jacket" src="https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket.jpg" width="600" height="450" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket.jpg 600w, https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket-400x300.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket-266x200.jpg 266w, https://www.murekkep.org/wp-content/uploads/2013/03/Brando-power-jacket-406x305.jpg 406w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
@@ -58,7 +58,7 @@ Lenmar Meridian iPhone 5 Battery Case sahip olduğu lityum polimer pil ile iPho
 
 ### 7. Mojo Hi5
 
-<a href="http://www.ibattz.com/products_power_hi5.php" target="_blank">Mojo Hi5</a> iPhone 5 için tasarlanmış 2500 mAh pil desteği sağlayarak şarjını iki katına çıkaran bir battery case. iphone 5&#8217;in arka tarafına takılan şarj kılıfı alüminyumdan yapılmış.
+<a href="https://www.ibattz.com/products_power_hi5.php" target="_blank">Mojo Hi5</a> iPhone 5 için tasarlanmış 2500 mAh pil desteği sağlayarak şarjını iki katına çıkaran bir battery case. iphone 5&#8217;in arka tarafına takılan şarj kılıfı alüminyumdan yapılmış.
 
 <img class="alignnone size-full wp-image-12502" alt="Mojo-Hi5" src="https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5.png" width="600" height="359" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5.png 600w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5-400x239.png 400w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5-50x29.png 50w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5-125x74.png 125w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5-300x179.png 300w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-Hi5-509x305.png 509w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
@@ -70,7 +70,7 @@ PowerSkin for iPhone 5 iPhone 5 için dizayn edilmiş en ince battery caselerde
 
 ### 9. iBattz Mojo Refuel Battery Case
 
-iPhone 5 için <a href="http://www.ibattz.com/products_power_refuel.php" target="_blank">iBattz Mojo Refuel Battery Case</a> dünyanın ilk çıkartılabilir güç sağlayan battery case çözümü olarak dikkat çekiyor. Çıkartılabilir modül hem yanınızda ek pil gücünü istediğiniz gibi taşıma imkanı sağlıyor hem de takıldığı zaman iPhone 5 akıllı telefonunuzu darbelere karşım koruyor.
+iPhone 5 için <a href="https://www.ibattz.com/products_power_refuel.php" target="_blank">iBattz Mojo Refuel Battery Case</a> dünyanın ilk çıkartılabilir güç sağlayan battery case çözümü olarak dikkat çekiyor. Çıkartılabilir modül hem yanınızda ek pil gücünü istediğiniz gibi taşıma imkanı sağlıyor hem de takıldığı zaman iPhone 5 akıllı telefonunuzu darbelere karşım koruyor.
 
 <img class="alignnone size-full wp-image-12504" alt="Mojo-case" src="https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case.png" width="600" height="448" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case.png 600w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case-400x298.png 400w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case-50x37.png 50w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case-125x93.png 125w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case-267x200.png 267w, https://www.murekkep.org/wp-content/uploads/2013/03/Mojo-case-408x305.png 408w" sizes="(max-width: 600px) 100vw, 600px" /> 
 

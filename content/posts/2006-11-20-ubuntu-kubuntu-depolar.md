@@ -19,5 +19,5 @@ tags:
   * Ubuntu / Kubuntu Dapper sources.list 
   * Ubuntu / Kubuntu Edgy sources.list
 
- [1]: http://3v1n0.tuxfamily.org/blog/
- [2]: http://www.ubuntu.com/
+ [1]: https://3v1n0.tuxfamily.org/blog/
+ [2]: https://www.ubuntu.com/

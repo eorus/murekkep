@@ -20,16 +20,16 @@ Sevgililer Günü&#8217;ne bir gün kaldı. [Sevgililer Günü için Video Kartl
 Resim arama üzerinden gidersek bu konuda **Google görseller** bir diğer tercihimiz olabilir. [Google görselleri boyutuna göre arayabileceğimizi][6]{.broken_link} artık biliyoruz. Burada şöyle iki arama şekli gerçekleştirebiliriz. Hem Türkçe hem İngilizce olarak, &#8220;1024&#215;768 Sevgililer Günü&#8221; ve &#8220;1024&#215;768 Valentine Day&#8221; Bu iki arama ile ki özellikle valentine day aramasıyla oldukça fazla sayıda görsel ile karşılaşıyorsunuz.  
 Sevgililer günü için duvar kağıdı kaynaklarına bakacak olursak;
 
-  * Masaüstünüz için çok farklı şekilde oluşturulmuş <a href="http://www.psdtop.com/blog/freebies/40-beautiful-valentines-day-wallpapers-for-your-desktop/" target="_blank" class="broken_link">40 güzel sevgililer günü duvar kağıdı</a>
-  * Farklı boyutlarda sunulan <a href="http://www.theholidayspot.com/valentine/wallpapers/" target="_blank">The HolidaySpot </a> sevgililer günü duvar kağıtları
+  * Masaüstünüz için çok farklı şekilde oluşturulmuş <a href="https://www.psdtop.com/blog/freebies/40-beautiful-valentines-day-wallpapers-for-your-desktop/" target="_blank" class="broken_link">40 güzel sevgililer günü duvar kağıdı</a>
+  * Farklı boyutlarda sunulan <a href="https://www.theholidayspot.com/valentine/wallpapers/" target="_blank">The HolidaySpot </a> sevgililer günü duvar kağıtları
   * Flickr üzerinden seçilmiş 10 tane Sevgililer günü duvar kağıdı 
   * Gene farklı boyutlarda sunulan çok çeşitli American Greetings sevgililer günü duvar kağıtları
 
 Mutlaka internet üzerinde sayısız şekilde masaüstü için duvar kağıdı bulmak mümkündür. Eğer sizin bildiğiniz yerler varsa **Sevgililer günü** öncesi buraya eklemekten çekinmeyin. Böylelikle listeyi zenginleştirebiliriz.
 
  [1]: https://www.murekkep.org/sevgililer-gunu-icin-video-kartlari-1101
- [2]: http://www.flickr.com/
- [3]: http://www.flickr.com/search/?q=valentine%20wallpaper
+ [2]: https://www.flickr.com/
+ [3]: https://www.flickr.com/search/?q=valentine%20wallpaper
  [4]: https://www.murekkep.org/en-iyi-flickr-arama-araci-compfight-723
- [5]: http://marcogomes.com/wallpapr/en/#s=valentine%20day&pids=2245233758,2298305675,2296627869,2275484377,2270423631,2264518187,511985470,399864054,394948455,390063484,371825964,275442180,93879080,58851376,4714205,2242691001,3264633143
+ [5]: https://marcogomes.com/wallpapr/en/#s=valentine%20day&pids=2245233758,2298305675,2296627869,2275484377,2270423631,2264518187,511985470,399864054,394948455,390063484,371825964,275442180,93879080,58851376,4714205,2242691001,3264633143
  [6]: https://www.murekkep.org/google-gorselleri-boyutuna-gore-arayin-993

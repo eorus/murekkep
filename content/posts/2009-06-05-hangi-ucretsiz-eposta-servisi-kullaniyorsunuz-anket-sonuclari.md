@@ -24,7 +24,7 @@ Günümüz eposta kullanımına baktığımızda **ücretsiz eposta servislerini
 Sosyal medyanın etkisini görebildiğimiz bu anket içerisinde sadece eposta hizmeti vermekten ziyade aynı hesabın birçok farklı uygulamada kullanılabilir olmasının olumlu sonuçlarını görebiliyoruz. Şahsen ücretsiz eposta servisi olarak Gmail&#8217;ı tercih etsem bile burada msn ve türevi araçlar sayesinde Hotmail&#8217;ın önemli sayılabilecek derecede yaygın olduğunu görebiliyoruz.
 
  [1]: https://www.murekkep.org/hangi-ucretsiz-eposta-hizmetini-kullaniyorsunuz-2188
- [2]: http://www.gmail.com
- [3]: http://tr.mail.yahoo.com/
- [4]: http://www.mynet.com/
- [5]: http://www.hotmail.com/
+ [2]: https://www.gmail.com
+ [3]: https://tr.mail.yahoo.com/
+ [4]: https://www.mynet.com/
+ [5]: https://www.hotmail.com/

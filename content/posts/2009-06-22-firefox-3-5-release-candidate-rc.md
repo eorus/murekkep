@@ -27,6 +27,6 @@ Firefox 3.5 final öncesi sürüm adayı artık çok az hata kaldığını ve **
 
 [Firefox 3.5 Release Candidate Available Now!][3] | Firefox 3.5 release candidate now available for download
 
- [1]: http://www.mozilla.com/en-US/firefox/all-rc.html
+ [1]: https://www.mozilla.com/en-US/firefox/all-rc.html
  [2]: https://www.murekkep.org/firefox-3-5-beta-kullanicilari-icin-surum-adayi-release-candidate-3429
- [3]: http://blog.mozilla.com/blog/2009/06/21/firefox-35-release-candidate-available-now/
+ [3]: https://blog.mozilla.com/blog/2009/06/21/firefox-35-release-candidate-available-now/

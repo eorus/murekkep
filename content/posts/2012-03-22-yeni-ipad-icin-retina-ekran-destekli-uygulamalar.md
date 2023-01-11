@@ -58,18 +58,18 @@ Yeni iPad&#8217;in Retina Display özelliğinden faydalanarak geliştirilmiş uy
 
  [1]: https://www.murekkep.org/apple-ipad-2-ozellikleri-5112 "Apple iPad 2"
  [2]: https://www.murekkep.org/yeni-ipad-apple-ipad-3-ozellikleri-ve-fiyati-8093 "Apple Yeni iPad"
- [3]: http://itunes.apple.com/us/app/barefoot-world-atlas/id489221652?mt=8
- [4]: http://itunes.apple.com/us/app/solar-walk-3d-solar-system/id347546771?mt=8
- [5]: http://itunes.apple.com/us/app/touchgrind-bmx/id426072035?mt=8
- [6]: http://itunes.apple.com/us/app/another-monster-at-end-this/id473095033?mt=8
- [7]: http://itunes.apple.com/us/app/infinity-blade-ii/id447689011?mt=8
- [8]: http://itunes.apple.com/us/app/the-early-edition-2/id471813327?mt=8
- [9]: http://itunes.apple.com/us/app/real-racing-2-hd/id414566922?mt=8
- [10]: http://itunes.apple.com/us/app/evernote/id281796108?mt=8
- [11]: http://itunes.apple.com/us/app/joining-hands/id436105486?mt=8
- [12]: http://itunes.apple.com/us/app/star-walk-for-ipad-interactive/id363486802?mt=8
- [13]: http://itunes.apple.com/us/app/diamond-dash/id461402734?mt=8
- [14]: http://itunes.apple.com/us/app/istopmotion-for-ipad/id484019696?mt=8
- [15]: http://itunes.apple.com/us/app/labyrinth-2-hd/id307758975?mt=8
- [16]: http://itunes.apple.com/us/app/calcbot-intelligent-calculator/id376694347?mt=8
- [17]: http://itunes.apple.com/us/app/foosball-hd/id372385449?mt=8
+ [3]: https://itunes.apple.com/us/app/barefoot-world-atlas/id489221652?mt=8
+ [4]: https://itunes.apple.com/us/app/solar-walk-3d-solar-system/id347546771?mt=8
+ [5]: https://itunes.apple.com/us/app/touchgrind-bmx/id426072035?mt=8
+ [6]: https://itunes.apple.com/us/app/another-monster-at-end-this/id473095033?mt=8
+ [7]: https://itunes.apple.com/us/app/infinity-blade-ii/id447689011?mt=8
+ [8]: https://itunes.apple.com/us/app/the-early-edition-2/id471813327?mt=8
+ [9]: https://itunes.apple.com/us/app/real-racing-2-hd/id414566922?mt=8
+ [10]: https://itunes.apple.com/us/app/evernote/id281796108?mt=8
+ [11]: https://itunes.apple.com/us/app/joining-hands/id436105486?mt=8
+ [12]: https://itunes.apple.com/us/app/star-walk-for-ipad-interactive/id363486802?mt=8
+ [13]: https://itunes.apple.com/us/app/diamond-dash/id461402734?mt=8
+ [14]: https://itunes.apple.com/us/app/istopmotion-for-ipad/id484019696?mt=8
+ [15]: https://itunes.apple.com/us/app/labyrinth-2-hd/id307758975?mt=8
+ [16]: https://itunes.apple.com/us/app/calcbot-intelligent-calculator/id376694347?mt=8
+ [17]: https://itunes.apple.com/us/app/foosball-hd/id372385449?mt=8

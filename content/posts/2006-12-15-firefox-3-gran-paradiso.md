@@ -20,8 +20,8 @@ Yeni Gecko motoru içerisindeki yenilikler Gran Paradiso&#8217;nun Acid 2 testin
 
 Link: A first look at Firefox 3.0
 
- [1]: http://en.wikipedia.org/wiki/Gran_Paradiso
- [2]: http://wiki.mozilla.org/Gecko_1.9_Alpha_Planning
- [3]: http://www.flickr.com/photos/dbaron/126886608/
- [4]: http://en.wikipedia.org/wiki/Acid2
- [5]: http://www.w3.org/
+ [1]: https://en.wikipedia.org/wiki/Gran_Paradiso
+ [2]: https://wiki.mozilla.org/Gecko_1.9_Alpha_Planning
+ [3]: https://www.flickr.com/photos/dbaron/126886608/
+ [4]: https://en.wikipedia.org/wiki/Acid2
+ [5]: https://www.w3.org/

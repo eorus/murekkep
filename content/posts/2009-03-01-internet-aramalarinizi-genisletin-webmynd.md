@@ -16,7 +16,7 @@ Peki Google&#8217;da bir arama yaptığınız zaman aynı zamanda arama yaptığ
 
 **WebMynd**, arama motorlarının sayfalarına yaptığı ekleme ile bunu bütünleşik bir hale getiriyor. Böylelikle arama motoru sayfasından uzaklaşmadan hatta arama sonuçlarını bozmadan sağ tarafta çok güzel bir şekilde gösterebiliyor. 
 
-<img alt="" src="http://www.webmynd.com/html/images/screenshot1.jpg" title="Webmynd" class="alignnone" width="439" height="249" /> 
+<img alt="" src="https://www.webmynd.com/html/images/screenshot1.jpg" title="Webmynd" class="alignnone" width="439" height="249" /> 
 
 Yukarıda görüldüğü üzere sağ tarafa yerleşen kısımda hangi sitelerden arama sonuçlarının getireleceğini belirleyebiliyorsunuz. Bu arama sonuçlarında örneğin wikipedia arama sonuçları üstte, flickr aramaları onun altında olacak şekilde sıralayabiliyorsunuz. WebMynd bir güzellik daha yaparak burada sonuç gösterilmesi istediğiniz siteleri ve bunları nasıl sıraladığınızı hatırlıyor. 
 
@@ -24,8 +24,8 @@ Yukarıda görüldüğü üzere sağ tarafa yerleşen kısımda hangi sitelerden
 
 Şahsen Google üzerinde ya da arama motorları üzerinde sıkça arama yapanlardansanız ve size sadece bu arama motorlarının getirdiği sonuçlar yeterli olmuyorsa WebMynd bu konuda fazlasıyla esneklik sunuyor ve aranabilecek tüm siteleri önünüze güzelce getiriyor.
 
- [1]: http://www.webmynd.com/
- [2]: http://www.yahoo.com
- [3]: http://www.live.com/
+ [1]: https://www.webmynd.com/
+ [2]: https://www.yahoo.com
+ [3]: https://www.live.com/
  [4]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [5]: http://tr.wikipedia.org/wiki/Ana_Sayfa
+ [5]: https://tr.wikipedia.org/wiki/Ana_Sayfa

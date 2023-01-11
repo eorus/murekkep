@@ -32,7 +32,7 @@ tags:
 
 Daha fazla bilgi için şuralara bakılabilir
 
-http://www.apple.com/iphone/technology/specs.html  
-<a target"_blank" href="http://www.engadget.com/2007/01/09/the-apple-iphone/">http://www.engadget.com/2007/01/09/the-apple-iphone/</a>
+https://www.apple.com/iphone/technology/specs.html  
+<a target"_blank" href="https://www.engadget.com/2007/01/09/the-apple-iphone/">https://www.engadget.com/2007/01/09/the-apple-iphone/</a>
 
  [1]: https://www.murekkep.org/wp-content/uploads/2007/01/taaechhero_specs20070109.jpg

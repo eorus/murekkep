@@ -24,7 +24,7 @@ Sitenin en üst kısmında **Select Tag** yazan kısmından istediğini etiketle
 
 Siteyi yakından gezmek için buyrun : **Go2Web20**
 
- [1]: http://www.digg.com/
- [2]: http://www.last.fm/
- [3]: http://del.icio.us/
- [4]: http://www.youtube.com/
+ [1]: https://www.digg.com/
+ [2]: https://www.last.fm/
+ [3]: https://del.icio.us/
+ [4]: https://www.youtube.com/

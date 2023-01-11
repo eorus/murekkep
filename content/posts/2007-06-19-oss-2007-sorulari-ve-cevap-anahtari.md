@@ -16,4 +16,4 @@ Geçtiğimiz Pazar günü yani 17 Haziran 2007 tarihinde 1 milyon 640 bin 259 ad
 
 Kaynak : Ntvmsnbc
 
- [1]: http://www.ntvmsnbc.com/
+ [1]: https://www.ntvmsnbc.com/

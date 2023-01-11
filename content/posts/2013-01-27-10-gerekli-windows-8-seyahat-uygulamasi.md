@@ -61,12 +61,12 @@ Dünyanın neresinde olursanız olun kullanabileceğiniz en başarılı harita u
 
 Google teknolojisini kullanıp markanın adını kullanmayan uygulamalardan biri de Translator Free. [Windows 8][9]{.broken_link} cihazınızdaki Google Translate olarak düşünebileceğiniz bu uygulama gerçekten çok kullanışlı. İletişimi koparmamak için Translator Free kullanın.
 
- [1]: http://apps.microsoft.com/windows/en-us/app/xe-currency/5588a611-dd1d-4d9a-8031-09de69fb874d
- [2]: http://apps.microsoft.com/windows/en-GB/app/meet-way/d37c4d61-3cb2-4c2d-a3e7-c34119851835
- [3]: http://apps.microsoft.com/windows/en-us/app/inrix-traffic/691372c1-dd49-45e7-af41-5c1ca4028dd7
+ [1]: https://apps.microsoft.com/windows/en-us/app/xe-currency/5588a611-dd1d-4d9a-8031-09de69fb874d
+ [2]: https://apps.microsoft.com/windows/en-GB/app/meet-way/d37c4d61-3cb2-4c2d-a3e7-c34119851835
+ [3]: https://apps.microsoft.com/windows/en-us/app/inrix-traffic/691372c1-dd49-45e7-af41-5c1ca4028dd7
  [4]: https://www.murekkep.org/windows-8-denetim-masasi-acma-yollari-10271
- [5]: http://apps.microsoft.com/windows/en-us/app/photobucket/f801076a-d68f-460a-93c8-771af2193156/m/ROW
- [6]: http://apps.microsoft.com/windows/en-us/app/livingsocial/4ab11433-779d-4870-9b9e-9d3c137b7c5c
- [7]: http://apps.microsoft.com/windows/en-us/app/tunein-radio/a2b86ed9-4db2-4ded-ae34-aa44530370ff
- [8]: http://apps.microsoft.com/windows/en-us/app/gmaps/98b49a0d-4ca7-4d4c-9ade-6a496541637e
+ [5]: https://apps.microsoft.com/windows/en-us/app/photobucket/f801076a-d68f-460a-93c8-771af2193156/m/ROW
+ [6]: https://apps.microsoft.com/windows/en-us/app/livingsocial/4ab11433-779d-4870-9b9e-9d3c137b7c5c
+ [7]: https://apps.microsoft.com/windows/en-us/app/tunein-radio/a2b86ed9-4db2-4ded-ae34-aa44530370ff
+ [8]: https://apps.microsoft.com/windows/en-us/app/gmaps/98b49a0d-4ca7-4d4c-9ade-6a496541637e
  [9]: https://www.murekkep.org/kis-konulu-10-harika-windows-8-tema-11106

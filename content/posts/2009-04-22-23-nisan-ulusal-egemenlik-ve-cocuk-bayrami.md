@@ -18,7 +18,7 @@ tags:
 
 **UNESCO**&#8216;nun 1979 yılını **Çocuk Yılı** olarak duyurmasının ardından, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, uluslararası bir boyuta taşınarak &#8220;**Uluslararası 23 Nisan Çocuk Şenliği**&#8221; adını almıştır. Ayrıntılar için [Vikipedi][1]&#8216;ye bakabilirsiniz. <!--more-->
 
-&#8220;Bu yıl ilk defa uygulanan bir sosyal sorumluluk kampanyası olan “[23 NİSAN’DA BU BLOG BENİM][2]” kampanyası dahilinde, blog yazarları 23 Nisan’da bir günlüğüne hem o günün anlam ve önemini yaşatmak, hem de çocuklara yazma ve paylaşma sevgisini aşılamak için bloglarını çocuklara bırakıyorlar. http://www.23nisanblog.com üzerinden projeye katılan tüm blog sitelerini takip etmek ve projeye dahil olmak mümkün.
+&#8220;Bu yıl ilk defa uygulanan bir sosyal sorumluluk kampanyası olan “[23 NİSAN’DA BU BLOG BENİM][2]” kampanyası dahilinde, blog yazarları 23 Nisan’da bir günlüğüne hem o günün anlam ve önemini yaşatmak, hem de çocuklara yazma ve paylaşma sevgisini aşılamak için bloglarını çocuklara bırakıyorlar. https://www.23nisanblog.com üzerinden projeye katılan tüm blog sitelerini takip etmek ve projeye dahil olmak mümkün.
 
 Bugün için [Mürekkep][3] üzerinde web uygulamalarından, google, firefox veya twitter ile ilgili gelişmelerden bahsetmeyeceğiz. Bugün **Mürekkep.Org**&#8216;u çocuklara teslim ediyoruz. Şimdi onlara kulak verelim ve kendi duyguları ve ifadeleriyle oluşturdukları yazılarını keyifle okuyalım. 
 
@@ -54,6 +54,6 @@ Ortaköy Hayat İlköğretim Okulu Özel Eğitim Sınıfı öğrencisi Büşra G
 
 Kerem, Emre ve Büşra&#8217;ya teşekkür ediyoruz ve ülkemizin 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı&#8217;nı kutluyoruz.
 
- [1]: http://tr.wikipedia.org/wiki/23_Nisan_Ulusal_Egemenlik_ve_%C3%87ocuk_Bayram%C4%B1
+ [1]: https://tr.wikipedia.org/wiki/23_Nisan_Ulusal_Egemenlik_ve_%C3%87ocuk_Bayram%C4%B1
  [2]: https://www.murekkep.org/23-nisanda-bu-blog-benim-2110
  [3]: https://www.murekkep.org/

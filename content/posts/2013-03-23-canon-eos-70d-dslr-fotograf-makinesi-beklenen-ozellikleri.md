@@ -33,7 +33,7 @@ Canon&#8217;un merakla beklenen dijital SLR [fotoğraf][1] makinesi Canon EOS 70
   * Live Preview özelliğinde yaratıcı filtreler
   * EOS 60D gibi dahili WiFi özelliği
 
-via <a title="Canon EOS 70D DSLR Camera Announcement and Expected Specifications" href="http://www.dailycameranews.com/2013/03/canon-eos-70d-dslr-camera-announcement-and-expected-specifications/" rel="external dofollow">Canon EOS 70D DSLR Camera Announcement and Expected Specifications</a>
+via <a title="Canon EOS 70D DSLR Camera Announcement and Expected Specifications" href="https://www.dailycameranews.com/2013/03/canon-eos-70d-dslr-camera-announcement-and-expected-specifications/" rel="external dofollow">Canon EOS 70D DSLR Camera Announcement and Expected Specifications</a>
 
  [1]: https://www.murekkep.org/fotograf "fotoğraf"
  [2]: https://www.murekkep.org/kamera/canon "canon"
@@ -41,5 +41,5 @@ via <a title="Canon EOS 70D DSLR Camera Announcement and Expected Specification
  [4]: https://www.murekkep.org/kamera/canon/eos-700d "canon eos 700d"
  [5]: https://www.murekkep.org/kamera/canon/eos-70d "canon eos 70d"
  [6]: https://www.murekkep.org/kamera/canon/eos-60d "canon eos 60d"
- [7]: http://www.dailycameranews.com/2013/03/canon-powershot-sx280-hs-digital-compact-camera-announcement/ "Canon PowerShot SX280 HS Digital Compact Camera Announcement"
+ [7]: https://www.dailycameranews.com/2013/03/canon-powershot-sx280-hs-digital-compact-camera-announcement/ "Canon PowerShot SX280 HS Digital Compact Camera Announcement"
  [8]: https://www.murekkep.org/kamera/canon/eos-100d "canon eos 100d"

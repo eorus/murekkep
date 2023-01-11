@@ -11,7 +11,7 @@ categories:
   - Sosyal
 
 ---
-**Unicef nedir?** diye bir soru sorsak herhalde çoğumuz unicef hakkında bilgi sahibiyizdir. Barcelona forma reklamından ya da bir çay bahçesinde çayınızı yudumlarken yanınıza gelen küçük bir çocuğun size satmak istediği tebrik kartından bir şekilde haberdar olmuşsunuzdur. Kısaca **Birleşmiş Milletler Çocuk Fonu** olarak adlandırabileceğimiz <a href="http://www.unicefturk.org/" target="_blank">Unicef</a>, dünyada çocuk haklarının başlıca savunucusudur.
+**Unicef nedir?** diye bir soru sorsak herhalde çoğumuz unicef hakkında bilgi sahibiyizdir. Barcelona forma reklamından ya da bir çay bahçesinde çayınızı yudumlarken yanınıza gelen küçük bir çocuğun size satmak istediği tebrik kartından bir şekilde haberdar olmuşsunuzdur. Kısaca **Birleşmiş Milletler Çocuk Fonu** olarak adlandırabileceğimiz <a href="https://www.unicefturk.org/" target="_blank">Unicef</a>, dünyada çocuk haklarının başlıca savunucusudur.
 
 Türkiye dahil 158 ülke ve bölgede çocukların sağlık ve beslenme, eğitim, acil yardım, korunma, temiz su ve temiz ortamda yaşama haklarını sağlamak için çalışan Unicef, gelirlerini bağışlardan ve kampanyalardan sağlayan bir topluluktur. Unicef&#8217;e siz nasıl yardım edebilirsiniz? Bunun için Unicef Türkiye Milli Komitesi üzerinden bilgi alabilirsiniz.
 

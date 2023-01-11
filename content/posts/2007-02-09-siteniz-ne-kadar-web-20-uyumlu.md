@@ -17,6 +17,6 @@ Internet üzerinde geçerli olan standartlara web 2.0 &#8216;de eklenmiş. Nası
 
 <p style="text-align: center">
 
- [1]: http://web2.0validator.com/thefullstory/
- [2]: http://web2.0validator.com/
+ [1]: https://web2.0validator.com/thefullstory/
+ [2]: https://web2.0validator.com/
  [3]: https://www.murekkep.org

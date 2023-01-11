@@ -14,7 +14,7 @@ tags:
 ---
 **Facebook** kullanıcıları arkadaşlarıyla paylaşmak için çok sayıda fotoğraf yükleyebiliyorlar. Facebook kullanımı sırasında yüklenen fotoğrafların sayısı oldukça fazla. Hatta **fotoğraf paylaşım siteleri** Flickr ve Photobucket ile karşılaştırıldığında bu fotoğraf paylaşım sitelerinden bile daha fazla fotoğraf yüklendiği ve bu fotoğrafları barındırdığı biliniyor.
 
-<a href="http://www.facebook.com" target="_blank">Facebook</a> kullanıcıları fotoğraflarını yükleyip, bu fotoğrafları farklı albümlerde düzenleyebiliyorlar. Daha iyi bir yönetim için yüklenmiş olan fotoğrafları etiketleyebiliyorsunuz. Peki Facebook tarafında fotoğraf yükleme sayısı ya da sınırı gibi belirli bir kısıt var mı? diye sorabilirsiniz.
+<a href="https://www.facebook.com" target="_blank">Facebook</a> kullanıcıları fotoğraflarını yükleyip, bu fotoğrafları farklı albümlerde düzenleyebiliyorlar. Daha iyi bir yönetim için yüklenmiş olan fotoğrafları etiketleyebiliyorsunuz. Peki Facebook tarafında fotoğraf yükleme sayısı ya da sınırı gibi belirli bir kısıt var mı? diye sorabilirsiniz.
 
 Aslında Facebook tarafında belirlenmiş genel bir kısıtlama yok. Bir **facebook kullanıcısı istediği kadar fotoğraf yükleyebilir** durumda. Ancak bir albüme yüklenecek fotoğraf sayısında belirlenmiş bir limit mevcut.
 

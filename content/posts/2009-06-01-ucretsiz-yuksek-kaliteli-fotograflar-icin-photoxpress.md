@@ -18,5 +18,5 @@ Yazılara görsellik katmak için kullandığımız fotoğrafların lisans durum
 
 Öncelikle ilk üye olduğunuzda günlük olarak sadece bir **fotoğraf indirme** hakkına sahip oluyorsunuz. Eğer üyelik bilgilerinizi doldurursanız kademeli olarak günlük maksimum 10 fotoğraf indirme hakkına sahip olabiliyorsunuz. **Photoxpress** üzerinden indirilen fotoğraflar hem kişisel hem de profesyonel olarak kullanılabiliyor. Ancak Photoxpress&#8217;den indirip kullanacağınız fotoğrafın altına fotoğrafın photoxpress üzerinden alındığına dair bilgi notunun düşülmesi zorunluluğu var. Detaylar için [içerik indirme sözleşmesine][2]{.broken_link} bakabilirsiniz.
 
- [1]: http://www.photoxpress.com/
- [2]: http://www.photoxpress.com/Info/RFLicense
+ [1]: https://www.photoxpress.com/
+ [2]: https://www.photoxpress.com/Info/RFLicense

@@ -10,7 +10,7 @@ categories:
   - Google
 
 ---
-SEO &#8220;Search Engine Optimization&#8221; olarak bildiğimiz arama motoru optimizasyonu hakkında Google Webmaster araçları tarafından bir rehber <a href="http://googlewebmastercentral.blogspot.com/2008/11/googles-seo-starter-guide.html" target="_blank">yayınlanmıştı</a>. Yeni güncellenen diller arasında bu rehberin Türkçesi yer <a href="http://www.google.com/intl/tr/webmasters/docs/arama-motoru-optimizasyon-baslangic-rehberi.pdf" target="_blank">alıyor</a>. <!--more-->
+SEO &#8220;Search Engine Optimization&#8221; olarak bildiğimiz arama motoru optimizasyonu hakkında Google Webmaster araçları tarafından bir rehber <a href="https://googlewebmastercentral.blogspot.com/2008/11/googles-seo-starter-guide.html" target="_blank">yayınlanmıştı</a>. Yeni güncellenen diller arasında bu rehberin Türkçesi yer <a href="https://www.google.com/intl/tr/webmasters/docs/arama-motoru-optimizasyon-baslangic-rehberi.pdf" target="_blank">alıyor</a>. <!--more-->
 
 Çoğu blog yazarı ya da site yöneticisi arama motorlarında üst sıralarda olmayı isterler. SEO diye aratıldığında karşımıza bu konu hakkında bilgi veren yüzlerce kaynak çıkacaktır. Burada yer alan bilgiler Seo teknikleri, ipuçları ve bir sitenin arama sonuçlarında üst sıraya çıkması için yapılması gerekenler diye listelenir.
 
@@ -34,5 +34,5 @@ Rehber içeriğindeki başlıklara bakmamız gerekirse;
 
 Bu yüzden [Google][1]&#8216;ın sitenizin yapısı ve fonksiyonlarından neler beklediğini yorumlayabilmeniz için **.pdf** olarak sunulan **[Arama Motoru Optimizasyonu Başlangıç Rehberi][2]**&#8216;ni indirip mutlaka göz atmalısınız.
 
- [1]: http://www.google.com.tr/
- [2]: http://www.google.com/intl/tr/webmasters/docs/arama-motoru-optimizasyon-baslangic-rehberi.pdf
+ [1]: https://www.google.com.tr/
+ [2]: https://www.google.com/intl/tr/webmasters/docs/arama-motoru-optimizasyon-baslangic-rehberi.pdf

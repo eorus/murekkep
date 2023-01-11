@@ -23,7 +23,7 @@ Format olarak **PNG**, **JPEG** ve **GIF** oluşan resim dosyalarını göndereb
 Renkler ile işiniz bittiğinde CSS dosyası olarak ya da Photoshop .aco formatında stil dosyasını kaydedebiliyorsunuz.
 
  [1]: https://www.murekkep.org/websitelerinin-renklerine-ulasin-270
- [2]: http://kuler.adobe.com/
- [3]: http://www.colorcombos.com/
- [4]: http://www.cssdrive.com/
- [5]: http://www.cssdrive.com/imagepalette/
+ [2]: https://kuler.adobe.com/
+ [3]: https://www.colorcombos.com/
+ [4]: https://www.cssdrive.com/
+ [5]: https://www.cssdrive.com/imagepalette/

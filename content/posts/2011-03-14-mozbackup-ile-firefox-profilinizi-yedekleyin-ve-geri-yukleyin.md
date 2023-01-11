@@ -19,6 +19,6 @@ Firefox ihtiyacı olan tüm bileşenleri tarayıcı özellikleri ve kullanıcı 
 
 Eğer firefox yüklemesini yeni bir bilgisayara yapacaksanız ve bir başka bilgisayarda kullandığınız tüm ayarların ve değişikliklerin kalıcı şekilde yeni firefox yüklemenizde bulunmasını istiyorsanız mutlaka yukarıda bahsettiğimiz **Firefox Profil dizinini** yedeklemelisiniz.
 
-Bilmeyenler için <a href="http://mozbackup.jasnapaka.com/" target="_blank">MozBackup</a> isimli uygulama hem **Firefox** hem de Mozilla&#8217;nın diğer uygulamaları olan Thunderbird, Sunbird, Flock, Postbox, Spcebird, Netscape ve Wyzo için profil dizinini ayrıntılı bir şekilde yedekleyen ve geri yükleyen özelliklere sahip basit ama kullanışlı bir uygulama. Son güncelleme ile Firefox 4 geçişinde **Firefox Profil** dizinini yedeklemek için Firefox 4 desteği de eklenmiş.
+Bilmeyenler için <a href="https://mozbackup.jasnapaka.com/" target="_blank">MozBackup</a> isimli uygulama hem **Firefox** hem de Mozilla&#8217;nın diğer uygulamaları olan Thunderbird, Sunbird, Flock, Postbox, Spcebird, Netscape ve Wyzo için profil dizinini ayrıntılı bir şekilde yedekleyen ve geri yükleyen özelliklere sahip basit ama kullanışlı bir uygulama. Son güncelleme ile Firefox 4 geçişinde **Firefox Profil** dizinini yedeklemek için Firefox 4 desteği de eklenmiş.
 
 MozBackup çalıştırmadan önce Firefox&#8217;un arkaplanda çalışmadığına emin olup, **yedeklemek** istediğiniz seçenekleri işaretleyip Firefox Profil dizininizi ayrıntılı bir şekilde yedekleyebilirsiniz.

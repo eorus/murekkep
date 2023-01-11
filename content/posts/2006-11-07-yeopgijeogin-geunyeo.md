@@ -24,5 +24,5 @@ Daha önce böyle bahsetmiştim kendilerinden. Ve birçok arkadaşıma izlemesi 
 
 Şimdi hollywood bunu millete duyurmak için [2007 yapımı][2] My Sassy Girl olarak çıkartıyormuş.Hatta ilk başta 2006 idi hala prodüksiyonda gözüküyor. Kızı da Elisha Cuthbert oynayacakmış. Hiçbir şey doğal halinden daha güzel olamaz. Bu filmin hollywood yapımını merakla bekliyorum. Ama sadece ne yapmışlar, nasıl olmuş şeklinde bekliyorum. Birçok özel film gibi [Yeopgijeogin Geunyeo][1]’nun, kendi yarattığı camia içerisindeki yeri başka olacaktır.
 
- [1]: http://www.imdb.com/title/tt0293715/
- [2]: http://www.imdb.com/title/tt0404254/
+ [1]: https://www.imdb.com/title/tt0293715/
+ [2]: https://www.imdb.com/title/tt0404254/

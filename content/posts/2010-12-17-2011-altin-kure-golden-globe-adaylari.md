@@ -16,7 +16,7 @@ tags:
 ---
 **<span style="color: #ff0000;">Güncelleme : <a href="https://www.murekkep.org/2011-altin-kure-golden-globe-odulleri-4101" class="broken_link">2011 Altın Küre (Golden Globe) Ödülleri</a> açıklandı sonuçlarına buradan bakabilirsiniz.</span>** Her sene olduğu gibi Oscar Ödülleri ile beraber **Golden Globe Ödülleri**&#8216;ne beraber göz atacağız. Amerikan sinemasının ödüllerinin en başında gelen Oscar’a hazırlık ve ipucu vermesi açısından öncesinde baktığımız kriter hep **Golden Globe – Altın Küre** olmuştur. Bu sene 68&#8217;incisi düzenlenecek olan **2011 Altın Küre** (Golden Globe) ödül töreni **16 Ocak 2011** tarihinde gerçekleşecek. Daha önce [2011 altın küre takvimi][1]{.broken_link} içerisinde aktardığımız üzere **2011 golden globe ödülleri** için adaylar artık belli oldu. Şimdi yaklaşık birer ay arayla önce 2011 altın küre ödülleri yapılacak. Ardından 2011 oscar adayları açıklanacak ve son olarak 2011 Oscar Ödül Töreni ile bu seneki maratonu sonlandıracağız.  2011 golden globe adaylarına ilişkin tüm listeyi **film ve oyuncu** linkleriyle beraber **IMDB** üzerindeki sayfadan bakabilirsiniz.
 
-<a href="http://www.imdb.com" target="_blank">IMDB</a> – **Road To Globes 2011**
+<a href="https://www.imdb.com" target="_blank">IMDB</a> – **Road To Globes 2011**
 
 2011 golden globe adaylarına detaylı bir şekilde bakalım. Belirlenmiş belli başlı kategorilerde kimlerin ödül alabileceğini görebilmek için adaylara bir göz atalım.
 

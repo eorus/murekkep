@@ -23,7 +23,7 @@ tags:
 **İşlemci** : Çift Çekirdekli A5X İşlemci  
 **İşletim Sistemi** : iOS 5.1 işletim sistemi  
 **Ekran Boyutu** : 9.7-inç QXGA  
-**Çözünürlük** : 2048 x 1536 piksel <a title="retina display nedir" href="http://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina Display</a> ekran  
+**Çözünürlük** : 2048 x 1536 piksel <a title="retina display nedir" href="https://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina Display</a> ekran  
 **Kamera** : Görüntü sabitleyicili 1080p kamera (iPhone 4S ile aynı bekleniyor)  
 **Boyut** : Hem kamerada kullanılacak lens hem de pilden dolayı 2mm daha kalın bir iPad bekleniyor (iPad 2&#8217;nin 8.8mm olduğu göz önüne alınırsa 9.5 &#8211; 10mm arası bir kalınlıkta olabilir)  
 **Siri** : Yeni güncellenmiş CPU ile iPad 3 üzerinde [Apple Siri][2] destekleniyor olacak.

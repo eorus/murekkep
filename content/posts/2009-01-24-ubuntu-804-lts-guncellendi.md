@@ -21,6 +21,6 @@ Eğer uzun dönem destekli Ubuntu 8.04 kurulumu yapmak istiyorsanız başlangı�
 
 [Ubuntu 8.04.2 Sürüm Duyurusu][3]{.broken_link}
 
- [1]: http://www.ubuntu.com/testing/jaunty/alpha3
+ [1]: https://www.ubuntu.com/testing/jaunty/alpha3
  [2]: https://lists.ubuntu.com/archives/ubuntu-announce/2009-January/000117.html
- [3]: http://www.ubuntu.com/getubuntu/releasenotes/804
+ [3]: https://www.ubuntu.com/getubuntu/releasenotes/804

@@ -20,4 +20,4 @@ Telefonun Linux tabanlı olmasının getirdiği avantajların başında, Java il
 
 A910 ile ilgili daha fazla resime buradan ulaşılabilir.
 
- [1]: http://www.fcc.gov/
+ [1]: https://www.fcc.gov/

@@ -42,4 +42,4 @@ Fotoğraf kalitesi olarak birçok markayı ve modeli geride bırakan **Samsung S
 
 Kaynak: [cNet Reviews][1]{.broken_link}
 
- [1]: http://reviews.cnet.co.uk/compact-digital-cameras/samsung-st200f-review-50008301/
+ [1]: https://reviews.cnet.co.uk/compact-digital-cameras/samsung-st200f-review-50008301/

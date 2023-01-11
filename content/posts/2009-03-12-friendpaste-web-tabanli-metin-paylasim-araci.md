@@ -19,4 +19,4 @@ Friendpaste web tabanlı bir pano kopyalama, metin paylaşım aracıdır. Friend
 
 Web tabanlı metin paylaşım aracı olan **Friendpaste** için basit arayüzü ve sunmuş olduğu özelliklerle yer imlerinize ekleyebileceğiniz bir uygulama diyebiliriz. ([via][1])
 
- [1]: http://lifehacker.com/5168531/friendpaste-is-a-code+friendly-text-sharing-tool
+ [1]: https://lifehacker.com/5168531/friendpaste-is-a-code+friendly-text-sharing-tool

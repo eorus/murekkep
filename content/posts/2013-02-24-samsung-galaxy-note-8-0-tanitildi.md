@@ -16,7 +16,7 @@ tags:
   - samsung
 
 ---
-Samsung, 8-inç ekran genişliğine sahip yeni tablet bilgisayarını <a href="http://global.samsungtomorrow.com/?p=22352" target="_blank" class="broken_link">duyurdu</a>. **Samsung Galaxy Note 8.0**, iPad Mini&#8217;nin 8-inçlik tablet pc modellerinde yarattığı rekabete eşlik edecek şekilde Samsung tarafından tanıtıldı.
+Samsung, 8-inç ekran genişliğine sahip yeni tablet bilgisayarını <a href="https://global.samsungtomorrow.com/?p=22352" target="_blank" class="broken_link">duyurdu</a>. **Samsung Galaxy Note 8.0**, iPad Mini&#8217;nin 8-inçlik tablet pc modellerinde yarattığı rekabete eşlik edecek şekilde Samsung tarafından tanıtıldı.
 
 Samsung&#8217;un merakla beklenen orta seviye [tablet pc][1] modeli Samsung Galaxy Note ailesinin yeni üyesi Galaxy Note 8.0, tasarımı ve S-Pen kalemiyle bildiğimiz Samsung çizgisini yansıtıyor. **Android 4.1.2 Jelly Bean** işletim sistemi yüklü gelecek Samsung Galaxy Note 8.0 aynı zamanda kendi ekran boyutundaki en güçlü Android ünvanına şimdiden sahip oldu.
 

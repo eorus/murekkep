@@ -15,7 +15,7 @@ tags:
   - yazılım
 
 ---
-<a href="http://www.mozilla-europe.org/tr/firefox/" target="_blank" class="broken_link">Firefox</a> kullanmanın en güzel taraflarından birisi nedir diye sorsak çoğumuz eklentilerinden ve birçok alanda tek bir tarayıcı ekranından herşeye ulaşabilmeyi söyleyecektir. Şubat ayı başında [Friendbar Firefox eklentisi][1]{.broken_link} tanıtımını yapmıştık. Yaygınlığı bilinen web 2.0 uygulamaları <a href="http://twitter.com" target="_blank">Twitter</a> ve <a href="http://facebook.com" target="_blank">Facebook</a> için oluşan güncellemeleri tarayıcınız içerisinden size düzenli olarak aktarabildiğini ve bu aktarımı yaparken gelmiş olan yazıyı gösterirken yanında **Facebook** ve **Twitter** üzerindeki fotoğrafları da getirdiğini söylemiştik.
+<a href="https://www.mozilla-europe.org/tr/firefox/" target="_blank" class="broken_link">Firefox</a> kullanmanın en güzel taraflarından birisi nedir diye sorsak çoğumuz eklentilerinden ve birçok alanda tek bir tarayıcı ekranından herşeye ulaşabilmeyi söyleyecektir. Şubat ayı başında [Friendbar Firefox eklentisi][1]{.broken_link} tanıtımını yapmıştık. Yaygınlığı bilinen web 2.0 uygulamaları <a href="https://twitter.com" target="_blank">Twitter</a> ve <a href="https://facebook.com" target="_blank">Facebook</a> için oluşan güncellemeleri tarayıcınız içerisinden size düzenli olarak aktarabildiğini ve bu aktarımı yaparken gelmiş olan yazıyı gösterirken yanında **Facebook** ve **Twitter** üzerindeki fotoğrafları da getirdiğini söylemiştik.
 
 Firefox üzerinde sadece Twitter için kullanabileceğiniz popüler bir eklenti var ve adı TwitterFox. **TwitterFox Firefox eklentisinin** ilk bakışta gördüğüm en güzel özelliklerinden birisi durum çubuğuna (statusbar) kendi ikonuyla yerleşmesi oldu. **Firefox** durum çubuğunda yer alan bu gerçekten küçük ikon size Twitter güncellemeleri hakkında bütün bilgileri aktarıyor. Twitter profilinizde yer alan arkadaşlarınızın kendi Twitter hesaplarına aktardıkları anında Firefox ekranından size ileti olarak geliyor. <!--more-->
 
@@ -25,6 +25,6 @@ Birkaç twitter hesabını birden kontrol ediyorsanız, TwitterFox çoklu hesap 
 
 TwitterFox Firefox eklentisini anasayfasından edinebilirsiniz. Desteklediği diğer tüm özelliklerine ayrıntılı bir şekilde bakabilirsiniz. Arzu ederseniz TwitterFox eklentisini Firefox Eklenti Sayfası olan Firefox Addons üzerinden de edinebilirsiniz.
 
-Mürekkep.Org üzerindeki güncellemeleri ve gelişmeleri takip etmek için bizi Twitter&#8217;da takip edebilirsiniz. &#8220;<a href="http://twitter.com/murekkep" target="_blank">Twitter üzerinde Mürekkep</a>&#8220;
+Mürekkep.Org üzerindeki güncellemeleri ve gelişmeleri takip etmek için bizi Twitter&#8217;da takip edebilirsiniz. &#8220;<a href="https://twitter.com/murekkep" target="_blank">Twitter üzerinde Mürekkep</a>&#8220;
 
  [1]: https://www.murekkep.org/friendbar-ile-twitter-ve-facebook-guncellemelerini-kolayca-takip-edin-1063

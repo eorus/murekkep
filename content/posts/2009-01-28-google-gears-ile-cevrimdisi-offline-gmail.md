@@ -26,9 +26,9 @@ Son olarak tüm bunları nasıl aktive edeceğimize bakalım.
 
 [Official Gmail Blog][5] &#8211; [New In Labs: Offline Gmail][6]
 
- [1]: http://labs.google.com/
- [2]: http://www.gmail.com
+ [1]: https://labs.google.com/
+ [2]: https://www.gmail.com
  [3]: https://www.murekkep.org/google-gears-web-uygulamalarini-cevrimdisi-takip-edin-306
- [4]: http://gears.google.com/
- [5]: http://gmailblog.blogspot.com
- [6]: http://gmailblog.blogspot.com/2009/01/new-in-labs-offline-gmail.html
+ [4]: https://gears.google.com/
+ [5]: https://gmailblog.blogspot.com
+ [6]: https://gmailblog.blogspot.com/2009/01/new-in-labs-offline-gmail.html

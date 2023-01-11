@@ -17,7 +17,7 @@ tags:
 ---
 Vodafone tarafından duyurulan **Vodafone Smart Tab 10 günde 1 TL&#8217;ye Türkiye&#8217;de** satışa sunuluyor. Vodafone bir operatör markası olarak sunduğu tablet bilgisayar Smart Tab 10 modelini ZTE&#8217;ye yaptırıyor ve Vodafone Smart Tab 10 modeli operatör markası ile sunulan ilk tablet pc olarak ülkemizde satışa sunulmaya başlıyor.
 
-Böylelikle Vodafone, &#8220;**Herkese Mobil İnternet**&#8221; sloganıyla Türkiye&#8217;nin ilk operatör markalı tablet bilgisayarını duyurmuş oldu. <a title="Vodafone Smart Tab 10 Kampanyası" href="http://www.vodafone.com.tr/Kampanyalar/Vodafone-Smart-Tab-10-Kampanyasi.php" target="_blank">Vodafone&#8217;un Smart Tab 10 isimli yeni tablet bilgisayarı</a> tüketici olarak gençleri hedef alıyor.
+Böylelikle Vodafone, &#8220;**Herkese Mobil İnternet**&#8221; sloganıyla Türkiye&#8217;nin ilk operatör markalı tablet bilgisayarını duyurmuş oldu. <a title="Vodafone Smart Tab 10 Kampanyası" href="https://www.vodafone.com.tr/Kampanyalar/Vodafone-Smart-Tab-10-Kampanyasi.php" target="_blank">Vodafone&#8217;un Smart Tab 10 isimli yeni tablet bilgisayarı</a> tüketici olarak gençleri hedef alıyor.
 
 Vodafone Türkiye tarafından ülkemizde satışa sunulacak Vodafone Smart Tab 10 bir Android tablet ve android işletim sistemi kullanıyor. Şimdi Vodafone Smart Tab 10 özelliklerine kısaca bakalım.
 

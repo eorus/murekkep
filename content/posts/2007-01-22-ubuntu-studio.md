@@ -18,6 +18,6 @@ tags:
 ---
 [][1] Nisan ayında çıkacağı duyurulan [Ubuntu Studio][1], Linux üzerinde ses, görüntü ve ]grafik ortamlarının eğlence amaçlı ya da profesyonel bir şekilde düzenlenebilmesini sağlıyor. Amaç, Gnome masaüstü ortamını kullanarak multimedya tabanlı bir dağıtım sunmak. Şu ana kadar düşünülen paketler içerisinde Soma Suite, Cinelerra, Jahshaka, ve Wired gibi paketler bulunuyor. Daha fazla ayrıntı için [ubuntuwiki][2] üzerindeki [sayfasına][3] bakabilirsiniz. Sloganı ise &#8220;Bırakın Yaratıcılığınız Uçsun&#8221;.
 
- [1]: http://ubuntustudio.org/
+ [1]: https://ubuntustudio.org/
  [2]: https://wiki.ubuntu.com/
  [3]: https://wiki.ubuntu.com/UbuntuStudio

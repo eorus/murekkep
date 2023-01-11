@@ -26,6 +26,6 @@ Avast Browser Cleanup **araç çubuğu kaldırma ve internet tarayıcı temizlem
 
 Avast Browser Cleanup araç çubuğu kaldırma aracı Avast programıyla beraber gelen bir uygulama ama eğer bilgisayarınızda Avast yüklü değilse, tek başına çalışan **Avast Browser Cleanup** programını aşağıdaki linkten indirerek sadece toolbar kaldırmak için kullnabilirsiniz. Avast Browser Cleanup programı Windows XP SP2/Vista/Windows 7  ve [Windows 8][1] işletim sistemleri için kullanılabiliyor.
 
-<a href="http://files.avast.com/files/tools/avast-browser-cleanup.exe" target="_blank">Avast Browser Cleanup indirin</a>
+<a href="https://files.avast.com/files/tools/avast-browser-cleanup.exe" target="_blank">Avast Browser Cleanup indirin</a>
 
  [1]: https://www.murekkep.org/windows-8-ozellikleri-6858 "windows 8 özellikler"

@@ -22,4 +22,4 @@ Battlefield 3 şu anda EA tarihinin henüz duyurulmadan önce ve duyurulduktan s
 
 Battlefield serisinin 11. oyunu olan Battlefield 3, Metacritic üzerinde 93 gibi mükemmel bir not alırken, Gamespot, IGN gibi oyun incelemelerinde bulunan siteler, bu **yılın mutlaka oynanması gereken savaş oyunu** yorumunda bulundular.
 
-Battlefield 3 Xbox 360®, PlayStation®3 konsol ortamları ve PC için 27 Ekim’de Avrupa’da satışa çıktı. Battlefield 3 hakkında daha fazla bilgi için <a title="Battlefield" href="http://www.battlefield.com/" target="_blank">www.battlefield.com</a> adresini ziyaret edebilirsiniz.
+Battlefield 3 Xbox 360®, PlayStation®3 konsol ortamları ve PC için 27 Ekim’de Avrupa’da satışa çıktı. Battlefield 3 hakkında daha fazla bilgi için <a title="Battlefield" href="https://www.battlefield.com/" target="_blank">www.battlefield.com</a> adresini ziyaret edebilirsiniz.

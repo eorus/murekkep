@@ -17,10 +17,10 @@ Günümüz teknolojisinde birçok yabancı sitede gördüğümüz Google ile ilg
 Takip etmek için [Rss][4] okuyucunuza aşağıdaki besleme adresini ekleyebilirsiniz. Böylelikle en güncel Google haberlerine ulaşabileceksiniz.
 
 <p style="font-weight: bold">
-  http://feeds.feedburner.com/googlesehri
+  https://feeds.feedburner.com/googlesehri
 </p>
 
  [1]: https://www.murekkep.org/
  [2]: https://www.murekkep.org/author/fatih
- [3]: http://www.google.com
+ [3]: https://www.google.com
  [4]: https://www.murekkep.org/abone/

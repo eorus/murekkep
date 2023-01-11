@@ -24,5 +24,5 @@ Peki kendi internet kullanımınızın zaman değerlerine baktığınızda hangi
 
 Kaynaklar : [Ars Technica][2] , OPA
 
- [1]: http://www.online-publishers.org/
- [2]: http://arstechnica.com/news.ars/post/20070813-study-primary-role-of-the-internet-shifting-from-communications-to-content.html
+ [1]: https://www.online-publishers.org/
+ [2]: https://arstechnica.com/news.ars/post/20070813-study-primary-role-of-the-internet-shifting-from-communications-to-content.html

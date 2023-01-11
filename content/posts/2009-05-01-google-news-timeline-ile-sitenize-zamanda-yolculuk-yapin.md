@@ -15,7 +15,7 @@ categories:
   - Google
 
 ---
-Google Labs‘ın deneysel olarak sunduğu **Google News Timeline**, benzer resimler ile beraber <a href="http://googleblog.blogspot.com/" target="_blank">Resmi Google Günlüğü</a>‘nde <a href="http://googleblog.blogspot.com/2009/04/hard-at-play-in-google-labs-with.html" target="_blank">tanıtılmıştı</a>. Önce **Google News Timeline** hakkında biraz bilgi verelim sonra istediğimiz siteyi ya da günlüğü Google News Timeline üzerinde nasıl kullanabileceğimize bakalım.
+Google Labs‘ın deneysel olarak sunduğu **Google News Timeline**, benzer resimler ile beraber <a href="https://googleblog.blogspot.com/" target="_blank">Resmi Google Günlüğü</a>‘nde <a href="https://googleblog.blogspot.com/2009/04/hard-at-play-in-google-labs-with.html" target="_blank">tanıtılmıştı</a>. Önce **Google News Timeline** hakkında biraz bilgi verelim sonra istediğimiz siteyi ya da günlüğü Google News Timeline üzerinde nasıl kullanabileceğimize bakalım.
 
 ## Google News Timeline Nedir?
 

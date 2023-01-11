@@ -25,5 +25,5 @@ Görünen o ki 7 inç tablet piyasasında işler giderek kızışacak. [iPad min
 
 &nbsp;
 
- [1]: http://wp.me/p1eJph-2gG "ipad mini nexus 7 teknik özellikler"
- [2]: http://wp.me/p1eJph-2j3 "Acer iconia a 110"
+ [1]: https://wp.me/p1eJph-2gG "ipad mini nexus 7 teknik özellikler"
+ [2]: https://wp.me/p1eJph-2j3 "Acer iconia a 110"

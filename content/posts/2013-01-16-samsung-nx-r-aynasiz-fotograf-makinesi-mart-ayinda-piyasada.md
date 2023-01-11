@@ -23,4 +23,4 @@ Samsung’un yeni aynasız fotoğraf makinesi modelleriyle pazara girmesi beklen
 Kaynak: [PhotoRumors][2]
 
  [1]: https://www.murekkep.org/kamera
- [2]: http://photorumors.com
+ [2]: https://photorumors.com

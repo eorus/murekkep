@@ -18,4 +18,4 @@ Google, Google Reader için mobil web uygulamasını geliştirmek yerine Android
 
 Daha geniş dokunma alanı imkanı sunan Android için Google Reader, işletim sisteminin &#8220;gönder&#8221; komutuyla entegre bir şekilde çalışıyor. Aynı zamanda ayarlardan telefonun ses açma azaltma kısmı ile başlıklar arasında gezinme mümkün.
 
-<a href="http://googlereader.blogspot.com/2010/11/android-google-reader-app-is-here.html" target="_blank">The Android Google Reader app is here!</a>
+<a href="https://googlereader.blogspot.com/2010/11/android-google-reader-app-is-here.html" target="_blank">The Android Google Reader app is here!</a>

@@ -41,6 +41,6 @@ Doğrulama mailini Hotmail ya da Windows live hesabınızdan kontrol edip doğru
 
 Gmail hesabınız üzerinden Hotmail ile ilgili mail gönderme ve alma ayarları tamamlanmış oldu. Artık hem Hotmail veya Windows Live hesaplarınızdaki epostaları Gmail içerisinden takip edebileceksiniz. Hem de Gmail hesabınızdan çıkış yapmadan Hotmail&#8217;a gönderilmiş epostalarınıza gene Gmail içerisinden gönderen kısmını Hotmail&#8217;a kolayca çevirerek cevap yazabileceksiniz.
 
- [1]: http://www.hotmail.com
- [2]: http://gmail.com
+ [1]: https://www.hotmail.com
+ [2]: https://gmail.com
  [3]: https://www.murekkep.org/hotmail-pop3-destegini-dunya-genelinde-acti-1467

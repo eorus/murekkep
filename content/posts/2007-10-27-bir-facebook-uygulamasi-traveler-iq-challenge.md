@@ -20,7 +20,7 @@ Oyun çok basit yapmanız gereken şey, haritada size söylenen bir şehiri ve y
 Bunların dışında kendiniz de oluşturabiliyorsunuz. Örneğin Türkiye için **81 il** adında bir oyunu da mevcut. En kısa ve doğru biçimde tüm şehirleri bulmanız lazım. Gerçekten çok eğlenceli ve aynı anda bilgilendirici bir oyun. Buyrun deneyin:
 
 <div style="text-align:center;">
-  <embed src="http://www.travelpod.com/bin/flash/container.swf" quality="high" bgcolor="#FFFFFF" width="625" height="500" name="TravelerIQ" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" FlashVars="gamexml=http://www.travelpod.com/cgi-bin/witw?SessionID=00-643732505-game1&#038;gameswf=http://www.travelpod.com/bin/flash/witw-00.swf" />
+  <embed src="https://www.travelpod.com/bin/flash/container.swf" quality="high" bgcolor="#FFFFFF" width="625" height="500" name="TravelerIQ" align="middle" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" FlashVars="gamexml=https://www.travelpod.com/cgi-bin/witw?SessionID=00-643732505-game1&#038;gameswf=https://www.travelpod.com/bin/flash/witw-00.swf" />
 </div>
 
- [1]: http://www.facebook.com
+ [1]: https://www.facebook.com

@@ -20,6 +20,6 @@ Google Chrome için Windows 8 teması, windows 8 ekran görüntülerinde gözük
 
 Eğer Google Chrome tarayıcısını kullanıyorsanız Google Chrome için Windows 8 temasını deviantART üzerinden edinebilirsiniz.
 
-<a href="http://andreascy.deviantart.com/art/Win-8-MetroUI-skin-for-Chrome-213841586" target="_blank" class="broken_link">Google Chrome Windows 8 Theme</a>
+<a href="https://andreascy.deviantart.com/art/Win-8-MetroUI-skin-for-Chrome-213841586" target="_blank" class="broken_link">Google Chrome Windows 8 Theme</a>
 
  [1]: https://www.murekkep.org/windows-8-ozellikleri-6858 "windows 8"

@@ -20,7 +20,7 @@ Herşeyi [BMW][1] başlattı.
 
 Ama [Bentley][4] patronu son sözü söyledi. :-)
 
- [1]: http://www.bmw.com/
- [2]: http://www.audi.com/
- [3]: http://www.subaru.com/
- [4]: http://www.bentleymotors.com/
+ [1]: https://www.bmw.com/
+ [2]: https://www.audi.com/
+ [3]: https://www.subaru.com/
+ [4]: https://www.bentleymotors.com/

@@ -19,4 +19,4 @@ tags:
 
 Windows 7 tema paketleri içerdiği renk özellikleri, görev çubuğu rengi ve masaüstü arkaplan duvar kağıtları ile windows 7 masaüstünüzde görsel değişiklikler yapmanızı sağlıyor. Eğer araba yarışı oyunlarını seviyorsanız, **NFS Most Wanted** oyunu için hazırlanmış tema paketleriyle windows 7 masaüstünüzü değiştirebilirsiniz.
 
-<a href="http://marijo-4ever.deviantart.com/art/NFS-Most-Wanted-Win7-Theme-199927659" target="_blank" class="broken_link">Need for Speed Most Wanted teması</a> oyuna ilişkin içerdiği 5 farklı duvar kağıdı ile modifiye edilmiş arabaları ve oyundan kareleri windows 7 masaüstünüze taşıyor.
+<a href="https://marijo-4ever.deviantart.com/art/NFS-Most-Wanted-Win7-Theme-199927659" target="_blank" class="broken_link">Need for Speed Most Wanted teması</a> oyuna ilişkin içerdiği 5 farklı duvar kağıdı ile modifiye edilmiş arabaları ve oyundan kareleri windows 7 masaüstünüze taşıyor.

@@ -16,4 +16,4 @@ tags:
 
 Yeni arayüze buradan bakabilirsiniz.
 
- [1]: http://www.mozilla.com
+ [1]: https://www.mozilla.com

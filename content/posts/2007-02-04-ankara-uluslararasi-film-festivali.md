@@ -19,6 +19,6 @@ Aziz Nesin Emek Ödülü : [Fatma Girik][2]
 
 Kitle İletişim Ödülü : [Antalya Altın Portakal Film Festivali][3]
 
- [1]: http://www.filmfestankara.org.tr/
- [2]: http://tr.wikipedia.org/wiki/Fatma_Girik
- [3]: http://www.altinportakal.org.tr/
+ [1]: https://www.filmfestankara.org.tr/
+ [2]: https://tr.wikipedia.org/wiki/Fatma_Girik
+ [3]: https://www.altinportakal.org.tr/

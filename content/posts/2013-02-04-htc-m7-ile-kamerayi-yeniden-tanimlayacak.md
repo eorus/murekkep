@@ -29,4 +29,4 @@ Kaynak: [Phandroid][4]
  [1]: https://www.murekkep.org/kamera
  [2]: https://www.murekkep.org/telefon
  [3]: https://www.murekkep.org/htc-m7-ozellikleri-sizdi-10015
- [4]: http://phandroid.com/2013/02/04/htc-m7-ultrapixel-sensor/
+ [4]: https://phandroid.com/2013/02/04/htc-m7-ultrapixel-sensor/

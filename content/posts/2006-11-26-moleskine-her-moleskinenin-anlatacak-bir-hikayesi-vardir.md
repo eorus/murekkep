@@ -22,13 +22,13 @@ Ve Moleskineler dünyada adeta bir **fenomen** şekline gelmiştir. Çoğu kişi
 
 Her Moleskine&#8217;nin anlatacak bir hikayesi var, ya sizin ? Bildikleriniz varsa yorumunuzu esirgemeyin, yazarsanız sevinirim.
 
- [1]: http://de.wikipedia.org/wiki/Moleskin
- [2]: http://en.wikipedia.org/wiki/Bruce_Chatwin
- [3]: http://www.moleskineart.com/
- [4]: http://www.flickr.com/groups/moleskinerie/
- [5]: http://www.flickr.com/groups/moleskinerie/pool/
- [6]: http://groups.google.com/group/Moleskinerie
- [7]: http://www.flickr.com/photos/bubi/sets/72057594047893483/
- [8]: http://www.43folders.com/2004/11/18/more-moleskine-hacks/
- [9]: http://pigpog.com/node/1030
- [10]: http://www.moleskinerie.com/
+ [1]: https://de.wikipedia.org/wiki/Moleskin
+ [2]: https://en.wikipedia.org/wiki/Bruce_Chatwin
+ [3]: https://www.moleskineart.com/
+ [4]: https://www.flickr.com/groups/moleskinerie/
+ [5]: https://www.flickr.com/groups/moleskinerie/pool/
+ [6]: https://groups.google.com/group/Moleskinerie
+ [7]: https://www.flickr.com/photos/bubi/sets/72057594047893483/
+ [8]: https://www.43folders.com/2004/11/18/more-moleskine-hacks/
+ [9]: https://pigpog.com/node/1030
+ [10]: https://www.moleskinerie.com/

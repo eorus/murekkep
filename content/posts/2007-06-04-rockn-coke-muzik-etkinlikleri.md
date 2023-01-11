@@ -24,12 +24,12 @@ Bu seneki festival kadrosunda en tepede iki grup The Smashing Pumpkins ve Franz 
 
 Festivalin biletleri her zaman olduğu gibi [Biletix][9]&#8216;ten temin edilebilecek. Fiyatlara baktığımızda tek gün 70 YTL, kombine 100 YTL, kombine ve kamp 124 YTL şeklinde oluşuyor. Festival ile ilgili tüm ayrıntılara Rock&#8217;n Coke&#8217;un [ana sayfasından][1] bakılabilir.
 
- [1]: http://www.rockncoke.com/
- [2]: http://en.wikipedia.org/wiki/Chris_Cornell
- [3]: http://en.wikipedia.org/wiki/Manic_Street_Preachers
- [4]: http://en.wikipedia.org/wiki/The_Smashing_Pumpkins
- [5]: http://tr.wikipedia.org/wiki/Franz_Ferdinand_(grup)
- [6]: http://tr.wikipedia.org/wiki/%C3%96zlem_Tekin
- [7]: http://tr.wikipedia.org/wiki/Hayko_Cepkin
- [8]: http://tr.wikipedia.org/wiki/Pentagram
- [9]: http://www.biletix.com/
+ [1]: https://www.rockncoke.com/
+ [2]: https://en.wikipedia.org/wiki/Chris_Cornell
+ [3]: https://en.wikipedia.org/wiki/Manic_Street_Preachers
+ [4]: https://en.wikipedia.org/wiki/The_Smashing_Pumpkins
+ [5]: https://tr.wikipedia.org/wiki/Franz_Ferdinand_(grup)
+ [6]: https://tr.wikipedia.org/wiki/%C3%96zlem_Tekin
+ [7]: https://tr.wikipedia.org/wiki/Hayko_Cepkin
+ [8]: https://tr.wikipedia.org/wiki/Pentagram
+ [9]: https://www.biletix.com/

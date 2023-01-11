@@ -34,11 +34,11 @@ tags:
 
 **Apple iPhone 4S Siri** hakkında aşağıdaki linklerde verdiğimiz yazıları da okumanızı tavsiye ederiz.
 
-<a title="apple iphone 4s siri nedir" href="http://www.burcinyazici.com/apple-iphone-4s-siri-nedir-2106.html" target="_blank">Apple iPhone 4S Siri Nedir?</a>
+<a title="apple iphone 4s siri nedir" href="https://www.burcinyazici.com/apple-iphone-4s-siri-nedir-2106.html" target="_blank">Apple iPhone 4S Siri Nedir?</a>
 
-<a title="apple iphone 4s siri nasıl kullanılır" href="http://www.burcinyazici.com/apple-iphone-4s-siri-nasil-kullanilir-2121.html" target="_blank">Apple iPhone 4S Siri Nasıl Kullanılır?</a>
+<a title="apple iphone 4s siri nasıl kullanılır" href="https://www.burcinyazici.com/apple-iphone-4s-siri-nasil-kullanilir-2121.html" target="_blank">Apple iPhone 4S Siri Nasıl Kullanılır?</a>
 
-<a title="apple iphone 4s siri ile neler yapılabilir" href="http://www.burcinyazici.com/apple-siri-ile-neler-yapilabilir-2146.html" target="_blank">Apple Siri İle Neler Yapılabilir?</a>
+<a title="apple iphone 4s siri ile neler yapılabilir" href="https://www.burcinyazici.com/apple-siri-ile-neler-yapilabilir-2146.html" target="_blank">Apple Siri İle Neler Yapılabilir?</a>
 
  [1]: https://www.murekkep.org/iphone-4s-ozellikleri-6921 "iPhone 4S Özellikleri"
  [2]: https://www.murekkep.org/etiket/akilli-telefon "akıllı telefon"

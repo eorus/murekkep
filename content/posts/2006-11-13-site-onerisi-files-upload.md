@@ -19,6 +19,6 @@ Sitemizin adı Files Upload. Burada maksimum 1GB boyutundaki dosyalarınızı s�
 
 Sağlamış olduğu hizmete göre önemli bir kısıtlama olduğunu düşünmüyorum. Bunların yanısıra ücretsiz olarak siteye üye olabilir. Buna karşılık bir alt alan edinebilirsiniz. Böylelikle &#8220;adınız.files-upload.com&#8221; şeklinde bir uzantıya sahip oluyorsunuz. Arzu ederseniz web arayüzünden , ya da istediğiniz bir ftp programıyla erişim sağlayabiliyorsunuz.
 
-Link: <http://files-upload.com/>
+Link: <https://files-upload.com/>
 
- [1]: http://files-upload.com/
+ [1]: https://files-upload.com/

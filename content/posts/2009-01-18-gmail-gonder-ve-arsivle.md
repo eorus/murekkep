@@ -18,10 +18,10 @@ Bu Google Labs özelliğini **Gmail** içerisinden aktif etmek için Ayarlar kı
 
 [Official Gmail Blog][6] : [New in Labs: Send & Archive][7]
 
- [1]: http://www.google.com.tr
+ [1]: https://www.google.com.tr
  [2]: https://www.murekkep.org/google-bazi-servislerini-kapatiyor-825
- [3]: http://www.gmail.com
- [4]: http://labs.google.com/
+ [3]: https://www.gmail.com
+ [4]: https://labs.google.com/
  [5]: https://www.murekkep.org/gmail-temalar-ile-daha-guzel-549
- [6]: http://gmailblog.blogspot.com/
- [7]: http://gmailblog.blogspot.com/2009/01/new-in-labs-send-archive.html
+ [6]: https://gmailblog.blogspot.com/
+ [7]: https://gmailblog.blogspot.com/2009/01/new-in-labs-send-archive.html

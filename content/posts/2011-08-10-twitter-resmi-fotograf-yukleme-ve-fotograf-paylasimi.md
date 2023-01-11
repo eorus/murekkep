@@ -28,7 +28,7 @@ Twitter bu hizmeti için PhotoBucket ile anlaşmış. **Twitter&#8217;a yüklene
 
 <img class="alignnone size-full wp-image-6414" title="twitter-logo" alt="" src="https://www.murekkep.org/wp-content/uploads/2011/08/twitter-logo.jpg" width="300" height="255" /> 
 
-Daha önce Murekkep.Org üzerinde farklı [twitter fotoğraf yükleme servislerini][1] tanıttığımız yazımıza ayrıca bakabilirsiniz. Twitter fotoğraf yükleme kolaylığı en çok Hilal Cebeci&#8217;ye <a href="http://twitter.com/#!/hilalcebeciii" target="_blank">@hilalcebeciii</a> yarayacak gibi gözüküyor :)
+Daha önce Murekkep.Org üzerinde farklı [twitter fotoğraf yükleme servislerini][1] tanıttığımız yazımıza ayrıca bakabilirsiniz. Twitter fotoğraf yükleme kolaylığı en çok Hilal Cebeci&#8217;ye <a href="https://twitter.com/#!/hilalcebeciii" target="_blank">@hilalcebeciii</a> yarayacak gibi gözüküyor :)
 
 Twitter Help Center : <a href="https://support.twitter.com/articles/20156423" target="_blank">About Image Uploading on Twitter</a>
 

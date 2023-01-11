@@ -56,5 +56,5 @@ Facebook için oldukça popüler olan bu uygulama aynı zamanda Instagram deste�
  [1]: https://www.murekkep.org/fotograf "fotoğraf"
  [2]: https://www.murekkep.org/instagrama-nasil-fotograf-yuklenir-9767 "instagram fotoğraf yükleme"
  [3]: https://www.murekkep.org/tablet "tablet pc"
- [4]: http://itunes.apple.com/us/app/instagram++-for-ipad/id534174529?mt=8
- [5]: http://itunes.apple.com/us/app/mypad-for-facebook-instagram/id412133981?mt=8
+ [4]: https://itunes.apple.com/us/app/instagram++-for-ipad/id534174529?mt=8
+ [5]: https://itunes.apple.com/us/app/mypad-for-facebook-instagram/id412133981?mt=8

@@ -20,7 +20,7 @@ Fotoğraflarınızdan kolaj oluşturabileceğiniz birçok farklı masaüstü uyg
 
 ## Facebook Fotoğraflarından Ücretsiz Kolaj Oluşturun : Loupe
 
-**<a title="Loupe" href="http://www.getloupe.com/" target="_blank">Loupe</a>** isimli online araç sayesinde facebook üzerinde oluşturduğunuz fotoğraf albümlerindeki fotoğraflarınızı kullanarak basitçe **fotoğraf kolajı** oluşturabilirsiniz. Hatta Loupe uygulaması sayesinde size görünümü açık olan arkadaşlarınızın Facebook fotoğraflarını da kullanarak kolaj oluşturmanız mümkün.
+**<a title="Loupe" href="https://www.getloupe.com/" target="_blank">Loupe</a>** isimli online araç sayesinde facebook üzerinde oluşturduğunuz fotoğraf albümlerindeki fotoğraflarınızı kullanarak basitçe **fotoğraf kolajı** oluşturabilirsiniz. Hatta Loupe uygulaması sayesinde size görünümü açık olan arkadaşlarınızın Facebook fotoğraflarını da kullanarak kolaj oluşturmanız mümkün.
 
 Sadece birkaç basit adım sayesinde facebook fotoğraflarından kolaj oluşturabilirsiniz. Facebook hesabınıza erişmek için uygulamayı yetkilendirdikten sonra fotoğraf albümünüzden (ya da arkadaşlarınızın fotoğraflarından da) herhangi birkaçını seçtikten sonra kolajınız anında hazır olabilir.
 

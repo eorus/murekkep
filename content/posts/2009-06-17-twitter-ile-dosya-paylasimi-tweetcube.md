@@ -19,7 +19,7 @@ Popülerliği gün geçtikçe artan microblog servisi Twitter için **140 karakt
 
 **Twitter araçları** sayesinde twitter üzerinde fotoğraf paylaşımı yapıldığını biliyoruz. Gene bu uygulamalardan bir tanesi olan TwitDoc sayesinde ise [twitter üzerinde dosya ve döküman paylaşımı][1]{.broken_link} gerçekleştirebilmekteyiz. Twitter hesabınızı kullanarak dosya paylaşabilmenizi sağlayan bir diğer servis ise **TweetCube** olarak karşımıza çıkıyor. 
 
-Ücretsiz bir servis olan **<a href="http://www.tweetcube.com/" target="_blank">Tweetcube</a>** ile twitter üzerinde hemen her türlü **dosya** paylaşılabiliyor. Bunların arasında fotoğraf dosyalarını, müzik ve video dosyalarının paylaşılmasını sayabiliriz. Tweetcube üzerine yükleyeceğiniz **dosya boyutu 10mb** olarak belirlenmiş. Ancak buna bağlı kalarak istediğiniz kadar **dosya yükleme** işlemi gerçekleştirebiliyorsunuz. **Tweetcube** kullanarak yüklediğiniz dosyalar 30 gün süreyle tutuluyor ve ardından siliniyor. 
+Ücretsiz bir servis olan **<a href="https://www.tweetcube.com/" target="_blank">Tweetcube</a>** ile twitter üzerinde hemen her türlü **dosya** paylaşılabiliyor. Bunların arasında fotoğraf dosyalarını, müzik ve video dosyalarının paylaşılmasını sayabiliriz. Tweetcube üzerine yükleyeceğiniz **dosya boyutu 10mb** olarak belirlenmiş. Ancak buna bağlı kalarak istediğiniz kadar **dosya yükleme** işlemi gerçekleştirebiliyorsunuz. **Tweetcube** kullanarak yüklediğiniz dosyalar 30 gün süreyle tutuluyor ve ardından siliniyor. 
 
 **Twitter hesap** bilgilerinizi girerek giriş yaptığınız Tweetcube, **twitter ile dosya paylaşımı** gerçekleştirmek istediğinizde başvurabileceğiniz bir servis.
 

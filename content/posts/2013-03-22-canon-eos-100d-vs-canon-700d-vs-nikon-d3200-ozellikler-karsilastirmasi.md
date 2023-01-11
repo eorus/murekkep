@@ -532,7 +532,7 @@ Sonuç kısmında satış fiyatları açısından bakıldığında ise [Canon EO
   </tr>
 </table>
 
-via  <a title="Canon 100D Vs. Canon 700D Vs. Nikon D3200 DSLR Camera Specs Comparison" href="http://www.dailycameranews.com/2013/03/canon-100d-vs-canon-700d-vs-nikon-d3200-dslr-camera-specs-comparison/" rel="dofollow external">Canon 100D Vs. Canon 700D Vs. Nikon D3200 DSLR Camera Specs Comparison</a>
+via  <a title="Canon 100D Vs. Canon 700D Vs. Nikon D3200 DSLR Camera Specs Comparison" href="https://www.dailycameranews.com/2013/03/canon-100d-vs-canon-700d-vs-nikon-d3200-dslr-camera-specs-comparison/" rel="dofollow external">Canon 100D Vs. Canon 700D Vs. Nikon D3200 DSLR Camera Specs Comparison</a>
 
  [1]: https://www.murekkep.org/canon-eos-700d-dslr-fotograf-makinesi-duyuruldu-13618 "canon eos 700d duyurusu"
  [2]: https://www.murekkep.org/en-hafif-ve-kucuk-dslr-fotograf-makinesi-canon-eos-100d-rebel-sl1-duyuruldu-13607 "canon eos 100d duyurusu"

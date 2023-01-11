@@ -24,4 +24,4 @@ Bundan sonraki aşamada gmail hesabınıza girdiğinizde, gelen kutunuza gelmiş
 
 [New in Labs: Automatic message translation][1]
 
- [1]: http://gmailblog.blogspot.com/2009/05/new-in-labs-automatic-message.html
+ [1]: https://gmailblog.blogspot.com/2009/05/new-in-labs-automatic-message.html

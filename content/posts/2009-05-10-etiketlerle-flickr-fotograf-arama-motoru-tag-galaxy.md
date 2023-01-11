@@ -31,4 +31,4 @@ Galaksi ortamında şahane bir arayüz ile **fotoğraf arama** işlevini gerçek
 Açıkçası Tag Galaxy&#8217;nin sunduğu bu şahane arayüz ile belirli **Flickr fotoğraflarına** ulaşsanız bile siteden pek ayrılmak istemiyorsunuz.
 
  [1]: https://www.murekkep.org/etiket/fotograf-paylasim
- [2]: http://taggalaxy.de/
+ [2]: https://taggalaxy.de/

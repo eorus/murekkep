@@ -29,7 +29,7 @@ Android camiasının bitmek bilmeyen alternatiflerinden birisini de Adobe Flash 
 
 **Kurulum Aşaması :**
 
-  1. En son **Adobe Flash Player** sürümünü içeren <a title="Adobe Flash Player APK" href="http://forum.xda-developers.com/showthread.php?t=1774336" target="_blank" class="broken_link">APK dosyasının XDA Developers forumundan indirilmesi</a> ve kullandığınız Android 4.1 Jelly Bean mobil cihazınıza yüklenmesi.
+  1. En son **Adobe Flash Player** sürümünü içeren <a title="Adobe Flash Player APK" href="https://forum.xda-developers.com/showthread.php?t=1774336" target="_blank" class="broken_link">APK dosyasının XDA Developers forumundan indirilmesi</a> ve kullandığınız Android 4.1 Jelly Bean mobil cihazınıza yüklenmesi.
   2. Şu an Google Play Store üzerinde hala Adobe Flash Player destekleyen bir tarayıcıyı Android 4.1 sistemli cihazınıza kurmak. Bizim tavsiyemiz elbette <a title="Mozilla Firefox " href="https://play.google.com/store/apps/details?id=org.mozilla.firefox" target="_blank">Mozilla Firefox</a> olacak.
 
 **İzlenmesi Gereken Adımlar :**

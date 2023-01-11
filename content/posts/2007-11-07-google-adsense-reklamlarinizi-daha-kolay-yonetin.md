@@ -23,5 +23,5 @@ Buna göre artık &#8220;**Adsense Kurulum**&#8221; kısmından &#8220;**Reklaml
 Teknoloji hayatı kolaylaştırmak için varsa Google birçok konuda bunu yapıyor. O yüzden bu tarz gelişmeleri seviyorum. Ayrıntılara [Adsense Blog][3] sayfasından bakabilirsiniz.
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [2]: http://www.google.com/adsense
- [3]: http://adsense.blogspot.com/2007/11/simplified-ad-management-is-rolling-out.html
+ [2]: https://www.google.com/adsense
+ [3]: https://adsense.blogspot.com/2007/11/simplified-ad-management-is-rolling-out.html

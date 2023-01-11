@@ -21,6 +21,6 @@ Genel olarak konuşulan final sürümün 2007 sonlarını bulacağı şeklinde g
 Kullanım esnasında elimizin altında olan ya da arkaplandaki tüm özellikler için benzerine yakın (mockuplar) ekran görüntüleri ile sunulan yazıda, yer imlerinden etiketlemeye, güvenlikten içerik yönetimine, adres çubuğundaki değişiklikler vb gibi.. firefox 3 için düşünülen hemen hemen her unsura yer verilmiş. Beyin fırtınasını okumak ya da katkıda bulunmak için buradan buyurun.
 
  [1]: https://www.murekkep.org/
- [2]: http://wiki.mozilla.org/Firefox3/Schedule
- [3]: http://en.wikipedia.org/wiki/Gran_Paradiso
- [4]: http://blog.mozilla.com/
+ [2]: https://wiki.mozilla.org/Firefox3/Schedule
+ [3]: https://en.wikipedia.org/wiki/Gran_Paradiso
+ [4]: https://blog.mozilla.com/

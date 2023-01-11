@@ -22,7 +22,7 @@ Zevkler değişken olduğu için **Gmail** bunu da düşünmüş ve eğer yaptı
 
 [Official Gmail Blog][3] : [Choose your own theme colors][4]
 
- [1]: http://www.gmail.com
+ [1]: https://www.gmail.com
  [2]: https://www.murekkep.org/gmail-temalar-ile-daha-guzel-549
- [3]: http://gmailblog.blogspot.com/
- [4]: http://gmailblog.blogspot.com/2009/02/choose-your-own-theme-colors.html
+ [3]: https://gmailblog.blogspot.com/
+ [4]: https://gmailblog.blogspot.com/2009/02/choose-your-own-theme-colors.html

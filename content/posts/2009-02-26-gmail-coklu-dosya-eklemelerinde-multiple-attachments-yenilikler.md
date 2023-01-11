@@ -21,6 +21,6 @@ categories:
 Ayrıntıları her zaman olduğu gibi [Official Gmail Blog][3] adresinde [Updates to attachments: multi-select and progress bars][4] yazısında bulabilirsiniz.
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [2]: http://gmail.com
- [3]: http://gmailblog.blogspot.com/
- [4]: http://gmailblog.blogspot.com/2009/02/updates-to-attachments-multi-select-and.html
+ [2]: https://gmail.com
+ [3]: https://gmailblog.blogspot.com/
+ [4]: https://gmailblog.blogspot.com/2009/02/updates-to-attachments-multi-select-and.html

@@ -21,7 +21,7 @@ WordPress blogunun ilk aşamasında veritabanı oluşturdunuz ve wordpress kurul
 
 ### Kalıcı Bağlantıları Değiştirme
 
-WordPress kurulumunu gerçekleştirdiğinizde ve yeni oluşturduğunuz bloga baktığınızda ilk gözünüze çarpan kısım tarayıcı adresindeki kalıcı bağlantı URL&#8217;si olacaktır. Varsayılan olarak **http://site.com/?p=123** gibi gelen yazı adresini **http://site.com/yazı-adresi** şeklinde veya alternatif kalıcı bağlantılarla wordpress içerisinden değiştirebiliyorsunuz. WordPress admin paneli üzerinden **Ayarlar > Kalıcı Bağlantılar** ile ilgili ekrana ulaşabilirsiniz.
+WordPress kurulumunu gerçekleştirdiğinizde ve yeni oluşturduğunuz bloga baktığınızda ilk gözünüze çarpan kısım tarayıcı adresindeki kalıcı bağlantı URL&#8217;si olacaktır. Varsayılan olarak **https://site.com/?p=123** gibi gelen yazı adresini **https://site.com/yazı-adresi** şeklinde veya alternatif kalıcı bağlantılarla wordpress içerisinden değiştirebiliyorsunuz. WordPress admin paneli üzerinden **Ayarlar > Kalıcı Bağlantılar** ile ilgili ekrana ulaşabilirsiniz.
 
 Önceliği kalıcı bağlantıları değiştirme kısmına vermemiz **SEO** açısından da iyi olacaktır. Çünkü yazdığınız her yazının arama motorları tarafından bu şekilde indeksleneceğini düşünürseniz daha sonra kalıcı bağlantılarda yapacağınız bir değişiklik, arama motorlarının indekslediği sayfaların **404 hatası** vermesine yol açacaktır. Bu yüzden ilk değişikliği kalıcı bağlantılarda yapıyoruz.
 
@@ -44,7 +44,7 @@ WordPress yönetim panelinde ayarlar sekmesine geldiğinizde wordpress ile gelen
 
 ### Feedburner Hesabı Oluşturun
 
-WordPress ile blog oluşturduysanız ve hala bir **feedburner** hesabınız yoksa mutlaka bir tane edinin. <a href="http://feedburner.google.com/" target="_blank">Feedburner</a> sadece istatistik anlamında RSS izleyicilerinin, takipçilerinin datalarını tutmakla kalmayıp aynı zamanda sitenizin beslemelerini en iyi şekilde takip etmenize olanak sağlar. Bir google hesabınız varsa feedburner üzerinden giriş yapıp hızlı bir şekilde wordpress blogunuzun rss adresini feedburner ile takip edebilirsiniz.
+WordPress ile blog oluşturduysanız ve hala bir **feedburner** hesabınız yoksa mutlaka bir tane edinin. <a href="https://feedburner.google.com/" target="_blank">Feedburner</a> sadece istatistik anlamında RSS izleyicilerinin, takipçilerinin datalarını tutmakla kalmayıp aynı zamanda sitenizin beslemelerini en iyi şekilde takip etmenize olanak sağlar. Bir google hesabınız varsa feedburner üzerinden giriş yapıp hızlı bir şekilde wordpress blogunuzun rss adresini feedburner ile takip edebilirsiniz.
 
 ### WordPress Temanızı Yükleyin ve Aktifleştirin
 
@@ -54,7 +54,7 @@ Belki de tüm wordpress kurulum işleminden önce hazır edilmesi gereken maddel
 
 WordPress kurulumu sonrası bayağı bir yol aldınız. WordPress temasını kurup aktifleştirdiniz. Bu aşamada unutmadan **google analytics javascript kodunu** ilgili temaya eklemeniz gerekiyor. Şu anda web üzerindeki en iyi istatistik takip servisi olan [Google Analytics][1] ile sitenize gelen ziyaretçilerin **demografik bilgileri**, sitenizin görüntüleme sayısı gibi olabilecek her türlü **istatistik** verisini Google Analytics ile gözlemleyebilir ve sitenizin istatistiklerini takip edebilirsiniz.
 
-**Google Analytics** kodunu manuel olarak yerleştirmede sıkıntı yaşarsanız <a href="http://wordpress.org/extend/plugins/google-analytics-for-wordpress/" target="_blank">Google Analytics for WordPress</a> eklentisi ile kolayca bu işlemi gerçekleştirebilirsiniz.
+**Google Analytics** kodunu manuel olarak yerleştirmede sıkıntı yaşarsanız <a href="https://wordpress.org/extend/plugins/google-analytics-for-wordpress/" target="_blank">Google Analytics for WordPress</a> eklentisi ile kolayca bu işlemi gerçekleştirebilirsiniz.
 
 ### Hakkında Sayfasını Oluşturun
 
@@ -68,12 +68,12 @@ WordPress blog platformunun en güzel özelliklerinden birisi şüphesiz hayatı
 
 Bir wordpress kurulumu sonrası kurulması ve etkinleştirilmesi gereken eklentilerin kısa bir listesi aşağıdaki gibidir. Bunların dışında sizin önemli gördüğünüz ve kullandığınız **wordpress eklentileri** varsa ayrıca yorumlarınızda belirtebilirsiniz.
 
-&#8211; <a href="http://akismet.com/" target="_blank">Akismet</a> : WordPress geliştiricilerinden spam kontrolü ve yönetimi için wordpress eklentisi.  
-&#8211; <a href="http://wordpress.org/extend/plugins/all-in-one-seo-pack/" target="_blank">All in one SEO Pack</a> : WordPress blogunuz için başlık, anahtar kelime ve tanımları belirleyebilir. WordPress temasından bağımsız şekilde SEO için önemli olan başlıkları otomatik ekleyebilirsiniz.  
-&#8211; <a href="http://wordpress.org/extend/plugins/google-analytics-for-wordpress/" target="_blank">Google Analytics for WordPress</a> : Yukarıda da bahsettimiz gibi google analytics javascript kodunu tema bağımsız kolayca eklemenizi sağlayan eklenti.  
-&#8211; <a href="http://wordpress.org/extend/plugins/wp-super-cache/" target="_blank">WP Super Cache</a> : WordPress kurulumunu yeni bir blog için yaptıysanız muhtemelen ilk başlarda kullanmanızın gerekmediği bir wordpress eklentisi WP Super Cache.  
-&#8211; <a href="http://wordpress.org/extend/plugins/google-sitemap-generator/" target="_blank">Google XML Sitemaps</a> : WordPress blogunuz için xml site haritası oluşturan **Google XML Sitemaps** eklentisi için ayarlarının nasıl olması gerektiğini araştırabilirsiniz ancak olduğu gibi bırakırsanız ekstra bir ayara gerek duymadan wordpress blogunuzda yaptığınız değişiklikler, yeni yazı gönderiminde otomatik olarak arama motorlarını uyaran bir yapıya sahiptir.
+&#8211; <a href="https://akismet.com/" target="_blank">Akismet</a> : WordPress geliştiricilerinden spam kontrolü ve yönetimi için wordpress eklentisi.  
+&#8211; <a href="https://wordpress.org/extend/plugins/all-in-one-seo-pack/" target="_blank">All in one SEO Pack</a> : WordPress blogunuz için başlık, anahtar kelime ve tanımları belirleyebilir. WordPress temasından bağımsız şekilde SEO için önemli olan başlıkları otomatik ekleyebilirsiniz.  
+&#8211; <a href="https://wordpress.org/extend/plugins/google-analytics-for-wordpress/" target="_blank">Google Analytics for WordPress</a> : Yukarıda da bahsettimiz gibi google analytics javascript kodunu tema bağımsız kolayca eklemenizi sağlayan eklenti.  
+&#8211; <a href="https://wordpress.org/extend/plugins/wp-super-cache/" target="_blank">WP Super Cache</a> : WordPress kurulumunu yeni bir blog için yaptıysanız muhtemelen ilk başlarda kullanmanızın gerekmediği bir wordpress eklentisi WP Super Cache.  
+&#8211; <a href="https://wordpress.org/extend/plugins/google-sitemap-generator/" target="_blank">Google XML Sitemaps</a> : WordPress blogunuz için xml site haritası oluşturan **Google XML Sitemaps** eklentisi için ayarlarının nasıl olması gerektiğini araştırabilirsiniz ancak olduğu gibi bırakırsanız ekstra bir ayara gerek duymadan wordpress blogunuzda yaptığınız değişiklikler, yeni yazı gönderiminde otomatik olarak arama motorlarını uyaran bir yapıya sahiptir.
 
 Temel olarak bir wordpress kurulumu sonrası sırasıyla yapılması gerekenler belirli eklentilerle beraber bunlar gözüküyor. Bir checklist gibi sırasıyla uygulanabilir liste içerisinde kendinize göre öncelik sıranız değişiklik gösterecektir. Belirli bir kurulum sonrası planı olmayanlar için faydalı olmasını dileriz.
 
- [1]: http://www.google.com/analytics/
+ [1]: https://www.google.com/analytics/

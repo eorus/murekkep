@@ -20,7 +20,7 @@ Müzik zevki kişiye göre değişir denebilir ancak belirli müzikal altyapıya
 
 ## Yeni Müzikler Keşfetmek için TuneGlue
 
-**<a href="http://audiomap.tuneglue.net/" target="_blank">TuneGlue</a>** sitesine girdiğinizde boş bir ekran ve sağ üstte bir arama kutusu sizi karşılıyor. Yapacağınız **sanatçı veya müzik grubu** aramasına göre size bir sonuç getiren TuneGlue, bu sonuç üzerinden benzer sanatçı ya da müzik grubunu sunarak yola devam etmenizi sağlıyor. Böylece aslında yaptığınız bir artist araması sonucu, aradığınız kritere göre kendi **müzik haritanızı** çıkarmış oluyorsunuz.
+**<a href="https://audiomap.tuneglue.net/" target="_blank">TuneGlue</a>** sitesine girdiğinizde boş bir ekran ve sağ üstte bir arama kutusu sizi karşılıyor. Yapacağınız **sanatçı veya müzik grubu** aramasına göre size bir sonuç getiren TuneGlue, bu sonuç üzerinden benzer sanatçı ya da müzik grubunu sunarak yola devam etmenizi sağlıyor. Böylece aslında yaptığınız bir artist araması sonucu, aradığınız kritere göre kendi **müzik haritanızı** çıkarmış oluyorsunuz.
 
 Basit bir örnekle arama kutusuna &#8220;Tarkan&#8221; sanatçı ismini yazdığımızda çıkardığı 6 benzer örnekte Serdar Ortaç, Murat Boz, Kenan Doğulu gibi benzer sanatçıları getirdiğini görüyoruz. Sertab Erener ile devam ettiğimizde, Hande Yener, Sezen Aksu gibi yine benzer diğer sanatçılara ulaşıyoruz. Sezen Aksu&#8217;ya benzer müzik zevkleriyle devam ettiğimizde ise Ajda Pekkan, Nilüfer ve Deniz Seki gibi örnekler karşımıza çıkıyor.
 

@@ -16,6 +16,6 @@ categories:
 
 Yeni yazı tiplerini kullanmak isterseniz Google Adsense hesabınıza giriş yaptıktan sonra **Hesabım** (My Account) kısmından Reklam gösterim özellikleri içerisinden gerekli değişiklikleri yapabilirsiniz. Ya da Reklam yönetimi kısmında yaratmış olduğunuz **reklam birimleri** için her birine girip belirlenen yazı tiplerinden birini ekleyip bu şekilde düzenleyebilirsiniz. 
 
-<a href="http://adsense.blogspot.com/" target="_blank">Inside Adsense</a> : <a href="http://adsense.blogspot.com/2009/02/fontastic-new-options-for-your-ad-units.html" target="_blank">Fontastic new options for your ad units</a>
+<a href="https://adsense.blogspot.com/" target="_blank">Inside Adsense</a> : <a href="https://adsense.blogspot.com/2009/02/fontastic-new-options-for-your-ad-units.html" target="_blank">Fontastic new options for your ad units</a>
 
- [1]: http://www.google.com/adsense
+ [1]: https://www.google.com/adsense

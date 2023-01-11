@@ -55,7 +55,7 @@ Gimp&#8217;i açıyoruz. Yeni bir layer oluştur dedikten sonra aşağıdaki gib
           </p>
           
           <p>
-            Arkaplanımızı oluşturduk. Şimdi arkaplan üzerine metin koyacağız. Bu gerçekten işin oldukça kolay kısımlarından birisi. Gimp butonlarından <strong>&#8220;T&#8221;</strong> şeklinde gözüken metin ekleme aracını seçin. Seçtiğiniz zaman alt kısımda yazıtipi, yazıtipi boyutu ve yazının rengini belirlemek için renk paletini göreceksiniz. Eminim daha güzel yazıtipleri vardır. Ben başlangıç için <strong>&#8220;Arial Bold&#8221;</strong> seçtim ve yazıtipi boyutunu <strong>&#8220;60&#8221;</strong> olarak belirledim. Rengini de <a href="http://digg.com/" title="Digg">Digg</a> mavisi olan <span style="font-size: 0.8em; color: #356aa0">#356AA0</span> şeklinde belirledim.
+            Arkaplanımızı oluşturduk. Şimdi arkaplan üzerine metin koyacağız. Bu gerçekten işin oldukça kolay kısımlarından birisi. Gimp butonlarından <strong>&#8220;T&#8221;</strong> şeklinde gözüken metin ekleme aracını seçin. Seçtiğiniz zaman alt kısımda yazıtipi, yazıtipi boyutu ve yazının rengini belirlemek için renk paletini göreceksiniz. Eminim daha güzel yazıtipleri vardır. Ben başlangıç için <strong>&#8220;Arial Bold&#8221;</strong> seçtim ve yazıtipi boyutunu <strong>&#8220;60&#8221;</strong> olarak belirledim. Rengini de <a href="https://digg.com/" title="Digg">Digg</a> mavisi olan <span style="font-size: 0.8em; color: #356aa0">#356AA0</span> şeklinde belirledim.
           </p>
           
           <p>
@@ -101,5 +101,5 @@ Gimp&#8217;i açıyoruz. Yeni bir layer oluştur dedikten sonra aşağıdaki gib
                       </p>
                       
                       <p>
-                        http://www.gimp.org/
+                        https://www.gimp.org/
                       </p>

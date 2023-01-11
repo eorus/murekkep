@@ -33,4 +33,4 @@ Markası **Polaroid** olacak ve Sakar International tarafından üretilecek olan
 
 <img class="aligncenter size-full wp-image-9962" alt="polaroid-aynasiz-kamera" src="https://www.murekkep.org/wp-content/uploads/2012/12/polaroid-aynasiz-kamera.jpg" width="372" height="298" srcset="https://www.murekkep.org/wp-content/uploads/2012/12/polaroid-aynasiz-kamera.jpg 372w, https://www.murekkep.org/wp-content/uploads/2012/12/polaroid-aynasiz-kamera-50x40.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/12/polaroid-aynasiz-kamera-125x100.jpg 125w, https://www.murekkep.org/wp-content/uploads/2012/12/polaroid-aynasiz-kamera-249x200.jpg 249w" sizes="(max-width: 372px) 100vw, 372px" />
 
- [1]: http://www.turknikon.com/nikon-govdeler/cx-format/nikon-1-j2 "Nikon 1 J2"
+ [1]: https://www.turknikon.com/nikon-govdeler/cx-format/nikon-1-j2 "Nikon 1 J2"

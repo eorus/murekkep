@@ -33,4 +33,4 @@ Yukarıdaki görselin uydurma olma ihtimallerinden biri de bu kadar detaylı haz
  [3]: https://www.murekkep.org/samsung-galaxy-s4-teknik-ozellikleri-9311
  [4]: https://www.murekkep.org/samsung-galaxy-s4-ozellikleri-batarya-sarj-9807
  [5]: https://www.murekkep.org/samsung-galaxy-s4-ces-2013te-gizlice-yetkililere-tanitilacak-10415
- [6]: http://androidcommunity.com/samsung-galaxy-s-iv-rendering-offers-metal-vision-for-2013-20130205/
+ [6]: https://androidcommunity.com/samsung-galaxy-s-iv-rendering-offers-metal-vision-for-2013-20130205/

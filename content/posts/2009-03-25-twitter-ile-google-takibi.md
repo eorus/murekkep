@@ -40,13 +40,13 @@ Del.icio.us yer imlerinde (bookmarks) Google geçen en güncel 3 tanesi her saat
 Track Google via Twitter
 
  [1]: https://www.murekkep.org/google-twitter-hesaplari-1368
- [2]: http://twitter.com/youtube
- [3]: http://twitter.com/googlereader
- [4]: http://twitter.com/googleapps
+ [2]: https://twitter.com/youtube
+ [3]: https://twitter.com/googlereader
+ [4]: https://twitter.com/googleapps
  [5]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [6]: http://www.googletutor.com/
- [7]: http://twitter.com/postsgoogle
- [8]: http://twitter.com/newsgoogle
- [9]: http://twitter.com/linksgoogle
- [10]: http://twitter.com/digggoogle
- [11]: http://digg.com/
+ [6]: https://www.googletutor.com/
+ [7]: https://twitter.com/postsgoogle
+ [8]: https://twitter.com/newsgoogle
+ [9]: https://twitter.com/linksgoogle
+ [10]: https://twitter.com/digggoogle
+ [11]: https://digg.com/

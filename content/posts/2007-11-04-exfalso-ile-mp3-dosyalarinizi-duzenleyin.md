@@ -20,5 +20,5 @@ Ex falso ile mp3, ogg gibi uzantılar dahil birçok dosyayı elle veya dosya ism
 
 Kaynak : [Fix your false tags with Ex falso][2]
 
- [1]: http://easytag.sourceforge.net/
- [2]: http://fosswire.com/2007/10/21/fix-your-false-tags-with-ex-falso/
+ [1]: https://easytag.sourceforge.net/
+ [2]: https://fosswire.com/2007/10/21/fix-your-false-tags-with-ex-falso/

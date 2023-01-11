@@ -27,7 +27,7 @@ OpenID hesabı ile hemen giriş yapabileceğiniz Twitterfeed istediğiniz site y
 
 #### OpenID Nedir? Nasıl Edinebilirim?
 
-<img alt="" src="http://twitterfeed.com/images/twitterfeed.png" title="Twitterfeed" class="alignright" width="400" height="120" /> **OpenID** sistemini yaklaşık onbine yakın site desteklemektedir. Bunların arasında Google, Yahoo, Flickr , Technorati vs.. gibi siteleri sayabiliriz. Bu sitelerin sunduğu servisleri hepimiz bir şekilde kullanmaktayız. OpenID bu sitelere giriş yaptığınız hesap bilgilerini kullanır. OpenID&#8217;ye bağlı tüm sitelere OpenID Directory üzerinden bakabilirsiniz. Eğer yukarıda sayılanlardan hiçbirini kullanmıyorsanız myOpenID üzerinden Türkçe arayüzü kullanarak OpenID hesabı oluşturabilirsiniz. 
+<img alt="" src="https://twitterfeed.com/images/twitterfeed.png" title="Twitterfeed" class="alignright" width="400" height="120" /> **OpenID** sistemini yaklaşık onbine yakın site desteklemektedir. Bunların arasında Google, Yahoo, Flickr , Technorati vs.. gibi siteleri sayabiliriz. Bu sitelerin sunduğu servisleri hepimiz bir şekilde kullanmaktayız. OpenID bu sitelere giriş yaptığınız hesap bilgilerini kullanır. OpenID&#8217;ye bağlı tüm sitelere OpenID Directory üzerinden bakabilirsiniz. Eğer yukarıda sayılanlardan hiçbirini kullanmıyorsanız myOpenID üzerinden Türkçe arayüzü kullanarak OpenID hesabı oluşturabilirsiniz. 
 
 #### Twitter için yeni RSS beslemesi eklemek
 
@@ -43,8 +43,8 @@ Son olarak Mürekkep&#8217;te yazdıklarımızı Twitter üzerinden takip edebil
 
 Yazıda eksik gördüğünüz ya da Twitterfeed kullanımı ile ilgili eklemek istedikleriniz olursa elbette her zaman yorumlarınızla katkıda bulunabilirsiniz.
 
- [1]: http://twitterfeed.com/
+ [1]: https://twitterfeed.com/
  [2]: https://www.murekkep.org
- [3]: http://twitter.com
- [4]: http://wordpress.org
- [5]: http://twitter.com/murekkep
+ [3]: https://twitter.com
+ [4]: https://wordpress.org
+ [5]: https://twitter.com/murekkep

@@ -20,5 +20,5 @@ Bu kadar yeni özellik sonrasında eğer sıkı bir Google Reader kullanıcısı
 [Official Google Blog : &#8220;We found it&#8221;][3]
 
  [1]: https://www.murekkep.org/google-reader-icin-araclar-ve-betikler-266
- [2]: http://www.google.com.tr
- [3]: http://googlereader.blogspot.com/2007/09/we-found-it.html
+ [2]: https://www.google.com.tr
+ [3]: https://googlereader.blogspot.com/2007/09/we-found-it.html

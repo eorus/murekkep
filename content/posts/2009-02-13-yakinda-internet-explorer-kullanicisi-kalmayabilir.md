@@ -37,8 +37,8 @@ Bu rakamlar acaba önümüzdeki senenin rakamlarına işaret ediyor olabilir mi?
 
 Hep beraber göreceğiz. Görüşlerinizi paylaşırsanız sevinirim.
 
- [1]: http://www.mozilla-europe.org/tr/firefox/
- [2]: http://www.apple.com/safari/
- [3]: http://www.google.com/chrome
- [4]: http://news.cnet.com/8301-1023_3-10154447-93.html?part=rss&subj=news&tag=2547-1_3-0-20
+ [1]: https://www.mozilla-europe.org/tr/firefox/
+ [2]: https://www.apple.com/safari/
+ [3]: https://www.google.com/chrome
+ [4]: https://news.cnet.com/8301-1023_3-10154447-93.html?part=rss&subj=news&tag=2547-1_3-0-20
  [5]: https://www.murekkep.org/google-chrome-ve-tarayici-piyasasi-572

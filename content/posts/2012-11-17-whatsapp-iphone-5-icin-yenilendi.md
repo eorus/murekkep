@@ -24,4 +24,4 @@ Bugün de WhatsApp Messenger iPhone 5&#8217;in 4 inç retina display ekranına u
 
 [iPhone 5 WhatsApp Yükle >>][1]{.broken_link}
 
- [1]: http://click.linksynergy.com/fs-bin/stat?id=4i3GwVRMp14&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fwhatsapp-messenger%252Fid310633997%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30
+ [1]: https://click.linksynergy.com/fs-bin/stat?id=4i3GwVRMp14&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fwhatsapp-messenger%252Fid310633997%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30

@@ -16,6 +16,6 @@ Web 2.0 Write isimli siteye gittiğinizde istediğiniz herhangi bir kelimeyi gir
 
 Arzu ederseniz siz de istediğiniz bir kelimenin ya da isminizin gerçek web 2.0 stilinde nasıl gözüktüğüne bakabilirsiniz.
 
- [1]: http://en.wikipedia.org/wiki/Web_3.0
+ [1]: https://en.wikipedia.org/wiki/Web_3.0
  [2]: https://www.murekkep.org/en-iyi-web-20-servisleri-hangisi-301
  [3]: https://www.murekkep.org

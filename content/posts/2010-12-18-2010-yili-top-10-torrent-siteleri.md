@@ -35,6 +35,6 @@ Yazı başlığında nitelendirdiğimiz gibi **2010 yılı Top 10 Torrent Sitele
   9. KickassTorrents
  10. Mininova
 
-Detayları yukarıda bahsettiğimiz gibi TorrentFreak &#8211; &#8220;<a href="http://torrentfreak.com/top-10-torrent-sites-soon-without-mininova-100227/" target="_blank">Top 10 Torrent Sites Soon Without Mininova</a>&#8221; yazısında bulabilirsiniz.
+Detayları yukarıda bahsettiğimiz gibi TorrentFreak &#8211; &#8220;<a href="https://torrentfreak.com/top-10-torrent-sites-soon-without-mininova-100227/" target="_blank">Top 10 Torrent Sites Soon Without Mininova</a>&#8221; yazısında bulabilirsiniz.
 
  [1]: https://www.murekkep.org/torrent-nedir-torrent-dosyalari-nasil-calisir-3593

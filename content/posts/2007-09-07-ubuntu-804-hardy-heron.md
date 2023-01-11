@@ -25,4 +25,4 @@ Son olarak Heron nedir? Onun için de [buraya][4] alalım.
  [1]: https://www.murekkep.org/ubuntu-710-gutsy-gibbon-neler-icerecek-346
  [2]: https://lists.ubuntu.com/archives/ubuntu-devel-announce/2007-August/000336.html
  [3]: https://blueprints.launchpad.net/ubuntu
- [4]: http://en.wikipedia.org/wiki/Heron
+ [4]: https://en.wikipedia.org/wiki/Heron

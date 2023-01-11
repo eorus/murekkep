@@ -25,4 +25,4 @@ Casetagram adında bir girişim de işte tam bu fırtınanın ürünü olarak pi
 
 &nbsp;
 
-Şu an için iPhone 5, iPhone 4, iPhone 4s, iPad2/3, Samsung Galaxy S III ve S II ile iPod 4 Touch için fotoğraflardan oluşmuş bir kılıf üretebiliyorsunuz. Eğer ilginizi çektiyse: <http://www.casetagram.com/> adresinden siteye girip Design sekmesinden istediğiniz gibi bir ürün ortaya çıkarabilirsiniz.
+Şu an için iPhone 5, iPhone 4, iPhone 4s, iPad2/3, Samsung Galaxy S III ve S II ile iPod 4 Touch için fotoğraflardan oluşmuş bir kılıf üretebiliyorsunuz. Eğer ilginizi çektiyse: <https://www.casetagram.com/> adresinden siteye girip Design sekmesinden istediğiniz gibi bir ürün ortaya çıkarabilirsiniz.

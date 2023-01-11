@@ -40,4 +40,4 @@ tags:
 
 [2006 LinuxQuestions.org Awards][1]{.broken_link}
 
- [1]: http://www.linuxquestions.org/questions/showthread.php?t=530202
+ [1]: https://www.linuxquestions.org/questions/showthread.php?t=530202

@@ -11,7 +11,7 @@ categories:
   - Masaüstü
 
 ---
-<a href="http://www.google.com/chrome" target="_blank">Google Chrome</a> son sürümü ile beraber <a href="http://chrome.google.com/webstore/" target="_blank">chrome web store</a> üzerinden yüklenen web uygulamalarını yeni sekme açıldığında sanki bir masaüstü uygulaması gibi gösterme özelliğine sahip oldu. Chrome web store üzerinde farklı kategoriler altında sunulan **chrome web uygulamaları** içerisinde twitter, google reader, haber kaynakları gibi farklı alanlarda kullanıcıya kolaylık sağlayan birçok uygulama bulunuyor.
+<a href="https://www.google.com/chrome" target="_blank">Google Chrome</a> son sürümü ile beraber <a href="https://chrome.google.com/webstore/" target="_blank">chrome web store</a> üzerinden yüklenen web uygulamalarını yeni sekme açıldığında sanki bir masaüstü uygulaması gibi gösterme özelliğine sahip oldu. Chrome web store üzerinde farklı kategoriler altında sunulan **chrome web uygulamaları** içerisinde twitter, google reader, haber kaynakları gibi farklı alanlarda kullanıcıya kolaylık sağlayan birçok uygulama bulunuyor.
 
 **Google Chrome** son sürümle beraber kullanılmaya başlanan web uygulamalarını **chrome web store** üzerinden kolaylıkla yükleyebiliyorsunuz. Yüklenen web uygulamalarını google chrome tecrübesi içerisinde açmak istediğinizde yeni sekme ekranında görebiliyorsunuz. Google Chrome yeni sekme ekranında masaüstü ikonları şeklinde bulunan web uygulamalarını kolayca çalıştırmak ya da bir başka deyişle chrome içerisinde **yeni sekme** açmadan erişmek mümkün.
 

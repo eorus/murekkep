@@ -18,7 +18,7 @@ tags:
 
 Peki **uzun pozlama** nedir? **Uzun pozlama** karanlık bir ortamda bir nesnenin üzerine düşen ışığın sensöre aktarılmasıdır. Bu fotoğraf çekim tekniğinin bir diğer tanımı ise uzun pozlanmış fotoğraflarda gördüğümüz üzere hafif ışıkta hareket eden bir objenin yaymış olduğu hareket hissinin, uzun pozlanarak mevcut ışığın hüzmeleriyle fotoğrafa aktarımı olarak da ifade edebilmektedir.<figure style="width: 500px" class="wp-caption aligncenter">
 
-<a href="http://www.flickr.com/photos/akc77/4495188331/" target="_blank"><img class=" " title="Uzun Pozlama Fotoğraf" alt="uzun pozlama" src="http://farm5.staticflickr.com/4050/4495188331_9a86576408.jpg" width="500" height="333" /></a><figcaption class="wp-caption-text">30 saniye f/7.1, 17mm , ISO 200</figcaption></figure> 
+<a href="https://www.flickr.com/photos/akc77/4495188331/" target="_blank"><img class=" " title="Uzun Pozlama Fotoğraf" alt="uzun pozlama" src="https://farm5.staticflickr.com/4050/4495188331_9a86576408.jpg" width="500" height="333" /></a><figcaption class="wp-caption-text">30 saniye f/7.1, 17mm , ISO 200</figcaption></figure> 
 
 ## Uzun Pozlama Nasıl Yapılır? Uzun Pozlama İpuçları
 
@@ -38,7 +38,7 @@ Peki **uzun pozlama** nedir? **Uzun pozlama** karanlık bir ortamda bir nesnen
 
 **8. **Ve çekim esnasında titreşim yaratmaması ve çektiğimiz karelerde netlik kaybına yol açmaması için [fotoğraf][3] makinenizin **VR (Vibration Reduction)**  ya da IS (Image Stabilization) olarak ifade edilen titreşim azaltma özelliğini mutlaka kapatmalıyız.<figure style="width: 500px" class="wp-caption aligncenter">
 
-<a href="http://www.flickr.com/photos/expressmonorail/3043760419/" target="_blank"><img class=" " title="Uzun Pozlama Fotoğraf" alt="uzun pozlama" src="http://farm4.staticflickr.com/3005/3043760419_a25ffb950a.jpg" width="500" height="400" /></a><figcaption class="wp-caption-text">Uzun Pozlama 10.9 saniye, ISO400, 22mm, f/25</figcaption></figure> 
+<a href="https://www.flickr.com/photos/expressmonorail/3043760419/" target="_blank"><img class=" " title="Uzun Pozlama Fotoğraf" alt="uzun pozlama" src="https://farm4.staticflickr.com/3005/3043760419_a25ffb950a.jpg" width="500" height="400" /></a><figcaption class="wp-caption-text">Uzun Pozlama 10.9 saniye, ISO400, 22mm, f/25</figcaption></figure> 
 
 ## Uzun Pozlama Yaparken Hangi Ekipmanları Bulundurmalıyız?
 

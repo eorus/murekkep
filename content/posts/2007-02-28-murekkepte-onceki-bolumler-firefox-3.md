@@ -25,8 +25,8 @@ Mozilla&#8217;da
   * Mozilla Wiki &#8211; Firefox/Feature Brainstorming
   * [Firefox 3 Nightly Build &#8211; İndir][5]{.broken_link}
 
- [1]: http://en.wikipedia.org/wiki/Gran_Paradiso
+ [1]: https://en.wikipedia.org/wiki/Gran_Paradiso
  [2]: https://www.murekkep.org/firefox-3-cevrimdisi-uygulamalarini-mi-destekleyecek-196
  [3]: https://www.murekkep.org/firefox-3-gran-paradiso-109
  [4]: https://www.murekkep.org/firefox-3-hazirliklari-27
- [5]: http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/
+ [5]: https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/

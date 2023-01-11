@@ -65,7 +65,7 @@ Panasonic Lumix LF1 satış fiyatı olarak **$499.00** fiyat etiketiyle sunulu
     </td>
     
     <td>
-      <a href="http://www.adorama.com/searchsite/default.aspx?searchinfo=panasonic+lf1" target="_blank" class="broken_link">Ön Sipariş</a>
+      <a href="https://www.adorama.com/searchsite/default.aspx?searchinfo=panasonic+lf1" target="_blank" class="broken_link">Ön Sipariş</a>
     </td>
   </tr>
   
@@ -79,7 +79,7 @@ Panasonic Lumix LF1 satış fiyatı olarak **$499.00** fiyat etiketiyle sunulu
     </td>
     
     <td>
-      <strong><a href="http://www.amazon.com/Panasonic-Lumix-DMC-LF1-Digital-Camera/dp/B00CFCTDMC/" target="_blank">Ön Sipariş</a></strong>
+      <strong><a href="https://www.amazon.com/Panasonic-Lumix-DMC-LF1-Digital-Camera/dp/B00CFCTDMC/" target="_blank">Ön Sipariş</a></strong>
     </td>
   </tr>
   
@@ -93,7 +93,7 @@ Panasonic Lumix LF1 satış fiyatı olarak **$499.00** fiyat etiketiyle sunulu
     </td>
     
     <td>
-      <a href="http://www.bhphotovideo.com/c/product/968566-REG/panasonic_dmc_lf1k_lumix_dmc_lf1_digital_camera.html" target="_blank" class="broken_link">Ön Sipariş</a>
+      <a href="https://www.bhphotovideo.com/c/product/968566-REG/panasonic_dmc_lf1k_lumix_dmc_lf1_digital_camera.html" target="_blank" class="broken_link">Ön Sipariş</a>
     </td>
   </tr>
 </table>
@@ -110,6 +110,6 @@ Panasonic Lumix LF1 satış fiyatı olarak **$499.00** fiyat etiketiyle sunulu
 
 <img class="alignnone size-full wp-image-14992" alt="Panasonic Lumix LF1 06" src="https://www.murekkep.org/wp-content/uploads/2013/04/Panasonic-Lumix-DMC-LF1-2.jpg" width="600" height="385" srcset="https://www.murekkep.org/wp-content/uploads/2013/04/Panasonic-Lumix-DMC-LF1-2.jpg 600w, https://www.murekkep.org/wp-content/uploads/2013/04/Panasonic-Lumix-DMC-LF1-2-400x256.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/04/Panasonic-Lumix-DMC-LF1-2-50x32.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/04/Panasonic-Lumix-DMC-LF1-2-125x80.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/04/Panasonic-Lumix-DMC-LF1-2-300x192.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-via <a title="Panasonic Lumix DMC-LF1" href="http://www.dailycameranews.com/2013/04/panasonic-lumix-dmc-lf1/" rel="external dofollow">Panasonic Lumix DMC-LF1 Announced, Price, Specs, Release Date</a>
+via <a title="Panasonic Lumix DMC-LF1" href="https://www.dailycameranews.com/2013/04/panasonic-lumix-dmc-lf1/" rel="external dofollow">Panasonic Lumix DMC-LF1 Announced, Price, Specs, Release Date</a>
 
  [1]: https://www.murekkep.org/raw-nedir-ne-degildir/ "RAW Nedir Ne Değildir?"

@@ -23,11 +23,11 @@ Google görsel arama kısmında kullanıcı arayüzü olarak eklenmiş bir özel
 
 Örneğin &#8220;**kuş**&#8221; yani &#8220;**bird**&#8221; olarak bir resim araması yaptınız. 
 
-**Bird** araması için url adresi : http://images.google.com/images?q=bird
+**Bird** araması için url adresi : https://images.google.com/images?q=bird
 
 Şimdi kırmızı kuş olarak yani &#8220;red bird&#8221; araması yapalım.
 
-**Red Bird** araması için url adresi : http://images.google.com/images?q=bird&imgcolor=red
+**Red Bird** araması için url adresi : https://images.google.com/images?q=bird&imgcolor=red
 
 Arama linkinin son kısmına ve resim rengi = renk adı &#8220;&imgcolor=red&#8221; şeklinde bir ekleme oldu. 
 
@@ -35,6 +35,6 @@ Bu aşamada kırmızı yerine mavi, yeşil, turuncu, pembe vb.. gibi farklı ren
 
 [Find Images that Contain a Certain Color][3]
 
- [1]: http://images.google.com/
+ [1]: https://images.google.com/
  [2]: https://www.murekkep.org/google-gorselleri-boyutuna-gore-arayin-993
- [3]: http://googlesystem.blogspot.com/2009/03/find-images-that-contain-certain-color.html
+ [3]: https://googlesystem.blogspot.com/2009/03/find-images-that-contain-certain-color.html

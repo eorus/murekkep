@@ -17,4 +17,4 @@ Windows 8 tanıtıldığında en büyük değişim başlat menüsü ve metro ara
 
 <img class="aligncenter size-large wp-image-9972" alt="Windows-8-baslat-menusu" src="https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu-400x295.jpg" width="400" height="295" srcset="https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu-400x295.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu-50x36.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu-125x92.jpg 125w, https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu-270x200.jpg 270w, https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu-412x305.jpg 412w, https://www.murekkep.org/wp-content/uploads/2012/12/Windows-8-baslat-menusu.jpg 700w" sizes="(max-width: 400px) 100vw, 400px" />
 
- [1]: http://www.classicstart8.com/
+ [1]: https://www.classicstart8.com/

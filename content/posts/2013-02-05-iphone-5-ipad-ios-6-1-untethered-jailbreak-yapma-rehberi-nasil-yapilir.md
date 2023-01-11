@@ -34,7 +34,7 @@ Zaten iOS 6.x tethered jailbreak kullanıyorsanız untethered sürüme yükseltm
 
   1. iTunes kullanarak cihazınızın yedeğini alın
   2. evad3rs tarafından telefondaki herhangi bir şifrenin kaldırılması tavsiye ediliyor.
-  3. http://evasi0n.com internet sitesine girip kullandığınız işletim sistemine uygun jailbreak aracını yükleyin.
+  3. https://evasi0n.com internet sitesine girip kullandığınız işletim sistemine uygun jailbreak aracını yükleyin.
   4. Zip dosyasını çıkartın
   5. **Evasi0n** adındaki dosyayı çalıştırın
   6. iOS cihazınızı bilgisayara bağlayın  

@@ -20,5 +20,5 @@ Peki ya tüm bu profili yaratacak zamanınız yoksa! Daha önce [müzik aramalar
 
 Audibaba fikir olarak güzel düşünülmüş yeni bir site. Ben ileride daha da gelişeceğini ve adını daha sık duyacağımızı düşünüyorum. Bilmem siz ne düşünürsünüz?
 
- [1]: http://www.last.fm/
+ [1]: https://www.last.fm/
  [2]: https://www.murekkep.org/muzik-aramalariniza-musotik-ile-ulasin-249

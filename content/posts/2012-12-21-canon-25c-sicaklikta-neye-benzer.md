@@ -26,5 +26,5 @@ Aslında projede kullanılan Canon fotoğraf makineleri işlerini gayet iyi yapm
 
 [ ][2]
 
- [1]: http://dellabella.ch/
- [2]: http://vimeo.com/55899485
+ [1]: https://dellabella.ch/
+ [2]: https://vimeo.com/55899485

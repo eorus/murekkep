@@ -25,5 +25,5 @@ Twitpic üzerinden yüklediğiniz **fotoğraflar** hem twitter mesajı olarak tw
 
 Örnek verirsek **murekkep.1234@twitpic.com** şeklinde bir email adresini **Twitpic** size veriyor. Bu adresi mobil cihazınızda **[Twitpic][1]** olarak adres defterine kaydetmeniz halinde çektiğiniz bir fotoğrafı bu email adresine mail olarak göndermenizle beraber twitter hesabınıza da **twitter mesajı** olarak aktarmış oluyorsunuz.
 
- [1]: http://www.twitpic.com/
- [2]: http://twitter.com
+ [1]: https://www.twitpic.com/
+ [2]: https://twitter.com

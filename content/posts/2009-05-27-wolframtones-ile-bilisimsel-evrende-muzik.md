@@ -21,5 +21,5 @@ Wolframtones&#8217;un nasıl çalıştığına dair detaylı bilgilere buradan b
 
 Eğer melodiyi indirmek isterseniz açılan pencerede midi dosyası olarak kendinize email atabilir ya da verilen seçeneklerden **cep telefonu** numaranızı girip telefonunuza melodi olarak gönderebilirsiniz. **Cep telefonuna melodi gönderme işlemi** wolframtones üzerinde **ücretsiz** geçiyor ama kullanılan şebekenin uygulayacağı ücret konusu not olarak düşülmüş.
 
- [1]: http://tones.wolfram.com/
- [2]: http://www.wolfram.com/mathematica/
+ [1]: https://tones.wolfram.com/
+ [2]: https://www.wolfram.com/mathematica/

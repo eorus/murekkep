@@ -30,4 +30,4 @@ Yukarıdaki görsel twitter rehberi hem bireysel hem de kurumsal anlamda twitter
 
 Not: Türkçeleştirmesini yapmak isteyen olursa destek verebiliriz.
 
- [1]: http://twitter.com
+ [1]: https://twitter.com

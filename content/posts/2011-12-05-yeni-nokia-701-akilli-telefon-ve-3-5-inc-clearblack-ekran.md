@@ -32,7 +32,7 @@ Nokia 701&#8217;in diğer özellikleri ise 3.5 mm audio jack, A-GPS, Downloadabl
 
 ## Nokia 701 Vodafone ile Satışta
 
-Yeni Nokia 701 bir akıllı telefon olarak **3.5 inç ClearBlack** ekran ve Symbian Belle deneyimi sunuyor. Nokia&#8217;nın Windows Phone Mango kullanan akıllı telefonu [Nokia Lumia 800][2] dışında orta segmentte bulunan <a title="Nokia 701 Vodafone" href="http://www.vodafone.com.tr/Cihazlar/Nokia-701.php" target="_blank" class="broken_link">Nokia 701&#8217;i Türkiye&#8217;de Vodafone</a> aracılığı ile tarifenize ek 15 TL ödeyerek satın alabilirsiniz.
+Yeni Nokia 701 bir akıllı telefon olarak **3.5 inç ClearBlack** ekran ve Symbian Belle deneyimi sunuyor. Nokia&#8217;nın Windows Phone Mango kullanan akıllı telefonu [Nokia Lumia 800][2] dışında orta segmentte bulunan <a title="Nokia 701 Vodafone" href="https://www.vodafone.com.tr/Cihazlar/Nokia-701.php" target="_blank" class="broken_link">Nokia 701&#8217;i Türkiye&#8217;de Vodafone</a> aracılığı ile tarifenize ek 15 TL ödeyerek satın alabilirsiniz.
 
  [1]: https://www.murekkep.org/etiket/nokia "Nokia"
  [2]: https://www.murekkep.org/nokia-lumia-800-ozellikleri-7230 "Nokia Lumia 800"

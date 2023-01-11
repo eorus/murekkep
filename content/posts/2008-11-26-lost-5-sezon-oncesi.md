@@ -16,5 +16,5 @@ Toplam 17 bölüm olarak düşünülen yeni sezon için başlangıç biraz hızl
 
 Şimdi &#8220;The Fray &#8211; You Found Me&#8221; eşliğinde son yayınlanan promo ile sizi başbaşa bırakabiliriz. Ne diyelim heyecanla bekliyoruz.
 
- [1]: http://abc.go.com/
- [2]: http://abc.go.com/primetime/lost/
+ [1]: https://abc.go.com/
+ [2]: https://abc.go.com/primetime/lost/

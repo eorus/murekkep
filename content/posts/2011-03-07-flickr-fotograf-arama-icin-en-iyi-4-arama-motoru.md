@@ -28,11 +28,11 @@ Sonuçta fotoğrafların belirli bir grupta toplandığı ve etiketlerle erişim
 
 Tag Galaxy, Flickr üzerindeki etiket sistemini kullanarak fotoğraflara ulaşmanızı sağlıyor. Tabi bunu yaparken her etiketin bir gezegen olduğunu düşündüğümüzde, tam anlamıyla bir galaksi içerisinde gibi hissediyorsunuz. Açıkçası bu noktada fotoğraf arama işleminden öte Tag Galaxy kullanımında kaybolmanız mümkün olabiliyor.
 
-3. <a href="http://www.flickriver.com/" target="_blank">Flickriver</a>
+3. <a href="https://www.flickriver.com/" target="_blank">Flickriver</a>
 
 Flickriver siyah bir arkaplan üzerinde birçok farklı **flickr fotoğraf arama** fonksiyonu sunuyor. **Flickriver**, üst kısımdaki arama barı sayesinde flickr üzerindeki kategorilere göre fotoğraf arama imkanı sunuyor. Fotoğraf aramanın yanısıra flickr gruplarını, kullanıcılarını, **flickr etiketlerini** ve ilginç yerleri aratabiliyorsunuz.
 
-4. <a href="http://www.zoo-m.com/flickr-storm/" target="_blank" class="broken_link">FlickrStorm</a>
+4. <a href="https://www.zoo-m.com/flickr-storm/" target="_blank" class="broken_link">FlickrStorm</a>
 
 Sakin bir arayüz ile tasarlanmış ve bir arama kutusu ile flickr fotoğraflarını arayan bir diğer arama motoru **FlickrStorm**. FlickrStorm üzerinde advanced seçeneği ile fotoğrafların lisanslarına göre arama yaptırabiliyorsunuz. Creative commons arama filtresi sayesinde kullanabileceğiniz fotoğrafları ayırt edebilirsiniz.
 

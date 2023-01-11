@@ -27,4 +27,4 @@ Amerika&#8217;daki kullanıcıların açılış sayfası olarak Kapadokya ile ka
 Amerika üzerinden kullanıcıların bing arama motoru hakkındaki görüşlerine baktığımızda şimdiden belirli bir etki yarattığını söyleyebiliriz. Her ne kadar dil tercihi değiştirilerek bing ile gelen özelliklere ulaşılabilse de, bing arama sonuçları ve getirdiği yeniliklere göre google arama sonuçlarına karşılık ne gibi artılar sağladığına ya da sağlamadığına dünya genelinde duyurusu yapıldıktan sonra değineceğiz.
 
  [1]: https://www.murekkep.org/microsoftun-yeni-arama-motoru-bing-ile-tanisalim-2898
- [2]: http://www.bing.com/
+ [2]: https://www.bing.com/

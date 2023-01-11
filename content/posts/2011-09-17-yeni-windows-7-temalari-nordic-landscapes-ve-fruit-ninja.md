@@ -19,5 +19,5 @@ Yeni Windows 7 temaları Windows 7 tema galerisine eklenmeye devam ediyor. Farkl
 
 Windows 7 tema galerisine yeni eklenen tema paketlerinden Nordic Landscapes kuzeyin eşsiz manzaralarını içeren öğerleriyle masaüstünüzü çeşitlendirmenizi sağlıyor. Bir diğer **windows 7 teması Fruit Ninja** ise bildiğiniz üzere Xbox üzerinde çok sevilen meyve dilimleme oyunu Fruit Ninja&#8217;nın görsellerinden oluşturulmuş bir tema paketidir.
 
-<a href="http://windows.microsoft.com/en-GB/windows/downloads/nordic-landscapes-theme" target="_blank">Windows 7 Nordic Landscapes Theme</a>  
-<a href="http://windows.microsoft.com/en-GB/windows/downloads/fruit-ninja-theme" target="_blank">Windows 7 Fruit Ninja Theme</a>
+<a href="https://windows.microsoft.com/en-GB/windows/downloads/nordic-landscapes-theme" target="_blank">Windows 7 Nordic Landscapes Theme</a>  
+<a href="https://windows.microsoft.com/en-GB/windows/downloads/fruit-ninja-theme" target="_blank">Windows 7 Fruit Ninja Theme</a>

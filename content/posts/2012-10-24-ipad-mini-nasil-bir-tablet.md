@@ -34,4 +34,4 @@ Performanstan bahsedilecek olursa, iPad mini üzerinde kullanılan A5 ile 4ncü 
 
 Ayrıca bakınız: [iPad mini, Nexus 7, Kindle Fire HD Teknik Özellikler Karşılaştırma ][1]
 
- [1]: http://wp.me/p1eJph-2gG "ipad mini teknik özellikler"
+ [1]: https://wp.me/p1eJph-2gG "ipad mini teknik özellikler"

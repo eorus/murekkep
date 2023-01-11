@@ -37,17 +37,17 @@ Bundan sonraki dallara değinecek olursak drama dalında en iyi yardımcı erkek
 **Bu süre içerisinde adaylar arasından ödül alma şansı size göre yüksek olan yapımlar ve oyuncular hangileri olabilir?**
 
  [1]: https://www.murekkep.org/2008-oscar-sonuclari-530
- [2]: http://www.imdb.com
- [3]: http://www.imdb.com/title/tt0421715/
- [4]: http://www.imdb.com/title/tt0959337/
- [5]: http://www.imdb.com/name/nm0005222/
- [6]: http://www.imdb.com/title/tt0114369/
- [7]: http://www.imdb.com/title/tt0137523/
- [8]: http://www.imdb.com/name/nm0000620/
- [9]: http://www.imdb.com/title/tt1125849/
- [10]: http://www.imdb.com/title/tt0976051/
- [11]: http://www.imdb.com/name/nm0000701/
- [12]: http://www.imdb.com/name/nm0005132/
- [13]: http://www.imdb.com/title/tt0773262/
- [14]: http://www.imdb.com/name/nm0355910/
- [15]: http://www.imdb.com/name/nm0491402/
+ [2]: https://www.imdb.com
+ [3]: https://www.imdb.com/title/tt0421715/
+ [4]: https://www.imdb.com/title/tt0959337/
+ [5]: https://www.imdb.com/name/nm0005222/
+ [6]: https://www.imdb.com/title/tt0114369/
+ [7]: https://www.imdb.com/title/tt0137523/
+ [8]: https://www.imdb.com/name/nm0000620/
+ [9]: https://www.imdb.com/title/tt1125849/
+ [10]: https://www.imdb.com/title/tt0976051/
+ [11]: https://www.imdb.com/name/nm0000701/
+ [12]: https://www.imdb.com/name/nm0005132/
+ [13]: https://www.imdb.com/title/tt0773262/
+ [14]: https://www.imdb.com/name/nm0355910/
+ [15]: https://www.imdb.com/name/nm0491402/

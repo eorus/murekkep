@@ -32,8 +32,8 @@ Verilmiş olan bu ara boyunca Lost Moments videolarını izledik. [Abc][1] taraf
   * [Lost Moment 12][5]
   * Lost Moment 13
 
- [1]: http://www.abc.com
+ [1]: https://www.abc.com
  [2]: https://www.murekkep.org/etiket/youtube
- [3]: http://www.youtube.com/watch?v=U_3D5hZS1qQ
- [4]: http://www.youtube.com/watch?v=rUqagLgBrLM
- [5]: http://www.youtube.com/watch?v=0pfQHooxlRs
+ [3]: https://www.youtube.com/watch?v=U_3D5hZS1qQ
+ [4]: https://www.youtube.com/watch?v=rUqagLgBrLM
+ [5]: https://www.youtube.com/watch?v=0pfQHooxlRs

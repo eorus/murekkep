@@ -28,22 +28,22 @@ Belirli kategorilerde **2011 Oscar sonuçlarına**, ödül alanlara bakarsak, 12
 ## 2011 Oscar Ödülleri Sonuçları
 
 **<span style="color: #0000ff;">2011 Oscar En İyi Film Ödülü</span>**  
-**Kazanan :** **<a href="http://www.imdb.com/title/tt1504320/" target="_blank">The King&#8217;s Speech</a>**
+**Kazanan :** **<a href="https://www.imdb.com/title/tt1504320/" target="_blank">The King&#8217;s Speech</a>**
 
 **<span style="color: #0000ff;">2011 Oscar En İyi Film Yönetmen</span>**  
-**Kazanan :** **<a href="http://www.imdb.com/name/nm0393799/" target="_blank">Tom Hooper</a>** **(The King&#8217;s Speech)**
+**Kazanan :** **<a href="https://www.imdb.com/name/nm0393799/" target="_blank">Tom Hooper</a>** **(The King&#8217;s Speech)**
 
 **<span style="color: #0000ff;">2011 Oscar En İyi Erkek Oyuncu</span>**  
-**Kazanan :** **<a href="http://www.imdb.com/name/nm0000147/" target="_blank">Colin Firth</a>** **(The King&#8217;s Speech)**
+**Kazanan :** **<a href="https://www.imdb.com/name/nm0000147/" target="_blank">Colin Firth</a>** **(The King&#8217;s Speech)**
 
 **<span style="color: #0000ff;">2011 Oscar En İyi Kadın Oyuncu</span>**  
-**Kazanan :** **<a href="http://www.imdb.com/name/nm0000204/" target="_blank">Natalie Portman</a>** **(Black Swan)**
+**Kazanan :** **<a href="https://www.imdb.com/name/nm0000204/" target="_blank">Natalie Portman</a>** **(Black Swan)**
 
 **<span style="color: #0000ff;">2011 Oscar En İyi Yardımcı Kadın Oyuncu</span>**  
-**Kazanan :** **<a href="http://www.imdb.com/name/nm0502425/" target="_blank">Melissa Leo</a>** **(The Fighter)**
+**Kazanan :** **<a href="https://www.imdb.com/name/nm0502425/" target="_blank">Melissa Leo</a>** **(The Fighter)**
 
 **<span style="color: #0000ff;">2011 Oscar En İyi Yardımcı Erkek Oyuncu</span>**  
-**Kazanan :** **<a href="http://www.imdb.com/name/nm0000288/" target="_blank">Christian Bale</a>** **(The Fighter)**
+**Kazanan :** **<a href="https://www.imdb.com/name/nm0000288/" target="_blank">Christian Bale</a>** **(The Fighter)**
 
 **2011 Oscar Sonuçları** (ödülleri) için tam listeye Imdb &#8211; Road To The Oscars 2011 sayfasından bakabilirsiniz.
 

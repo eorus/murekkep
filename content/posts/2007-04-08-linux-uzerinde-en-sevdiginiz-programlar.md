@@ -40,4 +40,4 @@ Bloglar üzerinde son günlerde bizim de katıldığımız mim dalga(lar)ı esiy
 **Arşiv yönetici** : Squeeze  
 **Oyun** : Frozen Bubble
 
- [1]: http://nyucel.blogspot.com/
+ [1]: https://nyucel.blogspot.com/

@@ -10,7 +10,7 @@ categories:
   - Kültür Yaşam
 
 ---
-Başlık ne kadar doğru bilemiyorum. Çünkü zevkler kişiden kişiye değişir. Ya da hepimizin dilinde olan zevkler ve renkler tartışılmaz sözünü söyleyebiliriz. **Dünyanın En Güzel İşi** olarak lanse edilen ve şu anda başvuruları devam eden Ada Bekçiliğinden (**Island Caretaker**) bahsediyorum. Eğer duymadıysanız ana sayfası burası. <a href="http://www.islandreefjob.com/" target="_blank">Island ReefJob</a>. <!--more-->
+Başlık ne kadar doğru bilemiyorum. Çünkü zevkler kişiden kişiye değişir. Ya da hepimizin dilinde olan zevkler ve renkler tartışılmaz sözünü söyleyebiliriz. **Dünyanın En Güzel İşi** olarak lanse edilen ve şu anda başvuruları devam eden Ada Bekçiliğinden (**Island Caretaker**) bahsediyorum. Eğer duymadıysanız ana sayfası burası. <a href="https://www.islandreefjob.com/" target="_blank">Island ReefJob</a>. <!--more-->
 
 İlk duyduğumda aklımdan geçenler şöyle oldu. Hiç uçağa binmeden ya da bindiğiniz uçağın ıssız bir adaya düşmesine gerek kalmadan isteyerek gideceğiniz bir yer olduğunu söyleyebilirim. The Others olarak tabir edilen kişiler tarafından rahatsız edilmiyorsunuz. Ya da adada daha önce deneyler yapmış Dharma isimli bir kuruluş bulunmuyor. Her tarafınız yara bere içindeyse ya da felçli iseniz bu ada sizi iyileştirmiyor. :) Lost&#8217;un başlamasına bir hafta kaldığından olsa gerek ister istemez böyle kendimi kaptırmıştım. Neyse başvuruları devam eden bu dünyanın en güzel işi hakkında bilgi vermek gerekirse;
 

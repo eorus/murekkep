@@ -14,7 +14,7 @@ tags:
   - wordpress
 
 ---
-<img align="left" alt="Wordpress" src="https://www.murekkep.org/wp-content/uploads/2007/01/dandy-pink.png" />Daha bugün 2.0.7&#8217;e güncelledim, baktım ki 2.1 sürümü <a target="_blank" href="http://wordpress.org/development/2007/01/ella-21/">çıkmış</a> bile. Mürekkep.org olarak bir kaç gün daha bekliyeceğiz tahminimce. WordPress daha nasıl güncelleştirileceğine dair bir belge yayımlanmadı. Ayrıca Mysql 3 desteği de kaldırıldığı için bloglarda sorun çıkabilecek. Unutmayın eklenti gereksinimleri de değişti. Kullandığınız eklentilerinizin 2.1 için uyumlu olduğuna bakın. Çünkü bir çok eklenti 2.1 sürümü için henüz uyumlu değil. Burada 2.1 için uyumlu eklentilerin listesi mevcut. Bu yeni sürümde bir sürü özellik de eklenmiş. En yenileri ve bir çok kullanıcının sabırsızlıkla beklediği özellikler ise sırayla :
+<img align="left" alt="Wordpress" src="https://www.murekkep.org/wp-content/uploads/2007/01/dandy-pink.png" />Daha bugün 2.0.7&#8217;e güncelledim, baktım ki 2.1 sürümü <a target="_blank" href="https://wordpress.org/development/2007/01/ella-21/">çıkmış</a> bile. Mürekkep.org olarak bir kaç gün daha bekliyeceğiz tahminimce. WordPress daha nasıl güncelleştirileceğine dair bir belge yayımlanmadı. Ayrıca Mysql 3 desteği de kaldırıldığı için bloglarda sorun çıkabilecek. Unutmayın eklenti gereksinimleri de değişti. Kullandığınız eklentilerinizin 2.1 için uyumlu olduğuna bakın. Çünkü bir çok eklenti 2.1 sürümü için henüz uyumlu değil. Burada 2.1 için uyumlu eklentilerin listesi mevcut. Bu yeni sürümde bir sürü özellik de eklenmiş. En yenileri ve bir çok kullanıcının sabırsızlıkla beklediği özellikler ise sırayla :
 
 <!--more-->
 
@@ -35,4 +35,4 @@ tags:
   * Yükleme yöneticisi ile sunucunuza yüklediğiniz resimleri, sesleri ve görüntüleri artık daha kolay yönetebileceksiniz
   * **Akismet** eklentisinin yeni sürümü de eklenmiş bulunuyor
 
-WordPress 2.1 <a target="_blank" href="http://wordpress.org/download/">buradan</a> indirilebilir. Türkçe sürümü yayınlanınca onu da ekleyecem. Herkese iyi güncellemeler :)
+WordPress 2.1 <a target="_blank" href="https://wordpress.org/download/">buradan</a> indirilebilir. Türkçe sürümü yayınlanınca onu da ekleyecem. Herkese iyi güncellemeler :)

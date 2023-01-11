@@ -31,4 +31,4 @@ Firefox&#8217;un özelleştirilmesi anlamında herhalde diğer tarayıcılara g�
 
 Bunun dışında not olarak **Mozilla Add-Ons** olarak bildiğimiz firefox eklentilerinin yer aldığı bölüm yeniden elden geçirilmiş ve arayüzü değiştirilmiş. 
 
-<a href="http://blog.mozilla.com/addons/2009/06/10/introducing-add-on-collections/" target="_blank">Introducing Add-on Collections</a>
+<a href="https://blog.mozilla.com/addons/2009/06/10/introducing-add-on-collections/" target="_blank">Introducing Add-on Collections</a>

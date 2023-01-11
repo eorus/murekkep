@@ -18,7 +18,7 @@ E-bookları indeksleyen ve pdf halinde sunan [eBookSpyder][1]{.broken_link} , &#
 
 [Ubuntu][4] hakkında daha fazla bilgiye Lapis Wiki üzerinden de ulaşabilirsiniz.
 
- [1]: http://ebookspyder.net
- [2]: http://ebookspyder.net/index.php/2007/03/03/ubuntu-linux-bible.html
- [3]: http://www.amazon.com/Ubuntu-Linux-Bible-William-Hagen/dp/0470038993/ref=pd_bbs_sr_1/102-4189759-9511304?ie=UTF8&s=books&qid=1173260831&sr=1-1
- [4]: http://www.ubuntu.com/
+ [1]: https://ebookspyder.net
+ [2]: https://ebookspyder.net/index.php/2007/03/03/ubuntu-linux-bible.html
+ [3]: https://www.amazon.com/Ubuntu-Linux-Bible-William-Hagen/dp/0470038993/ref=pd_bbs_sr_1/102-4189759-9511304?ie=UTF8&s=books&qid=1173260831&sr=1-1
+ [4]: https://www.ubuntu.com/

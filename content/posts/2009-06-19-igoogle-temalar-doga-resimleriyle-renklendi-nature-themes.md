@@ -22,7 +22,7 @@ Duyurulan yeni **igoogle tema setleri** dünya çapında bilinen **en iyi doğa 
 
 Dünyanın harikalarının ve doğal güzelliklerinin resmedildiği birbirinden güzel **igoogle doğa** temalarına **iGoogle &#8211; Nature Themes** sayfasından bakabilirsiniz. 
 
-<a href="http://googleblog.blogspot.com/2009/06/igoogle-goes-au-naturel.html" target="_blank">iGoogle goes au naturel</a>
+<a href="https://googleblog.blogspot.com/2009/06/igoogle-goes-au-naturel.html" target="_blank">iGoogle goes au naturel</a>
 
  [1]: https://www.murekkep.org/kisisel-google-igoogle-316
  [2]: https://www.murekkep.org/unlulerin-igoogle-baslangic-sayfalari-igoogle-showcase-3391

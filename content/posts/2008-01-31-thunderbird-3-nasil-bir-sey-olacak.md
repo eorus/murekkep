@@ -22,8 +22,8 @@ Bana göre Thunderbird&#8217;ün eskisi kadar kullanılmamasının iki tane ana 
 
 Kaynaklar: [[1][4]],[[2][5]]
 
- [1]: http://www.mozilla.org/projects/calendar/lightning/
- [2]: http://wiki.mozilla.org/Thunderbird:Thunderbird3
+ [1]: https://www.mozilla.org/projects/calendar/lightning/
+ [2]: https://wiki.mozilla.org/Thunderbird:Thunderbird3
  [3]: https://www.murekkep.org/linux-ve-mac-icin-mozilla-prism-477
- [4]: http://www.pro-linux.de/news/2008/12257.html
- [5]: http://www.pro-linux.de/news/2007/11826.html
+ [4]: https://www.pro-linux.de/news/2008/12257.html
+ [5]: https://www.pro-linux.de/news/2007/11826.html

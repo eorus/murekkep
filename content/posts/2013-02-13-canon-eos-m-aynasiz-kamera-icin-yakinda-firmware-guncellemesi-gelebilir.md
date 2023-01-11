@@ -18,6 +18,6 @@ Canon&#8217;un aynsaız kompakt fotoğraf makinesi **Canon EOS M** için yeni bi
 
 <img class="aligncenter size-full wp-image-11879" alt="canon-eos-m" src="https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m.jpg" width="600" height="433" srcset="https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m.jpg 600w, https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m-400x288.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m-50x36.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m-125x90.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m-277x200.jpg 277w, https://www.murekkep.org/wp-content/uploads/2013/02/canon-eos-m-422x305.jpg 422w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-via <a title="Rumor : Canon EOS M Firmware Coming Soon" href="http://www.dailycameranews.com/2013/02/rumor-canon-eos-m-firmware-coming-soon/" rel="external dofollow">dcn</a>
+via <a title="Rumor : Canon EOS M Firmware Coming Soon" href="https://www.dailycameranews.com/2013/02/rumor-canon-eos-m-firmware-coming-soon/" rel="external dofollow">dcn</a>
 
  [1]: https://www.murekkep.org/kamera/canon/eos-650d "canon eos 650d"

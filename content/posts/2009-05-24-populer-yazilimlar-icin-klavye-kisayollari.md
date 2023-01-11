@@ -16,7 +16,7 @@ tags:
 ---
 **Klavye** belki de bilgisayar kullanım süreniz içerisinde en çok elinizin altında olan ekipmandır. Tabi uzun bir zamandır bunu destekleyen bir başka araç olarak **fareyi** (mouse) sayabiliriz. Günlük bilgisayar kullanım süresinde ise bu ekipmanları rutin bir şekilde kullanmaktayız. 
 
-&#8220;**Klavye kısayollarını kullanarak verimliliğinizi artırın**&#8221; başlığıyla yola çıkan **<a href="http://www.shortcutworld.com/" target="_blank">Shortcut World | Keyboard Shortcut List</a>** isimli internet sitesi, fare kullanımının bilgisayar tarihinde verimliliği düşüren en büyük faktör olduğunun altını çizerek, verimliliği artırmanın yegane yolunun **klavye kısayollarını** kullanmaktan geçtiğini söylüyor. 
+&#8220;**Klavye kısayollarını kullanarak verimliliğinizi artırın**&#8221; başlığıyla yola çıkan **<a href="https://www.shortcutworld.com/" target="_blank">Shortcut World | Keyboard Shortcut List</a>** isimli internet sitesi, fare kullanımının bilgisayar tarihinde verimliliği düşüren en büyük faktör olduğunun altını çizerek, verimliliği artırmanın yegane yolunun **klavye kısayollarını** kullanmaktan geçtiğini söylüyor. 
 
 ## Klavye Kısayolu Nedir?
 

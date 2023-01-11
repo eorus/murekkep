@@ -31,4 +31,4 @@ Kaynak: [PocketNow][3]
 
  [1]: https://www.murekkep.org/telefon/sony-xperia-z
  [2]: https://www.murekkep.org/sony-xperia-z-ve-xperia-zl-arasinda-ne-fark-var-10764
- [3]: http://pocketnow.com
+ [3]: https://pocketnow.com

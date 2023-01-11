@@ -36,31 +36,31 @@ Kraliyete ait bir evcil hayvanı beslemekten sorumlusunuz. Evet o büyük bir ej
 
 <img class="aligncenter size-full wp-image-7643" title="feed-that-dragon" src="https://www.murekkep.org/wp-content/uploads/2012/01/feed-that-dragon.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/feed-that-dragon.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/feed-that-dragon-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/feed-that-dragon-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/feed-that-dragon-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**2. <a title="Galaxy on Fire 2 HD" href="http://itunes.apple.com/gb/app/galaxy-on-fire-2-hd/id465072566?mt=8" target="_blank">Galaxy on Fire 2 HD</a>**
+**2. <a title="Galaxy on Fire 2 HD" href="https://itunes.apple.com/gb/app/galaxy-on-fire-2-hd/id465072566?mt=8" target="_blank">Galaxy on Fire 2 HD</a>**
 
 Bir arıza uzay ve zaman içinde yuvarlanan galaksiler arası maceracı ve bir savaş kahramanı Keith T. Maxwell gönderir. Galaksinin ucunda 35 yıl sonra yaşanan uyanış, o hızla kendini tamamen 3D ile zengin ve sürükleyici bir hikayede gizemli bir yabancı armada karşı hayatını kurtarmak için mücadele ederken bulur.
 
 <img class="aligncenter size-full wp-image-7645" title="Galaxy-on-fire-2-HD" src="https://www.murekkep.org/wp-content/uploads/2012/01/Galaxy-on-fire-2-HD.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/Galaxy-on-fire-2-HD.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/Galaxy-on-fire-2-HD-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/Galaxy-on-fire-2-HD-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/Galaxy-on-fire-2-HD-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**3. <a title="Angry Birds" href="http://itunes.apple.com/gb/app/angry-birds/id343200656?mt=8" target="_blank" class="broken_link">Angry Birds</a>**
+**3. <a title="Angry Birds" href="https://itunes.apple.com/gb/app/angry-birds/id343200656?mt=8" target="_blank" class="broken_link">Angry Birds</a>**
 
 Angry birds özellikle iPhone üzerinde başlayan popülerliğini android işletim sistemli akıllı telefonlar ve tablet pcler üzerinde devam ettirerek tarih yazmış bir oyundur. Angry Birds oyunu basitçe kızgın kuşların domuzlara karşı olan savaşını anlatıyor. kızgın kuşları bir sapanla fırlatıp oluşturulan düzenekleri yıkarak yeşil domuzları yok etmeye çalışıyorsunuz. Ayrıca <a title="online angry birds" href="https://www.murekkep.org/online-angry-birds-oyunu-oynamak-6590" target="_blank">Online olarak Angry Birds oyunu</a> Chrome üzerinde oynanabiliyor.
 
 <img class="aligncenter size-full wp-image-7642" title="Angry-Birds" src="https://www.murekkep.org/wp-content/uploads/2012/01/Angry-Birds.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/Angry-Birds.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/Angry-Birds-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/Angry-Birds-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/Angry-Birds-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**4. <a title="Fruit Ninja" href="http://itunes.apple.com/gb/app/fruit-ninja/id362949845?mt=8" target="_blank">Fruit Ninja</a>**
+**4. <a title="Fruit Ninja" href="https://itunes.apple.com/gb/app/fruit-ninja/id362949845?mt=8" target="_blank">Fruit Ninja</a>**
 
 Şimdi dokunmatik ekrana parmaklarınızı yaklaştırın ve bir ninja savaşçısı gibi meyve doğramaya hazırlanın. En tatmin edici meyve oyunu diyebileceğimiz Fruit Ninja oynarken dikkat etmeniz gereken tek şey bombalar! Eğer bombalara dokunursanız bu sulu maceranız hızlı bir şekilde sona erecektir.
 
 <img class="aligncenter size-full wp-image-7644" title="Fruit-Ninja" src="https://www.murekkep.org/wp-content/uploads/2012/01/Fruit-Ninja.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/Fruit-Ninja.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/Fruit-Ninja-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/Fruit-Ninja-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/Fruit-Ninja-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**5. <a title="Grand Theft Auto 3" href="http://itunes.apple.com/gb/app/grand-theft-auto-3/id479662730?mt=8" target="_blank">Grand Theft Auto 3</a>**
+**5. <a title="Grand Theft Auto 3" href="https://itunes.apple.com/gb/app/grand-theft-auto-3/id479662730?mt=8" target="_blank">Grand Theft Auto 3</a>**
 
 Rockstar Games tüm zamanların en etkili oyunlarından birisi olan Grand Theft Auto serisinin 10. yılını kutluyor. Eleştirmenlerce beğenilen gişe rekorları kıran Grand Theft Auto III Liberty City&#8217;nin keyifsiz, karanlık ve yeraltı dünyasını hayata geçirerek mobil cihazlara geliyor.
 
 <img class="aligncenter size-full wp-image-7646" title="GTA-3" src="https://www.murekkep.org/wp-content/uploads/2012/01/GTA-3.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/GTA-3.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/GTA-3-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/GTA-3-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/GTA-3-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**6. <a title="Modern Combat 3" href="http://itunes.apple.com/gb/app/modern-combat-3-fallen-nation/id442522082?mt=8" target="_blank" class="broken_link">Modern Combat 3: Fallen Nation</a>**
+**6. <a title="Modern Combat 3" href="https://itunes.apple.com/gb/app/modern-combat-3-fallen-nation/id442522082?mt=8" target="_blank" class="broken_link">Modern Combat 3: Fallen Nation</a>**
 
 Modern Combat 3, özellikle çok oyunculu bir fikri benimseyen bir oyuncuysanız mobil cihazlar için en iyi FPS oyundur. Bir veya daha fazla oyuncu için en iyi, en gerçekçi akıllı FPS serisi, Amerika Birleşik Devletleri&#8217;nin özgürlüğü için bir kıyamet savaşı ile döner.
 
@@ -72,7 +72,7 @@ iPhone ve iPad&#8217;in dokunmatik ekranında heyecan verici yarış deneyimi i�
 
 <img class="aligncenter size-full wp-image-7648" title="Real-Racing-2" src="https://www.murekkep.org/wp-content/uploads/2012/01/Real-Racing-2.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/Real-Racing-2.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/Real-Racing-2-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/Real-Racing-2-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/Real-Racing-2-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**8. <a title="Infinity Blade II" href="http://itunes.apple.com/gb/app/infinity-blade-ii/id447689011?mt=8" target="_blank" class="broken_link">Infinity Blade II</a>**
+**8. <a title="Infinity Blade II" href="https://itunes.apple.com/gb/app/infinity-blade-ii/id447689011?mt=8" target="_blank" class="broken_link">Infinity Blade II</a>**
 
 Beklenmedik bir kahraman ortaya çıktı. Şimdi Infinity Blade sırlarını arkasındaki gerçeği keşfetmek gerekiyor. Güç şampiyonları ve kötü adamların bu zamansız kılıç macerasında Infinity Blade&#8217;in bütün sırlarının kilidini açmak. Başarmak senin ellerinde.
 
@@ -84,7 +84,7 @@ Forever Drive, fütüristik bir şehirde güzel bir 3D yarış oyunudur ve kısm
 
 <img class="aligncenter size-full wp-image-7650" title="Forever-Drive" src="https://www.murekkep.org/wp-content/uploads/2012/01/Forever-Drive.jpg" alt="" width="480" height="320" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/Forever-Drive.jpg 480w, https://www.murekkep.org/wp-content/uploads/2012/01/Forever-Drive-400x266.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/Forever-Drive-50x33.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/Forever-Drive-187x125.jpg 187w" sizes="(max-width: 480px) 100vw, 480px" /> 
 
-**10. <a title="Touchgring BMX" href="http://itunes.apple.com/gb/app/touchgrind-bmx/id426072035?mt=8" target="_blank">Touchgrind BMX</a>**
+**10. <a title="Touchgring BMX" href="https://itunes.apple.com/gb/app/touchgrind-bmx/id426072035?mt=8" target="_blank">Touchgrind BMX</a>**
 
 BMX uzmanı ol ve tüm dünyada nefes kesen yerlerde muhteşem hareketler yapmaya çalış. Beceri ve hayalgücün hareketlerinin sınırlarını belirleyecek! En iyi derecelerinizi YouTube ve Facebook üzerinde paylaşarak arkadaşlarınızı etkileyin.
 

@@ -30,5 +30,5 @@ Herhangi bir **ünlünün** üzerine tıkladığınızda, o kişinin **igoogle b
 [Tour the homepages of your favorite celebrities][3]
 
  [1]: https://www.murekkep.org/kisisel-google-igoogle-316
- [2]: http://www.google.com.tr
- [3]: http://googleblog.blogspot.com/2009/06/tour-homepages-of-your-favorite.html
+ [2]: https://www.google.com.tr
+ [3]: https://googleblog.blogspot.com/2009/06/tour-homepages-of-your-favorite.html

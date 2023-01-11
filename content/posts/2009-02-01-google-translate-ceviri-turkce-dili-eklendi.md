@@ -16,9 +16,9 @@ Türkçe&#8217;nin [metin çeviri][4] kısmına eklenmesi konusundaki uzun bekle
 
 Bu vesileyle küçük bir kelime çevirici için küçük bir not düşelim. Sadece İngilizce olarak belirli kelimelerin başka dillerde karşılıklarına bakmak isterseniz adı gibi hoş bir çeviri aracı olan [Nicetranslator][6]&#8216;a bakabilirsiniz.
 
- [1]: http://googlesystem.blogspot.com/
- [2]: http://googlesystem.blogspot.com/2008/09/more-languages-in-google-translate.html
- [3]: http://googlesystem.blogspot.com/2009/01/new-languages-in-google-translate.html
+ [1]: https://googlesystem.blogspot.com/
+ [2]: https://googlesystem.blogspot.com/2008/09/more-languages-in-google-translate.html
+ [3]: https://googlesystem.blogspot.com/2009/01/new-languages-in-google-translate.html
  [4]: https://www.murekkep.org/17-dilde-metin-ceviri-291
- [5]: http://www.google.com.tr
- [6]: http://www.nicetranslator.com
+ [5]: https://www.google.com.tr
+ [6]: https://www.nicetranslator.com

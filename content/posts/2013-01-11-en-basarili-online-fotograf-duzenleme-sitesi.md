@@ -29,4 +29,4 @@ _Fotoğraf efekti yapma_ işiniz bittiğinde ise bu site size fotoğrafı bilgis
 
  [1]: https://www.murekkep.org/telefon
  [2]: https://www.murekkep.org/en-iyi-9-online-fotograf-efekti-10400
- [3]: http://www.freeonlinephotoeditor.com/
+ [3]: https://www.freeonlinephotoeditor.com/

@@ -19,4 +19,4 @@ Bu taşınabilir oyun konsolunu çalıştıran Tegra 4, Cortex A15’in ilk dör
 
 <img class="aligncenter size-large wp-image-10506" alt="nvidia-shield" src="https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1-400x253.jpg" width="400" height="253" srcset="https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1-400x253.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1-50x31.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1-125x79.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1-300x190.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1-481x305.jpg 481w, https://www.murekkep.org/wp-content/uploads/2013/01/nvidia-shield1.jpg 780w" sizes="(max-width: 400px) 100vw, 400px" />
 
- [1]: http://wp.me/p1eJph-2Jm
+ [1]: https://wp.me/p1eJph-2Jm

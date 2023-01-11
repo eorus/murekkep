@@ -23,5 +23,5 @@ Gmail beta devrinin sona ermesi aradan geçen 5 seneden sonra size garip gelmiş
 
 [Gmail leaves beta, launches &#8220;Back to Beta&#8221; Labs feature][1] | [Google Apps is out of beta (yes, really)][2]
 
- [1]: http://gmailblog.blogspot.com/2009/07/gmail-leaves-beta-launches-back-to-beta.html
- [2]: http://googleblog.blogspot.com/2009/07/google-apps-is-out-of-beta-yes-really.html
+ [1]: https://gmailblog.blogspot.com/2009/07/gmail-leaves-beta-launches-back-to-beta.html
+ [2]: https://googleblog.blogspot.com/2009/07/google-apps-is-out-of-beta-yes-really.html

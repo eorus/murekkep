@@ -18,8 +18,8 @@ Microsoft belirli aralıklarla Windows 7 tema galerisini güncellemeye devam edi
 
 **<img class="alignright size-full wp-image-6811" title="windows 7 tema" src="https://www.murekkep.org/wp-content/uploads/2011/09/illusions.jpg" alt="" width="300" height="208" />Windows 7 tema** galerisine yeni eklenen tema paketleri Gunstringer ve Illusions. Gunstringer yeni bir **Xbox oyunu** olarak ismini duyurdu. Bir Kinect oyunu olan **Gunstringer**, 2011 Eylül ayında Xbox 360&#8217;a geliyor.
 
-<a href="http://windows.microsoft.com/en-GB/windows/downloads/gunstringer-theme " target="_blank">Windows 7 Gunstringer Theme</a>
+<a href="https://windows.microsoft.com/en-GB/windows/downloads/gunstringer-theme " target="_blank">Windows 7 Gunstringer Theme</a>
 
 **Illusions** ise Josh Sommers tarafından oluşturulmuş bir d,ijital sanat ürünü ve bunun için bir windows 7 tema paketi oluşturulmuş.
 
-<a href="http://windows.microsoft.com/en-GB/windows/downloads/illusions-theme" target="_blank">Windows 7 Illusions Theme</a>
+<a href="https://windows.microsoft.com/en-GB/windows/downloads/illusions-theme" target="_blank">Windows 7 Illusions Theme</a>

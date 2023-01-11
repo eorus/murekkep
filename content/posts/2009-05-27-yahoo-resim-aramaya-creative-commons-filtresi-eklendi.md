@@ -25,4 +25,4 @@ Ayrıntılı bilgi için [Vikipedi Creative Commons][2] makalesine bakabilirsini
 Find Images to Use and Reuse with the New Creative Commons Filter
 
  [1]: https://www.murekkep.org/yahoo-resim-arama-yenilendi-1798
- [2]: http://tr.wikipedia.org/wiki/Creative_Commons
+ [2]: https://tr.wikipedia.org/wiki/Creative_Commons

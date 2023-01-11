@@ -22,4 +22,4 @@ tags:
 
 Ve Debian 14 yaşına basar. Ian Murdock&#8217;ın ilk duyurusu için [buraya][1] bakabilirsiniz.
 
- [1]: http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6?output=gplain
+ [1]: https://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6?output=gplain

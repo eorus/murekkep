@@ -19,13 +19,13 @@ Warty [Warthog][1], Hoary [Hedgehog][2], Breezy [Badger][3], Dapper [Drake][4], 
 
 Haber: [Introducing the Gutsy Gibbon][8]
 
- [1]: http://en.wikipedia.org/wiki/Warthog
- [2]: http://en.wikipedia.org/wiki/Hedgehog
- [3]: http://en.wikipedia.org/wiki/Badger
- [4]: http://en.wikipedia.org/wiki/Duck
- [5]: http://en.wikipedia.org/wiki/Newt
- [6]: http://en.wikipedia.org/wiki/Fawn
- [7]: http://en.wikipedia.org/wiki/Gibbon
+ [1]: https://en.wikipedia.org/wiki/Warthog
+ [2]: https://en.wikipedia.org/wiki/Hedgehog
+ [3]: https://en.wikipedia.org/wiki/Badger
+ [4]: https://en.wikipedia.org/wiki/Duck
+ [5]: https://en.wikipedia.org/wiki/Newt
+ [6]: https://en.wikipedia.org/wiki/Fawn
+ [7]: https://en.wikipedia.org/wiki/Gibbon
  [8]: https://lists.ubuntu.com/archives/ubuntu-devel-announce/2007-April/000276.html
  [9]: https://www.murekkep.org/ubuntunun-birinci-deney-surumu704-duyuruldu-103
  [10]: https://wiki.ubuntu.com/GutsyReleaseSchedule

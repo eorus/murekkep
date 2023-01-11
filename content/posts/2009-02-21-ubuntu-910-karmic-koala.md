@@ -18,5 +18,5 @@ Duyuru içeriğine bakıldığında **Ubuntu 9.10** için hedeflenen özellikler
 
 Her Ubuntu sürümü alfa aşamasına geldiğinde yeni sürümün maskotu ile tanışıyoruz. Beklenen **Ubuntu 9.04 Jaunty Jackalope**&#8216;nin tam sürümü 23 Nisan 2009 tarihinde çıkacak.
 
- [1]: http://tr.wikipedia.org/wiki/Koala
+ [1]: https://tr.wikipedia.org/wiki/Koala
  [2]: https://lists.ubuntu.com/archives/ubuntu-devel-announce/2009-February/000536.html

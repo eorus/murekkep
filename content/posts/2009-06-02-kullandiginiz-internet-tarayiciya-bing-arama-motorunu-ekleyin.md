@@ -24,12 +24,12 @@ Bugünden itibaren Microsoft’un bir önceki çalışması live.com arama sites
 
 Belki favori internet tarayıcınızın başlangıç sayfası olarak değil ama genelde sağ üst kısımda bulunan hızlı arama kutusu kısmına ekleyip deneyebileceğiniz alternatifler mevcut bulunuyor. Yani **Google Chrome**, **İnternet Explorer** ve **Firefox** için Bing arama motorunu arama kutusu kısmına ekleyebiliyoruz. 
 
-**Google Chrome** içerisine Bing arama motorunu eklemek için adres çubuğuna sağ tıklayarak &#8220;**Arama motorlarını düzenle**&#8221; dedikten sonra &#8220;**Ekle**&#8221; kısmından Bing aramalarını ekleyebilirsiniz. Bunun için URL kısmına yapacağınız giriş ; **http://www.bing.com/search?q=%s** şeklinde olacaktır. 
+**Google Chrome** içerisine Bing arama motorunu eklemek için adres çubuğuna sağ tıklayarak &#8220;**Arama motorlarını düzenle**&#8221; dedikten sonra &#8220;**Ekle**&#8221; kısmından Bing aramalarını ekleyebilirsiniz. Bunun için URL kısmına yapacağınız giriş ; **https://www.bing.com/search?q=%s** şeklinde olacaktır. 
 
 **İnternet Explorer 8** için eklentiler galerisinden Bing arama ve öneriler kolayca eklenebilir durumda gözüküyor. Şu an için Live Search aramaları Bing&#8217;e yönlendirildiğinden **İnternet Explorer 7** için bu değişikliği Live Search seçimini yaparak kolayca gerçekleştirebilirsiniz. 
 
 **Firefox arama** kutusuna Bing arama motorunu eklemek için ise bunun için oluşturulmuş Bing Search Provider firefox eklentisini kullanabilirsiniz.
 
- [1]: http://bing.com
+ [1]: https://bing.com
  [2]: https://www.murekkep.org/microsoftun-yeni-arama-motoru-bing-ile-tanisalim-2898
  [3]: https://www.murekkep.org/microsoftun-yeni-arama-motoru-bing-beta-olarak-yayinda-3259

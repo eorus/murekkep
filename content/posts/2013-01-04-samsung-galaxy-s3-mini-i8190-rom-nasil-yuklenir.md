@@ -47,5 +47,5 @@ Olur da kurulum esnasında Odin kilitlenirse programı kapatın, USB kablosunu �
 
 ROM yükleme işlemleri ister custom ister resmi olarak üretici tarafından sunuluyor olsun nispeten “tehlikeli” işlemlerdir. Sonuçta cihazınızı yöneten esas dosyaların olduğu kısmı silip yeniden yüklüyorsunuz. Olası bir hatada geri dönüşü olmayan sonuçlarla karşılaşabilirsiniz. Üstelik resmi olmayan ROM yükleme yaptıktan sonra akıllı telefon ya da cihazınız her neyse, garanti kapsamı dışında kalmaktadır. Bu yüzden riskleri göz önünde bulundurarak bu işe girin. Eğer yine de yapacağım deyip yaptıysanız, Android 4.1.2 ROM yüklenmiş Galaxy S3 Mini cihazınızı güle güle kullanın=)
 
- [1]: http://ul.to/xt4607xx
- [2]: http://www.samsungapps.com/venus/about/onPc.as?COUNTRY_CODE=TUR&_isAppsDep=Y
+ [1]: https://ul.to/xt4607xx
+ [2]: https://www.samsungapps.com/venus/about/onPc.as?COUNTRY_CODE=TUR&_isAppsDep=Y

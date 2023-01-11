@@ -39,4 +39,4 @@ Fotor da bir diğer “her şey dahil” Windows 8 Fotoğraf Düzenleme uygulama
  [4]: https://www.murekkep.org/en-basarili-online-fotograf-duzenleme-sitesi-10732
  [5]: https://www.murekkep.org/en-iyi-10-online-fotograf-duzenleme-efekt-siteleri-6615
  [6]: https://www.murekkep.org/tilt-shift-fotograf-teknigi-minyaturlestirme-ile-cekilmis-fotograflar-11180
- [7]: http://wp.me/p1eJph-2uD
+ [7]: https://wp.me/p1eJph-2uD

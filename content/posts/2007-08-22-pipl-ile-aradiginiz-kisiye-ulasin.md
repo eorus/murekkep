@@ -17,6 +17,6 @@ tags:
 
 Infospace, icq, myspace, amazon ve flickr ilk etapta bakılan yerlerden sadece birkaçı. Ayrıntılarına [buradan][3] bakabilirsiniz.
 
- [1]: http://www.pipl.com/
- [2]: http://en.wikipedia.org/wiki/Deep_web
- [3]: http://www.pipl.com/help/deep-web/
+ [1]: https://www.pipl.com/
+ [2]: https://en.wikipedia.org/wiki/Deep_web
+ [3]: https://www.pipl.com/help/deep-web/

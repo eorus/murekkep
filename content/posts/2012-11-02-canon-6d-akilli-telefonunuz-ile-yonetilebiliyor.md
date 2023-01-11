@@ -25,4 +25,4 @@ Yazarak açıklamak gerekirse Canon mobil uygulama ile iki temel özelliği size
 
 Geçmişte insanlar bu gibi özellikleri kullanabilmek için önce kablolara boğulur ardından bir sürü aksesuar, program ve hatta hack gibi birçok araca ihtiyaç duyuyordu. Son zamanlara kadar resmi çözümler biraz işleri kolaylaştırmış, fotoğraf makinenize bir WiFi adaptör takıp benzeri işlemleri yapabiliyordunuz. Fakat Canon 6D ile bu teknolojileri bir araya toplayıp bir adım öteye götürdü. Canon 6D ile başlayan dahili WiFi taşıyan D-SLR yakın gelecekte standart halini almaya aday gibi gözüküyor.
 
- [1]: http://www.youtube.com/watch?feature=player_embedded&v=nJeCIuPf7lo "Canon 6D Akıllı Telefon Kontrol"
+ [1]: https://www.youtube.com/watch?feature=player_embedded&v=nJeCIuPf7lo "Canon 6D Akıllı Telefon Kontrol"

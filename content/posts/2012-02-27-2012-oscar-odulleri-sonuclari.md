@@ -25,21 +25,21 @@ Belirli kategorilerde **2012 Oscar** sonuçlarına, ödül alanlara bakarsak, 10
 ## 2012 Oscar Ödülleri Sonuçları
 
 **<span style="color: #0000ff;">2012 Oscar En İyi Film Ödülü</span>**  
-**Kazanan : <a href="http://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
+**Kazanan : <a href="https://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
 
 **<span style="color: #0000ff;">2012 Oscar En İyi Film Yönetmen</span>**  
-**Kazanan : <a href="http://www.imdb.com/name/nm0371890/" target="_blank">Michel Hazanavicius</a> &#8211; <a href="http://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
+**Kazanan : <a href="https://www.imdb.com/name/nm0371890/" target="_blank">Michel Hazanavicius</a> &#8211; <a href="https://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
 
 **<span style="color: #0000ff;">2012 Oscar En İyi Erkek Oyuncu</span>**  
-**Kazanan : <a href="http://www.imdb.com/name/nm0241121/" target="_blank">Jean Dujardin</a> &#8211; <a href="http://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
+**Kazanan : <a href="https://www.imdb.com/name/nm0241121/" target="_blank">Jean Dujardin</a> &#8211; <a href="https://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
 
 **<span style="color: #0000ff;">2012 Oscar En İyi Kadın Oyuncu</span>**  
-**Kazanan : <a href="http://www.imdb.com/name/nm0000658/" target="_blank">Meryl Streep</a> &#8211; <a href="http://www.imdb.com/title/tt1007029/" target="_blank">The Iron Lady</a> (2011)**
+**Kazanan : <a href="https://www.imdb.com/name/nm0000658/" target="_blank">Meryl Streep</a> &#8211; <a href="https://www.imdb.com/title/tt1007029/" target="_blank">The Iron Lady</a> (2011)**
 
 **<span style="color: #0000ff;">2012 Oscar En İyi Yardımcı Kadın Oyuncu</span>**  
-**Kazanan : <a href="http://www.imdb.com/name/nm0818055/" target="_blank">Octavia Spencer</a> &#8211; <a href="http://www.imdb.com/title/tt1454029/" target="_blank">The Help</a> (2011)**
+**Kazanan : <a href="https://www.imdb.com/name/nm0818055/" target="_blank">Octavia Spencer</a> &#8211; <a href="https://www.imdb.com/title/tt1454029/" target="_blank">The Help</a> (2011)**
 
 **<span style="color: #0000ff;">2012 Oscar En İyi Yardımcı Erkek Oyuncu</span>**  
-**Kazanan : <a href="http://www.imdb.com/name/nm0001626/" target="_blank">Christopher Plummer</a> &#8211; <a href="http://www.imdb.com/title/tt1532503/" target="_blank">Beginners</a> (2010)**
+**Kazanan : <a href="https://www.imdb.com/name/nm0001626/" target="_blank">Christopher Plummer</a> &#8211; <a href="https://www.imdb.com/title/tt1532503/" target="_blank">Beginners</a> (2010)**
 
-**2012 Oscar Sonuçları (ödülleri)** için tam listeye <a title="IMDB Oscar Nominations" href="http://www.imdb.com/oscars/nominations/" target="_blank">Imdb – Road To The Oscars</a> sayfasından bakabilirsiniz.
+**2012 Oscar Sonuçları (ödülleri)** için tam listeye <a title="IMDB Oscar Nominations" href="https://www.imdb.com/oscars/nominations/" target="_blank">Imdb – Road To The Oscars</a> sayfasından bakabilirsiniz.

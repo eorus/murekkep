@@ -72,7 +72,7 @@ Görünüşünün yanında Samsung Galaxy Ace La Fleur teknik özelliklerinden b
  [1]: https://www.murekkep.org/sevgililer-gunu-icin-en-guzel-kalp-fotograflari-valentines-day-11540
  [2]: https://www.murekkep.org/sevgililer-gunu-icin-8-iphone-duvar-kagidi-iphone-wallpaper-4230
  [3]: https://www.murekkep.org/windows-7-sevgililer-gunu-temasi-4257
- [4]: http://wp.me/p1eJph-2Z2
+ [4]: https://wp.me/p1eJph-2Z2
  [5]: https://www.murekkep.org/cp-show-2013de-duyurulmasi-beklenen-kameralar-11285
  [6]: https://www.murekkep.org/samsung-cicek-acacak-9234
  [7]: https://www.murekkep.org/telefon

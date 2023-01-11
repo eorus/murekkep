@@ -24,7 +24,7 @@ Bunun yanısıra NTV&#8217;nin Türk Hava Yolları sponsorluğunda sunacağı Os
 
 Ödül Töreni sonrası 2009 Oscar Ödülleri başlığında görüşmek üzere.
 
- [1]: http://www.ntvmsnbc.com/
+ [1]: https://www.ntvmsnbc.com/
  [2]: https://www.murekkep.org/2009-oscar-adaylari-901
  [3]: https://www.murekkep.org/2008-oscar-sonuclari-530
  [4]: https://www.murekkep.org/2009-oscar-adaylari-en-iyi-film-anketi-1133

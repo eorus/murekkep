@@ -103,8 +103,8 @@ Canon EOS 5D Mark III Mart ayının sonunda yurtdışında piyasaya çıkmış o
 **Adorama  
 ** 
 
-  * <a href="http://www.adorama.com/ICA5DM3.html?kbid=64393" target="_blank" class="broken_link">Canon 5D Mark III Body $3499</a>
-  * <a href="http://www.adorama.com/ICA5DM3K.html?kbid=64393" target="_blank" class="broken_link">Canon 5D Mark III w/24-105 f/4L IS $4299</a>
+  * <a href="https://www.adorama.com/ICA5DM3.html?kbid=64393" target="_blank" class="broken_link">Canon 5D Mark III Body $3499</a>
+  * <a href="https://www.adorama.com/ICA5DM3K.html?kbid=64393" target="_blank" class="broken_link">Canon 5D Mark III w/24-105 f/4L IS $4299</a>
 
 **Amazon  
 ** 
@@ -114,9 +114,9 @@ Canon EOS 5D Mark III Mart ayının sonunda yurtdışında piyasaya çıkmış o
 
 ## Canon EOS 5D Mark III Fiyatı
 
-Canon EOS 5D Mark III&#8217;ün sadece gövdesi için belirlenen satış fiyatı **3500$**. Eğer birlikte kullanılabilecek zoom lens EF 24-105mm f/4L IS USM ile düşünülürse **4300$** gibi bir fiyata denk geliyor. <a href="http://www.turknikon.com/canon-5d-mark-iii-ve-canon-5d-mark-ii-ozellik-karsilastirmasi-7074" target="_blank" class="broken_link">Canon 5D Mark III ve Canon 5D Mark II özellik karşılaştırması</a> için buraya bakabilirsiniz. 2012 yılının ilk çeyreğinde Nikon&#8217;un amiral gemisi Nikon D4 modelini ayrı tutarsak <a href="https://www.murekkep.org/nikon-d800-36-3mp-fx-4-fps-duyuruldu-7726" target="_blank" class="broken_link">36MP FX Nikon D800</a> $2999 iken tercihinizi Canon EOS 5D Mark III&#8217;ten yana kullanır mısınız?
+Canon EOS 5D Mark III&#8217;ün sadece gövdesi için belirlenen satış fiyatı **3500$**. Eğer birlikte kullanılabilecek zoom lens EF 24-105mm f/4L IS USM ile düşünülürse **4300$** gibi bir fiyata denk geliyor. <a href="https://www.turknikon.com/canon-5d-mark-iii-ve-canon-5d-mark-ii-ozellik-karsilastirmasi-7074" target="_blank" class="broken_link">Canon 5D Mark III ve Canon 5D Mark II özellik karşılaştırması</a> için buraya bakabilirsiniz. 2012 yılının ilk çeyreğinde Nikon&#8217;un amiral gemisi Nikon D4 modelini ayrı tutarsak <a href="https://www.murekkep.org/nikon-d800-36-3mp-fx-4-fps-duyuruldu-7726" target="_blank" class="broken_link">36MP FX Nikon D800</a> $2999 iken tercihinizi Canon EOS 5D Mark III&#8217;ten yana kullanır mısınız?
 
  [1]: https://www.murekkep.org/canon-eos-5d-mark-iii-22mp-ile-02-martta-duyurulabilir-8036
  [2]: https://www.murekkep.org/kamera/canon/eos-5d-mark-iii "canon eos 5d mark iii"
- [3]: http://www.bhphotovideo.com/c/product/847545-REG/Canon_5260A002_EOS_5D_Mark_III.html/BI/2466/KBID/3296
- [4]: http://www.bhphotovideo.com/c/product/847546-REG/Canon_5260B009_EOS_5D_Mark_III.html/BI/2466/KBID/3296
+ [3]: https://www.bhphotovideo.com/c/product/847545-REG/Canon_5260A002_EOS_5D_Mark_III.html/BI/2466/KBID/3296
+ [4]: https://www.bhphotovideo.com/c/product/847546-REG/Canon_5260B009_EOS_5D_Mark_III.html/BI/2466/KBID/3296

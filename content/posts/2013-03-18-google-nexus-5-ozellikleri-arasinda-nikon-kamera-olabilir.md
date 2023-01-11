@@ -25,7 +25,7 @@ Akıllı telefon kameralarının iPhone ile beraber oldukça önemli bir noktaya
 
 Google&#8217;ın **Nexus 5** kamerasındaki sensör seçimini Nikon&#8217;dan yana yapacağını ve Nikon&#8217;un 3 sensörlü bir modülü cihaza entegre edeceği yine söylentiler arasında dolaşıyor. Bu üçlü sensör ise Htc&#8217;nin Htc One ile sunduğu [Htc Ultrapiksel][5] veya **Sigma Foveon X3** üzerinde kullanılan aynı teknolojinin kullanılması düşünülüyormuş. Biraz daha detaylandırmak gerekirse daha küçük bir megapiksel sayısına sahip üç sensördeki katmanları, tek bir yüksek çözünürlüklü görüntü oluştururken daha iyi renk oluşturmak ve ışık yakalamak için kullanılması anlamına geliyor.
 
-via <a title="Google Nexus 5 Smartphone Rumored To Have a Nikon Camera On Board" href="http://www.dailycameranews.com/2013/03/google-nexus-5-smartphone-rumored-to-have-a-nikon-camera-on-board/" rel="external dofollow">Google Nexus 5 Smartphone Rumored To Have a Nikon Camera On Board</a>
+via <a title="Google Nexus 5 Smartphone Rumored To Have a Nikon Camera On Board" href="https://www.dailycameranews.com/2013/03/google-nexus-5-smartphone-rumored-to-have-a-nikon-camera-on-board/" rel="external dofollow">Google Nexus 5 Smartphone Rumored To Have a Nikon Camera On Board</a>
 
  [1]: https://www.murekkep.org/telefon/ "telefon"
  [2]: https://www.murekkep.org/htc-one-duyuruldu/ "HTC One 4.7-inç Ekran 1.7Ghz İşlemci ve HTC Zoe Ultrapixel Kamera ile Resmen Duyuruldu"

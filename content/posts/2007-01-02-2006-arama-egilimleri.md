@@ -28,8 +28,8 @@ Tüm 2006 yılı boyunca dünya üzerindeki internet kullanıcılarının [Googl
   9. mininova
  10. wiki
 
- [1]: http://www.google.com
- [2]: http://www.google.com/intl/en/press/zeitgeist2006.html
- [3]: http://fifaworldcup.yahoo.com/
- [4]: http://www.metacafe.com/
- [5]: http://en.wikipedia.org/
+ [1]: https://www.google.com
+ [2]: https://www.google.com/intl/en/press/zeitgeist2006.html
+ [3]: https://fifaworldcup.yahoo.com/
+ [4]: https://www.metacafe.com/
+ [5]: https://en.wikipedia.org/

@@ -35,4 +35,4 @@ Turkcell, T20 modelinin **satış fiyatı** için 3 farklı seçenek sunuyor. Bu
 
 Peşin fiyatına **Turkcell T20 satın almak** istiyorsanız şu anda 462TL gibi bir fiyata sahip ancak bu fiyat her gün açıklanan Merkez bankası döviz kuruna göre değişiyor.
 
-Turkcell T20 satış fiyatını oluşturan yukarıdaki seçenekler ve kampanya 30 Eylül 2011 tarihine kadar geçerliymiş. Turkcell T20 için tüm detaylı bilgileri <a href="http://www.turkcell.com.tr/bireysel/cihazlar/Sayfalar/ceptelefonlari/turkcell-t20.aspx" target="_blank">Turkcell T20 Maxiphone</a> sayfasında bulabilirsiniz.
+Turkcell T20 satış fiyatını oluşturan yukarıdaki seçenekler ve kampanya 30 Eylül 2011 tarihine kadar geçerliymiş. Turkcell T20 için tüm detaylı bilgileri <a href="https://www.turkcell.com.tr/bireysel/cihazlar/Sayfalar/ceptelefonlari/turkcell-t20.aspx" target="_blank">Turkcell T20 Maxiphone</a> sayfasında bulabilirsiniz.

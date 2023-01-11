@@ -29,4 +29,4 @@ Dün Google tarafından tanıtılan yeni sürüm Android 4.2 ile bir çok kullan
 
 Açıkçası biz daha bu iki yolu da denemedik. Fakat Android 4.2 gelmeden Swype benzeri sürekli yazma klavyeyi denemek istiyorum derseniz, kullanıcı deneyimlerinizi bekliyoruz.
 
- [1]: http://wp.me/p1eJph-2hW "android 4.2 klavye"
+ [1]: https://wp.me/p1eJph-2hW "android 4.2 klavye"

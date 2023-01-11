@@ -33,7 +33,7 @@ Böylelikle Gmail hesabınız içerisinden Türkçe olarak, özellikle 2009 baş
 
 [Gmail Labs goes global][4]
 
- [1]: http://gmail.com
- [2]: http://gmailblog.blogspot.com/
- [3]: http://mail.google.com/support/bin/answer.py?hlrm=en&answer=17091
- [4]: http://gmailblog.blogspot.com/2009/03/gmail-labs-goes-global.html
+ [1]: https://gmail.com
+ [2]: https://gmailblog.blogspot.com/
+ [3]: https://mail.google.com/support/bin/answer.py?hlrm=en&answer=17091
+ [4]: https://gmailblog.blogspot.com/2009/03/gmail-labs-goes-global.html

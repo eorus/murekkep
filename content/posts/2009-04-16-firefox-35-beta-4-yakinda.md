@@ -25,8 +25,8 @@ Firefox 3.5 Beta 4&#8217;ün önemli olmasının başında kullanıcıların ilk
 
 Önümüzdeki hafta duyurulması düşünülen **Firefox 3.5 beta 4** günlük internet kullanımız için tabii ki riskli unsurlara sahip olacaktır. Bu aşamada final sürüm öncesi beta sürümleri kullanmaya alışkın değilseniz Mozilla yol haritası içerisinde Firefox 3 serisi için **Firefox 3.0.9** güncellemesi gene önümüzdeki hafta gerçekleşecek. Duyurusu 22 Nisan olarak etiketlenen **Firefox 3.0.9** hata düzeltmeleri ve güvenlik güncellemelerini içerecek ama Firefox 3.5 ile beklenen ana özelliklere sahip olmayacak. 
 
-Eğer mutlaka son sürüm kullanırım diyenlerdenseniz, Mozilla&#8217;nın ftp sitesinden Firefox 3.6 yükleyip kurabilirsiniz. Daha hızlı başlangıç süresi, web uygulamalarını masaüstü uygulamalarına dönüştürme, geliştirilmiş eklenti ve tema desteği gibi özelliklerini sayabileceğimiz **Firefox 3.6**, şu anda Firefox&#8217;un son <a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/" target="_blank" class="broken_link">nightly build</a> dizininde yer alıyor.
+Eğer mutlaka son sürüm kullanırım diyenlerdenseniz, Mozilla&#8217;nın ftp sitesinden Firefox 3.6 yükleyip kurabilirsiniz. Daha hızlı başlangıç süresi, web uygulamalarını masaüstü uygulamalarına dönüştürme, geliştirilmiş eklenti ve tema desteği gibi özelliklerini sayabileceğimiz **Firefox 3.6**, şu anda Firefox&#8217;un son <a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/" target="_blank" class="broken_link">nightly build</a> dizininde yer alıyor.
 
- [1]: http://www.mozilla.org/
+ [1]: https://www.mozilla.org/
  [2]: https://www.murekkep.org/firefox-36-namoroka-ile-tanisin-1991
  [3]: https://wiki.mozilla.org/Releases/Firefox_3.5b4

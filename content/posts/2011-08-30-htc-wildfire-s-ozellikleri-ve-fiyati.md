@@ -31,6 +31,6 @@ Arkada tek bir kameraya sahip olan HTC Wildfire S, 5MP autofocus özellikli led 
 
 ## HTC Wildfire S Fiyatı
 
-2011 Şubat ayında duyurulan **HTC Wildfire S** ilk akıllı telefon için iyi bir tercih olarak gösteriliyor. **HTC Wildfire S modeli** Vodafone Türkiye&#8217;de kampanya dahilinde satılıyor. <a href="http://www.vodafone.com.tr/Kampanyalar/HTC-Wildfire-S-Cihaz-Kampanyasi.php" target="_blank">Vodafone HTC Wildfire S kampanyası</a> için detaylara bakılabilir.
+2011 Şubat ayında duyurulan **HTC Wildfire S** ilk akıllı telefon için iyi bir tercih olarak gösteriliyor. **HTC Wildfire S modeli** Vodafone Türkiye&#8217;de kampanya dahilinde satılıyor. <a href="https://www.vodafone.com.tr/Kampanyalar/HTC-Wildfire-S-Cihaz-Kampanyasi.php" target="_blank">Vodafone HTC Wildfire S kampanyası</a> için detaylara bakılabilir.
 
  [1]: https://www.murekkep.org/etiket/akilli-telefon

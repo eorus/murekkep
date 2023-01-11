@@ -25,12 +25,12 @@ Takip etmek isterseniz aşağıda bazı Google servislerinin ve ürünlerinin **
 
 Google Operating System : [Google&#8217;s Twitter Accounts][9]
 
- [1]: http://twitter.com
- [2]: http://www.google.com.tr
- [3]: http://trends.google.com/websites?q=twitter.com
- [4]: http://www.twitter.com/google
- [5]: http://twitter.com/youtube
- [6]: http://twitter.com/googlereader
- [7]: http://twitter.com/googleapps
- [8]: http://twitter.com/app_engine
- [9]: http://googlesystem.blogspot.com/2009/02/googles-twitter-accounts.html
+ [1]: https://twitter.com
+ [2]: https://www.google.com.tr
+ [3]: https://trends.google.com/websites?q=twitter.com
+ [4]: https://www.twitter.com/google
+ [5]: https://twitter.com/youtube
+ [6]: https://twitter.com/googlereader
+ [7]: https://twitter.com/googleapps
+ [8]: https://twitter.com/app_engine
+ [9]: https://googlesystem.blogspot.com/2009/02/googles-twitter-accounts.html

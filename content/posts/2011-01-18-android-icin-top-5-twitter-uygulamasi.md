@@ -25,7 +25,7 @@ Bu noktada **android için twitter** uygulamalarının nasıl avantajlar sağlad
 
 Daha önce Touiteur olarak bilinen twitter uygulaması, yeni ismi Plume ile android market içerisinde yerini aldı. Ekran kullanımı en iyi twitter uygulaması diyebileceğimiz Plume, küçük ekranı maksimum noktada kullanmaya çalışıyor. Twitter kullanımına ilişkin küçük ikonların yerleşimi, tweetleri takip ederken gönderilmiş tweetler içerisindeki kısa linklerin farklı renklerle ifade edilmesi gibi detaylarla kolay kullanım imkanı sağlıyor. Herhangi bir **tweet** üzerine bir kere tıkladığınızda hemen altında hızlı münü açarak anında mesajlaşmayı ve tweet eden kişi hakkında profil detaylarına ulaşabiliyorsunuz. Android market üzerinden ücretsiz yüklenebilen **Plume** twitter uygulamasının reklam olmayan versiyonu için premium versiyonu satın almanız gerekiyor.
 
-2. <a href="http://twicca.r246.jp/" target="_blank" class="broken_link">Twicca </a>
+2. <a href="https://twicca.r246.jp/" target="_blank" class="broken_link">Twicca </a>
 
 **Twicca** henüz beta aşamasında olan bir diğer android için **twitter uygulaması**. Url kısaltma, coğrafi etiketleme, retweet, renkli linkler ve etiketler gibi çeşitli özelliklere sahip twicca, twitter uygulaması olarak ekran kullanımını plume kadar iyi yapamasa da sunduğu özelliklerin fazlalığı ile dikkat çekiyor. Herhangi bir tweet üzerine basılı tutunca pop up menü açarak hızlı yanıtlama ve çabukluk sağlamaya çalışan Twicca, android market üzerinden indirilebilir bir diğer ücretsiz twitter uygulamasıdır.
 
@@ -33,7 +33,7 @@ Daha önce Touiteur olarak bilinen twitter uygulaması, yeni ismi Plume ile andr
 
 Seesmic twitter için web ve masaüstü üzerinden kullanılabilen güzel uygulamalara sahip. Android için seesmic twitter erişimini kolaylaştırmak için düşünülmüş bir twitter uygulaması. Android işletim sistemi içerisinde seesmic twitter uygulaması özellikle plume gibi ekran kullanımını ön plana çıkarıyor. Çoklu twitter hesabı destekleyen **Seesmic** üzerinden fotoğraf, video ve konum paylaşımı yapılabiliyor. **Tweet listelemesi** gayet kullanışlı ve güzel olan **Seesmic twitter uygulaması**, android market üzerinden ücretsiz indirilebilir.
 
-4. <a href="http://twidroyd.com/" target="_blank" class="broken_link">Twidroyd </a>
+4. <a href="https://twidroyd.com/" target="_blank" class="broken_link">Twidroyd </a>
 
 Twidroid olarak da bilinen twidroyd, resmi twitter uygulamasına oldukça benzeyen bir yapıya sahip. Android ekranında geniş bir şekilde kullanan twidroyd genelde birçok android yüklü cihazda kurulu geliyor. Ücretsiz versiyonu android marketten indirilebilen **Twidroyd**, premium kullanım için **3.99$** bir ücrete sahip. Ücretli versiyonla gelen özellikler arasında zaten seesmic ile gördüğümüz çoklu twitter hesabı kullanabilme ve android masaüstü için üç bileşen ekleme bulunuyor.
 

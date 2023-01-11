@@ -26,5 +26,5 @@ Ekşisözlük&#8217;te Bruce Lee
 [Wikiquote&#8217;de Bruce Lee sözleri][1]  
 [Wikipedia&#8217;da Bruce Lee][2]
 
- [1]: http://en.wikiquote.org/wiki/Bruce_Lee
- [2]: http://tr.wikipedia.org/wiki/Bruce_Lee
+ [1]: https://en.wikiquote.org/wiki/Bruce_Lee
+ [2]: https://tr.wikipedia.org/wiki/Bruce_Lee

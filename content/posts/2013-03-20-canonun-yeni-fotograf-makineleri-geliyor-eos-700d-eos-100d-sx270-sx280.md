@@ -30,7 +30,7 @@ Canon&#8217;un dijital SLR fotoğraf makine dizilişine eklemeyi düşündüğü
 
 Canon&#8217;un geçen seneden beri merakla beklenen  dijital SLR fotoğraf makinesi [Canon EOS 70D için 22 Mart tarihi][7]{.broken_link} beklenen duyuru biraz daha gecikebilirmiş. [Canon EOS 70D&#8217;nin][8] bahar aylarının ilerleyen günlerinde, yaz aylarından önce duyurulması bekleniyor.
 
-via <a title="Canon Digital Cameras To Be Announced on March 22, 2013" href="http://www.dailycameranews.com/2013/03/canon-digital-cameras-to-be-announced-on-march-22-2013/" rel="external dofollow">DailyCameraNews</a>
+via <a title="Canon Digital Cameras To Be Announced on March 22, 2013" href="https://www.dailycameranews.com/2013/03/canon-digital-cameras-to-be-announced-on-march-22-2013/" rel="external dofollow">DailyCameraNews</a>
 
  [1]: https://www.murekkep.org/kamera/canon/eos-700d "canon eos 700d"
  [2]: https://www.murekkep.org/kamera/canon/eos-100d "canon eos 100d"

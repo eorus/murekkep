@@ -20,15 +20,15 @@ Arama motorlarının geleceği olarak kabul edilen **anında arama** (instant se
 
 ### Google Instant
 
-Arama motoru kavramını dünyaya kazandıran Google arama motorunun **google öneriler** sonrası eklediği yeni anında arama özelliği. Yazdıkça arayan **arama motoru** gibi yorumlanabilir. Arama motoru konusunda öncülüğü Google&#8217;ın Google Instant ile yaptığını söyleyebiliriz. Bazı ülkelerde varsayılan olarak google anasayfası açıldığında <a href="http://www.google.com/instant/" target="_blank">Google Instant</a> göremeyebilirsiniz. Kullanabilmek için google.com İngilizce Google anasayfası üzerinde görmeniz mümkün olacaktır.
+Arama motoru kavramını dünyaya kazandıran Google arama motorunun **google öneriler** sonrası eklediği yeni anında arama özelliği. Yazdıkça arayan **arama motoru** gibi yorumlanabilir. Arama motoru konusunda öncülüğü Google&#8217;ın Google Instant ile yaptığını söyleyebiliriz. Bazı ülkelerde varsayılan olarak google anasayfası açıldığında <a href="https://www.google.com/instant/" target="_blank">Google Instant</a> göremeyebilirsiniz. Kullanabilmek için google.com İngilizce Google anasayfası üzerinde görmeniz mümkün olacaktır.
 
 ### Youtube Instant
 
-**Arama kriteri**, sorgusu girildikçe youtube içerisinde arama yapan ve en yaklaşık video sonucunu bulup oynatan youtube anında arama motoru <a href="http://ytinstant.com/" target="_blank">Ytinstant</a>. Google Instant duyurulduktan sonra ortaya çıkan **youtube instant** genç bir geliştirmeci tarafından yaratılmış bir site. Youtube instant aynı Google instant gibi youtube videoları içerisinde arama sorgusunu anında değerlendirip, video sonuçlarını getiriyor.
+**Arama kriteri**, sorgusu girildikçe youtube içerisinde arama yapan ve en yaklaşık video sonucunu bulup oynatan youtube anında arama motoru <a href="https://ytinstant.com/" target="_blank">Ytinstant</a>. Google Instant duyurulduktan sonra ortaya çıkan **youtube instant** genç bir geliştirmeci tarafından yaratılmış bir site. Youtube instant aynı Google instant gibi youtube videoları içerisinde arama sorgusunu anında değerlendirip, video sonuçlarını getiriyor.
 
 ### Wikipedia Instant
 
-Anında arama kavramının ya da **Google Instant** ile gelen özelliğin wikipedia üzerine entegre edilmiş hali. Üst kısımda basit bir arama kutusunun olduğu <a href="http://wikinstant.com/" target="_blank" class="broken_link">Wikinstant.com</a> ile aranacak kelimeyi yazdıkça **wikipedia** içerisindeki karşılığını getiriyor.
+Anında arama kavramının ya da **Google Instant** ile gelen özelliğin wikipedia üzerine entegre edilmiş hali. Üst kısımda basit bir arama kutusunun olduğu <a href="https://wikinstant.com/" target="_blank" class="broken_link">Wikinstant.com</a> ile aranacak kelimeyi yazdıkça **wikipedia** içerisindeki karşılığını getiriyor.
 
 ### Twitter Instant
 
@@ -44,4 +44,4 @@ Anında arama kavramının ya da **Google Instant** ile gelen özelliğin wikipe
 
 ### Instant Domain Search
 
-Benim takip ettiğim kadarıyla **anında arama** kavramını ve arama sorgu dönüşlerini **google instant** gelmeden önce bile getirmiş bir **domain arama** servisi. <a href="http://instantdomainsearch.com/" target="_blank">Instantdomainsearch.com</a> üzerinde uygun olan **alan adlarını** anında aratabiliyorsunuz. Aramak için yazdığınızda, siz yazarken o size .com , .net veya .org uzantılarından hangilerinin uygun ya da olmadığını söylüyor.
+Benim takip ettiğim kadarıyla **anında arama** kavramını ve arama sorgu dönüşlerini **google instant** gelmeden önce bile getirmiş bir **domain arama** servisi. <a href="https://instantdomainsearch.com/" target="_blank">Instantdomainsearch.com</a> üzerinde uygun olan **alan adlarını** anında aratabiliyorsunuz. Aramak için yazdığınızda, siz yazarken o size .com , .net veya .org uzantılarından hangilerinin uygun ya da olmadığını söylüyor.

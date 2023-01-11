@@ -29,5 +29,5 @@ FunPhotoBox üzerinde 60 değişik şekilde oluşturulmuş şablon bulunuyor. Bu
 
 PhotoFunia oldukça keyifli bir yerdi. FunPhotoBox aynı PhotoFunia gibi eğlenceli ve fazla sayıda şablon ve efekt ile montajlanmış resimler oluşturmanızı sağlıyor.
 
- [1]: http://funphotobox.com/
+ [1]: https://funphotobox.com/
  [2]: https://www.murekkep.org/photofunia-ile-resimlerinize-fark-katin-1297

@@ -22,7 +22,7 @@ tags:
 
 Yapmanız gereken tek şey eklentiyi yüklemek, hem firefox 1.5 hem de 2.0 için geçerli bir şekilde kullanabiliyorsunuz. Ardından pageaddict.com adresini ziyaret ettiğinizde hemen ilk verilerinizi görebiliyorsunuz.
 
-Eklenti sayfası : <http://pageaddict.com/>{.broken_link}  
+Eklenti sayfası : <https://pageaddict.com/>{.broken_link}  
 Mozilla Addons : https://addons.mozilla.org/firefox/3685/
 
- [1]: http://pageaddict.com/
+ [1]: https://pageaddict.com/

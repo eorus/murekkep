@@ -24,6 +24,6 @@ Konuşarak ses girdisiyle çeviri yapabilmek için metin yazma bölümünün yan
 
 Tam ekran modunda da çalışabilen **google çeviri iphone uygulaması** App Store üzerinden yüklenebilir ve bunun için **iPhone**, iPod **iOS** sürümlerinin 3 ve sonrası olması gerekmektedir.
 
-<a href="http://googlemobile.blogspot.com/2011/02/introducing-google-translate-app-for.html" target="_blank">Introducing the Google Translate app for iPhone</a>
+<a href="https://googlemobile.blogspot.com/2011/02/introducing-google-translate-app-for.html" target="_blank">Introducing the Google Translate app for iPhone</a>
 
  [1]: https://www.murekkep.org/google-ceviri-ile-yabanci-dil-konusun-3677

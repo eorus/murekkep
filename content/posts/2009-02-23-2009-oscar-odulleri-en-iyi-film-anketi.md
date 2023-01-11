@@ -22,7 +22,7 @@ Oscar ödülleri artık sahibini bulduğu için anketimiz bu sabah itibariyle so
 **2009 Oscar Sonuçlarına** baktığımızda gerçek sıralamanın aşağıdaki gibi gerçekleştiğini söyleyebiliriz. 2009 Oscarlarının en iyi filmi **Slumdog Millionaire** oldu. 
 
 **<span style="color: rgb(0, 0, 255);">2009 Oscar En İyi Film Ödülü</span>**  
-**Kazanan : <a href="http://www.imdb.com/title/tt1010048/" target="_blank">Slumdog Millionaire</a>**
+**Kazanan : <a href="https://www.imdb.com/title/tt1010048/" target="_blank">Slumdog Millionaire</a>**
 
 <small>Adaylar : The Curious Case of Benjamin Button, Frost/Nixon, Milk, The Reader</small>
 

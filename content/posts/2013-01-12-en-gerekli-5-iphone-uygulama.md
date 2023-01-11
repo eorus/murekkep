@@ -57,10 +57,10 @@ Size bahsedeceğimiz son iPhone uygulama seçeneğimiz **Find My iPhone** olacak
 
 <img class="aligncenter size-large wp-image-10803" alt="find-my-iphone" src="https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone-233x400.jpg" width="233" height="400" srcset="https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone-233x400.jpg 233w, https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone-29x50.jpg 29w, https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone-58x100.jpg 58w, https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone-116x200.jpg 116w, https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone-178x305.jpg 178w, https://www.murekkep.org/wp-content/uploads/2013/01/find-my-iphone.jpg 320w" sizes="(max-width: 233px) 100vw, 233px" />
 
- [1]: http://itunes.apple.com/gb/app/shazam/id284993459?mt=8
+ [1]: https://itunes.apple.com/gb/app/shazam/id284993459?mt=8
  [2]: https://www.murekkep.org/evernote-android-uygulamasi-ile-her-yerde-not-alin-8686
- [3]: http://itunes.apple.com/gb/app/evernote/id281796108?mt=8
+ [3]: https://itunes.apple.com/gb/app/evernote/id281796108?mt=8
  [4]: https://itunes.apple.com/gb/app/pocket-formerly-read-it-later/id309601447?mt=8
  [5]: https://www.murekkep.org/en-basarili-online-fotograf-duzenleme-sitesi-10732
- [6]: http://itunes.apple.com/gb/app/adobe-photoshop-express/id331975235?mt=8
+ [6]: https://itunes.apple.com/gb/app/adobe-photoshop-express/id331975235?mt=8
  [7]: https://itunes.apple.com/gb/app/find-my-iphone/id376101648?mt=8

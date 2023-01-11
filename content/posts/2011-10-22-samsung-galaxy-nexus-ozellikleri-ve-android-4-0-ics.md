@@ -19,7 +19,7 @@ tags:
 ---
 Google **Galaxy Nexus**, Google&#8217;ın Android 4.0 olarak duyurduğu android işletim sistemi tabanlı yeni telefonu tanıtıldı. Google ve Samsung&#8217;un ortak olarak tanıttığı Google Galaxy Nexus, android işletim sisteminin yeni sürümü olan **Android 4.0 &#8220;Ice Cream Sandwich&#8221;** kullanan ilk [akıllı telefon][1] olacak.
 
-Google üretimi için Samsung&#8217;u kullanarak tanıttığı **Nexus** isimli akıllı telefon serisinin üçüncü modeli olan Galaxy Nexus&#8217;u duyurdu. Böylelikle Nexus serisinin &#8220;nexus one&#8221;, &#8220;nexus s&#8221; sürümlerinden sonra yeni google telefonun ismi <a title="Galaxy Nexus" href="http://www.google.com/nexus/" target="_blank" class="broken_link"><strong>Galaxy Nexus</strong></a> olacak. Kısaca anlatmak gerekirse Google Android işletim sistemi sürümlerini tanıtmak ve kullanmak amacıyla her yeni versiyonu bir akıllı telefon ile entegre ederek duyuruyor. Android 4.0 Ice Cream Sandwich için bu [telefon][2] Samsung ile birlikte çalışarak sunacağı Google Galaxy Nexus olacak.
+Google üretimi için Samsung&#8217;u kullanarak tanıttığı **Nexus** isimli akıllı telefon serisinin üçüncü modeli olan Galaxy Nexus&#8217;u duyurdu. Böylelikle Nexus serisinin &#8220;nexus one&#8221;, &#8220;nexus s&#8221; sürümlerinden sonra yeni google telefonun ismi <a title="Galaxy Nexus" href="https://www.google.com/nexus/" target="_blank" class="broken_link"><strong>Galaxy Nexus</strong></a> olacak. Kısaca anlatmak gerekirse Google Android işletim sistemi sürümlerini tanıtmak ve kullanmak amacıyla her yeni versiyonu bir akıllı telefon ile entegre ederek duyuruyor. Android 4.0 Ice Cream Sandwich için bu [telefon][2] Samsung ile birlikte çalışarak sunacağı Google Galaxy Nexus olacak.
 
 ## Android 4.0 ICS
 
@@ -59,4 +59,4 @@ Galaxy Nexus için Youtube üzerindeki tanıtım videosu.
 
  [1]: https://www.murekkep.org/etiket/akilli-telefon "Akıllı Telefon"
  [2]: https://www.murekkep.org/etiket/telefon "Telefon"
- [3]: http://www.burcinyazici.com/android-4-0-platform-gelistiriciler-icin-duyuruldu-1707.html "android 4.0 duyuruldu"
+ [3]: https://www.burcinyazici.com/android-4-0-platform-gelistiriciler-icin-duyuruldu-1707.html "android 4.0 duyuruldu"

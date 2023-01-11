@@ -47,15 +47,15 @@ Fotoğrafı çekilen konuya göre yukarıda belirttiğimiz şekilde enstantane d
 
   * **Kısa pozlama nedir :** Anı yakalama, hareketi dondurma ya da ışığın patladığı noktalarda sensöre düşen ışığı azaltmak amacıyla hızlı enstantane değerleriyle çekim yapabilirsiniz. 1 saniyenin altında, 1/100 ve daha azı sürelerde yapılan çekimler kısa pozlamayı ifade etmektedir.<figure style="width: 500px" class="wp-caption alignnone">
 
-[<img class="  " alt="kısa pozlama örneği" src="http://farm7.staticflickr.com/6130/5946572807_34deafde11.jpg" width="500" height="333" />][3]{.broken_link}<figcaption class="wp-caption-text">1/400 enstantane hızı ile kısa pozlama</figcaption></figure> 
+[<img class="  " alt="kısa pozlama örneği" src="https://farm7.staticflickr.com/6130/5946572807_34deafde11.jpg" width="500" height="333" />][3]{.broken_link}<figcaption class="wp-caption-text">1/400 enstantane hızı ile kısa pozlama</figcaption></figure> 
 
   * **Uzun pozlama nedir**: Hafif ışıkta hareket eden bir objenin yaymış olduğu hareket hissinin, uzun pozlanarak mevcut ışığın hüzmeleriyle fotoğrafa aktarımı olarak tanımlanır. Eğer ortamda bulunan ışık az ise sensöre düşen ışığı arttırmak için yavaş enstantane değeri kullanabilirsiniz. 1/15 enstantane değeri ve 1 saniye üzerinde olan tüm değerler fotoğrafta uzun pozlamayı ifade etmektedir.<figure style="width: 500px" class="wp-caption alignnone">
 
-[<img class=" " alt="standart uzun pozlama" src="http://farm7.staticflickr.com/6173/6221070730_5332308402.jpg" width="500" height="332" />][4]<figcaption class="wp-caption-text">1/15 sn enstantane hızı ile uzun pozlama</figcaption></figure> <figure style="width: 500px" class="wp-caption alignnone">[<img class="  " alt="uzun pozlama örneği" src="http://farm7.staticflickr.com/6063/6024460793_4674ea01cf.jpg" width="500" height="333" />][5]{.broken_link}<figcaption class="wp-caption-text">25 sn / ƒ/22 / ISO200 / 26mm</figcaption></figure> 
+[<img class=" " alt="standart uzun pozlama" src="https://farm7.staticflickr.com/6173/6221070730_5332308402.jpg" width="500" height="332" />][4]<figcaption class="wp-caption-text">1/15 sn enstantane hızı ile uzun pozlama</figcaption></figure> <figure style="width: 500px" class="wp-caption alignnone">[<img class="  " alt="uzun pozlama örneği" src="https://farm7.staticflickr.com/6063/6024460793_4674ea01cf.jpg" width="500" height="333" />][5]{.broken_link}<figcaption class="wp-caption-text">25 sn / ƒ/22 / ISO200 / 26mm</figcaption></figure> 
 
   * **Bulb:** Enstantane değerinin fotoğraf makinelerinde azami sınır olarak 30 saniye olduğunu belirtmiştik. Fotoğraf makinesinde izin verilen en yavaş enstantane hızından (30 sn) daha da yavaş sürede pozlama (uzun pozlama) yapmak istediğiniz  durumlarda sınırsız anlamına gelen &#8220;B/ Bulb&#8221; modu devreye sokarak enstantane süresini istediğiniz gibi belirleyebilirsiniz.<figure style="width: 500px" class="wp-caption alignnone">
 
-[<img class=" " alt="yıldız izleri" src="http://farm1.staticflickr.com/190/481126091_b751463fd6.jpg" width="500" height="333" />][6]<figcaption class="wp-caption-text">1 saat (60 sn) enstantane hızı ile uzun pozlama</figcaption></figure> 
+[<img class=" " alt="yıldız izleri" src="https://farm1.staticflickr.com/190/481126091_b751463fd6.jpg" width="500" height="333" />][6]<figcaption class="wp-caption-text">1 saat (60 sn) enstantane hızı ile uzun pozlama</figcaption></figure> 
 
 ## Enstantane Hakkında Bilinmesi Gerekenler
 
@@ -74,7 +74,7 @@ Fotoğrafı çekilen konuya göre yukarıda belirttiğimiz şekilde enstantane d
 
  [1]: https://www.murekkep.org/dogru-pozlama-nedir/ "doğru pozlama nedir"
  [2]: https://www.murekkep.org/uzun-pozlama-nedir/ "Uzun Pozlama Nedir? Uzun Pozlama Nasıl Yapılır?"
- [3]: http://www.flickr.com/photos/eorus/5946572807
- [4]: http://www.flickr.com/photos/eorus/6221070730/
- [5]: http://www.flickr.com/photos/eorus/6024460793
- [6]: http://www.flickr.com/photos/_belial/481126091/
+ [3]: https://www.flickr.com/photos/eorus/5946572807
+ [4]: https://www.flickr.com/photos/eorus/6221070730/
+ [5]: https://www.flickr.com/photos/eorus/6024460793
+ [6]: https://www.flickr.com/photos/_belial/481126091/

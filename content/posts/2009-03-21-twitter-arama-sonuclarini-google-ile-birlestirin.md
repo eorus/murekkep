@@ -32,8 +32,8 @@ Ayrıntılı olarak **Google aramalarınızda Twitter sonuçlarına** nasıl ula
 
 [Realtime Twitter Search Results on Google][5]{.broken_link}
 
- [1]: http://twitter.com
- [2]: http://google.com
- [3]: http://search.twitter.com/
+ [1]: https://twitter.com
+ [2]: https://google.com
+ [3]: https://search.twitter.com/
  [4]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [5]: http://mt-hacks.com/20090302-realtime-twitter-search-results-on-google.html
+ [5]: https://mt-hacks.com/20090302-realtime-twitter-search-results-on-google.html

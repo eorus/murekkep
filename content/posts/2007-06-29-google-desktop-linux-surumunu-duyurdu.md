@@ -20,14 +20,14 @@ tags:
 
 Sistem gereksinimi olarak glibc 2.3.2+ ve gtk+ 2.2.0+ ihtiyaç duyan Google Desktop, rpm ve deb paketi olarak indirilebiliyor. Bunun dışındaki kurulumlar için Google Linux [deposuna][3] bakabilirsiniz. Kurulum betiği olarak şu iki komut kullanılabiliyor.
 
-<pre>wget http://dl.google.com/linux/google-repo-setup.sh</pre>
+<pre>wget https://dl.google.com/linux/google-repo-setup.sh</pre>
 
 <pre>bash google-repo-setup.sh</pre>
 
 Böylelikle Google daha önce duyurmuş olduğu [Google Earth][4] ve [Picasa][5]&#8216;dan sonra Google Desktop&#8217;u da Linux için sunmuş oldu.
 
- [1]: http://desktop.google.com/linux/
- [2]: http://googledesktop.blogspot.com/2007/06/desktop-for-linux.html
- [3]: http://www.google.com/linuxrepositories/
- [4]: http://earth.google.com/
- [5]: http://picasa.google.com/
+ [1]: https://desktop.google.com/linux/
+ [2]: https://googledesktop.blogspot.com/2007/06/desktop-for-linux.html
+ [3]: https://www.google.com/linuxrepositories/
+ [4]: https://earth.google.com/
+ [5]: https://picasa.google.com/

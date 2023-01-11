@@ -26,4 +26,4 @@ Google Chrome seçenekler bölümünden &#8220;Gelişmiş Seçenekler&#8221; sek
 
 [Desktop notifications for emails and chat messages][1]
 
- [1]: http://gmailblog.blogspot.com/2011/01/desktop-notifications-for-emails-and.html
+ [1]: https://gmailblog.blogspot.com/2011/01/desktop-notifications-for-emails-and.html

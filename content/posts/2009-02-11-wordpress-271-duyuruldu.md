@@ -16,7 +16,7 @@ Gerçek [WordPress 2.7.1 duyurusu][2]na gelirsek toplamda [68 tane][3] bekleyen 
 
 Henüz WordPress 2.7&#8217;e terfi etmemiş kullanıcılar için tekrar bir not düşelim. Eğer hala WordPress 2.7 altındaki sürümlerden herhangi birini kullanıyorsanız eski usül tabir edebileceğimiz şekilde yükseltme işlemini gerçekleştirebilirsiniz.
 
- [1]: http://wordpress.org
- [2]: http://wordpress.org/development/2009/02/wordpress-271/
- [3]: http://core.trac.wordpress.org/query?status=closed&milestone=2.7.1&resolution=fixed&order=priority
+ [1]: https://wordpress.org
+ [2]: https://wordpress.org/development/2009/02/wordpress-271/
+ [3]: https://core.trac.wordpress.org/query?status=closed&milestone=2.7.1&resolution=fixed&order=priority
  [4]: https://www.murekkep.org/wordpress-27-yonetim-paneli-degisiklikleri-656

@@ -20,7 +20,7 @@ Flickr muazzam bir liste ve analiz yayınladı. Buna, ilgili piyasanın mükemme
   <p>
     <!--more-->Tüm 
     
-    <a href="http://en.wikipedia.org/wiki/Flickr">Flickr</a> kullanıcılarının oluşturduğu veritabanı sonuçlarında en popüler kameraları görebiliyorsunuz. Bunun yanısıra point&shoot kameralar ile cep telefonu kameraları da bu listeye dahil edilmiş.
+    <a href="https://en.wikipedia.org/wiki/Flickr">Flickr</a> kullanıcılarının oluşturduğu veritabanı sonuçlarında en popüler kameraları görebiliyorsunuz. Bunun yanısıra point&shoot kameralar ile cep telefonu kameraları da bu listeye dahil edilmiş.
   </p>
   
   <p style="text-align: center">
@@ -29,10 +29,10 @@ Flickr muazzam bir liste ve analiz yayınladı. Buna, ilgili piyasanın mükemme
     </p>
     
     <p>
-      http://www.flickr.com/cameras/
+      https://www.flickr.com/cameras/
     </p>
 
- [1]: http://en.wikipedia.org/wiki/Web_2
- [2]: http://www.flickr.com/
- [3]: http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
- [4]: http://en.wikipedia.org/wiki/Point_and_shoot_camera
+ [1]: https://en.wikipedia.org/wiki/Web_2
+ [2]: https://www.flickr.com/
+ [3]: https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera
+ [4]: https://en.wikipedia.org/wiki/Point_and_shoot_camera

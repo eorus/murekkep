@@ -16,7 +16,7 @@ tags:
 ---
 **Android tabletler**, içinde **android işletim sistemi** yüklü olan ve internet erişimi ile **e-book indirme ve okuma** imkanı sağlayan 7&#8243; inch veya 10&#8243; inch boyutlarında olan cihazlardır. Aynı **Apple iPad** gibi benzer özelliklere sahip olan ama Google tarafından desteklenen android işletim sistemini kullanan android tabletler, internette uygun fiyatlar ile **yılbaşı öncesi** sıkça karşınıza çıkmaya başlamıştır.
 
-<a href="http://www.lightinthebox.com/" target="_blank">Lightinthebox</a> internet sitesinin **google reklamları** aracılığı ile duyurduğu uygun fiyatlı android tabletlerin özelliklerine lightinthebox sitesinde ürün açıklamaları kısmından bakabiliyorsunuz. Özellikle yeni yıl öncesi ciddi bir google reklam gösterimine sahip Lightinthebox üzerinden geçtiğimiz hafta bir adet **android tablet** siparişi verdim. Bu siteden **online alışveriş** yaparken ve ürünün elime geçişine kadar olan süreci kısaca aktarmaya çalışacağım. Şimdi aldığım Android Tablet&#8217;in özelliklerine kısaca bakalım.
+<a href="https://www.lightinthebox.com/" target="_blank">Lightinthebox</a> internet sitesinin **google reklamları** aracılığı ile duyurduğu uygun fiyatlı android tabletlerin özelliklerine lightinthebox sitesinde ürün açıklamaları kısmından bakabiliyorsunuz. Özellikle yeni yıl öncesi ciddi bir google reklam gösterimine sahip Lightinthebox üzerinden geçtiğimiz hafta bir adet **android tablet** siparişi verdim. Bu siteden **online alışveriş** yaparken ve ürünün elime geçişine kadar olan süreci kısaca aktarmaya çalışacağım. Şimdi aldığım Android Tablet&#8217;in özelliklerine kısaca bakalım.
 
 ## Android Tablet Özellikleri
 

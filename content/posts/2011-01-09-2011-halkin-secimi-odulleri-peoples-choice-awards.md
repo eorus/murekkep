@@ -21,4 +21,4 @@ tags:
 
 2011 People’s Choice Awards
 
-En iyi filmin &#8220;**The Twilight Saga: Eclipse**&#8221; seçildiği, en iyi erkek oyuncunun **Johnny Depp**, en iyi televizyon drama dizisinin **House** ve ailemizin doktoru Hugh Laurie&#8217;nin en iyi drama dizi oyuncusu seçildiği **2011 People&#8217;s Choice Awards** ödül töreninde diğer dallarda ödüllerin kime gittiğine <a href="http://www.peopleschoice.com/pca/awards/nominees/index.jsp" target="_blank">People&#8217;s Choice Awards 2011 Nominees</a> sayfasından bakabilirsiniz.
+En iyi filmin &#8220;**The Twilight Saga: Eclipse**&#8221; seçildiği, en iyi erkek oyuncunun **Johnny Depp**, en iyi televizyon drama dizisinin **House** ve ailemizin doktoru Hugh Laurie&#8217;nin en iyi drama dizi oyuncusu seçildiği **2011 People&#8217;s Choice Awards** ödül töreninde diğer dallarda ödüllerin kime gittiğine <a href="https://www.peopleschoice.com/pca/awards/nominees/index.jsp" target="_blank">People&#8217;s Choice Awards 2011 Nominees</a> sayfasından bakabilirsiniz.

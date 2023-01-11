@@ -13,7 +13,7 @@ tags:
 ---
 Bildiğiniz üzere 4.5 G hayatımıza girdi.  Peki, **iPhone için 4.5 G ayarlarını** nasıl yapacağız? 4.5 G kullanmak için ne yapmak gerektiğini aşağıdaki bilgilerle aktarıyoruz.
 
-_<a href="http://www.4nokta5g.com" target="_blank">4.5 G</a>_, daha yüksek mobil internet hızı, daha fazla veri kapasitesi ve gecikme süresini aşağı çeken dördüncü nesil telekomünikasyon hizmetidir.
+_<a href="https://www.4nokta5g.com" target="_blank">4.5 G</a>_, daha yüksek mobil internet hızı, daha fazla veri kapasitesi ve gecikme süresini aşağı çeken dördüncü nesil telekomünikasyon hizmetidir.
 
 **4.5 G&#8217;ye geçilmesiyle beraber** internet tarife paketleri ve kullanılan akıllı telefonların uyumlu olup olmadığı en çok sorulan sorular arasında geliyor. Öncelikle şunu belirtelim, bugün itibariyle cep telefonu piyasasında 2015 yılından itibaren satılan üst seviyeki tüm telefonlar 4.5 G teknolojisini destekliyor.
 

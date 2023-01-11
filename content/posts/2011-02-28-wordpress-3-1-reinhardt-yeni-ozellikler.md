@@ -31,9 +31,9 @@ WordPress blogunuz üzerindeki esas yapılan işlem yazı yazmak ve bu yazıyı 
 Post formats hakkında bilgi edinebileceğiniz linkler :
 
   * WordPress Codex: Post Formats
-  * <a title="http://ottopress.com/2010/post-types-and-formats-and-taxonomies-oh-my/" href="http://ottopress.com/2010/post-types-and-formats-and-taxonomies-oh-my/" target="_blank">Post Types and Formats and Taxonomies, oh my!</a>
-  * <a title="http://andrewnacin.com/2011/01/27/on-standardized-post-formats/" href="http://andrewnacin.com/2011/01/27/on-standardized-post-formats/" target="_blank">On standardized Post Formats</a>
-  * <a title="http://markjaquith.wordpress.com/2010/11/12/post-formats-vs-custom-post-types/" href="http://markjaquith.wordpress.com/2010/11/12/post-formats-vs-custom-post-types/" target="_blank">Post Formats vs. Post Types</a>
+  * <a title="https://ottopress.com/2010/post-types-and-formats-and-taxonomies-oh-my/" href="https://ottopress.com/2010/post-types-and-formats-and-taxonomies-oh-my/" target="_blank">Post Types and Formats and Taxonomies, oh my!</a>
+  * <a title="https://andrewnacin.com/2011/01/27/on-standardized-post-formats/" href="https://andrewnacin.com/2011/01/27/on-standardized-post-formats/" target="_blank">On standardized Post Formats</a>
+  * <a title="https://markjaquith.wordpress.com/2010/11/12/post-formats-vs-custom-post-types/" href="https://markjaquith.wordpress.com/2010/11/12/post-formats-vs-custom-post-types/" target="_blank">Post Formats vs. Post Types</a>
 
 ### WordPress Admin Bar
 

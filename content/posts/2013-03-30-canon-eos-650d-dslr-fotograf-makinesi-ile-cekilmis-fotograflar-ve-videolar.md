@@ -61,7 +61,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="Tunisia" alt="Tunisia" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_01.jpg" width="140" height="93" />Tunisia
+          <img title="Tunisia" alt="Tunisia" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_01.jpg" width="140" height="93" />Tunisia
         </p>
       </div>
     </td>
@@ -83,7 +83,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/downloads/01.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 8.25 MB)</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/downloads/01.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 8.25 MB)</a>
     </td>
   </tr>
   
@@ -93,7 +93,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="Portrait" alt="Portrait" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_02.jpg" width="140" height="93" />Portrait
+          <img title="Portrait" alt="Portrait" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_02.jpg" width="140" height="93" />Portrait
         </p>
       </div>
     </td>
@@ -115,7 +115,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/downloads/02.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 4.35 MB)</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/downloads/02.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 4.35 MB)</a>
     </td>
   </tr>
   
@@ -125,7 +125,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="Interior" alt="Interior" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_03.jpg" width="140" height="93" />Interior
+          <img title="Interior" alt="Interior" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_03.jpg" width="140" height="93" />Interior
         </p>
       </div>
     </td>
@@ -147,7 +147,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/downloads/03.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 9.07 MB)</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/downloads/03.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 9.07 MB)</a>
     </td>
   </tr>
   
@@ -157,7 +157,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="Sleeping" alt="Sleeping" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_04.jpg" width="140" height="93" />Sleeping
+          <img title="Sleeping" alt="Sleeping" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_04.jpg" width="140" height="93" />Sleeping
         </p>
       </div>
     </td>
@@ -179,7 +179,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/downloads/04.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 5.76 MB)</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/downloads/04.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 5.76 MB)</a>
     </td>
   </tr>
   
@@ -189,7 +189,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="Cat (High ISO Speed Shooting)" alt="Cat (High ISO Speed Shooting)" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_05.jpg" width="140" height="93" />Cat (High ISO Speed Shooting)
+          <img title="Cat (High ISO Speed Shooting)" alt="Cat (High ISO Speed Shooting)" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/image_thumb_05.jpg" width="140" height="93" />Cat (High ISO Speed Shooting)
         </p>
       </div>
     </td>
@@ -211,7 +211,7 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/downloads/05.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 5.13 MB)</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/downloads/05.jpg" target="_blank" rel="shadowbox[sbpost-777];player=img; external nofollow" class="broken_link">(JPG : 5.13 MB)</a>
     </td>
   </tr>
 </table>
@@ -241,17 +241,17 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="I can fly" alt="I can fly" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_01.jpg" width="338" height="190" />I can fly
+          <img title="I can fly" alt="I can fly" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_01.jpg" width="338" height="190" />I can fly
         </p>
       </div>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
     </td>
   </tr>
   
@@ -261,17 +261,17 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="The maiking of “I can fly”" alt="The maiking of “I can fly”" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_01making.jpg" width="338" height="190" />The maiking of “I can fly”
+          <img title="The maiking of “I can fly”" alt="The maiking of “I can fly”" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_01making.jpg" width="338" height="190" />The maiking of “I can fly”
         </p>
       </div>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly_maiking/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly_maiking/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly_maiking/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_I_can_fly_maiking/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
     </td>
   </tr>
   
@@ -281,17 +281,17 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="Kids" alt="Kids" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_02.jpg" width="338" height="190" />Kids
+          <img title="Kids" alt="Kids" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_02.jpg" width="338" height="190" />Kids
         </p>
       </div>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
     </td>
   </tr>
   
@@ -301,22 +301,22 @@ Daha önce fotoğraf paylaşım platformlarında yer alan en güzel Canon EOS 65
       
       <div>
         <p>
-          <img title="The making of “Kids”" alt="The making of “Kids”" src="http://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_02making.jpg" width="338" height="190" />The making of “Kids”
+          <img title="The making of “Kids”" alt="The making of “Kids”" src="https://web.canon.jp/imaging/eosd/samples/eos650d/img/movie_capture_02making.jpg" width="338" height="190" />The making of “Kids”
         </p>
       </div>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids_maiking/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids_maiking/movie.html?high" target="_blank" rel="nofollow external" class="broken_link">960 x 540 1.5Mbps</a>
     </td>
     
     <td>
-      <a title="" href="http://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids_maiking/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
+      <a title="" href="https://web.canon.jp/imaging/eosd/samples/eos650d/player_Kids_maiking/movie.html?low" target="_blank" rel="nofollow external" class="broken_link">480 x 270 512kbps</a>
     </td>
   </tr>
 </table>
 
-via <a title="Canon EOS 650D / Rebel T4i DSLR Camera Sample Images and Movies" href="http://www.dailycameranews.com/2013/03/canon-eos-650d-rebel-t4i-dslr-camera-sample-images-and-movies/" rel="external dofollow">Canon EOS 650D / Rebel T4i DSLR Camera Sample Images and Movies</a>
+via <a title="Canon EOS 650D / Rebel T4i DSLR Camera Sample Images and Movies" href="https://www.dailycameranews.com/2013/03/canon-eos-650d-rebel-t4i-dslr-camera-sample-images-and-movies/" rel="external dofollow">Canon EOS 650D / Rebel T4i DSLR Camera Sample Images and Movies</a>
 
  [1]: https://www.murekkep.org/kamera/canon/eos-650d "canon eos 650d"
  [2]: https://www.murekkep.org/kamera/canon

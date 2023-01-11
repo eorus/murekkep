@@ -17,8 +17,8 @@ Duvar kağıdına mı ihtiyacınız var? Herhangi birşey olabilir mi yoksa bell
 
 Sitenin basit ve kullanışlı bir arayüzü var. Arzu ederseniz 20,40,100 olarak geçen sayısal butonlara basıp herhangi bir anahtar kelimeye bağlı kalmaksızın rastgele resimlerin gelmesini sağlayabilirsiniz. Ya da arzu ederseniz bir arama kriteri belirleyip istediğiniz anahtar kelimeye göre sonuçları çağırabilirsiniz.
 
-Link: [http://www.marcogomes.com/wallpapr/ ][2]{.broken_link}
+Link: [https://www.marcogomes.com/wallpapr/ ][2]{.broken_link}
 
- [1]: http://www.flickr.com/
- [2]: http://www.marcogomes.com/wallpapr/
- [3]: http://www.flickr.com/groups/wallpapers/
+ [1]: https://www.flickr.com/
+ [2]: https://www.marcogomes.com/wallpapr/
+ [3]: https://www.flickr.com/groups/wallpapers/

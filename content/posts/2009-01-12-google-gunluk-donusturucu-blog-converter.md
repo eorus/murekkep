@@ -18,10 +18,10 @@ tags:
 
 Diğer tüm ayrıntılar için [Google Blog Converter][1] sayfasına bakabilirsiniz.
 
- [1]: http://code.google.com/p/google-blog-converters-appengine/
- [2]: http://google-opensource.blogspot.com/
- [3]: http://google-opensource.blogspot.com/2009/01/google-blog-converters-10-released.html
- [4]: http://www.blogger.com/
- [5]: http://www.livejournal.com/
- [6]: http://www.movabletype.com/
- [7]: http://www.wordpress.com/
+ [1]: https://code.google.com/p/google-blog-converters-appengine/
+ [2]: https://google-opensource.blogspot.com/
+ [3]: https://google-opensource.blogspot.com/2009/01/google-blog-converters-10-released.html
+ [4]: https://www.blogger.com/
+ [5]: https://www.livejournal.com/
+ [6]: https://www.movabletype.com/
+ [7]: https://www.wordpress.com/

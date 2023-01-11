@@ -16,7 +16,7 @@ tags:
 
 [Bing arama arkaplan fotoğraflarını gezmek][2]{.broken_link} ve hepsine ayrı ayrı bakmak uzun bir zaman dilimi gerektirecektir. **Bingrounder** uygulaması ile bing arkaplan fotoğraflarını **masaüstü duvar kağıdı** olarak atayabilir ve her gün için bing arama motorunda çıkan fotoğrafın masaüstünüzde duvar kağıdı olarak gözükmesini sağlayabilirsiniz.
 
-Ücretsiz bir uygulama olan <a href="http://bingrounder.codeplex.com/" target="_blank" class="broken_link">Bingrounder</a>, windows görev çubuğuna yerleşerek arkaplanda çalışıyor ve masaüstü duvar kağıdını otomatik olarak değiştiriyor. Uygulamanın sağladığı diğer özellikler ise şu şekildedir.
+Ücretsiz bir uygulama olan <a href="https://bingrounder.codeplex.com/" target="_blank" class="broken_link">Bingrounder</a>, windows görev çubuğuna yerleşerek arkaplanda çalışıyor ve masaüstü duvar kağıdını otomatik olarak değiştiriyor. Uygulamanın sağladığı diğer özellikler ise şu şekildedir.
 
 ## Bingrounder Uygulama Özellikleri
 

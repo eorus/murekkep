@@ -43,5 +43,5 @@ Bu web sitesi tüm anlattığımız siteler içinde en geniş efekt, film ve çe
 
 &nbsp;
 
- [1]: http://www.rollip.com/start
- [2]: http://pixlr.com/o-matic/
+ [1]: https://www.rollip.com/start
+ [2]: https://pixlr.com/o-matic/

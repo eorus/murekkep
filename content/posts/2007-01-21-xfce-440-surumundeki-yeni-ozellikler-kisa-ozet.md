@@ -19,7 +19,7 @@ Xfce masaüstü yöneticisin ana geliştiricilerinden Benedikt Meurer, yakında 
 
 <!--more-->
 
-<img src="https://www.murekkep.org/wp-content/uploads/2007/01/xfce44-thunar.kucukresim.png" align="right" /> **Xffm** yerine tamamen yeniden yazılmış <a href="http://thunar.xfce.org/" target="_blank">Thunar</a> dosya yöneticisi geldi. Hafif ve sade bir tasarıma sahip. Ayrıca nautilius kadar şişik de değil. Önceden Xfce altında bir çok kişi Rox dosya yöneticisi kullanırdı, hala da kullanan var. Fakat **<a href="http://rox.sourceforge.net/" target="_blank">Rox</a>**&#8216;un kullanımı biraz değişik olduğu için(örneği kes yapıştır özelliği yok), yeni kullanıcılar kullanmayı sevmiyordu, xffm ise çok karmaşık idi. Thunar işte bu boşluğu dolduruyor. Xfce&#8217;un felsefesi ve yapısı itibariyle çok güzel uyuşuyor. Bir çok dosyayı aniden düzenleme, plugin desteği, çıkarılabilir sabit disk desteği gibi bir çok özellikleri de var. **Kişisel işlem** özelliği ile de, kendinize göre daha da özelleştirebilirsiniz. Örneği, arşiv dosyalarını sağ tıklama ile açmak, iso dosyaları yakmak, ooo dosyalarını yazıcıdan çıkartmak gibi kişisel işlemlerler eklemek mümkün.
+<img src="https://www.murekkep.org/wp-content/uploads/2007/01/xfce44-thunar.kucukresim.png" align="right" /> **Xffm** yerine tamamen yeniden yazılmış <a href="https://thunar.xfce.org/" target="_blank">Thunar</a> dosya yöneticisi geldi. Hafif ve sade bir tasarıma sahip. Ayrıca nautilius kadar şişik de değil. Önceden Xfce altında bir çok kişi Rox dosya yöneticisi kullanırdı, hala da kullanan var. Fakat **<a href="https://rox.sourceforge.net/" target="_blank">Rox</a>**&#8216;un kullanımı biraz değişik olduğu için(örneği kes yapıştır özelliği yok), yeni kullanıcılar kullanmayı sevmiyordu, xffm ise çok karmaşık idi. Thunar işte bu boşluğu dolduruyor. Xfce&#8217;un felsefesi ve yapısı itibariyle çok güzel uyuşuyor. Bir çok dosyayı aniden düzenleme, plugin desteği, çıkarılabilir sabit disk desteği gibi bir çok özellikleri de var. **Kişisel işlem** özelliği ile de, kendinize göre daha da özelleştirebilirsiniz. Örneği, arşiv dosyalarını sağ tıklama ile açmak, iso dosyaları yakmak, ooo dosyalarını yazıcıdan çıkartmak gibi kişisel işlemlerler eklemek mümkün.
 
 <img src="https://www.murekkep.org/wp-content/uploads/2007/01/xfce44-xfwm4-argb32.kucukresim.png" align="left" /> **Xfwm4** ise Xfce&#8217;in yine standart pencere yöneticisi. Bir çok özellik eklenmiş, özellik de transparans konusunda iyileştirmeler yapıldı. **Mousepad** adında yeni bir metin düzenleyici de eklendi. Adı kadar kendisi de çok basit. Windows&#8217;daki notepad gibi. Pek özelliği olmayan, ama çok hızlı ve sade olan bir metin düzenleyici.
 
@@ -37,4 +37,4 @@ Xfce masaüstü yöneticisin ana geliştiricilerinden Benedikt Meurer, yakında 
 
 Saymadığım bir çok özellik daha var. Sunumun tamanı buradan erişebilirsiniz.
 
- [1]: http://goodies.xfce.org/
+ [1]: https://goodies.xfce.org/

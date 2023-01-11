@@ -27,15 +27,15 @@ Herkesin sıklıkla kullandığı [torrent programları][1]{.broken_link} aç�
 
 2009 yılında kurulduktan sonra bir yıl içinde top 10 listelere girmeyi başaran KickassTorrents domain sorunlarından bir türlü kurtulamadı. 2012 yılında kat.ph adresine taşınan site hala oldukça aktif bir şekilde yayın hayatına devam ediyor.
 
-### 1. <a rel="external nofollow" target="_blank" href="http://thepiratebay.org/">The Pirate Bay</a>
+### 1. <a rel="external nofollow" target="_blank" href="https://thepiratebay.org/">The Pirate Bay</a>
 
 Birçok torrent kullanıcısı için Pirate Bay, BitTorrent demek. Site 2003 yılında kuruldu ve hukuki engellemelere rağmen genişlemeye devam etti.
 
-### 3. <a rel="external nofollow" target="_blank" href="http://www.torrentz.eu/" target="_blank">Torrentz</a>
+### 3. <a rel="external nofollow" target="_blank" href="https://www.torrentz.eu/" target="_blank">Torrentz</a>
 
 Torrentz, BitTorrent meta arama motoru pazarını yıllardır elinde tutuyor. Birçok farklı domaine sahip olan sitenin en popüler adresi torrentz.eu. Kısaca torrent aramaları için en iyisi diyebiliriz.
 
-### 4. <a rel="external nofollow" target="_blank" href="http://rarbg.to/" target="_blank">RARBG</a>
+### 4. <a rel="external nofollow" target="_blank" href="https://rarbg.to/" target="_blank">RARBG</a>
 
 RARBG yeni bir site olmasına rağmen oldukça faze ziyaretçi kabul etti. Görünen o ki önümüzdeki yıllarda da büyümeye devam edecek gibi.
 

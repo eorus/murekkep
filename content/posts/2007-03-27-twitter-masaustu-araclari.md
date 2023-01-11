@@ -21,7 +21,7 @@ Bu artan kullanım sürecine istinaden twitter.com adresine girmeden twittera g�
 
 Bir diğer işletim sistemi için ise şöyle bir uygulama mevcut.
 
- [1]: http://www.twitter.com
+ [1]: https://www.twitter.com
  [2]: https://www.murekkep.org/blog-gunluk-ise-twitter-anlik-230
  [3]: https://www.murekkep.org/twitter-ve-wordpress-232
- [4]: http://www.gnome.org/
+ [4]: https://www.gnome.org/

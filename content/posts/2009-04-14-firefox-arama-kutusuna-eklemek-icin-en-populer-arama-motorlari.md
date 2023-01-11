@@ -52,16 +52,16 @@ Bilişimsel sonuçlara ulaşmak ve her türlü direkt, kompleks sorguları yöne
 
 Sizin sık kullandığınız arama motorları hangisi? Yorumlarınızla yukarıdaki listenin içeriğine katkıda bulunabilirsiniz.
 
- [1]: http://getfirefox.com
+ [1]: https://getfirefox.com
  [2]: https://www.murekkep.org/firefox-arama-kutusuna-istediginiz-siteyi-ekleyin-369
  [3]: https://addons.mozilla.org/en-US/firefox/addon/4605
  [4]: https://addons.mozilla.org/en-US/firefox/addon/4614
  [5]: https://addons.mozilla.org/en-US/firefox/addon/10423
  [6]: https://www.murekkep.org/etiket/youtube
  [7]: https://addons.mozilla.org/en-US/firefox/addon/4602
- [8]: http://mycroft.mozdev.org/search-engines.html?name=http%3A%2F%2Fwww.tdk.gov.tr
- [9]: http://search-pdf-books.com/
+ [8]: https://mycroft.mozdev.org/search-engines.html?name=http%3A%2F%2Fwww.tdk.gov.tr
+ [9]: https://search-pdf-books.com/
  [10]: https://www.murekkep.org/firetorrent-firefox-ile-torrent-indirin-905
  [11]: https://www.murekkep.org/firefox-arama-kutusuna-wolfram-alpha-aramayi-ekleyin-2906
  [12]: https://www.murekkep.org/firefox-klavye-kisayollari-261
- [13]: http://mycroft.mozdev.org/dlstats.html
+ [13]: https://mycroft.mozdev.org/dlstats.html

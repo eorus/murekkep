@@ -39,6 +39,6 @@ Hem **Ubuntu 9.04** hem de **Ubuntu 9.10** için belirlenen final sürüm tarihl
 
 **Karmic Koala Release Schedule**
 
- [1]: http://www.ubuntu.com
+ [1]: https://www.ubuntu.com
  [2]: https://www.murekkep.org/ubuntu-904-jaunty-jackalope-surum-adayi-2081
  [3]: https://www.murekkep.org/ubuntu-910-karmic-koala-1232

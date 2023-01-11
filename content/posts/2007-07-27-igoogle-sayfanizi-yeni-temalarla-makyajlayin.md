@@ -20,5 +20,5 @@ Google kişiselleştirilmiş anasayfayı yani igoogle olarak tabir edilen bölü
 Örnek olarak aşağıdaki firefox temasını koydum. Ve bu modül sayesinde arzu ederseniz siz de bir tema yaratabiliyorsunuz. Google modülünü eklemek için buradan alalım. Fonksiyonları oldukça fazla olan bu tema odaklı modülün gelişimini izlemek veya katkıda bulunmak için de burayı takip edebilirsiniz.
 
  [1]: https://www.murekkep.org/kisisel-google-igoogle-316
- [2]: http://www.google.com.tr
+ [2]: https://www.google.com.tr
  [3]: https://www.murekkep.org/google-anasayfasi-temalandi-231

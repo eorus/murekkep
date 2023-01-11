@@ -20,7 +20,7 @@ Mürekkep&#8217;de [Twitter][1] hakkında bolca anlattık. Şimdi ise son zamanl
 <center>
 </center>Upload-magazin Tumlbr hakkında uzun bir tanıtım yazısı 
 
-[yazmış][3]. Tumlbr içeriğine dair bir kaç yazı da girilmiş. Merak edenler için: <http://upload.tumblr.com>. Gördüğünüz gibi çok basit bir arayüzüne sahip. Güzel olan yazı tipine göre şekilendirmeyi kendisi yapmasıdır. Bu ne demek ?  
+[yazmış][3]. Tumlbr içeriğine dair bir kaç yazı da girilmiş. Merak edenler için: <https://upload.tumblr.com>. Gördüğünüz gibi çok basit bir arayüzüne sahip. Güzel olan yazı tipine göre şekilendirmeyi kendisi yapmasıdır. Bu ne demek ?  
 Örneğik Konuşma seçeneğini tıkladınız ve şu şekilde bir konuşma eklediniz:
 
 > Murekkep: Tumlbr çok hoş olmuş, denemek lazım  
@@ -35,6 +35,6 @@ Ayrıca kendi domainizi kullanmanız da mümkün. En güzel yanı da **bedava** 
 Kaynak ve Resim : [_[1][3]_]
 
  [1]: https://www.murekkep.org/twitter-masaustu-araclari-237
- [2]: http://www.tumblr.com/
- [3]: http://upload-magazin.de/?p=303
- [4]: http://www.tumblr.com
+ [2]: https://www.tumblr.com/
+ [3]: https://upload-magazin.de/?p=303
+ [4]: https://www.tumblr.com

@@ -25,4 +25,4 @@ Hepsi bu kadar. Bir müddet sonra **30 saniyelik videonuz** hazır bir hale geli
 
 [Animoto][1] &#8211; Animoto Sevgililer Günü Sayfası
 
- [1]: http://animoto.com/
+ [1]: https://animoto.com/

@@ -21,7 +21,7 @@ Evet Google&#8217;ı çok seviyoruz. Ancak çok nadir de olsa, bilgiyi online ol
 
 GoogleBlog : [A Batch of Gmail Accounts, Accidentally Disabled][4]
 
- [1]: http://www.google.com.tr
- [2]: http://docs.google.com/
- [3]: http://www.google.com/adsense
- [4]: http://googlesystem.blogspot.com/2007/04/batch-of-gmail-accounts-accidentally.html
+ [1]: https://www.google.com.tr
+ [2]: https://docs.google.com/
+ [3]: https://www.google.com/adsense
+ [4]: https://googlesystem.blogspot.com/2007/04/batch-of-gmail-accounts-accidentally.html

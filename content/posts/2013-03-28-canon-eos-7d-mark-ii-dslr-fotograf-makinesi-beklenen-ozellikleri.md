@@ -38,7 +38,7 @@ Canon 7D ve [Canon 60D][4] DSLR gövdelerin varisi olmaya aday bir şekild
 
 Merakla beklenen Canon 7D Mark 2 için Canon tarafından resmi bir açıklama henüz yok fakat yukarıdaki özellikler bir test makinesinde ortaya çıkmış özellikler olarak dedikodu niteliği taşıyor olsa bile Canon 7D Mark 2 fotoğraf makinesinin önümüzdeki yaz ayları ya da sonrasında piyasaya çıkması bekleniyor. Canon EOS 7D Mark 2 satış fiyatının ise beklentisi **$2000 – $2200** arasında bekleniyor.
 
-via <a title="Canon EOS 7D Mark II DSLR Camera Expected Specifications" href="http://www.dailycameranews.com/2013/03/canon-eos-7d-mark-ii-dslr-camera-expected-specifications/" rel="dofollow external">Canon EOS 7D Mark II DSLR Camera Expected Specifications</a>
+via <a title="Canon EOS 7D Mark II DSLR Camera Expected Specifications" href="https://www.dailycameranews.com/2013/03/canon-eos-7d-mark-ii-dslr-camera-expected-specifications/" rel="dofollow external">Canon EOS 7D Mark II DSLR Camera Expected Specifications</a>
 
  [1]: https://www.murekkep.org/kamera/canon/eos-7d "Canon EOS 7D"
  [2]: https://www.murekkep.org/canon-7d-mark-2-ozellikleri-doga-ve-spor-fotografcilarini-hedefliyor-9551 "Canon 7D Mark 2 Fotoğraf"

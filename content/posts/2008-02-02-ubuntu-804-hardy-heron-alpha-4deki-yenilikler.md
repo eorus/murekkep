@@ -26,5 +26,5 @@ Bugün **[Ubuntu 8.04][1]**&#8216;ün yeni alpha sürümü [**çıktı**][2]. He
 Gördüğünüz gibi bir sürü yeni özellik yeni sürümde gelmiş bulunmakta. İlgilenenler Ubuntu sunucularından son sürümü indirebilirler.
 
  [1]: https://www.murekkep.org/ubuntu-804-hardy-heron-429
- [2]: http://www.ubuntu.com/testing/hardy/alpha4
- [3]: http://www.transmissionbt.com/
+ [2]: https://www.ubuntu.com/testing/hardy/alpha4
+ [3]: https://www.transmissionbt.com/

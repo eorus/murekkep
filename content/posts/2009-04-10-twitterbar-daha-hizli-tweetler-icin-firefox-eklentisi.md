@@ -25,7 +25,7 @@ Bir firefox eklentisi olan **Twitterbar** belki de twitter hesabınıza en hızl
 
 **Twitter nedir**? Microblog servisi twitter, 140 karakterlik mesaj ile sınırlı kalmak kaydıyla anlık olarak paylaşımda bulunabileceğiniz bir sosyal ağdır. [Mürekkep][4]&#8216;i twitter üzerinden takip edebilirsiniz.
 
- [1]: http://twitter.com
+ [1]: https://twitter.com
  [2]: https://www.murekkep.org/firefox-eklentisi-twitterfox-1278
  [3]: https://www.murekkep.org/firefox-eklentisi-twitbin-1329
- [4]: http://twitter.com/murekkep
+ [4]: https://twitter.com/murekkep

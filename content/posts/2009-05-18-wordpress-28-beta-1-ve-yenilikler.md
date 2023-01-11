@@ -21,6 +21,6 @@ WordPress 2.7 geldiğinde birçok değişiklik ile karşılaşmıştık. Katmanl
 
 Diğer tüm detayları Codex WordPress 2.8 sayfasında bulabilirsiniz. 
 
-<a href="http://wordpress.org/development/2009/05/wordpress-2-8-beta-1/" target="_blank">WordPress 2.8 Beta 1 </a>
+<a href="https://wordpress.org/development/2009/05/wordpress-2-8-beta-1/" target="_blank">WordPress 2.8 Beta 1 </a>
 
  [1]: https://www.murekkep.org/wordpress-27-tema-ve-yonetim-paneli-yenilikleri-597

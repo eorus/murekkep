@@ -62,7 +62,7 @@ BitSnoop en büyük arşive sahip torrent sitelerinden biri. Tam 19,091,736 torr
 H33T uzun yıllardır Avrupa ve Asya&#8217;daki ülkelerde hizmet veren bir torrent sitesi. Bu sayede kendine bir kitle oluşturmuş durumda. Müzik piyasasının tek isteği bu sitenin engellenmesi olmasına rağmen hala çalışıyor.
 
  [1]: https://www.murekkep.org/en-iyi-5-torrent-indirme-programi-7611
- [2]: http://thepiratebay.org/
- [3]: http://isohunt.com/
- [4]: http://eztv.it/
- [5]: http://bitsnoop.com/
+ [2]: https://thepiratebay.org/
+ [3]: https://isohunt.com/
+ [4]: https://eztv.it/
+ [5]: https://bitsnoop.com/

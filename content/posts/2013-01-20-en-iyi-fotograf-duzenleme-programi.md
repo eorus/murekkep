@@ -27,7 +27,7 @@ Photoscape’in en iyi fotoğraf düzenleme programı olmasındaki etmenlerden b
 
 Sizin için en iyi fotoğraf düzenleme programı hangisidir bilmiyoruz ancak birçok ücretsiz program arasında kullanışlılığıyla, sadeliğiyle, birçok efekt ve fotoğraf düzenleme seçeneğiyle Photoscape bir numaraya oturuyor. Photoscape indirip kullanmak için aşağıdaki siteye girip linklerden birini kullanabilirsiniz.
 
-http://www.photoscape.org/ps/main/download.php
+https://www.photoscape.org/ps/main/download.php
 
  [1]: https://www.murekkep.org/dunyanin-en-gelismis-online-fotograf-duzenleme-sitesi-10739
  [2]: https://www.murekkep.org/raw-nedir-ne-degildir-9587

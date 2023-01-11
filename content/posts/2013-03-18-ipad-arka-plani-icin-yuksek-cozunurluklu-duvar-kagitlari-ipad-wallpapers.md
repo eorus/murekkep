@@ -22,43 +22,43 @@ Yeni iPad’in retina ekran özelliğinden faydalanarak geliştirilmiş [uygulam
 
 **1.** **Escape from Kolmanskopp**
 
-<img class="alignnone" alt="" src="http://farm8.staticflickr.com/7042/6830429828_145339d347.jpg" width="500" height="500" /> 
+<img class="alignnone" alt="" src="https://farm8.staticflickr.com/7042/6830429828_145339d347.jpg" width="500" height="500" /> 
 
-**2. <a href="http://www.flickr.com/photos/alex_hopkins/6842070740/" target="_blank">Apple</a>**
+**2. <a href="https://www.flickr.com/photos/alex_hopkins/6842070740/" target="_blank">Apple</a>**
 
-<a href="http://www.flickr.com/photos/alex_hopkins/6842070740/" target="_blank"><img class="alignnone" alt="" src="http://farm8.staticflickr.com/7036/6842070740_54b2f8bfc5.jpg" width="500" height="500" /></a>
+<a href="https://www.flickr.com/photos/alex_hopkins/6842070740/" target="_blank"><img class="alignnone" alt="" src="https://farm8.staticflickr.com/7036/6842070740_54b2f8bfc5.jpg" width="500" height="500" /></a>
 
-**3. <a href="http://www.flickr.com/photos/x1brett/6999428845/" target="_blank">Fluid</a>**
+**3. <a href="https://www.flickr.com/photos/x1brett/6999428845/" target="_blank">Fluid</a>**
 
-<a href="http://www.flickr.com/photos/x1brett/6999428845/" target="_blank"><img class="alignnone" alt="" src="http://farm7.staticflickr.com/6060/6999428845_bd7f89691d.jpg" width="500" height="500" /></a>
+<a href="https://www.flickr.com/photos/x1brett/6999428845/" target="_blank"><img class="alignnone" alt="" src="https://farm7.staticflickr.com/6060/6999428845_bd7f89691d.jpg" width="500" height="500" /></a>
 
-**4. <a href="http://www.flickr.com/photos/alex_hopkins/6951864837/" target="_blank">Autumn</a>**
+**4. <a href="https://www.flickr.com/photos/alex_hopkins/6951864837/" target="_blank">Autumn</a>**
 
-<a href="http://www.flickr.com/photos/alex_hopkins/6951864837/" target="_blank"><img class="alignnone" alt="" src="http://farm8.staticflickr.com/7199/6951864837_1900e3c90d.jpg" width="500" height="500" /></a>
+<a href="https://www.flickr.com/photos/alex_hopkins/6951864837/" target="_blank"><img class="alignnone" alt="" src="https://farm8.staticflickr.com/7199/6951864837_1900e3c90d.jpg" width="500" height="500" /></a>
 
-**5. <a href="http://www.flickr.com/photos/alex_hopkins/6949544455/" target="_blank">Rain</a>**
+**5. <a href="https://www.flickr.com/photos/alex_hopkins/6949544455/" target="_blank">Rain</a>**
 
-<a href="http://www.flickr.com/photos/alex_hopkins/6949544455/" target="_blank"><img class="alignnone" alt="" src="http://farm8.staticflickr.com/7210/6949544455_ae14ebdfeb.jpg" width="500" height="500" /></a>
+<a href="https://www.flickr.com/photos/alex_hopkins/6949544455/" target="_blank"><img class="alignnone" alt="" src="https://farm8.staticflickr.com/7210/6949544455_ae14ebdfeb.jpg" width="500" height="500" /></a>
 
 **6. Singapore Skyline**
 
-<img class="alignnone" alt="" src="http://farm8.staticflickr.com/7187/6975367969_ae256cbb6c.jpg" width="500" height="500" /> 
+<img class="alignnone" alt="" src="https://farm8.staticflickr.com/7187/6975367969_ae256cbb6c.jpg" width="500" height="500" /> 
 
 **7. Dawn over Crystal River, Orlando**
 
-<img class="alignnone" alt="" src="http://farm8.staticflickr.com/7045/6822628066_e53641c058.jpg" width="500" height="500" /> 
+<img class="alignnone" alt="" src="https://farm8.staticflickr.com/7045/6822628066_e53641c058.jpg" width="500" height="500" /> 
 
-**8. <a href="http://www.flickr.com/photos/x1brett/6955518717/" target="_blank">Dark &#8216;n&#8217; Scratchy</a>**
+**8. <a href="https://www.flickr.com/photos/x1brett/6955518717/" target="_blank">Dark &#8216;n&#8217; Scratchy</a>**
 
-<a href="http://www.flickr.com/photos/x1brett/6955518717/" target="_blank"><img class="alignnone" alt="" src="http://farm8.staticflickr.com/7047/6955518717_38c9f82149.jpg" width="500" height="500" /></a>
+<a href="https://www.flickr.com/photos/x1brett/6955518717/" target="_blank"><img class="alignnone" alt="" src="https://farm8.staticflickr.com/7047/6955518717_38c9f82149.jpg" width="500" height="500" /></a>
 
-**9. <a href="http://www.flickr.com/photos/x1brett/6959255890/" target="_blank">Red Hued</a>**
+**9. <a href="https://www.flickr.com/photos/x1brett/6959255890/" target="_blank">Red Hued</a>**
 
-<a href="http://www.flickr.com/photos/x1brett/6959255890/" target="_blank"><img class="alignnone" alt="" src="http://farm9.staticflickr.com/8007/6959255890_dd45ce4375.jpg" width="500" height="500" /></a>
+<a href="https://www.flickr.com/photos/x1brett/6959255890/" target="_blank"><img class="alignnone" alt="" src="https://farm9.staticflickr.com/8007/6959255890_dd45ce4375.jpg" width="500" height="500" /></a>
 
 **10. 2048 x 2048 iPad 3 retina Wallpaper**
 
-<img class="alignnone" alt="" src="http://farm7.staticflickr.com/6202/6136437277_73e3f39e87.jpg" width="500" height="500" />
+<img class="alignnone" alt="" src="https://farm7.staticflickr.com/6202/6136437277_73e3f39e87.jpg" width="500" height="500" />
 
  [1]: https://www.murekkep.org/yeni-ipad-icin-retina-ekran-destekli-uygulamalar-8317 "Yeni iPad için Retina Ekran Destekli Uygulamalar"
  [2]: https://www.murekkep.org/yeni-ipad-apple-ipad-3-ozellikleri-ve-fiyati-8093 "Apple Yeni iPad"

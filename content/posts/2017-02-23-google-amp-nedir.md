@@ -13,4 +13,4 @@ https://support.google.com/tagmanager/answer/7086920?hl=tr
 
 &nbsp;
 
-http://pchocasi.com.tr/google-amp-nedir-mobil-amp-nasil-kullanilmalidir/
+https://pchocasi.com.tr/google-amp-nedir-mobil-amp-nasil-kullanilmalidir/

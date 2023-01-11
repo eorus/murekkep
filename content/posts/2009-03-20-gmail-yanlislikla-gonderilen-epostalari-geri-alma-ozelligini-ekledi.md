@@ -27,5 +27,5 @@ Sadece İngilizce Gmail kullananlar için geçerli olan bu özellik **Gmail Labs
 
 [New in Labs: Undo Send][2] | Gmail Blog
 
- [1]: http://gmail.com
- [2]: http://gmailblog.blogspot.com/2009/03/new-in-labs-undo-send.html
+ [1]: https://gmail.com
+ [2]: https://gmailblog.blogspot.com/2009/03/new-in-labs-undo-send.html

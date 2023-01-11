@@ -41,4 +41,4 @@ Bu kadar merakla beklenen bir akıllı telefon olan Samsung Galaxy S4 çıköı�
 
  [1]: https://www.murekkep.org/samsung-galaxy-s-4-uretiminde-sorunlarla-karsilasti-9240
  [2]: https://www.murekkep.org/samsung-galaxy-s4-ne-zaman-satisa-cikacak-9466 "galaxy s4 çıkış"
- [3]: http://wp.me/p1eJph-2iL
+ [3]: https://wp.me/p1eJph-2iL

@@ -13,4 +13,4 @@ Tüm Türkiye&#8217;nin 83. Cumhuriyet yılı kutlu olsun. Dün İstanbul Boğaz
 <div style="text-align: center">
 </div>
 
-Resim kaynağı Milliyet galeridir. Diğer tüm fotoğraflara <a target="_blank" href="http://www.milliyet.com.tr/content/galeri/yeni/goster.asp?galeriid=600">buradan</a> bakabilirsiniz.
+Resim kaynağı Milliyet galeridir. Diğer tüm fotoğraflara <a target="_blank" href="https://www.milliyet.com.tr/content/galeri/yeni/goster.asp?galeriid=600">buradan</a> bakabilirsiniz.

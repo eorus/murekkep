@@ -30,7 +30,7 @@ En son yapılan dedikodular sonucunda biraz daha şekillenen ve ortaya çıkan *
   * Isınma gibi sorunların iyileştirilmesi
   * Dahili Wi-Fi olması bekleniyor ama bütünleşik GPS ile gelmeyecek
 
-via <a title="Sony NEX-7N Rumored Specifications" href="http://www.dailycameranews.com/2013/03/sony-nex-7n-rumored-specifications/" rel="external dofollow">DCN</a>
+via <a title="Sony NEX-7N Rumored Specifications" href="https://www.dailycameranews.com/2013/03/sony-nex-7n-rumored-specifications/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera/sony/ "sony"
  [2]: https://www.murekkep.org/kamera "fotoğraf makinesi"

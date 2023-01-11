@@ -25,6 +25,6 @@ Google öneriler (suggest) özelliği arama yaptığınız zaman size belirli al
 
 [Local flavor for Google Suggest][3]
 
- [1]: http://google.com
+ [1]: https://google.com
  [2]: https://www.murekkep.org/google-anasayfasi-temalandi-231
- [3]: http://googleblog.blogspot.com/2009/03/local-flavor-for-google-suggest.html
+ [3]: https://googleblog.blogspot.com/2009/03/local-flavor-for-google-suggest.html

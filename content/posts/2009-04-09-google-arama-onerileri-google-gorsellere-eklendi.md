@@ -26,5 +26,5 @@ Eğer arama önerilerini burada da iptal etmek isterseniz, arama kutusunun yanı
 
  [1]: https://www.murekkep.org/google-aramalari-icin-oneriler-google-suggest-1738
  [2]: https://www.murekkep.org/google-arama-onerilerini-google-suggest-nasil-iptal-edebilirim-1770
- [3]: http://google.com.tr
- [4]: http://googlesystem.blogspot.com/2009/04/google-image-search-suggest.html
+ [3]: https://google.com.tr
+ [4]: https://googlesystem.blogspot.com/2009/04/google-image-search-suggest.html

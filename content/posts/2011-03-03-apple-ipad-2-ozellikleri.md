@@ -39,7 +39,7 @@ iPhone üzerinden görüntülü görüşme yapılabiliyor. Yani iki **iPhone 4**
 
 iOS 4.3 işletim sistemiyle gelecek olan HotSpot özelliği ile bağlantı paylaşımı özelliği iPhone 4 modele getiriliyor. iPhone 3GS kullanıcıları ise yeni işletim sistemi iOS 4.3&#8217;e geçseler bile bu özelliği kullanamayacaklar.
 
-iPad 2&#8217;nin çıkış tarihi olan 11 Mart 2011 Amerika için geçerli. Ülkemize ne zaman geleceği ya da kimin tarafından getirileceği konusunda bir tarih veremiyoruz. Bir de <a href="http://www.apple.com/ipad/smart-cover/" target="_blank" class="broken_link">iPad Smart Cover</a> var ki onu bir başka yazıda anlatmayı düşünüyoruz. Detaylar için Apple sitesindeki <a href="http://www.apple.com/ipad/" target="_blank">iPad</a> linkine bakabilirsiniz.
+iPad 2&#8217;nin çıkış tarihi olan 11 Mart 2011 Amerika için geçerli. Ülkemize ne zaman geleceği ya da kimin tarafından getirileceği konusunda bir tarih veremiyoruz. Bir de <a href="https://www.apple.com/ipad/smart-cover/" target="_blank" class="broken_link">iPad Smart Cover</a> var ki onu bir başka yazıda anlatmayı düşünüyoruz. Detaylar için Apple sitesindeki <a href="https://www.apple.com/ipad/" target="_blank">iPad</a> linkine bakabilirsiniz.
 
 **Güncelleme : 21 Ekim 2011 tarihinde [Turkcell iPad 2 Kampanyası][1]{.broken_link} başladı.**
 

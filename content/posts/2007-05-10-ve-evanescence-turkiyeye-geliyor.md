@@ -31,7 +31,7 @@ Yazının devamında bu güzel habere ilişkin bir youtube videosu sizleri bekli
 <!--more-->[youtube]YxQrPXPSVhQ[/youtube]
 
  [1]: https://www.murekkep.org/
- [2]: http://www.last.fm/
- [3]: http://tr.wikipedia.org/wiki/
- [4]: http://tr.wikipedia.org/wiki/Evanescence
- [5]: http://www.evanescence.com/
+ [2]: https://www.last.fm/
+ [3]: https://tr.wikipedia.org/wiki/
+ [4]: https://tr.wikipedia.org/wiki/Evanescence
+ [5]: https://www.evanescence.com/

@@ -21,7 +21,7 @@ categories:
 
 [New in Labs: Gmail search made easier (and lazier)][4]
 
- [1]: http://gmail.com
+ [1]: https://gmail.com
  [2]: https://www.murekkep.org/google-aramalari-icin-oneriler-google-suggest-1738
  [3]: https://www.murekkep.org/google-arama-onerilerini-google-suggest-nasil-iptal-edebilirim-1770
- [4]: http://gmailblog.blogspot.com/2009/04/new-in-labs-gmail-search-made-easier.html
+ [4]: https://gmailblog.blogspot.com/2009/04/new-in-labs-gmail-search-made-easier.html

@@ -28,6 +28,6 @@ Sadece **arkadaşlarla paylaşılan öğeler**e yorum bırakma özelliği şu an
 
 [Google Reader is your new watercooler][3]
 
- [1]: http://www.google.com/reader
- [2]: http://www.google.com/reader/view/user/-/state/com.google/broadcast-friends-comments
- [3]: http://googlereader.blogspot.com/2009/03/google-reader-is-your-new-watercooler.html
+ [1]: https://www.google.com/reader
+ [2]: https://www.google.com/reader/view/user/-/state/com.google/broadcast-friends-comments
+ [3]: https://googlereader.blogspot.com/2009/03/google-reader-is-your-new-watercooler.html

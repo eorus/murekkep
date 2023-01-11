@@ -25,6 +25,6 @@ Filmin yönetmeni ve senaryo sahibi, daha önce MTV televizyonunda yayınlanan B
 
 [youtube]fAYnc_-ddlw[/youtube]
 
- [1]: http://www.imdb.com/title/tt0387808/
- [2]: http://en.wikipedia.org/wiki/Idiocracy
- [3]: http://www.imdb.com/name/nm0431918/
+ [1]: https://www.imdb.com/title/tt0387808/
+ [2]: https://en.wikipedia.org/wiki/Idiocracy
+ [3]: https://www.imdb.com/name/nm0431918/

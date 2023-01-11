@@ -50,10 +50,10 @@ Yukarıdaki basamaklarla zaten işlem son derece kolay. Belirtmeden geçemeyece�
 
 HTC HD2 telefonlarına Windows Mobile 6.5 yerine Android yükleyen kullanıcıların belirttiği değişik bir durum mevcut. WP 6.5 ile fotoğraf çekerken kamerada yeşil ve bulanık görüntüler oluyorken aynı kamera Android ile takır takır çalışıyor. Telefonun kullanışlılığı, dokunmatik ekran hassasiyeti gerçekten artmış. Gerçekten modern teknolojiyi takip etmek için telefonunuza ROM yüklemeyi düşünebilirsiniz. Alacağınız riskleri unutmayın.
 
-  * Kaynak 1: http://forum.xda-developers.com/
-  * **Kaynak 2:** http://forum.xda-developers.com/showthread.php?t=1437463
+  * Kaynak 1: https://forum.xda-developers.com/
+  * **Kaynak 2:** https://forum.xda-developers.com/showthread.php?t=1437463
 
- [1]: http://forum.xda-developers.com/showthread.php?p=5279234
- [2]: http://forum.xda-developers.com/showthread.php?t=611787
- [3]: http://forum.xda-developers.com/showthread.php?t=893618
+ [1]: https://forum.xda-developers.com/showthread.php?p=5279234
+ [2]: https://forum.xda-developers.com/showthread.php?t=611787
+ [3]: https://forum.xda-developers.com/showthread.php?t=893618
  [4]: https://sites.google.com/site/nexushd2android/nexushd2-ics-cm9/v1-4/download-sd

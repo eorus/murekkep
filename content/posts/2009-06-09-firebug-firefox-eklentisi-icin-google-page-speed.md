@@ -29,4 +29,4 @@ Firefox üzerinde verimli bir şekilde kullanılabilen **Firebug firefox eklenti
 
 Introducing Page Speed
 
- [1]: http://code.google.com/p/page-speed/
+ [1]: https://code.google.com/p/page-speed/

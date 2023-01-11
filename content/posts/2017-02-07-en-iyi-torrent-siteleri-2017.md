@@ -25,11 +25,11 @@ Bu arada eğer torrent indirme konusunda sıkıntılar yaşıyorsanız, devam e
 
 ### **1-** **Kickass Torrents (KAT)**
 
-Kickass Torrents her ne kadar geçtiğimiz senelerde defalarca kapanıp açılsa da ve farklı domainler ile karşımıza çıksa da tahtını kimseye kaptırmıyor. Popüler torrent sitesi KAT ismiyle biliniyor. Kickass Torrents’e <a href="http://katcr.co/" target="_blank" rel="nofollow"><strong>buradan</strong></a> ulaşabilirsiniz.
+Kickass Torrents her ne kadar geçtiğimiz senelerde defalarca kapanıp açılsa da ve farklı domainler ile karşımıza çıksa da tahtını kimseye kaptırmıyor. Popüler torrent sitesi KAT ismiyle biliniyor. Kickass Torrents’e <a href="https://katcr.co/" target="_blank" rel="nofollow"><strong>buradan</strong></a> ulaşabilirsiniz.
 
 ### **2- Zamunda**
 
-Listenin ikinci sırasında son yılların gözde bir ismi yer alıyor. Aslında Zamunda bu popülerliğini Kickass’in internet aleminde olmadığı günlere borçlu. Alternatif arayan kullanıcıların genelde baktığı yer Zamunda oldu. Bu popüler torrent sitesine <a href="http://zamunda.net/" target="_blank" rel="nofollow" class="broken_link"><strong>buradan</strong></a> ulaşabilirsiniz.
+Listenin ikinci sırasında son yılların gözde bir ismi yer alıyor. Aslında Zamunda bu popülerliğini Kickass’in internet aleminde olmadığı günlere borçlu. Alternatif arayan kullanıcıların genelde baktığı yer Zamunda oldu. Bu popüler torrent sitesine <a href="https://zamunda.net/" target="_blank" rel="nofollow" class="broken_link"><strong>buradan</strong></a> ulaşabilirsiniz.
 
 ### **3- The Pirate Bay**
 
@@ -53,11 +53,11 @@ Aslında ripper bir grup olan YIFY ismini birçok torrent sitesinde yer alan fil
 
 ### **8- RARBG**
 
-Her sene en popülerlerin arasında mutlaka yerini alan RARBG, bu seneki en popülerler arasında da kalmaya devam edecek gibi. RARBG’ye <a href="http://rarbg.to/" target="_blank" rel="nofollow"><strong>buradan</strong></a> ulaşabilirsiniz.
+Her sene en popülerlerin arasında mutlaka yerini alan RARBG, bu seneki en popülerler arasında da kalmaya devam edecek gibi. RARBG’ye <a href="https://rarbg.to/" target="_blank" rel="nofollow"><strong>buradan</strong></a> ulaşabilirsiniz.
 
 ### **9- 1337X**
 
-Özlelikle Avrupa&#8217;da popüler olmuş bir torrent sitesi 1337x geliyor. Sitenin sahipleri 1337x’i reklamlardan kurtarılmış ve çok daha kaliteli bir torrent platformu olarak tanıtıyor. Oldukça iyi trafik değerlerine sahip olan 1337X, 2017 içinde iddialı. 1337X’e <a href="http://1337x.to/" target="_blank" rel="nofollow" class="broken_link"><strong>buradan</strong></a> ulaşabilirsiniz.
+Özlelikle Avrupa&#8217;da popüler olmuş bir torrent sitesi 1337x geliyor. Sitenin sahipleri 1337x’i reklamlardan kurtarılmış ve çok daha kaliteli bir torrent platformu olarak tanıtıyor. Oldukça iyi trafik değerlerine sahip olan 1337X, 2017 içinde iddialı. 1337X’e <a href="https://1337x.to/" target="_blank" rel="nofollow" class="broken_link"><strong>buradan</strong></a> ulaşabilirsiniz.
 
 ### **10- Torrent Downloads**
 

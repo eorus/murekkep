@@ -22,4 +22,4 @@ Antik bir kasa gibi gözükse de içinde modern bir dizüstü bulunan bu şahane
 
 [resmi sitesine bakabilirsiniz][1].
 
- [1]: http://www.datamancer.net/steampunklaptop/steampunklaptop.htm
+ [1]: https://www.datamancer.net/steampunklaptop/steampunklaptop.htm

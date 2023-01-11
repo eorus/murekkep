@@ -24,4 +24,4 @@ Henüz tüm **pdf dosyaları** için kullanılamayan **google pdf görüntüleyi
  [2]: https://www.murekkep.org/pdf-aramalari-icin-pdf-arama-motoru-1546
  [3]: https://www.murekkep.org/pdf-kitaplari-arama-motoru-search-pdf-2024
  [4]: https://www.murekkep.org/google-arama-sonuclarini-pdf-dosyalarini-aramak-icin-ozellestirmek-2069
- [5]: http://googlesystem.blogspot.com/2009/07/googles-pdf-viewer-for-search-results.html
+ [5]: https://googlesystem.blogspot.com/2009/07/googles-pdf-viewer-for-search-results.html

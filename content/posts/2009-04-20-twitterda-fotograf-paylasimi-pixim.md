@@ -30,5 +30,5 @@ Twitter&#8217;ın büyümesi ile bağlantılı olarak Twitter&#8217;a bağlı ş
 
 Twitpic yazısında belirttiğimiz gibi Twitpic, **coğrafi etiketleme** ve mobil cihazlardan mail ile **twitter hesabına fotoğraf gönderme** özelliklerine sahip.
 
- [1]: http://twitter.com
+ [1]: https://twitter.com
  [2]: https://www.murekkep.org/twitpic-ile-fotograflarinizi-twittera-gonderin-1894

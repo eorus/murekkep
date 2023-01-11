@@ -19,6 +19,6 @@ tags:
 
 Eğer **online çeviri** işlemleriniz için yoğun bir şekilde google çeviri hizmeti olan google translate kullanıyorsanız, küçük bir **masaüstü aracı** sayesinde web üzerinden çeviri yapmanıza gerek kalmadan kolayca **masaüstünden google translate** kullanabilirsiniz. 
 
-**<a href="http://code.google.com/p/google-translate-desktop/" target="_blank">Google Translate Desktop</a>** isimli program sayesinde **google çeviri** hizmetini masaüstünden kullanabiliyorsunuz. Java tabanlı masaüstü aracı olan **google translate desktop** hem windows hem linux üzerinde çalışabiliyor. Tabi kullandığınız işletim sisteminde Java (JRE/JVM) yüklü olması gerekiyor. 
+**<a href="https://code.google.com/p/google-translate-desktop/" target="_blank">Google Translate Desktop</a>** isimli program sayesinde **google çeviri** hizmetini masaüstünden kullanabiliyorsunuz. Java tabanlı masaüstü aracı olan **google translate desktop** hem windows hem linux üzerinde çalışabiliyor. Tabi kullandığınız işletim sisteminde Java (JRE/JVM) yüklü olması gerekiyor. 
 
 Böylelikle internet tarayıcısı ile google translate (çeviri) sitesine girmenize gerek kalmadan kolay bir şekilde **masaüstünden online çeviri** işlemlerinizi gerçekleştirebiliyorsunuz.

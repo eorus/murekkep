@@ -26,4 +26,4 @@ tags:
 Hangi tarayıcıyı kullanıyorsanız yukarıdaki gibi belirlenmiş kombinasyonlar ve [ilgili tuşlarla][2] kısayolları kullanabiliyorsunuz.
 
  [1]: https://www.murekkep.org/firefox-klavye-kisayollari-261
- [2]: http://en.wikipedia.org/wiki/Wikipedia:Keyboard_shortcuts
+ [2]: https://en.wikipedia.org/wiki/Wikipedia:Keyboard_shortcuts

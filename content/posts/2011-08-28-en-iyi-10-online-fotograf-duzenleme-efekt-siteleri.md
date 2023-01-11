@@ -50,17 +50,17 @@ Writeonit resim şablonları üzerinden eğlenceli başlıklar, sahte magazin ka
 
 [<img class="alignnone size-full wp-image-6634" title="En İyi 10 Online Fotoğraf Düzenleme Efekt Siteleri" src="https://www.murekkep.org/wp-content/uploads/2011/08/writeonit.jpg" alt="" width="400" height="300" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/writeonit.jpg 400w, https://www.murekkep.org/wp-content/uploads/2011/08/writeonit-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][12]{.broken_link}
 
-7. **<a href="http://makeovr.com/hairmixer/" target="_blank" class="broken_link">Hairmixer</a>**
+7. **<a href="https://makeovr.com/hairmixer/" target="_blank" class="broken_link">Hairmixer</a>**
 
 Sol ve sağ taraf için birer tane fotoğraf ekleyip saçlar üzerinde efektler uygulayabilirsiniz. Tamamen saç ve fotoğraftaki saçlar üzerine bir efekt sitesi.
 
-<a href="http://makeovr.com/hairmixer/" target="_blank" class="broken_link"><img class="alignnone size-full wp-image-6632" title="En İyi 10 Online Fotoğraf Düzenleme Efekt Siteleri" src="https://www.murekkep.org/wp-content/uploads/2011/08/hairmixer.jpg" alt="" width="400" height="314" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/hairmixer.jpg 400w, https://www.murekkep.org/wp-content/uploads/2011/08/hairmixer-300x235.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+<a href="https://makeovr.com/hairmixer/" target="_blank" class="broken_link"><img class="alignnone size-full wp-image-6632" title="En İyi 10 Online Fotoğraf Düzenleme Efekt Siteleri" src="https://www.murekkep.org/wp-content/uploads/2011/08/hairmixer.jpg" alt="" width="400" height="314" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/hairmixer.jpg 400w, https://www.murekkep.org/wp-content/uploads/2011/08/hairmixer-300x235.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 
-8. **<a href="http://yearbookyourself.com/" target="_blank">Yearbook Yourself</a>**
+8. **<a href="https://yearbookyourself.com/" target="_blank">Yearbook Yourself</a>**
 
 Herhangi bir yüz fotoğrafını sanki eski bir yıllıkta okul fotoğrafıymış gibi gösterin. Yüz fotoğrafınız siyah ve beyaz şekilde bir fotoğrafa dönüştürülüyor.
 
-<a href="http://yearbookyourself.com/" target="_blank"><img class="alignnone size-full wp-image-6627" title="En İyi 10 Online Fotoğraf Düzenleme Efekt Siteleri" src="https://www.murekkep.org/wp-content/uploads/2011/08/yearbookyourself.jpg" alt="" width="352" height="309" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/yearbookyourself.jpg 352w, https://www.murekkep.org/wp-content/uploads/2011/08/yearbookyourself-300x263.jpg 300w" sizes="(max-width: 352px) 100vw, 352px" /></a>
+<a href="https://yearbookyourself.com/" target="_blank"><img class="alignnone size-full wp-image-6627" title="En İyi 10 Online Fotoğraf Düzenleme Efekt Siteleri" src="https://www.murekkep.org/wp-content/uploads/2011/08/yearbookyourself.jpg" alt="" width="352" height="309" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/yearbookyourself.jpg 352w, https://www.murekkep.org/wp-content/uploads/2011/08/yearbookyourself-300x263.jpg 300w" sizes="(max-width: 352px) 100vw, 352px" /></a>
 
 9. **Magmypic**
 
@@ -68,7 +68,7 @@ Fotoğraflarınızdan sahte magazin kapakları oluşturmak için çok güzel bir
 
 <img class="alignnone size-full wp-image-6626" title="En İyi 10 Online Fotoğraf Düzenleme Efekt Siteleri" src="https://www.murekkep.org/wp-content/uploads/2011/08/magmypic.jpg" alt="" width="400" height="246" srcset="https://www.murekkep.org/wp-content/uploads/2011/08/magmypic.jpg 400w, https://www.murekkep.org/wp-content/uploads/2011/08/magmypic-300x184.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /> 
 
-10.<a href="http://funny.pho.to/" target="_blank">Funny Photos</a>
+10.<a href="https://funny.pho.to/" target="_blank">Funny Photos</a>
 
 Daha fazla şablon ihtiyacınız varsa kullanabileceğiniz Funny Photos **fotoğraf efekt sitesi** aynı Photofunia ve **Funphotobox** gibi eğlenceli ama farklı efektlere sahip.
 
@@ -76,12 +76,12 @@ Yukarıda **en iyi 10 online fotoğraf düzenleme ve efekt sitesini** aktarmay
 
  [1]: https://www.murekkep.org/en-iyi-5-fotograf-efekt-sitesi-1805
  [2]: ../photofunia-ile-resimlerinize-fark-katin-1297 "PhotoFunia ile Resimlerinize Fark Katın"
- [3]: http://www.photofunia.com/
+ [3]: https://www.photofunia.com/
  [4]: https://www.murekkep.org/photofunia-ile-eglenceli-fotograflar-artik-turkce/
  [5]: ../funphotobox-resimleriniz-icin-eglenceli-efektler-1371
  [6]: https://www.murekkep.org/loonapix-ile-fotograflariniza-efektler-ve-cerceveler-katin-avatar-olusturun/
  [7]: ../photo505-ile-fotograflariniza-dijital-efektler-1584
- [8]: http://www.photo505.com/
+ [8]: https://www.photo505.com/
  [9]: ../picartia-fotograflariniz-icin-mozaik-efektleri-1424
  [10]: https://www.murekkep.org/picartia-fotograflariniz-icin-mozaik-efektleri-1424
  [11]: ../writeonit-ile-eglenceli-resimler-ve-magazin-kapaklari-1401

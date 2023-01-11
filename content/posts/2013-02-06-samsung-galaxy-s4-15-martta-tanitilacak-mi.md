@@ -29,4 +29,4 @@ Kaynak: **[PocketNow][4]{.broken_link}**
  [1]: https://www.murekkep.org/telefon
  [2]: https://www.murekkep.org/samsung-galaxy-s4-cikis-tarihi-teknik-ozellikleri-ocak-2013-11147
  [3]: https://www.murekkep.org/telefon/samsung-galaxy-s4
- [4]: http://pocketnow.com/2013/02/06/samsung-galaxy-s-iv-march-15-rumor
+ [4]: https://pocketnow.com/2013/02/06/samsung-galaxy-s-iv-march-15-rumor

@@ -29,7 +29,7 @@ Torrent araması dediğimiz zaman torrent siteleri üzerinden yapılan aramalar 
   9. toy story 3
  10. clash of the titans
 
-Yukarıda en çok torrent araması yapılan 10 sorguyu görebiliyorsunuz. Aslında liste **en çok aranan 100 torrent** araması şeklinde sunulmuş. Devamını görmek için torrentfreak üzerindeki &#8220;<a href="http://torrentfreak.com/bittorrent-zeitgeist-what-people-searched-for-in-2010-101227/" target="_blank">BitTorrent Zeitgeist: What People Searched For in 2010</a>&#8221; yazısına bakabilirsiniz.
+Yukarıda en çok torrent araması yapılan 10 sorguyu görebiliyorsunuz. Aslında liste **en çok aranan 100 torrent** araması şeklinde sunulmuş. Devamını görmek için torrentfreak üzerindeki &#8220;<a href="https://torrentfreak.com/bittorrent-zeitgeist-what-people-searched-for-in-2010-101227/" target="_blank">BitTorrent Zeitgeist: What People Searched For in 2010</a>&#8221; yazısına bakabilirsiniz.
 
 Listeye kısaca bakacak oursak [2010 yılında torrent ile en çok indirilen filmler][3]{.broken_link} sıralamasında birinciliği Avatar&#8217;a kaptıran Inception, **en çok aranan torrent** olmuş. Torrent arama top 10 listesinde genelde sinema ve film aramaya ilişkin arama kriterlerini görebiliyoruz.
 

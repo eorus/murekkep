@@ -31,4 +31,4 @@ Kaynak: [AndroidCommunity][3]
 
  [1]: https://www.murekkep.org/telefon
  [2]: https://www.murekkep.org/telefon/huawei-ascend-d2
- [3]: http://androidcommunity.com
+ [3]: https://androidcommunity.com

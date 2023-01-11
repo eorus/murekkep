@@ -23,6 +23,6 @@ Yeni özelliği kullanabilmek için son [Google Desktop sürümünü yükleyin][
 
 resim:[[1][2]], kaynak:[[1][2]][[2][3]]
 
- [1]: http://desktop.google.com/
- [2]: http://googlesystem.blogspot.com/2007/10/google-desktop-gadgets-on-your-igoogle.html
- [3]: http://googleblog.blogspot.com/2007/10/more-types-of-gadgets-for-igoogle.html
+ [1]: https://desktop.google.com/
+ [2]: https://googlesystem.blogspot.com/2007/10/google-desktop-gadgets-on-your-igoogle.html
+ [3]: https://googleblog.blogspot.com/2007/10/more-types-of-gadgets-for-igoogle.html

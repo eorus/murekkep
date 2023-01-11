@@ -28,6 +28,6 @@ Twitter üzerine **140** karakter uzunluğunda mesajlarınızı gönderdikten so
 
 Tweleted ile ilgili olarak dikkat çekebilecek esas nokta ise silmiş olduğumuz bir twitter mesajının sorgulaması yapılırken **Twitter geçmişi** ve Twitter aramasına bakılıp karşılaştırılıyor. Twitter mesajlarımızın twitter geçmişinden silindiğini görebiliyorsak o zaman akla silinen Twitter mesajları [search.twitter.com][3] üzerinden silinmiyor geliyor. Evet doğru, bununla ilgili Twitter yardım sayfasındaki açıklamaya bakılabilir.
 
- [1]: http://tweleted.com/
- [2]: http://twitter.com
- [3]: http://search.twitter.com
+ [1]: https://tweleted.com/
+ [2]: https://twitter.com
+ [3]: https://search.twitter.com

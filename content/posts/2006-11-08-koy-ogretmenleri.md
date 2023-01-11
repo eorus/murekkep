@@ -23,4 +23,4 @@ Destek olmak için :
 
 [][1]
 
- [1]: http://www.koyogretmeni.com/
+ [1]: https://www.koyogretmeni.com/

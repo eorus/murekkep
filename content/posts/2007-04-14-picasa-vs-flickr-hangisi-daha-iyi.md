@@ -58,13 +58,13 @@ Picasa&#8217;da durum biraz daha farklı. Camia kısmında da değindiğim gibi 
 
 Kaynaklar: \[1\]\[2\][[3][10]]
 
- [1]: http://www.flickr.com
- [2]: http://picasaweb.google.com/
- [3]: http://picasa.google.com/
- [4]: http://www.flickr.com/upgrade/
- [5]: http://www.flickr.com/creativecommons/
- [6]: http://bighugelabs.com/flickr/
- [7]: http://www.flickr.com/services/
- [8]: http://www.blogger.com
- [9]: http://www.yahoo.com
- [10]: http://labnol.blogspot.com/2006/06/flickr-vs-picasa-web-albums-no-tags.html
+ [1]: https://www.flickr.com
+ [2]: https://picasaweb.google.com/
+ [3]: https://picasa.google.com/
+ [4]: https://www.flickr.com/upgrade/
+ [5]: https://www.flickr.com/creativecommons/
+ [6]: https://bighugelabs.com/flickr/
+ [7]: https://www.flickr.com/services/
+ [8]: https://www.blogger.com
+ [9]: https://www.yahoo.com
+ [10]: https://labnol.blogspot.com/2006/06/flickr-vs-picasa-web-albums-no-tags.html

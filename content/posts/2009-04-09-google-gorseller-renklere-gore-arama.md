@@ -26,7 +26,7 @@ Ayrıntılara her zaman olduğu gibi **Google İşletim Sistemi** günlüğünde
 [Google Image Search Color Filter][5]
 
  [1]: https://www.murekkep.org/resimleri-rengine-gore-arayin-1591
- [2]: http://google.com
- [3]: http://google.com.tr
- [4]: http://images.google.com/
- [5]: http://googlesystem.blogspot.com/2009/04/google-image-search-color-filter.html
+ [2]: https://google.com
+ [3]: https://google.com.tr
+ [4]: https://images.google.com/
+ [5]: https://googlesystem.blogspot.com/2009/04/google-image-search-color-filter.html

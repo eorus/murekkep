@@ -21,5 +21,5 @@ tags:
 
 **Peki sizin bir Twitter hesabınız var mı**? [Twitter üzerinde Mürekkep][2].Org&#8217;u takip edebileceğinizi hatırlatarak Twitter&#8217;a iyi seneler dileklerimizi iletelim.
 
- [1]: http://twitter.com
- [2]: http://twitter.com/murekkep
+ [1]: https://twitter.com
+ [2]: https://twitter.com/murekkep

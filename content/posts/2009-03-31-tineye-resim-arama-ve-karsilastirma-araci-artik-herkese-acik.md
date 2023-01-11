@@ -22,7 +22,7 @@ tags:
 
 **TinEye** hakkında ayrıntılı bilgi için tanıtım yazımız olan [TinEye : Resim Arama Motoru][4] yazısına bakabilirsiniz.
 
- [1]: http://www.tineye.com/
- [2]: http://tineye.com/plugin
- [3]: http://tineye.com/bookmarklet
+ [1]: https://www.tineye.com/
+ [2]: https://tineye.com/plugin
+ [3]: https://tineye.com/bookmarklet
  [4]: https://www.murekkep.org/tineye-resim-arama-motoru-876

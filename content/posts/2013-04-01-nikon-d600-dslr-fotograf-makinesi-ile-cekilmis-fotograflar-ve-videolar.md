@@ -57,7 +57,7 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
   
   <tr>
     <td>
-      <img alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_01.png" width="180" height="120" />
+      <img alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_01.png" width="180" height="120" />
     </td>
     
     <td>
@@ -77,13 +77,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_01_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 13.4 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_01_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 13.4 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="s" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_02.png" width="180" height="120" />
+      <img title="s" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_02.png" width="180" height="120" />
     </td>
     
     <td>
@@ -103,13 +103,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_02_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 10.4 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_02_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 10.4 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="s" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_03.png" width="180" height="120" />
+      <img title="s" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_03.png" width="180" height="120" />
     </td>
     
     <td>
@@ -129,13 +129,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_03_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 9.69 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_03_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 9.69 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="a" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_04.png" width="180" height="120" />
+      <img title="a" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_04.png" width="180" height="120" />
     </td>
     
     <td>
@@ -155,13 +155,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_04_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 12.5 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_04_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 12.5 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="ssa" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_05.png" width="180" height="120" />
+      <img title="ssa" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_05.png" width="180" height="120" />
     </td>
     
     <td>
@@ -181,13 +181,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_05_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 3.63 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_05_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 3.63 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="qd" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_06.png" width="180" height="120" />
+      <img title="qd" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_06.png" width="180" height="120" />
     </td>
     
     <td>
@@ -207,13 +207,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_06_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 3.73 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_06_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 3.73 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="qd" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_07.png" width="180" height="120" />
+      <img title="qd" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_07.png" width="180" height="120" />
     </td>
     
     <td>
@@ -233,13 +233,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_07_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 11.5 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_07_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 11.5 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="qd" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_08.png" width="180" height="120" />
+      <img title="qd" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_08.png" width="180" height="120" />
     </td>
     
     <td>
@@ -259,13 +259,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_08_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 10.3 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_08_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 10.3 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="qd" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_09.png" width="180" height="120" />
+      <img title="qd" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_09.png" width="180" height="120" />
     </td>
     
     <td>
@@ -285,13 +285,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_09_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 20.4 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_09_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 20.4 MB)</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <img title="qd" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_10.png" width="180" height="120" />
+      <img title="qd" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_10.png" width="180" height="120" />
     </td>
     
     <td>
@@ -311,7 +311,7 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     </td>
     
     <td>
-      <a title="" href="http://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_10_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 19.8 MB)</a>
+      <a title="" href="https://chsvimg.nikon.com/lineup/dslr/d600/img/sample01/img_10_l.jpg" target="_blank" rel="shadowbox[sbpost-1875];player=img; external nofollow" class="broken_link">(JPG : 19.8 MB)</a>
     </td>
   </tr>
 </table>
@@ -333,13 +333,13 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     <td>
       <div>
         <p>
-          <a title="" href="http://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_001.html" target="_blank" rel="external nofollow" class="broken_link"><img title="" alt="" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample02/img_01.png" width="300" height="169" /></a>“chasing the light”
+          <a title="" href="https://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_001.html" target="_blank" rel="external nofollow" class="broken_link"><img title="" alt="" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample02/img_01.png" width="300" height="169" /></a>“chasing the light”
         </p>
       </div>
     </td>
     
     <td>
-      <a title="" href="http://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_001.html" target="_blank" rel="nofollow external" class="broken_link">640 x 360</a>
+      <a title="" href="https://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_001.html" target="_blank" rel="nofollow external" class="broken_link">640 x 360</a>
     </td>
   </tr>
   
@@ -347,18 +347,18 @@ Nikon D600 DSLR [fotoğraf makinesi][2] ile çekilmiş fotoğraf ve videoları
     <td>
       <div>
         <p>
-          <a title="" href="http://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_002.html" target="_blank" rel="external nofollow" class="broken_link"><img title="Behind the scenes" alt="Behind the scenes" src="http://imaging.nikon.com/lineup/dslr/d600/img/sample02/img_02.png" width="300" height="169" /></a>Behind the scenes
+          <a title="" href="https://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_002.html" target="_blank" rel="external nofollow" class="broken_link"><img title="Behind the scenes" alt="Behind the scenes" src="https://imaging.nikon.com/lineup/dslr/d600/img/sample02/img_02.png" width="300" height="169" /></a>Behind the scenes
         </p>
       </div>
     </td>
     
     <td>
-      <a title="" href="http://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_002.html" target="_blank" rel="nofollow external" class="broken_link">640 x 360</a>
+      <a title="" href="https://imaging.nikon.com/lineup/dslr/d600/img/sample02/sample_002.html" target="_blank" rel="nofollow external" class="broken_link">640 x 360</a>
     </td>
   </tr>
 </table>
 
-via <a title="Nikon D600 DSLR Camera Sample Images and Movies" href="http://www.dailycameranews.com/2013/03/nikon-d600-dslr-camera-sample-images-and-movies/" rel="external dofollow">Nikon D600 DSLR Camera Sample Images and Movies</a>
+via <a title="Nikon D600 DSLR Camera Sample Images and Movies" href="https://www.dailycameranews.com/2013/03/nikon-d600-dslr-camera-sample-images-and-movies/" rel="external dofollow">Nikon D600 DSLR Camera Sample Images and Movies</a>
 
  [1]: https://www.murekkep.org/kamera/nikon/ "nikon"
  [2]: https://www.murekkep.org/kamera/ "fotoğraf makinesi"

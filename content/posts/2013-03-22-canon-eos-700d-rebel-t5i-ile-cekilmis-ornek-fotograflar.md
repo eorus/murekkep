@@ -58,7 +58,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Aurora" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_01.jpg" width="140" height="93" />Portrait
+          <img title="Aurora" alt="Aurora" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_01.jpg" width="140" height="93" />Portrait
         </p>
       </div>
     </td>
@@ -88,7 +88,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Aurora(High ISO)" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_02.jpg" width="140" height="93" />Portrait
+          <img title="Aurora" alt="Aurora(High ISO)" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_02.jpg" width="140" height="93" />Portrait
         </p>
       </div>
     </td>
@@ -118,7 +118,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Corsica" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_03.jpg" width="140" height="93" />Boy
+          <img title="Aurora" alt="Corsica" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_03.jpg" width="140" height="93" />Boy
         </p>
       </div>
     </td>
@@ -148,7 +148,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Colored leaves" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_04.jpg" width="140" height="93" />Landscape
+          <img title="Aurora" alt="Colored leaves" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_04.jpg" width="140" height="93" />Landscape
         </p>
       </div>
     </td>
@@ -178,7 +178,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Slovenia" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_05.jpg" width="140" height="93" />Sunset
+          <img title="Aurora" alt="Slovenia" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_05.jpg" width="140" height="93" />Sunset
         </p>
       </div>
     </td>
@@ -208,7 +208,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Portrait" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_06.jpg" width="140" height="93" />Night Scene
+          <img title="Aurora" alt="Portrait" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_06.jpg" width="140" height="93" />Night Scene
         </p>
       </div>
     </td>
@@ -238,7 +238,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Portrait" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_07.jpg" width="140" height="93" />Still Life
+          <img title="Aurora" alt="Portrait" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_07.jpg" width="140" height="93" />Still Life
         </p>
       </div>
     </td>
@@ -268,7 +268,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
     <td style="text-align: center;">
       <div style="width: 150px;">
         <p>
-          <img title="Aurora" alt="Portrait" src="http://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_08.jpg" width="140" height="93" />Wildlife
+          <img title="Aurora" alt="Portrait" src="https://web.canon.jp/imaging/eosd/samples/eos700d/img/image_thumb_08.jpg" width="140" height="93" />Wildlife
         </p>
       </div>
     </td>
@@ -295,7 +295,7 @@ Dahası ve Canon EOS 700D ile ilgili tüm detayları kendi özel sayfasında bul
   </tr>
 </table>
 
-via <a title="Canon EOS 700D / Rebel T5i / Kiss X7i DSLR Camera Sample Images" href="http://www.dailycameranews.com/2013/03/canon-eos-700d-rebel-t5i-kiss-x7i-dslr-camera-sample-images/" rel="external dofollow">Canon EOS 700D / Rebel T5i / Kiss X7i DSLR Camera Sample Images</a>
+via <a title="Canon EOS 700D / Rebel T5i / Kiss X7i DSLR Camera Sample Images" href="https://www.dailycameranews.com/2013/03/canon-eos-700d-rebel-t5i-kiss-x7i-dslr-camera-sample-images/" rel="external dofollow">Canon EOS 700D / Rebel T5i / Kiss X7i DSLR Camera Sample Images</a>
 
  [1]: https://www.murekkep.org/canon-eos-700d-dslr-fotograf-makinesi-duyuruldu-13618 "canon eos 700d duyuru"
  [2]: https://www.murekkep.org/fotograf "fotoğraf"

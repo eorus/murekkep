@@ -31,6 +31,6 @@ Bunların dışında FoxTorrent, kaynağı açık, [blogu][4], [wikisi][5] ve ta
 
  [1]: https://www.murekkep.org/kullanabileceginiz-10-yasal-torrent-sitesi-221
  [2]: https://www.murekkep.org/torrent-site-onerisi-fulltorrent-42
- [3]: http://www.foxtorrent.com/
- [4]: http://foxtorrent.wordpress.com/
- [5]: http://code.google.com/p/foxtorrent/w/list
+ [3]: https://www.foxtorrent.com/
+ [4]: https://foxtorrent.wordpress.com/
+ [5]: https://code.google.com/p/foxtorrent/w/list

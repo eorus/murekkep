@@ -27,4 +27,4 @@ Apple iOS 6 ile beraber yeni bir 360 derecelik panorama fotoğraflar çekmenize 
 &nbsp;
 
  [1]: https://www.murekkep.org/google-iftiharla-sunar-android-4-2-8800 "android 4.2 özellikler"
- [2]: http://youtu.be/0poff-mHQ4Q "photo sphere uygulama"
+ [2]: https://youtu.be/0poff-mHQ4Q "photo sphere uygulama"

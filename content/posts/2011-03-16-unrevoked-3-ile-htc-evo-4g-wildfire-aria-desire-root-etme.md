@@ -29,7 +29,7 @@ tags:
 
 ## Unrevoked 3 ile HTC EVO 4G, Wildfire, Aria, Desire Root Etme
 
-<a href="http://unrevoked.com/" target="_blank">Unrevoked 3</a> sitesine gidip HTC telefonunuzun modelini seçip kullandığınız işletim sistemine göre Windows, Linux veya Mac için yazılımı indirip kurmanız gerekiyor. Usb üzerinden HTC telefonunuzu bilgisayara bağladığınızda, eğer ilk defa takıyorsanız HTC Sync yüklenecektir. Android ile ilgili sürücülerin yüklenmesi için HTC Sync kurulumunu yapınız. Ardından HTC Sync kurulumunu kaldırabilirsiniz.
+<a href="https://unrevoked.com/" target="_blank">Unrevoked 3</a> sitesine gidip HTC telefonunuzun modelini seçip kullandığınız işletim sistemine göre Windows, Linux veya Mac için yazılımı indirip kurmanız gerekiyor. Usb üzerinden HTC telefonunuzu bilgisayara bağladığınızda, eğer ilk defa takıyorsanız HTC Sync yüklenecektir. Android ile ilgili sürücülerin yüklenmesi için HTC Sync kurulumunu yapınız. Ardından HTC Sync kurulumunu kaldırabilirsiniz.
 
 **Root etme işlemi için** Unrevoked 3 çalıştırmadan önce usb ile HTC telefonunuzu bilgisayara bağlayın. Genel olarak dikkat edilmesi gereken konuları aşağıdaki gibi maddeleyebiliriz.
 

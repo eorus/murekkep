@@ -26,4 +26,4 @@ Aslında yukarıdaki fotoğrafta Android 4.1.2 beta sürümünün yüklediği bi
 
 &nbsp;
 
- [1]: http://forum.xda-developers.com/showthread.php?t=1994313
+ [1]: https://forum.xda-developers.com/showthread.php?t=1994313

@@ -272,8 +272,8 @@ Sizi daha fazla sıkmadan blog yazarlarının cevapları ile baş başa bırakı
                                                                                                             com.&#8217;u ilk akla gelen ve yaygınlığından dolayı seçtim.  
                                                                                                             deneyimler.net&#8217;de ise kulağa daha hoş geldiğinden.</ul>
 
- [1]: http://www.todoist.com
- [2]: http://osman.borutecene.com
- [3]: http://www.teknodergi.org
- [4]: http://fatihhayrioglu.com/
- [5]: http://www.fikiratolyesi.com
+ [1]: https://www.todoist.com
+ [2]: https://osman.borutecene.com
+ [3]: https://www.teknodergi.org
+ [4]: https://fatihhayrioglu.com/
+ [5]: https://www.fikiratolyesi.com

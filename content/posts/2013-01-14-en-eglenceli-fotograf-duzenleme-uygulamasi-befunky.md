@@ -31,6 +31,6 @@ Eğer bir Android ya da iOS akıllı telefonunuz varsa fotoğraf düzenleme uygu
 
 &nbsp;
 
- [1]: http://www.befunky.com/
+ [1]: https://www.befunky.com/
  [2]: https://www.murekkep.org/en-iyi-10-android-fotograf-duzenleme-uygulamasi-10180
  [3]: https://www.murekkep.org/iphone-icin-en-iyi-10-fotograf-uygulamasi-8265

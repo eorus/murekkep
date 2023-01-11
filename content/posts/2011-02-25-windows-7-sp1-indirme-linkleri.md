@@ -22,6 +22,6 @@ Windows 7 için ilk **service pack** olan Windows 7 SP1&#8217;in final versiyonu
 
 ## Windows 7 SP1 İndirme Linkleri
 
-<a href="http://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X86.exe" target="_blank" class="broken_link">Windows 7 SP1 İndir (32-bit)</a> | <a href="http://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X64.exe" target="_blank" class="broken_link">Windows 7 SP1 (64-bit) İndir</a> (direkt indirme linkleridir)
+<a href="https://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X86.exe" target="_blank" class="broken_link">Windows 7 SP1 İndir (32-bit)</a> | <a href="https://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X64.exe" target="_blank" class="broken_link">Windows 7 SP1 (64-bit) İndir</a> (direkt indirme linkleridir)
 
-<a href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=c3202ce6-4056-4059-8a1b-3a9b77cdfdda" target="_blank">Windows 7 SP1 Alternatif Link</a>
+<a href="https://www.microsoft.com/downloads/en/details.aspx?FamilyID=c3202ce6-4056-4059-8a1b-3a9b77cdfdda" target="_blank">Windows 7 SP1 Alternatif Link</a>

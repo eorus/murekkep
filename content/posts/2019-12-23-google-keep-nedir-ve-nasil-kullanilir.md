@@ -58,7 +58,7 @@ Marketten bir şeyler almayı hatırlamanız mı gerekiyor? Konuma dayalı bir h
 
 **Her yerde kullanılabilir**
 
-Google Keep&#8217;i web&#8217;de http://keep.google.com adresinden deneyebilir ve http://g.co/keepinchrome adresindeki Chrome Web Mağazası&#8217;nda bulabilirsiniz.
+Google Keep&#8217;i web&#8217;de https://keep.google.com adresinden deneyebilir ve https://g.co/keepinchrome adresindeki Chrome Web Mağazası&#8217;nda bulabilirsiniz.
 
 Google Keep uygulaması klasik not alma ve liste hazırlama alışkanlıklarını, birçok açıdan aynı şekilde dijital ortama aktarmanın yolunu son kullanıcıya kolay bir şekilde sunmaktadır. Güzel olan ise Google Keep aktif bir şekilde geliştirilmeye devam edilmektedir.
 

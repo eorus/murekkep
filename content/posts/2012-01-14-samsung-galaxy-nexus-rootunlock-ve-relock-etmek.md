@@ -27,4 +27,4 @@ Android işletim sisteminin sağladığı en büyük esnekliklerden birisi Root 
 Windows üzerinde tüm Samsung sürücülerinin olması durumunda basit bir arayüzü bulunan bu **Galaxy Nexus root etme** aracı için tüm ayrıntılara Galaxy Nexus Forumlarından ulaşabilirsiniz. Son not olarak bu şekilde yapılacak tüm işlemlerinizi mutlaka telefonunuzun tam yedeğini alarak yapmalısınız.
 
  [1]: https://www.murekkep.org/samsung-galaxy-nexus-ozellikleri-ve-android-4-0-ics-6909 "Samsung Galaxy Nexus"
- [2]: http://www.galaxynexusforum.com/forum/galaxy-nexus-hacking-mods-lte-cdma/1445-wugs-galaxy-nexus-root-toolkit.html "galaxy nexus root toolkit"
+ [2]: https://www.galaxynexusforum.com/forum/galaxy-nexus-hacking-mods-lte-cdma/1445-wugs-galaxy-nexus-root-toolkit.html "galaxy nexus root toolkit"

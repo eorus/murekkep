@@ -18,7 +18,7 @@ Dün indirdim ve kurdum. Kurulumla ilgili bazı değişiklikler var. Ama kullan�
 
 Root şifresi kurulumdan sonra belirlenmiyor artık. Sistem konfigürasyonu ayarlama kısmında Root şifresi belirleme alanı koymuşlar. Oradan belirliyorsunuz. Base install bittikten sonra root şifresiyle açıp gene bildik yolla user ekliyorsunuz. Yeni iso ile kurulum sırasında herhangi bir sorunla karşılaşmadım.
 
-Haber duyurusu : <http://www.archlinux.org/news/305/> 
+Haber duyurusu : <https://www.archlinux.org/news/305/> 
 
 Lapis forum üzerindeki başlığa buradan bakabilirsiniz. Ayrıca yakın zamanda kurulum ayrıntılarıyla Lapis Wiki üzerindeki Archlinux Belgeleri de güncellenecektir.
 
@@ -26,4 +26,4 @@ Lapis forum üzerindeki başlığa buradan bakabilirsiniz. Ayrıca yakın zamand
 
 Archlinux 5 yıl boyunca **Arch** olarak anıldıktan sonra bugün itibariyle ismini **Arklinux** olarak değiştirdi. Bu değişikliğin nedeni olarak, geçen zaman içerisinde, insanların Archlinux ile Arklinux&#8217;u isim benzerliği ve telaffuzundan dolayı karıştırmaları gösteriliyor.
 
-<http://www.archlinux.org/news/307/>
+<https://www.archlinux.org/news/307/>

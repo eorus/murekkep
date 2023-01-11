@@ -17,6 +17,6 @@ Kullandığım Firefox sürümündeki sütün sayısı kullandıkça artı. Üst
 
 ![Eklenti][1] 
 
-<http://www.codejacked.com/download-tiny-menu-update-for-firefox/>{.broken_link}
+<https://www.codejacked.com/download-tiny-menu-update-for-firefox/>{.broken_link}
 
  [1]: https://www.murekkep.org/wp-content/uploads/2006/12/tinymenu.gif

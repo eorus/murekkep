@@ -22,4 +22,4 @@ Gözüken o ki Canon&#8217;un uzun zamandır beklenen super telefoto lensi Canon
 
 <img class="aligncenter size-full wp-image-10379" alt="canon-lens-200-400" src="https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400.jpg" width="600" height="450" srcset="https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400.jpg 600w, https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400-400x300.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400-266x200.jpg 266w, https://www.murekkep.org/wp-content/uploads/2013/01/canon-lens-200-400-406x305.jpg 406w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
-**Kaynak** : <a href="http://www.facebook.com/photo.php?fbid=10151216535287883&set=a.289075002882.144120.286731937882&type=1&permPage=1" target="_blank">Canon</a>
+**Kaynak** : <a href="https://www.facebook.com/photo.php?fbid=10151216535287883&set=a.289075002882.144120.286731937882&type=1&permPage=1" target="_blank">Canon</a>

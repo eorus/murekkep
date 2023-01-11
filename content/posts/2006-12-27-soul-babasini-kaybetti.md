@@ -21,4 +21,4 @@ Aşağıda 1965 yılındaki hit şarkısı “I Feel Good” videosunu ve birço
 
 [youtube]bs1HUbMCZKc[/youtube]
 
- [1]: http://en.wikipedia.org/wiki/James_Brown
+ [1]: https://en.wikipedia.org/wiki/James_Brown

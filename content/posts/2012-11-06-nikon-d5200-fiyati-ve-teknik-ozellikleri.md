@@ -16,7 +16,7 @@ tags:
 ---
 Nikon bugün bir toplantıyla en yeni dijital SLR [fotoğraf makinesi][1] modeli Nikon D5200’ün teknik özellikleri ve fiyat detayları hakkında bilgileri resmi olarak açıkladı. Giriş seviyesi dijital fotoğraf makineleri ailesinin en yeni üyesi olan D5200 şaşırtıcı özellikleriyle dikkat çeken bir kamera. [Nikon D5200][2] teknik özelliklerinden bahsedecek olursak **24.1 Megapiksel CMOS sensörü**, 3 inç boyutlu hareketli ekranı, saniyede 5 kare fotoğraf çekme hızı, Full HD video özelliği ile giriş seviyesi olmanın ötesine geçen bir makine olmuş.  Bir önceki model olan D5100 yerine tanıtılan yeni model gerçekten işleri bir adım öteye götürmeyi başarmış.
 
-<img class="aligncenter" title="Nikon d5200 fiyat" alt="" src="http://www.turknikon.com/wp-content/uploads/2012/11/nikon-d5200-on.jpeg" width="500" height="340" /> 
+<img class="aligncenter" title="Nikon d5200 fiyat" alt="" src="https://www.turknikon.com/wp-content/uploads/2012/11/nikon-d5200-on.jpeg" width="500" height="340" /> 
 
 ### Nikon D5200 Fiyatı
 

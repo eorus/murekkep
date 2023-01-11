@@ -24,6 +24,6 @@ Bollywood sineması Hollywood sinemasına göre çok daha fazla film üretmekted
 
 Konu hakkında daha fazla bilgi için [şuraya][3] bakabilirsiniz. Ekşisözlükte de bir çok şey yazılmış. Google de Bollywood yazınca bir sürü site bulabilirsiniz.
 
- [1]: http://en.wikipedia.org/wiki/Fire_%28film%29
- [2]: http://tr.wikipedia.org/wiki/Bollywood
- [3]: http://en.wikipedia.org/wiki/Bollywood
+ [1]: https://en.wikipedia.org/wiki/Fire_%28film%29
+ [2]: https://tr.wikipedia.org/wiki/Bollywood
+ [3]: https://en.wikipedia.org/wiki/Bollywood

@@ -40,8 +40,8 @@ Firefox üzerinde bir messenger havasında çalışan **Twitbin firefox eklentis
 
 **Twitter** iletişimi sağlayan ve burada yer vermediğim, sizin eklemek istediğiniz **twitter firefox eklentileri** varsa yorumlarınızda belirtirseniz listeyi ona göre güncelleyebiliriz.
 
- [1]: http://getfirefox.com
- [2]: http://twitter.com
+ [1]: https://getfirefox.com
+ [2]: https://twitter.com
  [3]: https://www.murekkep.org/twitter-nedir-gorsel-twitter-rehberi-2059
  [4]: https://www.murekkep.org/firefox-eklentisi-twitterfox-1278
  [5]: https://www.murekkep.org/firefox-eklentisi-twitbin-1329

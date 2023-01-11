@@ -169,7 +169,7 @@ Sigma&#8217;nın &#8220;Art&#8221; serisine dahil olan ve dünyanın ilk sabit f
 
 [<img class="aligncenter size-full wp-image-19230" alt="Sigma-18-35mm-f1.8-DC-HSM-zoom-lens" src="https://www.murekkep.org/wp-content/uploads/2013/04/Sigma-18-35mm-f1.8-DC-HSM-zoom-lens.jpg" width="550" height="413" />][9]
 
-via <a title="Sigma-18-35mm-f1.8-DC-HSM" href="http://www.dailycameranews.com/2013/04/sigma-18-35mm-f1-8-dc-hsm/" rel="external dofollow">Sigma 18-35mm F1.8 DC HSM Lens</a>
+via <a title="Sigma-18-35mm-f1.8-DC-HSM" href="https://www.dailycameranews.com/2013/04/sigma-18-35mm-f1-8-dc-hsm/" rel="external dofollow">Sigma 18-35mm F1.8 DC HSM Lens</a>
 
  [1]: https://www.murekkep.org/wp-content/uploads/2013/04/Sigma-18-35mm-F1.8-DC-HSM-lens.jpg
  [2]: https://www.murekkep.org/wp-content/uploads/2013/04/Sigma-18-35mm-f1.8-DC-HSM-lens-construction.gif

@@ -21,6 +21,6 @@ Mike Svitek&#8217;in <a href="https://plus.google.com/109859150130478662888/post
 
 <img class="alignnone size-full wp-image-13733" alt="Pentax-k3-dslr-fotograf-makinesi" src="https://www.murekkep.org/wp-content/uploads/2013/03/Pentax-k3-dslr-camera.jpg" width="500" height="375" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/Pentax-k3-dslr-camera.jpg 500w, https://www.murekkep.org/wp-content/uploads/2013/03/Pentax-k3-dslr-camera-400x300.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/Pentax-k3-dslr-camera-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/Pentax-k3-dslr-camera-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/Pentax-k3-dslr-camera-266x200.jpg 266w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
-via <a title="Pentax K-3 24MP Full Frame DSLR Camera Announcement on March 27th?" href="http://www.dailycameranews.com/2013/03/pentax-k-3-24mp-full-frame-dslr-camera-announcement-on-march-27th/" rel="external dofollow">Pentax K-3 24MP Full Frame DSLR Camera Announcement on March 27th?</a>
+via <a title="Pentax K-3 24MP Full Frame DSLR Camera Announcement on March 27th?" href="https://www.dailycameranews.com/2013/03/pentax-k-3-24mp-full-frame-dslr-camera-announcement-on-march-27th/" rel="external dofollow">Pentax K-3 24MP Full Frame DSLR Camera Announcement on March 27th?</a>
 
  [1]: https://www.murekkep.org/kamera/ "fotoğraf makinesi"

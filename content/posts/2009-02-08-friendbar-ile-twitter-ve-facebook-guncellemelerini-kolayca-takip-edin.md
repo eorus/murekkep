@@ -32,6 +32,6 @@ Internet üzerinde yaygınlığı bilinen sosyal ağlar için özellikle Web 2.0
 
 Friendbar eklentisini Firefox eklentileri sayfasından edinebilirsiniz.
 
- [1]: http://twitter.com
- [2]: http://www.facebook.com
- [3]: http://www.mozilla-europe.org/tr/firefox/
+ [1]: https://twitter.com
+ [2]: https://www.facebook.com
+ [3]: https://www.mozilla-europe.org/tr/firefox/

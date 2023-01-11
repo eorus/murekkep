@@ -21,7 +21,7 @@ Android, iPhone ve [iPad oyun uygulaması][1]{.broken_link} olarak mevcut olan o
 
 <img class="aligncenter size-full wp-image-13557" alt="angry-birds-toons" src="https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons.jpg" width="590" height="295" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons.jpg 590w, https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons-400x200.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons-50x25.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons-125x62.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons-300x150.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/03/angry-birds-toons-580x290.jpg 580w" sizes="(max-width: 590px) 100vw, 590px" /> 
 
-Angry Birds çizgi filmi mobil uygulama üzerinden izlemek istemezseniz, o zaman **Angry Birds Toons Channel** gösterimi yapan Xfinity on Demand içeren video platformlarından <a href="http://xfinity.com/tv" target="_blank">Xfinity.com/tv</a> adresine bakabilirsiniz.
+Angry Birds çizgi filmi mobil uygulama üzerinden izlemek istemezseniz, o zaman **Angry Birds Toons Channel** gösterimi yapan Xfinity on Demand içeren video platformlarından <a href="https://xfinity.com/tv" target="_blank">Xfinity.com/tv</a> adresine bakabilirsiniz.
 
  [1]: https://www.murekkep.org/top-10-en-iyi-iphone-ve-ipad-oyunlari-7641 "Top 10 En İyi iPhone ve iPad Oyunları"
  [2]: https://www.murekkep.org/angry-birds-ve-star-wars-guclerini-birlestiriyor-8557 "Angry Birds ve Star Wars Güçlerini Birleştiriyor"

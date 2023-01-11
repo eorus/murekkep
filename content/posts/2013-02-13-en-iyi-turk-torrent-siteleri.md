@@ -22,11 +22,11 @@ Tabi **torrent paylaşımı** ve içeriği açısından detaylara girmeyeceğiz.
 ### En İyi Türk Torrent Siteleri
 
   * Arena-TR
-  * <a href="http://www.bitturk.net/" target="_blank" rel="external nofollow" class="broken_link">BitTürk</a>
-  * <a href="http://www.leechturk.com/" target="_blank" rel="external nofollow">LeechTurk</a>
+  * <a href="https://www.bitturk.net/" target="_blank" rel="external nofollow" class="broken_link">BitTürk</a>
+  * <a href="https://www.leechturk.com/" target="_blank" rel="external nofollow">LeechTurk</a>
   * Torrent-Ultra
   * Torrent-Cell
-  * <a href="http://www.turknova.net/" target="_blank" rel="external nofollow" class="broken_link">TurkNova</a>
+  * <a href="https://www.turknova.net/" target="_blank" rel="external nofollow" class="broken_link">TurkNova</a>
   * TurkTorrent
 
  [1]: https://www.murekkep.org/en-iyi-5-torrent-indirme-programi-7611 "torrent indirme programları"

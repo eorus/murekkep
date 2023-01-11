@@ -14,7 +14,7 @@ tags:
 ---
 **Ücretsiz web sitesi** kurmanın artık günümüzde birçok farklı yöntemi bulunuyor. Bunlardan bir tanesi olan Wix.com platformu sayesinde ücretsiz web sitesi kurmak için aradığınız herşey mevcut.
 
-<a title="bedava site kur" href="http://tr.wix.com" target="_blank">Wix.com</a> ile ücretsiz web sitesi kurmak ve mükemmel bir siteyi hayata geçirmek hiç de zor değil. İnternet sitenizi basit ve kolay bir şekilde istediğiniz gibi hayata geçirebilirsiniz.
+<a title="bedava site kur" href="https://tr.wix.com" target="_blank">Wix.com</a> ile ücretsiz web sitesi kurmak ve mükemmel bir siteyi hayata geçirmek hiç de zor değil. İnternet sitenizi basit ve kolay bir şekilde istediğiniz gibi hayata geçirebilirsiniz.
 
 Kolayca özelleştirilebilir ve kodlama bilgisi gerektirmeyen yapısıyla Wix.com, Dünya genelinde 50 milyonun üzerinde kullanıcısı olan bir platform olarak kullanıcılara kendi internet sitelerini yaratabilme olanağı sunuyor. Ücretsiz web sitesi kurmak için yüzlerce site şablonu seçeneği, özgün dizayn alanı hizmeti ve içinde Türkçe’nin de bulunduğu 11 farklı dil seçeneğiyle Wix.com bir adım öne çıkıyor.
 
@@ -26,7 +26,7 @@ Kolayca özelleştirilebilir ve kodlama bilgisi gerektirmeyen yapısıyla Wix.co
 
 Ücretsiz web sitesi oluşturmak için tek yapmanız gereken Wix.com&#8217;a üye olmak, eğer isterseniz hesabını yükseltebilirsiniz ama sistemin size sağladığı ücretsiz imkanlar yeterli olacaktır. Yani ücretsiz bir şekilde oluşturduğunuz web sitesi eğer ihtiyaçlarınızı karşılıyorsa Wix platformunu sadece ücretsiz web sitesi hizmeti şeklinde de kullanabilirsiniz.
 
-Sürükle bırak teknolojisi ile çalışan ücretsiz web sitesi oluşturma aracı Wix ile isterseniz kurumsal isterseniz kişisel ihtiyacınıza yönelik oldukça modern ve güzel görünmlü bir site oluşturabilirsiniz. Üstelik <a title="bedava site kur" href="http://tr.wix.com" target="_blank">Wix.com</a> ile hosting hizmeti de bedava. Yani hem ücretsiz web sitesi hemde ücretsiz sunucu hizmetine sahip olacaksınız.
+Sürükle bırak teknolojisi ile çalışan ücretsiz web sitesi oluşturma aracı Wix ile isterseniz kurumsal isterseniz kişisel ihtiyacınıza yönelik oldukça modern ve güzel görünmlü bir site oluşturabilirsiniz. Üstelik <a title="bedava site kur" href="https://tr.wix.com" target="_blank">Wix.com</a> ile hosting hizmeti de bedava. Yani hem ücretsiz web sitesi hemde ücretsiz sunucu hizmetine sahip olacaksınız.
 
 ### Wix.com’un özellikleri
 
@@ -40,4 +40,4 @@ Sürükle bırak teknolojisi ile çalışan ücretsiz web sitesi oluşturma arac
   * Sosyal medya eklentileri
   * Öğrenme merkezi
 
-<a title="bedava site kur" href="http://tr.wix.com" target="_blank">Wix</a> ile oluşturduğunuz ücretsiz web sitesi Google ile dost bir şekilde hizmet verirken, insanlar sizi Google ve diğer arama motorları sayesinde kolayca bulabilirler. Mobil cihazlarda kusursuz görünen ücretsiz web sitesi akıllı telefon ve tablet pc cihazlar için optimize bir şekilde sunulur.
+<a title="bedava site kur" href="https://tr.wix.com" target="_blank">Wix</a> ile oluşturduğunuz ücretsiz web sitesi Google ile dost bir şekilde hizmet verirken, insanlar sizi Google ve diğer arama motorları sayesinde kolayca bulabilirler. Mobil cihazlarda kusursuz görünen ücretsiz web sitesi akıllı telefon ve tablet pc cihazlar için optimize bir şekilde sunulur.

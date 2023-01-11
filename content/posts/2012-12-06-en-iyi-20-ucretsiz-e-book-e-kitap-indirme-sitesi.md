@@ -49,17 +49,17 @@ Size **e-kitap ve dergileri** bulabileceğiniz bazı yararlı sitelerin listesin
  20. [eBookLobby][15]
 
  [1]: https://www.murekkep.org/e-kitap-nedir-ne-degildir-9671 "E-Kitap Nedir?"
- [2]: http://www.freebookspot.com/
- [3]: http://www.free-ebooks.net/
- [4]: http://manybooks.net/
- [5]: http://www.getfreeebooks.com/
- [6]: http://freecomputerbooks.com/
- [7]: http://www.freetechbooks.com/
- [8]: http://www.scribd.com/
- [9]: http://www.globusz.com/
- [10]: http://www.onlinefreeebooks.net/
- [11]: http://www.onlinecomputerbooks.com/
- [12]: http://www.bookyards.com/
- [13]: http://digital.library.upenn.edu/books/
- [14]: http://www.baen.com/library/
- [15]: http://www.ebooklobby.com/
+ [2]: https://www.freebookspot.com/
+ [3]: https://www.free-ebooks.net/
+ [4]: https://manybooks.net/
+ [5]: https://www.getfreeebooks.com/
+ [6]: https://freecomputerbooks.com/
+ [7]: https://www.freetechbooks.com/
+ [8]: https://www.scribd.com/
+ [9]: https://www.globusz.com/
+ [10]: https://www.onlinefreeebooks.net/
+ [11]: https://www.onlinecomputerbooks.com/
+ [12]: https://www.bookyards.com/
+ [13]: https://digital.library.upenn.edu/books/
+ [14]: https://www.baen.com/library/
+ [15]: https://www.ebooklobby.com/

@@ -24,7 +24,7 @@ Eğer mevcut twitter hesabınızda 1000+ ve daha üstü tweet varsa bu durumda s
 
 <img class="aligncenter size-full wp-image-7847" title="twit-wipe" src="https://www.murekkep.org/wp-content/uploads/2012/02/twit-wipe.jpg" alt="" width="450" height="183" srcset="https://www.murekkep.org/wp-content/uploads/2012/02/twit-wipe.jpg 450w, https://www.murekkep.org/wp-content/uploads/2012/02/twit-wipe-400x162.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/02/twit-wipe-50x20.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/02/twit-wipe-300x122.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /> 
 
-Twitter için <a title="Twit Wipe" href="http://twitwipe.com/login.php" target="_blank" class="broken_link">Twit Wipe</a> servisini kullanarak tüm bu dağınıklıktan kurtulabilirsiniz. Hem twitter hesabınızdaki tweetler silinmiş olur hem de hesabınıza bağlı tüm bilgileri tutmuş ve kaybetmemiş olursunuz.
+Twitter için <a title="Twit Wipe" href="https://twitwipe.com/login.php" target="_blank" class="broken_link">Twit Wipe</a> servisini kullanarak tüm bu dağınıklıktan kurtulabilirsiniz. Hem twitter hesabınızdaki tweetler silinmiş olur hem de hesabınıza bağlı tüm bilgileri tutmuş ve kaybetmemiş olursunuz.
 
 Başlamak için Twit Wipe sitesine girmeniz yeterli olacaktır. Herhangi bir yükleme yapmanıza gerek olmadan mevcut twitter hesap bilgilerinizle giriş yapabiliyorsunuz. Twitter hesabınızı Twit Wipe ile yetkilendirdikten sonra &#8220;**Twit Wipe this account**&#8221; seçeneği ile hesabınızdaki tüm tweetlerin silinmesi işlemini başlatabiliyorsunuz.
 

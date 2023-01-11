@@ -24,7 +24,7 @@ Microsoft&#8217;un yeni işletim sistemi olacak <a title="Windows 8 Consumer Pre
 
 ## Window 8 Consumer Preview İndirme Linkleri
 
-<a href="http://windows.microsoft.com/en-US/windows-8/download" target="_blank">Windows 8 Kurulum Aracı</a>
+<a href="https://windows.microsoft.com/en-US/windows-8/download" target="_blank">Windows 8 Kurulum Aracı</a>
 
 **İngilizce**
 

@@ -25,7 +25,7 @@ Twitter&#8217;ın yaptığı bu anasayfa değişikliği ile akıllı bir şekild
 [  
 Twitter Search for Everyone][4]
 
- [1]: http://twitter.com
+ [1]: https://twitter.com
  [2]: https://www.murekkep.org/domuz-gribi-swine-flu-2229
- [3]: http://search.twitter.com
- [4]: http://blog.twitter.com/2009/04/twitter-search-for-everyone.html
+ [3]: https://search.twitter.com
+ [4]: https://blog.twitter.com/2009/04/twitter-search-for-everyone.html

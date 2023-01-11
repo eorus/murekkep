@@ -19,7 +19,7 @@ Web 2 temsilcilerinden [Del.icio.us][1] adresini çoğunuz biliyorsunuzdur. Etik
 
 [LinuxQuestions.org][2]{.broken_link} sitesi sadece Açık Kaynak ve Linux bağlantılı sitelere ilişkin olarak bunu uyguluyor. Aynı delicious mantığı ile çalışan LinuxQuestions Bookmark sitesi kullanıcıların kendileri için sakladıkları Linux bookmarklarını paylaştırıyor. Eklenen bookmarklara atanan etiketler o sitenin içeriğiyle ilgili bilgi vermiş oluyor ve oldukça yardımcı oluyor. Böylelikle hangi kategoriye ait olduğunu bulmak kolay oluyor.
 
-http://www.linuxquestions.org/bookmarks/
+https://www.linuxquestions.org/bookmarks/
 
- [1]: http://del.icio.us/
- [2]: http://www.linuxquestions.org/
+ [1]: https://del.icio.us/
+ [2]: https://www.linuxquestions.org/

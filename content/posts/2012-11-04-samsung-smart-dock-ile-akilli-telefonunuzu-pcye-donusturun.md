@@ -20,4 +20,4 @@ tags:
 
 Galaxy Smart Dock üzerinde 3 USB çıkışı, bir HDMI çıkışı bir de 3.5mm stereo ses çıkışına sahip. Bu haliyle fiyatı Amerika’da 99$ olarak açıklanmış. Şimdilik yalnızca Galaxy Note 2 için özel tasarlanmış bir cihaza benziyor fakat Galazy S3 ile de çalışıyor olması mümkün. Aslına bakarsanız bu güzel cihaz kesinlikle kullanışlı olacak fakat Android 4.2 ile çoğu cihaz kabloları hayatımızdan çıkarıyor. Örneğin [LG Nexus 4][1] kendi kablosuz şarj istasyonunu ile şarj oluyor, Miracast ile videoyu anında bağlandığı ekrana gönderebiliyor. Bluetooth ile klavye ve Mouse bağlantısına izin veriyor. Akıllı telefon kavramı çıktığından bu yana Android telefonun masaüstü bilgisayar işlerini halletmek için yeterli olacağı fikri hep akıllardaydı. Şimdi Samsung Smart Dock ya da Android 4.2 gibi sistemlerle bu fikir gerçeğe dönüşüyor gibi gözüküyor.
 
- [1]: http://wp.me/p1eJph-2ic "lg nexus 4 teknik özellikler"
+ [1]: https://wp.me/p1eJph-2ic "lg nexus 4 teknik özellikler"

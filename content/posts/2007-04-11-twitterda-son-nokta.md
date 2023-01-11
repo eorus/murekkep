@@ -25,5 +25,5 @@ Birkaç tane daha twitter örneği vermek gerekirse, [Twitterholic][3] ile twitt
 
  [1]: https://www.murekkep.org/blog-gunluk-ise-twitter-anlik-230
  [2]: https://www.murekkep.org/twitter-masaustu-araclari-237
- [3]: http://twitterholic.com/
- [4]: http://maps.google.com/
+ [3]: https://twitterholic.com/
+ [4]: https://maps.google.com/

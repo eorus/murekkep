@@ -19,7 +19,7 @@ Samsung Galaxy Tab serisinin 7 inç ekran boyutundaki serisine devam ettiği **S
 
 **Yeni galaxy tablet 7.7** inç boyutunda ve oldukça hafif. Sadece 335 gram ağırlığında olan **samsung galaxy tab 7.7**, 1.4 GHZ hızında çift çekirdekli bir işlemci kullanıyor ve 1 GB Ram ile geliyor. Yani **yeni galaxy tab 7.7** oldukça güçlü ve hızlı.
 
-**<img class="alignright size-full wp-image-6724" title="Samsung Galaxy Tab 7.7" src="https://www.murekkep.org/wp-content/uploads/2011/09/samsung-galaxy-tab-7.7.jpg" alt="" width="200" height="273" />Samsung Galaxy Tab 7.7 ekran boyutu** 7.7 inç demiştik. <a href="http://www.burcinyazici.com/super-amoled-ekran-nedir-1574.html" target="_blank">Super Amoled Plus ekran</a> teknolojisini kullanan yeni galaxy tab&#8217;ın ekran çözünürlüğü ise 7.7 inç ekrana göre **1280 x 800** şeklinde ve Samsung&#8217;un tabletlere özel görsel arabirimi olan **TouchWiz UX** kullanılıyor.
+**<img class="alignright size-full wp-image-6724" title="Samsung Galaxy Tab 7.7" src="https://www.murekkep.org/wp-content/uploads/2011/09/samsung-galaxy-tab-7.7.jpg" alt="" width="200" height="273" />Samsung Galaxy Tab 7.7 ekran boyutu** 7.7 inç demiştik. <a href="https://www.burcinyazici.com/super-amoled-ekran-nedir-1574.html" target="_blank">Super Amoled Plus ekran</a> teknolojisini kullanan yeni galaxy tab&#8217;ın ekran çözünürlüğü ise 7.7 inç ekrana göre **1280 x 800** şeklinde ve Samsung&#8217;un tabletlere özel görsel arabirimi olan **TouchWiz UX** kullanılıyor.
 
 **Android 3.2 Honeycomb** tablet pc işletim sistemi kullanan samsung galaxy tab 7.7 16 GB, 32 GB ve 64 GB dahili depolama alanı imkanı sunarken, **microSD kart girişi** ile artırılabilir bellek imkanı da mevcut.
 

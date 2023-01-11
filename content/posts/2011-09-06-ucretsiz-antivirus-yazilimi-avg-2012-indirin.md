@@ -21,4 +21,4 @@ tags:
 
 **AVG 2012 ücretsiz bir antivirüs yazılımına** göre oldukça iyi geliştirmeler ve özellikler içeriyor. Eğer **ücretsiz bir antivirüs yazılımı** arıyorsanız AVG 2012&#8217;yi deneyebilirsiniz.
 
-<a href="http://www.avg.com/avg2012/" target="_blank">AVG 2012 İndir</a>
+<a href="https://www.avg.com/avg2012/" target="_blank">AVG 2012 İndir</a>

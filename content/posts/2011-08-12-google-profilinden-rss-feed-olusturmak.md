@@ -19,6 +19,6 @@ Kullanımı oldukça basit. Diyelim ki **google+ profil** adresimiz şöyle ;
 https://plus.google.com/106847815342085902704/posts
 
 Buradaki uzun numarayı alıyoruz. **plusfeed.appspot.com** adresindeki url kısmına ekleyip **RSS feed** adresini oluşturuyoruz.  
-http://plusfeed.appspot.com/106847815342085902704
+https://plusfeed.appspot.com/106847815342085902704
 
 **Google+ için RSS adresi** oluştu. İsterseniz Google Reader ya da herhangi bir rss okuyucuya bu url linkini ekleyip Google+ güncellemelerini takip edebilirsiniz.

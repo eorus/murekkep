@@ -24,4 +24,4 @@ Eğer creative commons lisanslı fotoğraflara ulaşmak konusunda [Flickr geliş
 
  [1]: https://www.murekkep.org/etiket/fotograf-paylasim
  [2]: https://www.murekkep.org/yahoo-resim-aramaya-creative-commons-filtresi-eklendi-2879
- [3]: http://www.flickr.com/search/advanced/
+ [3]: https://www.flickr.com/search/advanced/

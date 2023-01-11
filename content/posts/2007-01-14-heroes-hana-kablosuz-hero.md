@@ -26,9 +26,9 @@ Bu sezon severek izlemeye başladığımız dizilerden Heroes bilindiği üzere 
 
 Bu arada geçen gün bahsettiğimiz [2007 Halkın Seçimi Ödülleri][6]{.broken_link}&#8216;nde Heroes dizisi &#8220;En iyi yeni drama&#8221; dalında ödülünü aldı. Tamamen izleyicilerin oylarıyla gelen bu ödül Heroes&#8217;un ilk sezonu itibariyle ne kadar beğenildiğinin bir göstergesidir. Geceden bir kareyi aşağıda görebilirsiniz.
 
- [1]: http://www.nbc.com/
- [2]: http://heroeswiki.com/Hana
- [3]: http://www.nbc.com/Heroes/
- [4]: http://heroeswiki.com/Mr._Bennet
- [5]: http://www.imdb.com/name/nm0319698/
+ [1]: https://www.nbc.com/
+ [2]: https://heroeswiki.com/Hana
+ [3]: https://www.nbc.com/Heroes/
+ [4]: https://heroeswiki.com/Mr._Bennet
+ [5]: https://www.imdb.com/name/nm0319698/
  [6]: https://www.murekkep.org/2007-halkin-secimi-odulleri-130

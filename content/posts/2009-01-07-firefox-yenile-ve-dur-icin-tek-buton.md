@@ -27,7 +27,7 @@ Alt+Sol Ok &#8211; Bir önceki sayfaya gitmek
 Alt+Sağ Ok &#8211; Bir sonraki sayfaya gitmek  
 Alt+Home &#8211; Başlangıç sayfasına gitmek
 
- [1]: http://www.google.com/chrome
- [2]: http://www.opera.com/
- [3]: http://www.apple.com/safari/
- [4]: http://userstyles.org/styles/10
+ [1]: https://www.google.com/chrome
+ [2]: https://www.opera.com/
+ [3]: https://www.apple.com/safari/
+ [4]: https://userstyles.org/styles/10

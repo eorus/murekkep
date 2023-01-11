@@ -18,6 +18,6 @@ tags:
 
 Windows 7 tema galerisine Butterflies Theme ve Insects Dynamic Theme eklendi. 13 adet yüksek çözünürlüklü duvar kağıdı içeren ve kelebeklerin makro yakın çekim fotoğraflarından oluşan Butterflies Theme, Windows tema galerisinden ücretsiz bir şekilde indirilebilir.
 
-<a title="Insects Dynamic Theme" href="http://windows.microsoft.com/en-US/windows/downloads/insects-dynamic-theme" target="_blank"><br /> The Insects Dynamic Theme</a> ise farklı böcek türlerinden oluşan dinamik bir Windows 7 temasıdır. Dinamik bir Windows 7 teması demek aslında RSS üzerinden bu temaya farklı duvar kağıtları güncellemesi gelebilir anlamına geliyor.
+<a title="Insects Dynamic Theme" href="https://windows.microsoft.com/en-US/windows/downloads/insects-dynamic-theme" target="_blank"><br /> The Insects Dynamic Theme</a> ise farklı böcek türlerinden oluşan dinamik bir Windows 7 temasıdır. Dinamik bir Windows 7 teması demek aslında RSS üzerinden bu temaya farklı duvar kağıtları güncellemesi gelebilir anlamına geliyor.
 
 <img class="aligncenter size-full wp-image-7670" title="butterflies-theme" src="https://www.murekkep.org/wp-content/uploads/2012/01/butterflies-theme.jpg" alt="" width="400" height="293" srcset="https://www.murekkep.org/wp-content/uploads/2012/01/butterflies-theme.jpg 400w, https://www.murekkep.org/wp-content/uploads/2012/01/butterflies-theme-50x36.jpg 50w, https://www.murekkep.org/wp-content/uploads/2012/01/butterflies-theme-170x125.jpg 170w" sizes="(max-width: 400px) 100vw, 400px" />

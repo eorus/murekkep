@@ -16,8 +16,8 @@ Her zaman olduğu gibi sade [Google][1] arayüzü ile oldukça kullanışlı bir
 
 Giriş yaptıktan sonra ise sadece başlıkları sıra sıra göstermesi oldukça kullanışlı, çünkü böylelikle tüm mail içeriğini indirmiş olmuyorsunuz. Böylelikle nerede olursanız olun cep telefonunuz ile maillerinizi takip edebiliyorsunuz.
 
-Yapmanız gereken sadece cep telefonunuzun tarayıcısından <http://gmail.com/app> adresine bağlanmanız olacaktır.
+Yapmanız gereken sadece cep telefonunuzun tarayıcısından <https://gmail.com/app> adresine bağlanmanız olacaktır.
 
- [1]: http://www.google.com.tr
- [2]: http://gmail.com/
- [3]: http://gmail.com/app
+ [1]: https://www.google.com.tr
+ [2]: https://gmail.com/
+ [3]: https://gmail.com/app

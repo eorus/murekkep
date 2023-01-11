@@ -14,7 +14,7 @@ tags:
   - video
 
 ---
-<a href="http://photobucket.com/" target="_blank">Photobucket</a>, görsel olarak adlandırdığımız fotoğraf, resim ve bilinen tüm image dosyaları ile videoları barındıran, paylaşmanızı sağlayan, paylaşırken link ekleyebileceğiniz, Facebook, Twitter ve Myspace gibi popüle **sosyal ağlar** üzerinden bu görselleri paylaşabileceğiniz bir internet sitesidir. Photobucket ile ücretsiz açtığınız hesabınızda binlerce **fotoğraf ve video** barındırabilirsiniz.
+<a href="https://photobucket.com/" target="_blank">Photobucket</a>, görsel olarak adlandırdığımız fotoğraf, resim ve bilinen tüm image dosyaları ile videoları barındıran, paylaşmanızı sağlayan, paylaşırken link ekleyebileceğiniz, Facebook, Twitter ve Myspace gibi popüle **sosyal ağlar** üzerinden bu görselleri paylaşabileceğiniz bir internet sitesidir. Photobucket ile ücretsiz açtığınız hesabınızda binlerce **fotoğraf ve video** barındırabilirsiniz.
 
 Photobucket sadece fotoğraflarlarınız, resimleriniz için bir **görsel paylaşım platformu** olmaktan ziyade, photobucketa yüklediğiniz fotoğraflarınız üzerinde düzenleme yapmanıza imkan sağlamaktadır. Bir görsele basitçe fotoğraf efekti verebilir ve online fotoğraf düzenleyebilirsiniz. Aynı şekilde **eğlenceli fotoğraflar yaratmak** istiyorsanız kolajlar ve dijital slideshowlar oluşturabilirsiniz.
 
@@ -24,4 +24,4 @@ iPhone, Blackberry ve Android mobil cihazlardan **mobil erişim** sağlanabilen 
 
 **Görsel arama motoru** olarak kullanılabilen bir arama kutusu barındıran Photobucket anasayfasında web 2.0 canlılığını yansıtan etiketler, son yüklenen ve paylaşılan fotoğraflardan oluşan küçük resimleri görebilirsiniz.
 
-Photobucket yeni bir site değil ancak son zamanlarda gelişen sosyal ağlarla beraber fotoğraf paylaşımı konsepti ile başlayan serüvenine canlı bir şekilde devam ettiğini görebiliyoruz. Twitter üzerinden takip edebileceğiniz <a href="http://www.twitter.com/photobucket" target="_blank">@photobucket</a> fotoğraf paylaşım sitesine arzu ederseniz Facebook hesabınızla giriş yapabiliyorsunuz.
+Photobucket yeni bir site değil ancak son zamanlarda gelişen sosyal ağlarla beraber fotoğraf paylaşımı konsepti ile başlayan serüvenine canlı bir şekilde devam ettiğini görebiliyoruz. Twitter üzerinden takip edebileceğiniz <a href="https://www.twitter.com/photobucket" target="_blank">@photobucket</a> fotoğraf paylaşım sitesine arzu ederseniz Facebook hesabınızla giriş yapabiliyorsunuz.

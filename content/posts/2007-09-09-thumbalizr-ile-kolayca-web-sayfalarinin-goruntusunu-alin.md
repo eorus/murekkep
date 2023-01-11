@@ -17,4 +17,4 @@ Daha önce bir firefox eklentisi olan screengrab ile internet sayfalarının ekr
 
 <p style="text-align: center">
 
- [1]: http://www.thumbalizr.com/
+ [1]: https://www.thumbalizr.com/

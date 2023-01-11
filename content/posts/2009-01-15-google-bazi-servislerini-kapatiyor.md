@@ -19,9 +19,9 @@ Bir diğer servis ise şahsen gayet keyifli bir şekilde kullandığım [Google 
 
 Google Catalogs, Dodgeball ve Jaiku&#8217;da işlerine son verilen diğer servisler. Google&#8217;ın resmi günlüğünde bu servislerin [Google Apps Engine][6]&#8216;e dahil edileceği söyleniyor.
 
- [1]: http://www.google.com.tr/
- [2]: http://googlesystem.blogspot.com/2009/01/google-closes-many-services.html
- [3]: http://www.youtube.com/
- [4]: http://www.google.com/gn
- [5]: http://www.mozilla-europe.org/tr/firefox/
- [6]: http://code.google.com/appengine/
+ [1]: https://www.google.com.tr/
+ [2]: https://googlesystem.blogspot.com/2009/01/google-closes-many-services.html
+ [3]: https://www.youtube.com/
+ [4]: https://www.google.com/gn
+ [5]: https://www.mozilla-europe.org/tr/firefox/
+ [6]: https://code.google.com/appengine/

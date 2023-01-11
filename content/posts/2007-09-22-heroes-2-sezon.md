@@ -20,6 +20,6 @@ Buna göre yeni sezonlarla beraber oyuncularda değişimler olacak ve hikayenin 
 
 [youtube]v_-1csvh4ok[/youtube]
 
- [1]: http://www.nbc.com/Heroes/
+ [1]: https://www.nbc.com/Heroes/
  [2]: https://www.murekkep.org/heroes-origins-302
- [3]: http://www.22dakika.org/yazi/heroes-2-sezon-da-dania
+ [3]: https://www.22dakika.org/yazi/heroes-2-sezon-da-dania

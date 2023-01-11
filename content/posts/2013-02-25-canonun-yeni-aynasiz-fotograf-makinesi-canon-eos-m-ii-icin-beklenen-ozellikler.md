@@ -28,7 +28,7 @@ Canon’un aynasız kompakt [fotoğraf makinesi][1] Canon EOS M&#8217;in yerini 
   * Tahmini olarak üç yeni lens duyurusu
   * 999$ satış fiyatı
 
-via <a title="Canon EOS M Successor : Canon EOS M II Specs" href="http://www.dailycameranews.com/2013/02/canon-eos-m-successor-canon-eos-m-ii-specs/" rel="external dofollow">DCN</a>
+via <a title="Canon EOS M Successor : Canon EOS M II Specs" href="https://www.dailycameranews.com/2013/02/canon-eos-m-successor-canon-eos-m-ii-specs/" rel="external dofollow">DCN</a>
 
  [1]: https://www.murekkep.org/kamera "fotoğraf makinesi"
  [2]: https://www.murekkep.org/7-uygun-fiyatli-giris-seviyesi-dijital-slr-fotograf-makinesi-11306 "7 Uygun Fiyatlı Giriş Seviyesi Dijital SLR Fotoğraf Makinesi"

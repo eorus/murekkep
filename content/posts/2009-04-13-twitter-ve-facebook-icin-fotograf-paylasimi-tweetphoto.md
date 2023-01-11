@@ -25,6 +25,6 @@ Twitter&#8217;a fotoğraf göndermek üzere düşünülen Tweetphoto aynı [Twit
 
 Hizmete girdikten sonra kendi sitesinde yüklenen fotoğraflara yorum ekleme ve fotoğrafları etiketleme özelliklerinin olacağı Tweetphoto, Twitpic&#8217;ten sonra **twitter hesabınıza** fotoğraf gönderebileceğiniz bir başka **ücretsiz** servis olarak karşımıza çıkıyor.
 
- [1]: http://twitter.com
- [2]: http://facebook.com
+ [1]: https://twitter.com
+ [2]: https://facebook.com
  [3]: https://www.murekkep.org/twitpic-ile-fotograflarinizi-twittera-gonderin-1894

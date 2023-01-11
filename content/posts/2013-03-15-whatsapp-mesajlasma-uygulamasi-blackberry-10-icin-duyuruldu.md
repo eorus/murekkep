@@ -20,6 +20,6 @@ BlackBerry 10 sistemindeki kişilerle kolayca entegre olabilen uygulama anında 
 
 <img class="aligncenter size-full wp-image-13342" alt="whatsapp" src="https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp.jpg" width="500" height="309" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp.jpg 500w, https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp-400x247.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp-50x30.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp-125x77.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp-300x185.jpg 300w, https://www.murekkep.org/wp-content/uploads/2013/03/whatsapp-493x305.jpg 493w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
-BlackBerry World üzerinden <a href="http://appworld.blackberry.com/webstore/content/2360/" target="_blank" class="broken_link">WhatsApp Uygulaması</a> indir.
+BlackBerry World üzerinden <a href="https://appworld.blackberry.com/webstore/content/2360/" target="_blank" class="broken_link">WhatsApp Uygulaması</a> indir.
 
  [1]: https://www.murekkep.org/blackberry-z10-ve-q10-telefonlar-blackberry-10-mobil-isletim-sistemi-ile-duyuruldu-11430 "BlackBerry Z10 ve Q10 Telefonlar BlackBerry 10 Mobil İşletim Sistemi ile Duyuruldu"

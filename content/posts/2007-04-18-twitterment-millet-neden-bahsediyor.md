@@ -20,4 +20,4 @@ Evet twitter hakkında yazmaya ve gelişimini takip etmeye devam edeceğiz. Twit
 Twitterment ile bir kelimeyi twitter üzerinde araştırabiliyorsunuz. Örneğin **&#8220;Linux&#8221;** kelimesi twitter üzerinde nasıl kullanılmış ve kimler kullanmış. Bunu birer grafik ve google maps yardımıyla bizlere gösteriyor. Bunun yanısıra iki kelimenin twitter üzerinde hangi sıklıkta kullanıldığına örn: **&#8220;Linux & Windows&#8221;** bakabiliyorsunuz. Özetle twitterment twitter denen olayın kelime istatistiğini tutan bir araç olarak karşımıza çıkıyor.
 
  [1]: https://www.murekkep.org/blog-gunluk-ise-twitter-anlik-230
- [2]: http://twitter.com/
+ [2]: https://twitter.com/

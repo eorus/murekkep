@@ -33,7 +33,7 @@ Vlog çekmek için gerekli ekipmanları listeleyelim. Aşağıda yer alan ekipma
   * **Kompakt fotoğraf makinesi için monopod**
   * **Yaka mikrofonu** veya sabit alanlar için **Rode Nt-USB mikrofon**
 
-Bu arada eğer oyun kanalı açacaksanız bilgisayarda yaptığınız herşeyi ekrandan kaydeden <a href="http://www.fraps.com/download.php" target="_blank">Fraps</a> programını kullanın.
+Bu arada eğer oyun kanalı açacaksanız bilgisayarda yaptığınız herşeyi ekrandan kaydeden <a href="https://www.fraps.com/download.php" target="_blank">Fraps</a> programını kullanın.
 
 **Vlog çekmek için gerekenler** listesine eklemek istediğiniz ürünler ve kolaylıklar varsa yorumlarınızda belirtebilirsiniz.
 

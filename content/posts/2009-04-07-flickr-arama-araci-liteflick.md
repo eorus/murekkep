@@ -21,6 +21,6 @@ categories:
 
 [Compfight][2]{.broken_link} ve [Coolflick][3]{.broken_link} arama araçlarından sonra liteFlick, **Flickr** üzerinden fotoğraf araması yapılmak istendiğinde dikkate alınabilecek bir **fotoğraf arama aracı** olarak karşımıza çıkıyor.
 
- [1]: http://flickr.com
+ [1]: https://flickr.com
  [2]: https://www.murekkep.org/en-iyi-flickr-arama-araci-compfight-723
  [3]: https://www.murekkep.org/flickr-resimlerini-coolflick-ile-gezin-1058

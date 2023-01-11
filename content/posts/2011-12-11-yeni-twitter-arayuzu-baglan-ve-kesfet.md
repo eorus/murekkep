@@ -17,7 +17,7 @@ tags:
 
 Özellikle web dışında [akıllı telefon][1] ve tablet bilgisayar kullanıcıları düşünülerek hazırlanmış yeni arayüzde kullanım kolaylığı sağlayan, sade ve ilgi alanlarına göre içeriğe erişimi ön planda tutan bir yapı oluşturulmuş.
 
-Yeni Twitter görünümnde temel başlıklar şu şekilde oluşuyor. **Ana Sayfa, Bağlan, Keşfet ve Ben**. Bu bölümlerin detaylarını da kısaca aktaralım ve sizi <a title="twitter" href="http://www.twitter.com" target="_blank">Twitter</a>&#8216;a yönlendirelim.
+Yeni Twitter görünümnde temel başlıklar şu şekilde oluşuyor. **Ana Sayfa, Bağlan, Keşfet ve Ben**. Bu bölümlerin detaylarını da kısaca aktaralım ve sizi <a title="twitter" href="https://www.twitter.com" target="_blank">Twitter</a>&#8216;a yönlendirelim.
 
 <img class="aligncenter size-full wp-image-7297" title="twitter" src="https://www.murekkep.org/wp-content/uploads/2011/12/twitter.jpg" alt="" width="500" height="343" srcset="https://www.murekkep.org/wp-content/uploads/2011/12/twitter.jpg 500w, https://www.murekkep.org/wp-content/uploads/2011/12/twitter-300x205.jpg 300w, https://www.murekkep.org/wp-content/uploads/2011/12/twitter-400x274.jpg 400w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
@@ -31,6 +31,6 @@ Yeni Twitter görünümnde temel başlıklar şu şekilde oluşuyor. **Ana Sayfa
 
 **Ben** bölümü ise biraz da adı üstünde tamamen sizin twitter hesabınıza ait olarak atılan tweetleri, listelerinizi, favorilere eklediklerinizi, takip ettiklerinizi vs.. tek bir alandan size geri sunuyor.
 
-Mürekkep twitter hesabına abone olarak yazıları anlık olarak takip edebilirsiniz. <a title="murekkep @twitter" href="http://twitter.com/murekkep" target="_blank">@murekkep </a>
+Mürekkep twitter hesabına abone olarak yazıları anlık olarak takip edebilirsiniz. <a title="murekkep @twitter" href="https://twitter.com/murekkep" target="_blank">@murekkep </a>
 
  [1]: https://www.murekkep.org/etiket/akilli-telefon "akıllı telefon"

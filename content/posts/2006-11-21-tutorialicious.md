@@ -17,6 +17,6 @@ tags:
 
 Link : [tutorialicio][3]
 
- [1]: http://del.icio.us/
- [2]: http://www.digg.com/
- [3]: http://education.laws.com/
+ [1]: https://del.icio.us/
+ [2]: https://www.digg.com/
+ [3]: https://education.laws.com/

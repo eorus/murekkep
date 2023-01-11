@@ -19,4 +19,4 @@ Yukarıda bugün itibariyle Istanbul için sorgulanmış hava durumu sonucunu g�
 
 Bunun yanısıra adresteki linki **goingtorain.com/tomorrow** şeklinde değiştirirseniz yarının hava durumunu da öğrenebiliyorsunuz. 
 
-İnternet üzerinde online hava durumu olarak goingtorain.com&#8217;dan daha basit bir site arıyorsanız o da muhtemelen <a href="http://probablywontrain.com/" target="_blank">probably won&#8217;t rain</a> olacaktır. Ama belirtmeliyim buranın nerede olduğunuza dair hiçbir fikri yok. Burada hiç yağmur yağmıyor. :)
+İnternet üzerinde online hava durumu olarak goingtorain.com&#8217;dan daha basit bir site arıyorsanız o da muhtemelen <a href="https://probablywontrain.com/" target="_blank">probably won&#8217;t rain</a> olacaktır. Ama belirtmeliyim buranın nerede olduğunuza dair hiçbir fikri yok. Burada hiç yağmur yağmıyor. :)

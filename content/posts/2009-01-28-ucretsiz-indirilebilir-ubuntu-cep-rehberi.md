@@ -27,4 +27,4 @@ Kitabın yazarı Keir Thomas hakkında bilgilere [buradan][1] ulaşabilirsiniz. 
 6. Yazılım Yönetimi  
 7. Sistem Güvenliği
 
- [1]: http://www.ubuntupocketguide.com/meettheauthor.html
+ [1]: https://www.ubuntupocketguide.com/meettheauthor.html

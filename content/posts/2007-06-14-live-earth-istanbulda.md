@@ -16,4 +16,4 @@ tags:
 
 Aralarında İstanbul&#8217;unda bulunduğu dünyanın dokuz büyük şehrinde gerçekleşecek Live Earth konserlerine Red Hot Chili Peppers, Madonna, Bon Jovi, Genesis, Alicia Keys, Cameron Diaz, Roger Waters, The Police gibi sanatçı ve grupların yer aldığı 100’den fazla sanatçı destek veriyor. İstanbul konserlerinde hangi sanatçıların çıkacağı henüz kesinleşmedi. Biletler her zaman olduğu gibi biletix üzerinden temin edilebilecek. Bilet fiyatları 50 Ytl olarak gözüküyor. İstanbul ile ilgili tüm ayrıntılara buradan bakabilirsiniz.
 
- [1]: http://www.liveearth.org/
+ [1]: https://www.liveearth.org/

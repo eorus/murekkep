@@ -30,4 +30,4 @@ Yedekler yalnızca aynı akıllı telefona geri yüklenebiliyor
 **[Simple ADB Backup][2]{.broken_link}** buradan indirebilirsiniz.
 
  [1]: https://www.murekkep.org/telefon
- [2]: http://forum.xda-developers.com/showthread.php?t=2091047
+ [2]: https://forum.xda-developers.com/showthread.php?t=2091047

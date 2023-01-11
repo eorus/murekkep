@@ -30,7 +30,7 @@ Geçtiğimiz dönemde sadece Amerika (US) tabanlı Hotmail kullanıcılarına a�
 Son iki aydır Google Labs tarafından devamlı geliştirilen Gmail üzerinde zaten POP3 özelliğini kullanabiliyorduk. Bunun yanısıra IMAP desteği de bulunan Gmail&#8217;ın yanında eski Hotmail hesabınızı tekrar hayata döndürmek isterseniz kullandığınız eposta programına yukarıdaki ayarları girmeniz doğrultusunda POP desteğini kullanarak maillerinize ulaşabilirsiniz.  
 ([via][4])
 
- [1]: http://www.hotmail.com/
- [2]: http://home.live.com/
- [3]: http://windowslivewire.spaces.live.com/blog/cns!2F7EB29B42641D59!32413.entry
- [4]: http://lifehacker.com/5169684/hotmail-finally-enables-pop3-worldwide
+ [1]: https://www.hotmail.com/
+ [2]: https://home.live.com/
+ [3]: https://windowslivewire.spaces.live.com/blog/cns!2F7EB29B42641D59!32413.entry
+ [4]: https://lifehacker.com/5169684/hotmail-finally-enables-pop3-worldwide

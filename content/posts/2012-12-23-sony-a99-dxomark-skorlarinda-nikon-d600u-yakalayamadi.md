@@ -21,5 +21,5 @@ Sony A99 fotoğraf makinesi ve [Nikon D600][1]{.broken_link} modeli aynı sını
 
 <img class="aligncenter size-large wp-image-10090" alt="Sony-a99" src="https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99-400x276.png" width="400" height="276" srcset="https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99-400x276.png 400w, https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99-50x34.png 50w, https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99-125x86.png 125w, https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99-289x200.png 289w, https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99-441x305.png 441w, https://www.murekkep.org/wp-content/uploads/2012/12/Sony-a99.png 737w" sizes="(max-width: 400px) 100vw, 400px" />
 
- [1]: http://www.turknikon.com/nikon-govdeler/fx-format/nikon-d600 "nikon d600"
+ [1]: https://www.turknikon.com/nikon-govdeler/fx-format/nikon-d600 "nikon d600"
  [2]: https://www.murekkep.org/canon-eos-6d-icin-dxomark-test-sonuclarini-aciklandi-9921

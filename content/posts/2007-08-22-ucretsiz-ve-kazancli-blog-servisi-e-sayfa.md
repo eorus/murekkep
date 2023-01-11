@@ -26,5 +26,5 @@ Kısa kısa diğer özelliklere bakacak olursak, blog sahibinin kalıcı bağlan
 ABE İnternet ve Bilişim Hizmetleri tarafından oluşturulan e-sayfa projesinin mimarı [Yakuter][3]. Proje ile ilgili kendi sitesindeki aktarımlarına buradan bakabilirsiniz. Sevgili Erhan&#8217;a verdiği emek ve oluşturduğu güzel wordpress altyapısı için teşekkür ediyoruz. Umarız kısa zaman içerisinde hakettiği noktaya ulaşacaktır.
 
  [1]: https://www.murekkep.org/
- [2]: http://mu.wordpress.org/
- [3]: http://www.yakuter.com/
+ [2]: https://mu.wordpress.org/
+ [3]: https://www.yakuter.com/

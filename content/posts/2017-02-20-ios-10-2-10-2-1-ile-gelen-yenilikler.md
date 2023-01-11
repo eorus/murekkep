@@ -38,7 +38,7 @@ iOS 10.2 ve 10.2.1 ile gelen yenilikler listesi ise şu şekilde :
   * E-posta sildikten sonra yanlış e-postaya dönme hatası giderildi.
   * **Mail** uygulamasında uzun süre basarak aktive edilen kopyala/yapıştır düzeltildi.
   * “**Voice Over**” ile ilgili bazı hatalar düzeltildi.
-  * <a href="http://www.apple.com/tr/ios/home/" target="_blank"><strong>Apple HomeKit</strong></a> aksesuarlarına ek bilgi mesajları eklendi.
+  * <a href="https://www.apple.com/tr/ios/home/" target="_blank"><strong>Apple HomeKit</strong></a> aksesuarlarına ek bilgi mesajları eklendi.
   * **Bluetooth** üzerinden yapılan bağlantıların performansı artırıldı.
   * **FaceTime** görüntüsündeki kişilerde yaşanan odak kaybetme sorunu çözüldü.
   * **Safari Reader**‘da boş görünme sorunları giderildi.

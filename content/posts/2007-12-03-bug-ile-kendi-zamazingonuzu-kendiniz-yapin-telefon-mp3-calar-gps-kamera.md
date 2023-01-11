@@ -38,7 +38,7 @@ Bu alet tamamen açık kaynak. Yani donanım&#8217;a ait tüm spesifikasyonlar,a
 Robert Scoble][1]&#8216;nin çektiği bir video var, izlerseniz çok daha iyi anlayacaksınız ne demek istediğimi(video&#8217;da ne gibi alanlarda kullanabileceği hakkında yorumlar da var)
 
 <center>
-  <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-1932063822649530376&#038;hl=en" flashvars="" />
+  <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="https://video.google.com/googleplayer.swf?docId=-1932063822649530376&#038;hl=en" flashvars="" />
   
   <br />
 </center>
@@ -49,4 +49,4 @@ Yani düşünün bir, tamamen **açık kaynak**, hem donanımı hem de yazılım
 
 Gördüğünüz gibi akla gelmeyecek işler yapmamız mümkün. Bunu bir de güzel bir pazarlama ve iyi bir fiyat&#8217;a satabilirlerse gelecekte özellikle gençlerin gözdesi olabilir. Örneğin bunlardan bir tane bizim ellimizde olsa, ne yapardınız ? Fikirlerinizi bekliyorum.
 
- [1]: http://scobleizer.com/
+ [1]: https://scobleizer.com/

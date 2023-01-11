@@ -21,4 +21,4 @@ Fotoğrafçılık &#8216;an&#8217;ı yakalamaktır denir ve çok doğru bir tesp
 Reklam filmindeki konsept aslında oldukça basit ve sade. Kağ  
 ıt mendil ormandaki ağaçlardan gelir. Reklamcılar da kağıt mendilleri şekillendirerek ormanda yaşayan hayvanların figürlerini üretmişler. Böylece şirketin ürettiği kağıt mendillerin doğaya saygılı olduğu, kullanımdan sonra da doğaya döndüğü belirtilmek istenmiş. Merak edenler için belirtelim, reklamın çekilmesi 6 tam gün sürmüş.
 
- [1]: http://www.youtube.com/watch?v=HZ0epTLZPk4
+ [1]: https://www.youtube.com/watch?v=HZ0epTLZPk4

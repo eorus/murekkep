@@ -21,6 +21,6 @@ Gelelim haberin güzel olan noktasına. [Google Operating System][1]&#8216;deki 
 
 Her yazının altında bilgi çubuğunda, **Preview** adında yeni bir buton karşınıza çıkacak. Ona tıklayarak sayfayı **[Google Reader][3]{.broken_link}** içinden okuyabilme imkanınız olacak. Çok mükemmel düşünülmüş bir betik, ve Google Reader&#8217;i kullanan, kullanmayan herkese tavsiye ederim.Betiği kullanmak için Greasemonkey kurulu olması gerekiyor. Kurduktan sonra Userscripts.org&#8217;daki betiği kurup kullanabilirsiniz.
 
- [1]: http://googlesystem.blogspot.com
- [2]: http://googlesystem.blogspot.com/2007/07/view-original-articles-inside-google.html
- [3]: http://www.google.com/reader/view/
+ [1]: https://googlesystem.blogspot.com
+ [2]: https://googlesystem.blogspot.com/2007/07/view-original-articles-inside-google.html
+ [3]: https://www.google.com/reader/view/

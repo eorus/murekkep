@@ -28,6 +28,6 @@ Buradaki asıl amaç bize masaüstü deneyimini yaşatmak. Thunderbird&#8217;i n
 
 Daha fazla bilgi için Mozilla Labs Blog&#8217;una bakabilirsiniz:
 
-http://labs.mozilla.com/2007/11/prism-prototype-now-available-on-mac-and-linux/
+https://labs.mozilla.com/2007/11/prism-prototype-now-available-on-mac-and-linux/
 
- [1]: http://www.google.com/calendar
+ [1]: https://www.google.com/calendar

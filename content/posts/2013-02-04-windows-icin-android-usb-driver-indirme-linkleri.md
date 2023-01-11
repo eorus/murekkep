@@ -42,12 +42,12 @@ Eğer Android telefonunuzu garantili bir şekilde aldıysanız bazen yanında ü
   * [ZTE USB Driver][10]{.broken_link}
 
  [1]: https://www.murekkep.org/telefon "telefon"
- [2]: http://support.dell.com/support/downloads/index.aspx?c=us&cs=19&l=en&s=dhs&~ck=anavml
- [3]: http://developer.android.com/sdk/win-usb.html
- [4]: http://www.htc.com/www/support/
- [5]: http://developer.lenovomm.com/developer/download.jsp
- [6]: http://www.lg.com/us/mobile-phones/mobile-support/mobile-lg-mobile-phone-support.jsp
- [7]: http://www.samsung.com/us/support/downloads
- [8]: http://developer.sonymobile.com/downloads/drivers/
- [9]: http://www.fmworld.net/product/phone/sp/android/develop/
- [10]: http://www.4shared.com/rar/WlIEkv06/ZTE_ANDROID_DRIVER.htm
+ [2]: https://support.dell.com/support/downloads/index.aspx?c=us&cs=19&l=en&s=dhs&~ck=anavml
+ [3]: https://developer.android.com/sdk/win-usb.html
+ [4]: https://www.htc.com/www/support/
+ [5]: https://developer.lenovomm.com/developer/download.jsp
+ [6]: https://www.lg.com/us/mobile-phones/mobile-support/mobile-lg-mobile-phone-support.jsp
+ [7]: https://www.samsung.com/us/support/downloads
+ [8]: https://developer.sonymobile.com/downloads/drivers/
+ [9]: https://www.fmworld.net/product/phone/sp/android/develop/
+ [10]: https://www.4shared.com/rar/WlIEkv06/ZTE_ANDROID_DRIVER.htm

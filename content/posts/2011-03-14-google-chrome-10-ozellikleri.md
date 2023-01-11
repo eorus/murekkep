@@ -16,7 +16,7 @@ Google Chrome internet tarayıcısı son versiyonu olan **google chrome 10** sü
 
 Google Chrome 10 güncellemesi içerisinde Chrome&#8217;un **yeni JavaScript motoru** V8&#8217;i içeriyor. Karışık olabilecek web sayfalarını ve web uygulamalarını daha hızlı açan **V8 JavaScript motoru** için Google&#8217;ın kendi değerlendirmesine göre eski V8 motoruna göre **%66** daha hızlı bir performans artışı sağlanmış. Bir diğer hızlandırma çalışması ise web üzerindeki videoları işleme aşamasında grafik kartı kullanımı ve güç kullanımına yönelik iyileştirmeler yapılmış.
 
-Web videolarındaki performansı test etmek için Youtube üzerinde hazırlanmış olan <a href="http://www.youtube.com/html5" target="_blank">HTML5 youtube</a> sayfasına bakabilirsiniz.
+Web videolarındaki performansı test etmek için Youtube üzerinde hazırlanmış olan <a href="https://www.youtube.com/html5" target="_blank">HTML5 youtube</a> sayfasına bakabilirsiniz.
 
 **Google Chrome 10** ile gelen bir başka değişiklik ise **internet tarayıcı seçenekler** ekranı üzerinde gerçekleşmiş. Yeni google chrome 10 üzerinde seçenekler artık web sayfası gibi google chrome içerisine gömülmüş. Arama özelliği ile seçeneklerdeki detaylara hızlı bir şekilde ulaşılabiliyor.
 
@@ -24,4 +24,4 @@ Varsayılan zoom değeri gelişmiş ayarlardan değiştirilebiliyor. Özellikle 
 
 Ve son olarak Google Chrome 10 özelliklerinden Google chrome içerisinde kullandığınız web uygulamalarının sırasını ve konumunu sürükle bırak şeklinde değiştirebiliyorsunuz.
 
-<a href="http://www.google.com/chrome" target="_blank">Google Chrome İndirme</a>
+<a href="https://www.google.com/chrome" target="_blank">Google Chrome İndirme</a>

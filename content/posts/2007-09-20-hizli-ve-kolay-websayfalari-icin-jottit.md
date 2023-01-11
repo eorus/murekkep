@@ -15,7 +15,7 @@ Belirtmeliyim böyle sitelere bayılıyorum. Bir [Jottit][1]{.broken_link} yazı
 
 Jottit ile hızlı bir şekilde (gerçekten daha hızlısını düşünemiyorum) bir websitesi yaratabiliyorsunuz. Bunu ilk etapta not düşmek gibi de düşünebilirsiniz. Yukarıda bahsettiğim gibi herşey boş metin alanına ekleyeceklerinizle başlıyor. Elinizde, yazmış olduğunuz metnin sayfa linki oluşuyor. Elbette istediğiniz zaman düzenlenebilir. Ya da herhangi bir konu hakkında arkadaşlarınızla beraber düzenlemek istiyorsunuz. Seçeneklerden public veya private şeklinde istediğiniz gibi ayarlayıp herkesin düzenleyebileceği ya da sadece size ait bir şifreyle düzenlenebileceği hale getirebilirsiniz. İstediğiniz zaman yeni bir altsayfa alabiliyorsunuz. Aldığınızı değiştirebiliyorsunuz ya da tamamen silebiliyorsunuz. [Markdown][2] isimli wiki benzeri bir dil kullanan **Jottit**, hepimizin elinin altında olması gereken ve bookmarklarda bulunması gereken bir site olarak karşımıza çıkıyor.
 
-http://alper.jottit.com/
+https://alper.jottit.com/
 
- [1]: http://jottit.com/
- [2]: http://daringfireball.net/projects/markdown/
+ [1]: https://jottit.com/
+ [2]: https://daringfireball.net/projects/markdown/

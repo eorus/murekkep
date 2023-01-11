@@ -19,5 +19,5 @@ tags:
 
 Sanırım duymayan kalmamıştır. Eğer kalmışsa, Mürekkep üzerinden de bu vesileyle küçük bir tanıtım yapmış olalım. Türk Blog Yazarları, [Mert Ulaş][2] tarafından oluşturulmuş ve amacı biz blog yazarlarının arasındaki dayanışmayı kuvvetlendirmek olan bir sosyal ağdır. Türkçeleştirmesi devam eden sistem üzerinden sizin gibi blog yazarı olan diğer kişilerle tanışabilir, mesajlaşabilir, forum sayesinde bir konu hakkında görüş ve yardım alabilir, böylelikle sitenizin tanıtımını yapabilirsiniz. Bizler üye olduk. Sizleri de bekleriz.
 
- [1]: http://www.ning.com/
- [2]: http://mertulas.blogspot.com/
+ [1]: https://www.ning.com/
+ [2]: https://mertulas.blogspot.com/

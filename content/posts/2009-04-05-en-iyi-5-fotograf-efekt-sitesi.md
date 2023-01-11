@@ -59,12 +59,12 @@ En son tanıttığımız fotoğraf efekt sitesi ülkemizden bir girişim Photoxt
 Yukarıda **en iyi 5 fotoğraf efekt sitesini** aktarmaya ve özellikleriyle toparlamaya çalıştık. Eğer bu siteler dışında sizin internet üzerinde kullandığınız ve listeye girebilecek durumda gördüğünüz eğlenceli şablonlara sahip yerler varsa yorumlarınızda belirtirseniz sevinirim. Ve tabii ki bu içlerinden hangisinin en sık kullanıldığı da soru olarak sorulabilir.
 
  [1]: https://www.murekkep.org/photofunia-ile-resimlerinize-fark-katin-1297 "PhotoFunia ile Resimlerinize Fark Katın"
- [2]: http://www.photofunia.com/
+ [2]: https://www.photofunia.com/
  [3]: https://www.murekkep.org/photofunia-ile-eglenceli-fotograflar-artik-turkce/
  [4]: https://www.murekkep.org/funphotobox-resimleriniz-icin-eglenceli-efektler-1371
- [5]: http://funphotobox.com/
+ [5]: https://funphotobox.com/
  [6]: https://www.murekkep.org/loonapix-ile-fotograflariniza-efektler-ve-cerceveler-katin-avatar-olusturun/
- [7]: http://www.loonapix.com/
+ [7]: https://www.loonapix.com/
  [8]: https://www.murekkep.org/photo505-ile-fotograflariniza-dijital-efektler-1584
- [9]: http://www.photo505.com/
+ [9]: https://www.photo505.com/
  [10]: https://www.murekkep.org/photoxtr-fotograf-efektleri-ile-daha-eglenceli-fotograflar-1711

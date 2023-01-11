@@ -21,6 +21,6 @@ Her ne kadar Torrentz.com sitesinin bu tarz torrent aramalarÄ± konusunda daha gÃ
 [][2]
 
  [1]: https://www.murekkep.org/kullanabileceginiz-10-yasal-torrent-sitesi-221
- [2]: http://www.completorrent.com/
- [3]: http://isohunt.com/
- [4]: http://mininova.org/
+ [2]: https://www.completorrent.com/
+ [3]: https://isohunt.com/
+ [4]: https://mininova.org/

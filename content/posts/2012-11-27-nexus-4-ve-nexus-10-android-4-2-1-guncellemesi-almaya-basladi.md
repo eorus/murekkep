@@ -22,4 +22,4 @@ Android Central forumlarından öğrendiğimiz kadarıyla bazı Nexus 4 ve Nexus
 &nbsp;
 
  [1]: https://www.murekkep.org/android-4-2-kisiler-uygulamasinda-hata-9216
- [2]: http://android.clients.google.com/packages/ota/google_mako/625f5f7c6524.signed-occam-JOP40D-from-JOP40C.625f5f7c.zip
+ [2]: https://android.clients.google.com/packages/ota/google_mako/625f5f7c6524.signed-occam-JOP40D-from-JOP40C.625f5f7c.zip

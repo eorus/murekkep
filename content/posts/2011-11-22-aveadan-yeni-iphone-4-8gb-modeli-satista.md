@@ -24,7 +24,7 @@ Apple tarafından [iPhone 4S][1]&#8216;in duyurulmasıyla birlikte mevcut iPhone
 
 iPhone 4 8GB modelin fiyatı 24 x 95 = 2280 TL  
 iPhone 4 16GB modelin fiyatı 24 x 109 = 2616 TL  
-<a title="iPhone 4 hepsi burada" href="http://www.hepsiburada.com/Liste/apple-iphone-4-8-gb/productDetails.aspx?productId=telcepiph48be&categoryId=371946" target="_blank" class="broken_link">iPHone 4 8GB Hepsi Burada</a> Fiyatı = 1800 TL
+<a title="iPhone 4 hepsi burada" href="https://www.hepsiburada.com/Liste/apple-iphone-4-8-gb/productDetails.aspx?productId=telcepiph48be&categoryId=371946" target="_blank" class="broken_link">iPHone 4 8GB Hepsi Burada</a> Fiyatı = 1800 TL
 
 Yakın bir karşılaştırma için Aralık 2011 başında yeni çıkacak [Samsung Galaxy Note satış fiyatı][2] ise Turkcell&#8217;de 2250 TL seviyelerinde bekleniyor. [iPhone 4S satış fiyatı][3] ise daha önce aktardığımız gibi ön siparişte 3000 TL seviyelerindeydi. Tercih sizin!
 

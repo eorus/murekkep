@@ -26,5 +26,5 @@ Böylelikle eğer Office 2007 kullanılarak hazırlanmış docx veya xlsx format
 
 [The file formats keep on coming! Announcing .xlsx and .docx support][2]
 
- [1]: http://docs.google.com/
- [2]: http://googledocs.blogspot.com/2009/06/file-formats-keep-on-coming-announcing.html
+ [1]: https://docs.google.com/
+ [2]: https://googledocs.blogspot.com/2009/06/file-formats-keep-on-coming-announcing.html

@@ -17,4 +17,4 @@ Aşağıdaki fotoğraf 2006 yılı Digital Kamera Magazin Fotoğrafçıları yar
 
 Hala sitede final oylamaları devam ediyor. Diğer tüm fotoğrafları görmek ve oy kullanmak için gezebilirsiniz.
 
-Link : http://poty2006.dcmag.co.uk/
+Link : https://poty2006.dcmag.co.uk/

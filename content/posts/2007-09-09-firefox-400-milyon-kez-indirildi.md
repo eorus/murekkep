@@ -18,4 +18,4 @@ Bana bilgisayarında en çok kullandığın program nedir deseler, hiç düşün
 
 <p style="text-align: center">
 
- [1]: http://www.mozilla-europe.org/tr/
+ [1]: https://www.mozilla-europe.org/tr/

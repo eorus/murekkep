@@ -18,7 +18,7 @@ Android işletim sistemi üzerinde kullanılabileceğiniz çok sayıda **twitter
 
 [Android için en iyi 5 twitter uygulaması][1]{.broken_link} arasında gösterdiğimiz **Plume for Twitter**, her değişikliğe kendi çözümleriyle sonuçlar üreten ve sürekli güncel kalan bir twitter uygulaması olarak karşımıza çıkıyor. [Instagram ile paylaşılan fotoğraflar][2]{.broken_link} Twitter&#8217;da link olarak gözükürken, Plume ile dahili olarak tweet ile beraber görülebilmektedir.
 
-**Android 4.2** ile beraber tanıştığımız android kilit ekranında widgets özelliğini ilk destekleyen ve kendini mobil platformda sürekli güncelleyen Plume for Twitter Android uygulamasının detaylı özelliklerine bakalım. Plume for Twitter &#8220;<a href="http://levelupstudio.com/plume" target="_blank">Beautiful Widgets</a>&#8221; tarafından geliştirilmektedir.
+**Android 4.2** ile beraber tanıştığımız android kilit ekranında widgets özelliğini ilk destekleyen ve kendini mobil platformda sürekli güncelleyen Plume for Twitter Android uygulamasının detaylı özelliklerine bakalım. Plume for Twitter &#8220;<a href="https://levelupstudio.com/plume" target="_blank">Beautiful Widgets</a>&#8221; tarafından geliştirilmektedir.
 
 ## Plume for Twitter Android Uygulaması Özellikleri
 

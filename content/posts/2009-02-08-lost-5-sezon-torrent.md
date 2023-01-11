@@ -20,7 +20,7 @@ TorrentFreak bu listeyi sunarken [showinsider.com][5] isimli bir siteye yönlend
 
  [1]: https://www.murekkep.org/en-iyi-torrent-siteleri-719
  [2]: https://www.murekkep.org/lost-5-sezon-yorumlari-956
- [3]: http://torrentfreak.com/top-10-most-pirated-tv-shows-on-bittorrent-090203/
- [4]: http://torrentfreak.com/
- [5]: http://showinsider.com/
+ [3]: https://torrentfreak.com/top-10-most-pirated-tv-shows-on-bittorrent-090203/
+ [4]: https://torrentfreak.com/
+ [5]: https://showinsider.com/
  [6]: https://www.murekkep.org/yeni-dizi-heroes-35

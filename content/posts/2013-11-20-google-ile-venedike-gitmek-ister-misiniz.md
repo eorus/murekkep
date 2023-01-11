@@ -17,4 +17,4 @@ Google ekibi sokakların yanı sıra gondoluyla ünlü Venedik&#8217;i gondol se
 
 [<img class="aligncenter size-full wp-image-15512" alt="venedik-fotoğraf" src="https://www.murekkep.org/wp-content/uploads/2013/11/venedik-fotoğraf.jpg" width="639" height="345" srcset="https://www.murekkep.org/wp-content/uploads/2013/11/venedik-fotoğraf.jpg 639w, https://www.murekkep.org/wp-content/uploads/2013/11/venedik-fotoğraf-400x215.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/11/venedik-fotoğraf-50x26.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/11/venedik-fotoğraf-125x67.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/11/venedik-fotoğraf-300x161.jpg 300w" sizes="(max-width: 639px) 100vw, 639px" />][1]
 
- [1]: http://www.youtube.com/watch?v=rMzNVtEeo6s "google venedik"
+ [1]: https://www.youtube.com/watch?v=rMzNVtEeo6s "google venedik"

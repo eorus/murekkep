@@ -29,4 +29,4 @@ iPaper kullanarak dökümanları açan servis üzerinde açtığınız dosyalar�
 **Metin** : txt, rdf
 
  [1]: https://www.murekkep.org/google-dokumanlar-ile-docx-ve-xlsx-dosyalarini-donusturun-3279
- [2]: http://www.viewdocsonline.com/
+ [2]: https://www.viewdocsonline.com/

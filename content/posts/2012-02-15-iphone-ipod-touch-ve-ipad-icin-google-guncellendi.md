@@ -31,4 +31,4 @@ Gerçek zamanlı paylaşım uygulaması olan **Google+** mobil cihazlar üzerind
   * Mesajlaşma çevrelerinde herkes için süper hızlı grup mesajlaşmasıdır.
   * Yoldayken 9 arkadaşınız ile görüntülü sohbet yapmanızı sağlayan Mobil mekanlar.
 
-iOS için <a title="iOS Google+" href="http://itunes.apple.com/us/app/google+/id447119634" target="_blank">Google+ v1.0.9.4278</a> indirin.
+iOS için <a title="iOS Google+" href="https://itunes.apple.com/us/app/google+/id447119634" target="_blank">Google+ v1.0.9.4278</a> indirin.

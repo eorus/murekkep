@@ -82,4 +82,4 @@ Tebrikler iPhone 4, iPhone 3GS ya da iPod Touch 4G cihazınız artık Jailbreak�
 _ _
 
  [1]: https://www.murekkep.org/apple-ios-6-0-1-guncellemesi-yayinladi-8904 "ios 6.0.1"
- [2]: http://www.ijailbreak.com/ijailbreak-downloads-section/ "jailbreak download"
+ [2]: https://www.ijailbreak.com/ijailbreak-downloads-section/ "jailbreak download"

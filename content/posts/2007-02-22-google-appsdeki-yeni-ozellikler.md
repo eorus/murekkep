@@ -16,6 +16,6 @@ Bugünden itibaren artık Google sunduğu bu bedava pakete ayrı, ücretli bir p
 
 An itibariyle artık 3 ana paket mevcut. Standart, Öğrenim ve Ticari. Standart ve Öğrenim paketleri eskisi gibi ücretsiz sunulacak. Türkiye için şu an görüldüğü gibi Ticari paket seçeneği yok. İleriki zamanlarda onu da eklerler belki. Bir de **Google Belgeler ve E-Tablolar** da artık paketlere dahil edilmiş durumda. Google Apps&#8217;e bir çok yeni özellik de eklenmiş durumunda. Tamamını resimlerle beraber [şuradan][1] bakabilirsiniz.
 
-Google Apps kulanan kuruluşlar, üniversitelerin Google Apps hakkındaki görüşlerini de <a href="http://www.google.com/a/help/intl/en/admins/customers.html" target="_blank">buradan</a>(ingilizce) izleyebilir ve okuyabilirsiniz.
+Google Apps kulanan kuruluşlar, üniversitelerin Google Apps hakkındaki görüşlerini de <a href="https://www.google.com/a/help/intl/en/admins/customers.html" target="_blank">buradan</a>(ingilizce) izleyebilir ve okuyabilirsiniz.
 
- [1]: http://www.google.com/a/help/intl/en/admins/new.html
+ [1]: https://www.google.com/a/help/intl/en/admins/new.html

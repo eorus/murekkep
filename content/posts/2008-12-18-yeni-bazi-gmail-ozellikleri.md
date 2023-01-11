@@ -16,13 +16,13 @@ categories:
 
 ### **2. Epostayı Google Doc&#8217;a Dönüştürmek**
 
-Bir diğer özellik ise <a href="http://www.gmail.com" target="_blank">Gmail</a> yazışmalarınızı artık <a href="http://docs.google.com/" target="_blank">Google Docs</a> ortamına tek tıklamayla [taşıyabiliyorsunuz][3]. Diyelim ki önemli kararların alındığı ya da daha sonra bakmanız gereken birçok yazışmanın olduğu bir email serisi var. Normal şartlarda email içerisinden kopyala yapıştır mantığıyla size gerekenleri almanız gerekecekti. Gmail içerisinden artık bu yazışmalarınızı direkt olarak Google Docs ortamına alabiliyorsunuz.
+Bir diğer özellik ise <a href="https://www.gmail.com" target="_blank">Gmail</a> yazışmalarınızı artık <a href="https://docs.google.com/" target="_blank">Google Docs</a> ortamına tek tıklamayla [taşıyabiliyorsunuz][3]. Diyelim ki önemli kararların alındığı ya da daha sonra bakmanız gereken birçok yazışmanın olduğu bir email serisi var. Normal şartlarda email içerisinden kopyala yapıştır mantığıyla size gerekenleri almanız gerekecekti. Gmail içerisinden artık bu yazışmalarınızı direkt olarak Google Docs ortamına alabiliyorsunuz.
 
 ### **3.Görevler**
 
 Ve son olarak [Görevler][4]. Artık Gmail içerisinden yapmanız gereken işleri görev olarak kaydedebiliyorsunuz. Ya da belirli epostaları göreve dönüştürebiliyorsunuz. Bunun için öncelikle Gmail ayarlar kısmından (Labs sekmesi) Görevleri aktif etmeniz gerekiyor. Bir kere aktif ettiğinizde gmail sol panelde bulunan kişilerin altına görevlerin geldiğini görebilirsiniz.
 
  [1]: https://www.murekkep.org/gmail-temalar-ile-daha-guzel-549
- [2]: http://gmailblog.blogspot.com/2008/12/fast-pdf-viewing-right-in-your-browser.html
- [3]: http://gmailblog.blogspot.com/2008/12/new-in-labs-turn-email-into-google-doc.html
- [4]: http://gmailblog.blogspot.com/2008/12/new-in-labs-tasks.html
+ [2]: https://gmailblog.blogspot.com/2008/12/fast-pdf-viewing-right-in-your-browser.html
+ [3]: https://gmailblog.blogspot.com/2008/12/new-in-labs-turn-email-into-google-doc.html
+ [4]: https://gmailblog.blogspot.com/2008/12/new-in-labs-tasks.html

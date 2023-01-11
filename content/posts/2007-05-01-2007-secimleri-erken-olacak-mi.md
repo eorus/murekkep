@@ -13,4 +13,4 @@ Daha önce [2007 Seçim Listeleri][1] hakkında Mürekkep üzerinde bilgileri ak
 Özetle gözüken o ki önümüzdeki 2 ay içerisinde bir erken seçim gözüküyor. Yılbaşından beri devam eden anketimiz : **2007 Seçimlerinde Oyunuzu Hangi Partiye Vereceksiniz?** sağ tarafta devam ediyor. Şu ana kadar 500 kadar tekil kullanıcı oy kullandı. Bu anketi seçimlere kadar devam ettirmeyi düşünüyoruz. Ayrıca bu başlıkta da görüşlerinizi paylaşabilirsiniz.
 
  [1]: https://www.murekkep.org/2007-secim-listeleri-150
- [2]: http://www.milliyet.com.tr/2007/05/01/son/sonsiy01.asp
+ [2]: https://www.milliyet.com.tr/2007/05/01/son/sonsiy01.asp

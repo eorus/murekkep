@@ -18,6 +18,6 @@ Makedon yönetmen Milcho Manchevski&#8217;nin ilk filmidir. Yönetmen bu ilk fil
 Üç bölümden oluşun filmin, iki bölümü Makedonya&#8217;da, ortadaki bölüm ise Londra&#8217;da geçmektedir. Üç bölüm birbirinden bağımsız değildir. Birbirine içiçe geçen bir özellik taşımaktadır. [Film][1] hakkında çok fazla ayrıntıya girmek istemiyorum. Kolay anlatılabilecek bir film olmamakla birlikte özet olarak bahsetmek gerekirse, kişiler ve toplumlar arası şiddet anlatılmaktadır. Bu anlatım içerisinde kendinizi bir tarafta hıristiyan diğer tarafta müslüman olan iki Makedon köyünde bulursunuz. Camiler,köy düğünleri gibi fazlasıyla biz Anadolu&#8217;ya benzeyen ortamı ve Anastasia&#8217;nın muhteşem ezgileriyle beraber muazzam bir ritm oluşmaktadır.  
 Filmin senaryosuna buradan ulaşılabilir.
 
-Imdb üzerindeki sayfası da burada : <a target="_blank" href="http://www.imdb.com/title/tt0110882/">Before the Rain (1994) </a>
+Imdb üzerindeki sayfası da burada : <a target="_blank" href="https://www.imdb.com/title/tt0110882/">Before the Rain (1994) </a>
 
  [1]: https://www.murekkep.org/etiket/film

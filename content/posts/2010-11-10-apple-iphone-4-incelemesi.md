@@ -16,9 +16,9 @@ tags:
   - iphone
 
 ---
-<a href="http://www.apple.com/tr/" target="_blank">Apple</a>, **iPhone** ile mobil dünyaya giriş yapmıştı. 2007 yılında Murekkep.Org üzerinde Apple iPhone hakkında ufak bir tanıtım yazısı yazmıştık. Mobil dünya geliştikçe üreticilerde aynı şekilde bu sürece ayak uydurup **cep telefonu** ve **akıllı telefon** olarak adlandırılan smartphone (pda) tarafında geliştirmelerde bulundular. Günümüze geldiğimizde ise Apple tarafında takip edilen mobil gelişmelerin odak noktasında **Apple iPhone 4** olduğunu görüyoruz. 
+<a href="https://www.apple.com/tr/" target="_blank">Apple</a>, **iPhone** ile mobil dünyaya giriş yapmıştı. 2007 yılında Murekkep.Org üzerinde Apple iPhone hakkında ufak bir tanıtım yazısı yazmıştık. Mobil dünya geliştikçe üreticilerde aynı şekilde bu sürece ayak uydurup **cep telefonu** ve **akıllı telefon** olarak adlandırılan smartphone (pda) tarafında geliştirmelerde bulundular. Günümüze geldiğimizde ise Apple tarafında takip edilen mobil gelişmelerin odak noktasında **Apple iPhone 4** olduğunu görüyoruz. 
 
-Apple&#8217;ın 4. nesil akıllı telefonu olan <a href="http://www.apple.com/tr/iphone/" target="_blank">iPhone 4</a> ya da **iPhone 4g** hakkında internet üzerinde birçok inceleme yazısı bulabilirsiniz. Bunlardan bir tanesi olan iPhone4 İncelemesi , Apple&#8217;ın yeni oyuncağı hakkında oldukça yararlı bilgiler içeriyor. <a href="http://www.burcinyazici.com" target="_blank">Burçin Yazıcı</a>&#8216;nın Apple <a href="http://www.burcinyazici.com/iphone4-incelemesi-464.html" target="_blank">iPhone4 İncelemesi</a> yazısına buradan bulabilirsiniz. 
+Apple&#8217;ın 4. nesil akıllı telefonu olan <a href="https://www.apple.com/tr/iphone/" target="_blank">iPhone 4</a> ya da **iPhone 4g** hakkında internet üzerinde birçok inceleme yazısı bulabilirsiniz. Bunlardan bir tanesi olan iPhone4 İncelemesi , Apple&#8217;ın yeni oyuncağı hakkında oldukça yararlı bilgiler içeriyor. <a href="https://www.burcinyazici.com" target="_blank">Burçin Yazıcı</a>&#8216;nın Apple <a href="https://www.burcinyazici.com/iphone4-incelemesi-464.html" target="_blank">iPhone4 İncelemesi</a> yazısına buradan bulabilirsiniz. 
 
 ## Apple iPhone 4G Özellikleri
 

@@ -21,21 +21,21 @@ HTC Desire için hangi Android 2.3 Gingerbread Rom daha iyi, sorusu için bazı 
 
 ## HTC Desire için Android 2.3 Gingerbread Romlar
 
-<a href="http://forum.xda-developers.com/showthread.php?t=971904" target="_blank" class="broken_link">Oxygen 2.0.1 </a>
+<a href="https://forum.xda-developers.com/showthread.php?t=971904" target="_blank" class="broken_link">Oxygen 2.0.1 </a>
 
   * Android v2.3.3 (GRI40)
   * Linux kernel v2.6.37.2
   * Minimal Google uygulamaları
   * Superuser/Busybox/Apps2SD
 
-<a href="http://forum.xda-developers.com/showthread.php?t=880465" target="_blank" class="broken_link">Ginger Villain 1.4</a>
+<a href="https://forum.xda-developers.com/showthread.php?t=880465" target="_blank" class="broken_link">Ginger Villain 1.4</a>
 
   * Android v2.3.3
   * Linux kernel v2.6.37.2
   * Villain Setup uygulaması ile farklı kernel ve modlar
   * Apps2SD (Google + Darktremor A2SD+)
 
-<a href="http://forum.xda-developers.com/showthread.php?t=896213" target="_blank" class="broken_link">Redux 1.0.2</a>
+<a href="https://forum.xda-developers.com/showthread.php?t=896213" target="_blank" class="broken_link">Redux 1.0.2</a>
 
   * Gingerbread tabanlı
   * Temiz ve hafif içerik

@@ -22,7 +22,7 @@ Metinlerden kelime bulutu oluşturabileceğiniz esas uygulama olarak daha önce 
 
 ## TagCrowd Özellikleri :
 
-<img alt="" src="http://tagcrowd.com/images/tc_logo.gif" title="TagCrowd" class="alignright" width="266" height="77" /> Yazı içeren herhangi bir metni **TagCrowd** içerisine aktarmanız için üç farklı yöntem uygulanabiliyor. Bunlardan bir tanesi yazının bulunduğu internet adresini (**URL**) vermek. Bu tercih kelime bulutu yaratırken sorun oluşturabiliyor. Çünkü internet linki içerisinde kelimelerin yanısıra yer alan linkler ve site içeriği daha geniş bir kelime bütününe hitap edebiliyor. Bir ikinci yöntem olarak düz metin dosyası yüklenebiliyor. **TagCrowd** yükleyeceğiniz **düz metin dosyası** için dosya boyutunu **100kb** ile sınırlıyor. Ve son olarak site üzerinde yer alan metin kutusuna istediğiniz bir yazıyı yapıştırarak kelime bulutu oluşturabiliyorsunuz. Bu alan için konulan sınırlama ise **3mb**. 
+<img alt="" src="https://tagcrowd.com/images/tc_logo.gif" title="TagCrowd" class="alignright" width="266" height="77" /> Yazı içeren herhangi bir metni **TagCrowd** içerisine aktarmanız için üç farklı yöntem uygulanabiliyor. Bunlardan bir tanesi yazının bulunduğu internet adresini (**URL**) vermek. Bu tercih kelime bulutu yaratırken sorun oluşturabiliyor. Çünkü internet linki içerisinde kelimelerin yanısıra yer alan linkler ve site içeriği daha geniş bir kelime bütününe hitap edebiliyor. Bir ikinci yöntem olarak düz metin dosyası yüklenebiliyor. **TagCrowd** yükleyeceğiniz **düz metin dosyası** için dosya boyutunu **100kb** ile sınırlıyor. Ve son olarak site üzerinde yer alan metin kutusuna istediğiniz bir yazıyı yapıştırarak kelime bulutu oluşturabiliyorsunuz. Bu alan için konulan sınırlama ise **3mb**. 
 
 Bu aşamadan sonra alt kısımda kelime bulutu oluşturmak istediğiniz yazı için belirli özellikler atayabiliyorsunuz. Dil seçimi (Türkçe mevcut değil) , kelime bulutunda kaç kelime gösterileceği, **kelime tekrar sayısı** gibi seçenekler mevcut. 
 
@@ -32,5 +32,5 @@ Stanford Üniversitesi&#8217;nde doktora öğrencisi olan **Daniel Steinbock** t
 
 Eğer kelime bulutu oluşturmak bir sanat ise bu işi yapan iki site ile karşı karşıyayız. **Wordle** ve **TagCrowd**. Açıkçası Wordle, oluşturulan **kelime bulutu** üzerinde daha fazla hakimiyet sağlıyor ve fazla sayıda sunduğu özellik ile ön plana çıkıyor. Java ile çalıştığı için dil seçimi ve görsel olarak oluşturulan kelime bulutunu çok farklı modellerde görülebilir kılıyor. Benim tercihim ve yazılarımda öne çıkan kelimeleri kontrol etmek amaçlı kullanmaya devam edeceğim servis Wordle ile kalmaya devam edecek gibi gözüküyor.
 
- [1]: http://tagcrowd.com/
+ [1]: https://tagcrowd.com/
  [2]: https://www.murekkep.org/wordle-ile-metinlerden-kelime-bulutlari-olusturun-1661

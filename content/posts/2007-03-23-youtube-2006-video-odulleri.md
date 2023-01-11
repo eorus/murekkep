@@ -23,8 +23,8 @@ tags:
   * En iyi anlatım videosu
   * En sevimli videolar
 
-<http://www.youtube.com/ytawards> 
+<https://www.youtube.com/ytawards> 
 
 İleride izlesene.com ya da pikniktube üzerinde bu tarz oylamaları görmemiz çok muhtemel. Peki sizlerin en beğendiğiniz youtube videoları hangisi? Favori youtube videolarınızı yorumlarda görmek isteriz.
 
- [1]: http://www.youtube.com
+ [1]: https://www.youtube.com

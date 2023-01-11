@@ -29,7 +29,7 @@ Hatırlarsanız eskiden cep telefonlarının kameralarını neredeyse hiç kulla
 
 Genel kabul görmüş tutma hareketi maalesef tek eldir. Telefon dik bir şekilde ve tek elle tutularak, diğer elin işaret parmağı deklanşör butonuna dokunacak şekilde hareket eder.
 
-Maalesef tek elle çekim yaparken telefonu ve dolayısıyla görüntüyü titretme ve dengeleme konusunda sıkıntı yaşarız. Bu da fotoğraflarımızda netlik kaybı yaşamamıza sebep olur. Kısaca bulanık fotoğraf elde ederiz. Bu yüzden kolları vücutta sabitleyerek çift elle akıllı telefonlarımızı tutalım. Hatta mümkünse genellikle boydan değil de landscape (<a href="http://www.turknikon.com/manzara-fotografi-23624" target="_blank" class="broken_link">manzara fotoğrafı</a> çeker gibi) yan tutarak çekim yapalım.  Böylelikle daha verimli ve güzel sonuçlar elde edeceğinizi düşünüyoruz.
+Maalesef tek elle çekim yaparken telefonu ve dolayısıyla görüntüyü titretme ve dengeleme konusunda sıkıntı yaşarız. Bu da fotoğraflarımızda netlik kaybı yaşamamıza sebep olur. Kısaca bulanık fotoğraf elde ederiz. Bu yüzden kolları vücutta sabitleyerek çift elle akıllı telefonlarımızı tutalım. Hatta mümkünse genellikle boydan değil de landscape (<a href="https://www.turknikon.com/manzara-fotografi-23624" target="_blank" class="broken_link">manzara fotoğrafı</a> çeker gibi) yan tutarak çekim yapalım.  Böylelikle daha verimli ve güzel sonuçlar elde edeceğinizi düşünüyoruz.
 
 ### Telefonunuzun Dijital Zoom Özelliğini Kullanmayın!
 
@@ -39,17 +39,17 @@ Cep telefonları hayatımıza büyük kolaylık getirdi. Ancak fotoğraf çekiml
 
 ### Altın Orana Dikkat Edin!
 
-<a href="http://www.turknikon.com/fotograf-terimleri" target="_blank" class="broken_link">Fotoğrafçılıktaki temel kuralları</a> cep telefonlarıyla fotoğraf çekerken de unutmayın. Genel olarak altın orana dikkat edin. Kısaca 1/3 kuralı olarak da adlandırılan bu kural da kafanızda oluşturduğunuz fotoğrafı üç parçaya bölün. Sizin için net olan objeyi telefonun tam ortasına değil de bu kurala göre farklı noktalarda konumlandırın. Böylelikle göze daha hoş gelen kompozisyonlar üretebileceksiniz.
+<a href="https://www.turknikon.com/fotograf-terimleri" target="_blank" class="broken_link">Fotoğrafçılıktaki temel kuralları</a> cep telefonlarıyla fotoğraf çekerken de unutmayın. Genel olarak altın orana dikkat edin. Kısaca 1/3 kuralı olarak da adlandırılan bu kural da kafanızda oluşturduğunuz fotoğrafı üç parçaya bölün. Sizin için net olan objeyi telefonun tam ortasına değil de bu kurala göre farklı noktalarda konumlandırın. Böylelikle göze daha hoş gelen kompozisyonlar üretebileceksiniz.
 
 ### Işığı kullanın, bakış açınızı geliştirin!
 
-İyi <a href="http://www.turknikon.com/fotograf-cekim-teknikleri" target="_blank" class="broken_link">fotoğraf çekmeyi öğrenmek</a> zaman ister. Sabırlı olmayı ve bu süre içerisinde devamlı öğrenmekle beraber, deneme yanılma yoluyla bol bol fotoğraf çekmenizi gerektirir. Bakış açınız oturana kadar, kadrajınız, konunun bütünlüğü, fotoğraf karesindeki öğeler dağınıklık gösterebilir.
+İyi <a href="https://www.turknikon.com/fotograf-cekim-teknikleri" target="_blank" class="broken_link">fotoğraf çekmeyi öğrenmek</a> zaman ister. Sabırlı olmayı ve bu süre içerisinde devamlı öğrenmekle beraber, deneme yanılma yoluyla bol bol fotoğraf çekmenizi gerektirir. Bakış açınız oturana kadar, kadrajınız, konunun bütünlüğü, fotoğraf karesindeki öğeler dağınıklık gösterebilir.
 
 Işığı iyi kullanın. Eğer ışık varsa kameranızın sensörü de o ışığı doğru kullanmak isteyecektir. Mutlaka ışığın nerden geldiğine bakın. Bu kimi zaman doğal ışık tabir ettiğimiz güneş ışığından kaynaklanabilir, kimi zaman da yapay olarak bir lambadan yansıyabilir. Işığın çekmek istediğiniz fotoğrafa nasıl yansıdığına bakın.
 
 ### Alan derinliğini kullanın!
 
-<a href="http://www.turknikon.com/alan-derinligi-nedir-dof-20956" target="_blank" class="broken_link">Alan derinliği</a>, üzerinde odaklama yapılan objenin, kişinin ya da fotoğraflanan konunun önünde ve arkasında oluşan netlik sahasıdır. Fotoğrafın arka planındaki objelerin tamamen kaybolması durumuna <a href="http://www.turknikon.com/bokeh-nedir-7035" target="_blank" class="broken_link">Bokeh</a> deniyor.
+<a href="https://www.turknikon.com/alan-derinligi-nedir-dof-20956" target="_blank" class="broken_link">Alan derinliği</a>, üzerinde odaklama yapılan objenin, kişinin ya da fotoğraflanan konunun önünde ve arkasında oluşan netlik sahasıdır. Fotoğrafın arka planındaki objelerin tamamen kaybolması durumuna <a href="https://www.turknikon.com/bokeh-nedir-7035" target="_blank" class="broken_link">Bokeh</a> deniyor.
 
 Konuya olan uzaklık alan derinliğini etkileyen en önemli unsurlardan birisidir. Konuya yaklaştıkça alan derinliği azalır. Yani fotoğrafını çektiğimiz objeye ne kadar yakınlaşırsak o kadar alan derinliği elde ederiz. Akıllı cep telefonunuzla bokeh içeren bir fotoğraf oluşturmak için objeye yakınlaşabilirsiniz.
 

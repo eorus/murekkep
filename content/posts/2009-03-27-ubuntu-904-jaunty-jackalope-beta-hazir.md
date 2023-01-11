@@ -31,7 +31,7 @@ Kullandığınız Ubuntu 8.10 masaüstü üzerinden Ubuntu 9.04 Beta&#8217;ya y�
 
 **Ubuntu 9.04** sonrasında bizi bekleyen sürüm ise kod adı Karmic Koala olarak duyurulan [Ubuntu 9.10 Karmic Koala][4].
 
- [1]: http://www.ubuntu.com/testing/jaunty/beta
- [2]: http://www.ubuntu.com/
- [3]: http://library.gnome.org/misc/release-notes/2.26/index.html.tr
+ [1]: https://www.ubuntu.com/testing/jaunty/beta
+ [2]: https://www.ubuntu.com/
+ [3]: https://library.gnome.org/misc/release-notes/2.26/index.html.tr
  [4]: https://www.murekkep.org/ubuntu-910-karmic-koala-1232

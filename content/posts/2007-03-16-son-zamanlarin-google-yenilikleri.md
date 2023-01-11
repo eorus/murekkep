@@ -31,4 +31,4 @@ Yeni:
 
 Hoş olmuş bence, onca zaman kullanıyorum, refresh düğmesini hep görmemezlikten geliyordum. Bu sefer ilk defa şurada bir refresh düğmesi varmış, basayım bir dedim kendimce. Bir çok kullanıcıyı da bu şüphesiz etkileyecektir.
 
- [1]: http://googleblog.blogspot.com/2007/03/talk-on-your-personalized-homepage.html
+ [1]: https://googleblog.blogspot.com/2007/03/talk-on-your-personalized-homepage.html

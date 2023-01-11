@@ -73,7 +73,7 @@ Olympus PEN E-P5 aynasız fotoğraf makinesi siyah, gümüş ve beyaz olmak üze
 <img class="alignnone size-full wp-image-15021" alt="OLYMPUS DIGITAL CAMERA" src="https://www.murekkep.org/wp-content/uploads/2013/05/olympus-pen-e-p5-sample-images_05.jpg" width="600" height="450" srcset="https://www.murekkep.org/wp-content/uploads/2013/05/olympus-pen-e-p5-sample-images_05.jpg 600w, https://www.murekkep.org/wp-content/uploads/2013/05/olympus-pen-e-p5-sample-images_05-400x300.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/05/olympus-pen-e-p5-sample-images_05-50x37.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/05/olympus-pen-e-p5-sample-images_05-125x93.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/05/olympus-pen-e-p5-sample-images_05-266x200.jpg 266w" sizes="(max-width: 600px) 100vw, 600px" />  
 **Source:**
 
-  * <a title="olympus pen e-p5 camera" href="http://www.dailycameranews.com/2013/05/olympus-pen-e-p5/" rel="external dofollow">Olympus PEN E-P5 Camera Announced, Price, Specs</a>
-  * <a href="http://www.dailycameranews.com/2013/05/olympus-pen-e-p5-sample-images/" rel="external dofollow">Olympus PEN E-P5 Sample Images</a>
+  * <a title="olympus pen e-p5 camera" href="https://www.dailycameranews.com/2013/05/olympus-pen-e-p5/" rel="external dofollow">Olympus PEN E-P5 Camera Announced, Price, Specs</a>
+  * <a href="https://www.dailycameranews.com/2013/05/olympus-pen-e-p5-sample-images/" rel="external dofollow">Olympus PEN E-P5 Sample Images</a>
 
  [1]: https://www.murekkep.org/enstantane-nedir/ "Enstantane Nedir? Fotoğrafa Etkisi Nasıldır?"

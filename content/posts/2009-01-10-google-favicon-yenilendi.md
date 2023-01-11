@@ -18,5 +18,5 @@ Aşağıda resmini göstersek bile herhangi bir sekme açıp **Google** sayfası
 
 Yeni favicon, bilinen Google renkleri olan kırmızı,mavi,sarı ve yeşil tonlarını kullanıyor. Bu renklerin arasında küçük &#8220;g&#8221; dikkati çekiyor. Daha sportif ve renkli bir yapıya sahip olan yeni favicon, Google markasını ve renklerini daha güzel yansıtıyor. Sıcak bir hava katmış.
 
- [1]: http://www.google.com.tr
- [2]: http://googleblog.blogspot.com/2009/01/googles-new-favicon.html
+ [1]: https://www.google.com.tr
+ [2]: https://googleblog.blogspot.com/2009/01/googles-new-favicon.html

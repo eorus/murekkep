@@ -21,7 +21,7 @@ Aktif etmek için **Google** hesabınızla Google Takvim&#8217;e giriş yapıyor
 Ayrıntılar için **Google Operating System** günlüğü üzerindeki [Offline Google Calendar, Available for Everyone][5] yazısına bakabilirsiniz.
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [2]: http://www.google.com/calendar
- [3]: http://googlesystem.blogspot.com/2009/02/offline-google-calendar.html
- [4]: http://gears.google.com/
- [5]: http://googlesystem.blogspot.com/2009/03/offline-google-calendar-available-for.html
+ [2]: https://www.google.com/calendar
+ [3]: https://googlesystem.blogspot.com/2009/02/offline-google-calendar.html
+ [4]: https://gears.google.com/
+ [5]: https://googlesystem.blogspot.com/2009/03/offline-google-calendar-available-for.html

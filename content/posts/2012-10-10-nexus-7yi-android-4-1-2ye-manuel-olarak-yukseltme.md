@@ -50,4 +50,4 @@ Anlatacağımız işlem kesinlikle hiçbir değişiklik yapılmamış Nexus 7 ta
  13. Güncellemenin yüklenmeye başlaması lazım. Bittiği aman “reboot system now” seçeneğini seçin.
  14. Nexus 7’niz artık Android 4.1.2 ile çalışıyor, tadını çıkarın.
 
- [1]: http://android.clients.google.com/packages/ota/google_nakasi/03a4eaf95f73.signed-nakasi-JZO54K-from-JRO03D.03a4eaf9.zip "android 4.1.2 yükleme"
+ [1]: https://android.clients.google.com/packages/ota/google_nakasi/03a4eaf95f73.signed-nakasi-JZO54K-from-JRO03D.03a4eaf9.zip "android 4.1.2 yükleme"

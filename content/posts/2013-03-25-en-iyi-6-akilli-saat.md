@@ -29,7 +29,7 @@ Aşağıda 2013 yılının yeni trendi gibi gözüken bu teknolojik cihazlardan 
 
 ### 1. Pebble Watch
 
-<a href="http://getpebble.com/" target="_blank">Pebble</a> isimli model Bluetooth yardımı ile iPhone ve Android akıllı telefonlara bağlanabiliyor. Gelen çağrı,eposta ve mesaj gibi bildirim olduğu zaman sizi titreşim özelliğiyle uyarabiliyor. Pebble, Apple tarafında iPhone 3GS, 4, 4S, 5 veya herhangi bir iOS 5 veya iOS 6 ile çalışan iPod Touch ile uyumlu ve Android tarafında 2.3 üzeri işletim sistemleriyle çalışabiliyor.
+<a href="https://getpebble.com/" target="_blank">Pebble</a> isimli model Bluetooth yardımı ile iPhone ve Android akıllı telefonlara bağlanabiliyor. Gelen çağrı,eposta ve mesaj gibi bildirim olduğu zaman sizi titreşim özelliğiyle uyarabiliyor. Pebble, Apple tarafında iPhone 3GS, 4, 4S, 5 veya herhangi bir iOS 5 veya iOS 6 ile çalışan iPod Touch ile uyumlu ve Android tarafında 2.3 üzeri işletim sistemleriyle çalışabiliyor.
 
 <img class="alignnone size-full wp-image-13695" alt="akıllı saat" src="https://www.murekkep.org/wp-content/uploads/2013/03/Pebble-watch.png" width="600" height="449" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/Pebble-watch.png 600w, https://www.murekkep.org/wp-content/uploads/2013/03/Pebble-watch-400x299.png 400w, https://www.murekkep.org/wp-content/uploads/2013/03/Pebble-watch-50x37.png 50w, https://www.murekkep.org/wp-content/uploads/2013/03/Pebble-watch-125x93.png 125w, https://www.murekkep.org/wp-content/uploads/2013/03/Pebble-watch-267x200.png 267w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
@@ -41,7 +41,7 @@ I’m Watch dokunmatik ekrana sahip bir model ve gelen çağrılar, mesajlar gi
 
 ### 3. Cookoo
 
-<a href="http://www.cookoowatch.com/" target="_blank">Cookoo</a> akıllı saat tasarımıyla ön plana çıkan bir özelliğe sahip. Analog saat arayüzü ile farklı bir hava yaratan Cookoo ekranında tüm bilgileri rahatça okuyabiliyorsunuz. Kullanışlı arayüz neredeyse tüm sosyal ağlardaki bildirimleri hatta iPhone ve iPad&#8217;inizin pili azaldığında haber vermesi gibi özelliklere sahip.
+<a href="https://www.cookoowatch.com/" target="_blank">Cookoo</a> akıllı saat tasarımıyla ön plana çıkan bir özelliğe sahip. Analog saat arayüzü ile farklı bir hava yaratan Cookoo ekranında tüm bilgileri rahatça okuyabiliyorsunuz. Kullanışlı arayüz neredeyse tüm sosyal ağlardaki bildirimleri hatta iPhone ve iPad&#8217;inizin pili azaldığında haber vermesi gibi özelliklere sahip.
 
 <img class="alignnone size-full wp-image-13697" alt="akıllı saat" src="https://www.murekkep.org/wp-content/uploads/2013/03/Cuckoo.jpg" width="600" height="303" srcset="https://www.murekkep.org/wp-content/uploads/2013/03/Cuckoo.jpg 600w, https://www.murekkep.org/wp-content/uploads/2013/03/Cuckoo-400x202.jpg 400w, https://www.murekkep.org/wp-content/uploads/2013/03/Cuckoo-50x25.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/03/Cuckoo-125x63.jpg 125w, https://www.murekkep.org/wp-content/uploads/2013/03/Cuckoo-300x151.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /> 
 

@@ -27,8 +27,8 @@ Diğer tüm detayları ise [Google Operating System Günlüğü][5]&#8216;nde bu
 [Google Latitude: Share Your Location with Friends][6]
 
  [1]: https://www.murekkep.org/google-bazi-servislerini-kapatiyor-825
- [2]: http://www.google.com/latitude/intro.html
- [3]: http://www.google.com.tr
- [4]: http://maps.google.com
- [5]: http://googlesystem.blogspot.com/
- [6]: http://googlesystem.blogspot.com/2009/02/google-latitude-share-your-locations.html
+ [2]: https://www.google.com/latitude/intro.html
+ [3]: https://www.google.com.tr
+ [4]: https://maps.google.com
+ [5]: https://googlesystem.blogspot.com/
+ [6]: https://googlesystem.blogspot.com/2009/02/google-latitude-share-your-locations.html

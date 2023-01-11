@@ -25,4 +25,4 @@ Elimizdeki bu verilere bakarak iPad mini çok sattı, çok tüketildi gibi bir s
 [iPad Mini Teknik Özellikler >>][2]
 
  [1]: https://www.murekkep.org/ipad-mini-satisa-sunuldu-8916 "ipad mini "
- [2]: http://wp.me/p1eJph-2gG "ipad mini teknik özellikler"
+ [2]: https://wp.me/p1eJph-2gG "ipad mini teknik özellikler"

@@ -18,4 +18,4 @@ tags:
 > 
 > I tested it a while ago (1.0 times) and i guess it got much better. It can&#8217;t compete eye-to-eye with more established distributions yet, but if they keep up the good work, i don&#8217;t doubt that Pardus will carve its place.
 
-Daha fazla yorum için : <a target="_blank" href="http://osnews.com/story.php/16954/PiSi-One-Step-Further-with-Pardus">OSNEWS &#8211; PiSi: One Step Further with Pardus</a>
+Daha fazla yorum için : <a target="_blank" href="https://osnews.com/story.php/16954/PiSi-One-Step-Further-with-Pardus">OSNEWS &#8211; PiSi: One Step Further with Pardus</a>

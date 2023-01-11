@@ -24,7 +24,7 @@ Google arama sonuçlarından aradığınız kelimeyi ya da bir başka deyişle *
 
 Örnek olarak **Google** vermemize rağmen eğer [Yahoo][2] üzerinde arama yapıyorsanız bu sefer Google ve [Live][3] şeklinde yönleniyorsunuz. Ya da [Imdb][4] üzerinde arama yapıyorsanız karşınıza bu sefer Amazon, Flixster ve Rotten Tomatoes gibi alternatifler geliyor. 
 
-[<img src="http://i252.photobucket.com/albums/hh25/fireman_biff/try_this_search_on/th_7d1a0a5d.png" border="0" align="right" alt="Google Search" />][5]
+[<img src="https://i252.photobucket.com/albums/hh25/fireman_biff/try_this_search_on/th_7d1a0a5d.png" border="0" align="right" alt="Google Search" />][5]
 
 **Torrent** aramaları içinde alternatifler sunan &#8220;Try this search on&#8221; Greasemonkey betiği **torrent araması** yaptığınız siteye göre diğer torrent sitelerinin linklerini karşınıza getiriyor. Örneğin Mininova **torrent sitesi** üzerinde arama yapıyorsanız Torrentz, TorrentReactor, PirateBay linklerini aşağıda görebiliyorsunuz. 
 
@@ -45,9 +45,9 @@ Google arama sonuçlarından aradığınız kelimeyi ya da bir başka deyişle *
 
 İlgili betiğin özellikler kısmından aşağıda veya yukarıda çıkmasını, gözükmesini istediğiniz veya istemediğiniz arama motorlarını ya da servisleri listeden çıkarmayı ya da eklemeyi sağlayabiliyorsunuz.
 
- [1]: http://www.google.com
- [2]: http://yahoo.com
- [3]: http://live.com
- [4]: http://imdb.com
- [5]: http://i252.photobucket.com/albums/hh25/fireman_biff/try_this_search_on/7d1a0a5d.png
- [6]: http://getfirefox.com
+ [1]: https://www.google.com
+ [2]: https://yahoo.com
+ [3]: https://live.com
+ [4]: https://imdb.com
+ [5]: https://i252.photobucket.com/albums/hh25/fireman_biff/try_this_search_on/7d1a0a5d.png
+ [6]: https://getfirefox.com

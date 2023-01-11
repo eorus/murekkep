@@ -97,6 +97,6 @@ Pentax macera sever dayanıklı fotoğraf makineleriyle fotoğraf dünyasında f
  [4]: https://www.murekkep.org/kamera/canon/eos-6d "canon eos 6d"
  [5]: https://www.murekkep.org/kamera/nikon/d600 "nikon d600"
  [6]: https://www.murekkep.org/kamera/sony/nex-7 "sony nex-7"
- [7]: http://www.turknikon.com/nikon-yeni-coolpix-stil-serisi-modellerini-duyurdu-s01s800cs6400-12630 "nikon coolpix s800c"
+ [7]: https://www.turknikon.com/nikon-yeni-coolpix-stil-serisi-modellerini-duyurdu-s01s800cs6400-12630 "nikon coolpix s800c"
  [8]: https://www.murekkep.org/kamera/sony/slt-a99 "sony slt-a99 alpha 99"
  [9]: https://www.murekkep.org/canonun-en-iyi-5-lensi-en-populer-canon-objektifler-11427 "en iyi canon lensler"

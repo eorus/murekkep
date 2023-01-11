@@ -30,7 +30,7 @@ tags:
 
 Google Zeitgeist üzerinde geçmiş yıllara ilişkin arama kriterlerine buradan bakabilirsiniz.
 
- [1]: http://www.google.com
- [2]: http://www.google.com/intl/en/press/zeitgeist2008/index.html
- [3]: http://www.google.com/trends
+ [1]: https://www.google.com
+ [2]: https://www.google.com/intl/en/press/zeitgeist2008/index.html
+ [3]: https://www.google.com/trends
  [4]: https://www.murekkep.org/2006-arama-egilimleri-122

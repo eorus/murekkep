@@ -34,4 +34,4 @@ Wikirank&#8217;in sunduğu diğer bir özellik ise **grafiksel** olarak 4 farkl�
 
 **Wikirank** bana göre bu açıdan önemli bir görevi yerine getiriyor. Wikirank&#8217;i nasıl bulduğunuz ve hangi konuları araştırmak isteyebileceğiniz konusunda yorumlarınızla yazıya zenginlik katabileceğinizi tekrar belirtiriz.
 
- [1]: http://wikipedia.org/
+ [1]: https://wikipedia.org/

@@ -73,12 +73,12 @@ Photo Sketch adından da anlaşılacağı üzere yüklediğiniz resme efekt ekli
 <img class="aligncenter size-full wp-image-10403" alt="fotografa-resme-efekt-ekleme" src="https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1.jpg" width="340" height="340" srcset="https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1.jpg 340w, https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1-150x150.jpg 150w, https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1-250x250.jpg 250w, https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1-100x100.jpg 100w, https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1-50x50.jpg 50w, https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1-200x200.jpg 200w, https://www.murekkep.org/wp-content/uploads/2013/01/artistic_painting_photo_effect_1-305x305.jpg 305w" sizes="(max-width: 340px) 100vw, 340px" />
 
  [1]: https://www.murekkep.org/en-iyi-5-fotograf-efekt-sitesi-1805
- [2]: http://www.picturetopeople.org/vexel_renderer1.html
- [3]: http://www.picturetopeople.org/photo_light.html
- [4]: http://www.picturetopeople.org/photo_sketch/photo_sketch.html
- [5]: http://www.picturetopeople.org/photo_sketch/photo_colorful_drawing.html
- [6]: http://www.picturetopeople.org/image_effects/photo_cartoon/photo_cartoon.html
- [7]: http://www.picturetopeople.org/photo_sketch/realistic_pencil_sketch_photo_effect.html
- [8]: http://www.picturetopeople.org/image_effects/photo_mosaic/artistic_mosaic_photo_effect.html
- [9]: http://www.picturetopeople.org/photo_sketch/realistic_colorful_drawing_photo_effect.html
- [10]: http://www.picturetopeople.org/image_effects/photo_paint/online_painting_photo_effects.html
+ [2]: https://www.picturetopeople.org/vexel_renderer1.html
+ [3]: https://www.picturetopeople.org/photo_light.html
+ [4]: https://www.picturetopeople.org/photo_sketch/photo_sketch.html
+ [5]: https://www.picturetopeople.org/photo_sketch/photo_colorful_drawing.html
+ [6]: https://www.picturetopeople.org/image_effects/photo_cartoon/photo_cartoon.html
+ [7]: https://www.picturetopeople.org/photo_sketch/realistic_pencil_sketch_photo_effect.html
+ [8]: https://www.picturetopeople.org/image_effects/photo_mosaic/artistic_mosaic_photo_effect.html
+ [9]: https://www.picturetopeople.org/photo_sketch/realistic_colorful_drawing_photo_effect.html
+ [10]: https://www.picturetopeople.org/image_effects/photo_paint/online_painting_photo_effects.html

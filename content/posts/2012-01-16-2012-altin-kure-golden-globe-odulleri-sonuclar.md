@@ -22,14 +22,14 @@ tags:
 
 ## 2012 Altın Küre (Golden Globe) Sonuçları
 
-  * En İyi Film : **<a href="http://www.imdb.com/title/tt1033575/" target="_blank">The Descendants</a> (2011)**
-  * En İyi Film (Komedi veya Müzikal) : **<a href="http://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
-  * En İyi Erkek Oyuncu : **<a href="http://www.imdb.com/name/nm0000123/" target="_blank">George Clooney</a>** &#8211; <a href="http://www.imdb.com/title/tt1033575/" target="_blank">The Descendants</a> (2011)
-  * En İyi Erkek Oyuncu (Komedi veya Müzikal) : **<a href="http://www.imdb.com/name/nm0241121/" target="_blank">Jean Dujardin</a>** &#8211; <a href="http://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)
-  * En İyi Kadın Oyuncu: **<a href="http://www.imdb.com/name/nm0000658/" target="_blank">Meryl Streep</a>** &#8211; <a href="http://www.imdb.com/title/tt1007029/" target="_blank">The Iron Lady</a> (2011)
-  * En İyi Kadın Oyuncu (Komedi veya Müzikal) : **<a href="http://www.imdb.com/name/nm0931329/" target="_blank">Michelle Williams</a>** &#8211; <a href="http://www.imdb.com/title/tt1655420/" target="_blank">My Week with Marilyn</a> (2011)
-  * En İyi Dizi : **<a href="http://www.imdb.com/title/tt1796960/" target="_blank">&#8220;Homeland&#8221;</a> (2011)**
-  * En İyi Animasyon : **<a href="http://www.imdb.com/title/tt0983193/" target="_blank">The Adventures of Tintin</a> (2011)**
+  * En İyi Film : **<a href="https://www.imdb.com/title/tt1033575/" target="_blank">The Descendants</a> (2011)**
+  * En İyi Film (Komedi veya Müzikal) : **<a href="https://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)**
+  * En İyi Erkek Oyuncu : **<a href="https://www.imdb.com/name/nm0000123/" target="_blank">George Clooney</a>** &#8211; <a href="https://www.imdb.com/title/tt1033575/" target="_blank">The Descendants</a> (2011)
+  * En İyi Erkek Oyuncu (Komedi veya Müzikal) : **<a href="https://www.imdb.com/name/nm0241121/" target="_blank">Jean Dujardin</a>** &#8211; <a href="https://www.imdb.com/title/tt1655442/" target="_blank">The Artist</a> (2011)
+  * En İyi Kadın Oyuncu: **<a href="https://www.imdb.com/name/nm0000658/" target="_blank">Meryl Streep</a>** &#8211; <a href="https://www.imdb.com/title/tt1007029/" target="_blank">The Iron Lady</a> (2011)
+  * En İyi Kadın Oyuncu (Komedi veya Müzikal) : **<a href="https://www.imdb.com/name/nm0931329/" target="_blank">Michelle Williams</a>** &#8211; <a href="https://www.imdb.com/title/tt1655420/" target="_blank">My Week with Marilyn</a> (2011)
+  * En İyi Dizi : **<a href="https://www.imdb.com/title/tt1796960/" target="_blank">&#8220;Homeland&#8221;</a> (2011)**
+  * En İyi Animasyon : **<a href="https://www.imdb.com/title/tt0983193/" target="_blank">The Adventures of Tintin</a> (2011)**
 
 69. golden globe, 2012 altın küre sonuçlarının tam listesine IMDB – Road to Golden Globes 2012 sayfasından bakabilirsiniz. İzlemek isteyenler için bilgi; 2012 altın küre ödül töreni bu akşam saat 22.00’de CNBC-e’de tekrar yayınlanacak.
 

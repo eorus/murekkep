@@ -22,6 +22,6 @@ Bir grup veya şarkıcı hakkında bilgiye mi ulaşmak istiyorsunuz? Musotik bu 
 Özetle Musotik, müzik aramalarınızı tek bir yerden gerçekleştirebileceğiniz ve birçok bilgiye ulaşabileceğiniz bir site olarak karşımıza çıkıyor.
 
  [1]: https://www.murekkep.org/kullanabileceginiz-10-yasal-torrent-sitesi-221
- [2]: http://www.last.fm/
- [3]: http://www.pandora.com/
+ [2]: https://www.last.fm/
+ [3]: https://www.pandora.com/
  [4]: https://www.murekkep.org/etiket/youtube

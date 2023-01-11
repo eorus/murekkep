@@ -30,7 +30,7 @@ Apple iPad 3′e doğru emin adımlarla yürürken tablet pc dünyasının merak
 
 ## Apple iPad 3 Almak için 5 Önemli Neden
 
-**1. <a title="retina display nedir" href="http://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina Display Teknolojisi</a>**
+**1. <a title="retina display nedir" href="https://www.burcinyazici.com/retina-display-nedir-2053.html" target="_blank">Retina Display Teknolojisi</a>**
 
 Yeni **iPad 3** muhtemelen Sharp tarafından üretilecek yüksek çözünürlüklü **Retina Display** ekran benzersiz çift LED arka ışıklandırma ile gelecek. Her iki yönde piksel çözünürlüğünü iki katına çıkaran Retina Display teknolojisi iPad 3 ile gelmesi muhtemel özelliklerin başında geliyor ve merakla bekleniyor. **iPad 3 9.7-inç QXGA** şeklinde bir ekran boyutuna sahip olabilir. [iOS 5.1 işletim sistemi][1] kullanacak olan Apple&#8217;ın yeni tablet bilgisayarı **iPad 3 2048 x 1536 çözünürlük** ile bir önceki model iPad 2&#8217;nin iki katı bir çözünürlüğe sahip olacak.
 

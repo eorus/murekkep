@@ -21,7 +21,7 @@ HTC&#8217;nin Android yüklü akıllı telefonlarının yanısıra tablet pc ola
 
 Tablet pc sektöründe HTC&#8217;nin kuvvetli ürünlerinden birisi olan **HTC Flyer Tablet**, Vodafone aracılığı ile Türkiye&#8217;de satışa sunuluyor. İnternet paketine göre ödeme şekli sunulan **Vodafone HTC Flyer Tablet** kampanyasında 24 aylık 75TL 1GB internet paketi ya da 24 aylık 85TL 4GB internet paketi seçenekleri mevcut.
 
-<a href="http://www.vodafone.com.tr/Kampanyalar/HTC-Flyer-Tablet-kampanyasi.php" target="_blank">Vodafone HTC Flyer kampanyası</a> 31 Aralık 2011′e kadar devam edecek. Detayları Vodafone Türkiye Htc Flyer Tablet sayfasında bulabilirsiniz.
+<a href="https://www.vodafone.com.tr/Kampanyalar/HTC-Flyer-Tablet-kampanyasi.php" target="_blank">Vodafone HTC Flyer kampanyası</a> 31 Aralık 2011′e kadar devam edecek. Detayları Vodafone Türkiye Htc Flyer Tablet sayfasında bulabilirsiniz.
 
 Tabi hepsinden önce rehber niteliğinde olan ve tablet pc ile ilgili sorularınıza cevap olabilecek yazılarımıza bakmanızı tavsiye ederiz. [Tablet pc nedir? Tablet pc ne işe yarar?][1] [Tablet pc fiyatları ve Tablet pc seçimi?][2] [Tablet pc almak için 5 neden?][3]
 

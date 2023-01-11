@@ -24,5 +24,5 @@ DocJax **döküman arama motoru** üzerindeki aramalarınızı belirli süzgeçl
 
 Dökümanları web 2.0 tadında aramak için **DocJax** güzel bir alternatif gözüküyor. Tabi desteklediği dosya formatlarına daha fazlasını en kısa zamanda eklemesi gerekli. Son olarak Firefox arama çubuğuna DocJax&#8217;ı sayfasındaki linke tıklayarak kolayca ekleyebiliyorsunuz.
 
- [1]: http://google.com
- [2]: http://yahoo.com
+ [1]: https://google.com
+ [2]: https://yahoo.com

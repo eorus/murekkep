@@ -25,6 +25,6 @@ Das Keyboard&#8217;ı 89 euro&#8217;ya sipariş [verebilirsiniz][2]. Bu fiyata d
 
 [[bknz.][3]]
 
- [1]: http://www.daskeyboard.com/
- [2]: http://www.getdigital.de/index/0x119
- [3]: http://www.golem.de/0709/54887.html
+ [1]: https://www.daskeyboard.com/
+ [2]: https://www.getdigital.de/index/0x119
+ [3]: https://www.golem.de/0709/54887.html

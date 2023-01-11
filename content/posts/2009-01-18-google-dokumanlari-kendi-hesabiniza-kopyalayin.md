@@ -16,11 +16,11 @@ Bu dosyayı düzenleyebilmek için adres kısmında yapılacak bir değişiklik 
 
 Örnek dosya adının AAAAA olduğunu düşünürsek;
 
-**http://docs.google.com/View?docid=AAAAA**
+**https://docs.google.com/View?docid=AAAAA**
 
 aşağıdaki şekilde değiştiğinde düzenlenebilir hale geliyor.
 
-**http://docs.google.com/DocAction?action=copy&docid=AAAAA**
+**https://docs.google.com/DocAction?action=copy&docid=AAAAA**
 
 Resmi Google Günlüğü yazısında bu işi otomatik ve daha kolay hale getirmek için oluşturulmuş betikten bahsedilmiş. Bu betiğin hangi tarayıcılarda nasıl çalıştığına ise aşağıdaki gibi değinilmiş. 
 
@@ -32,13 +32,13 @@ Internet Explorer, IE7Pro gibi bir eklenti yüklenirse.
 
 [Copy Google Documents to Your Account][10]
 
- [1]: http://docs.google.com/
- [2]: http://www.google.com.tr
- [3]: http://www.mozilla-europe.org/tr/firefox/
- [4]: http://www.greasespot.net/
- [5]: http://www.google.com/chrome
+ [1]: https://docs.google.com/
+ [2]: https://www.google.com.tr
+ [3]: https://www.mozilla-europe.org/tr/firefox/
+ [4]: https://www.greasespot.net/
+ [5]: https://www.google.com/chrome
  [6]: https://www.murekkep.org/google-chrome-20-beta-759
- [7]: http://www.opera.com/
- [8]: http://www.apple.com/safari/
- [9]: http://8-p.info/greasekit/
- [10]: http://googlesystem.blogspot.com/2009/01/copy-google-documents-to-your-account.html
+ [7]: https://www.opera.com/
+ [8]: https://www.apple.com/safari/
+ [9]: https://8-p.info/greasekit/
+ [10]: https://googlesystem.blogspot.com/2009/01/copy-google-documents-to-your-account.html

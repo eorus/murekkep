@@ -36,7 +36,7 @@ Küllerinden doğmaya çalışan Kodak, yeni Kodak PixPro AZ361 ile Amerika sat
   * Li-ion pil
   * 112.7 x 81.6 x 76.7mm
 
-via <a title="Kodak PixPro AZ361" href="http://www.dailycameranews.com/2013/04/kodak-pixpro-az361-bridge-camera/" rel="external dofollow">Kodak PixPro AZ361 Bridge Camera Announced</a>
+via <a title="Kodak PixPro AZ361" href="https://www.dailycameranews.com/2013/04/kodak-pixpro-az361-bridge-camera/" rel="external dofollow">Kodak PixPro AZ361 Bridge Camera Announced</a>
 
  [1]: https://www.murekkep.org/kamera/ "fotoğraf makinesi"
  [2]: https://www.murekkep.org/wp-content/uploads/2013/04/kodak_pixpro_az361.jpg

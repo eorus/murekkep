@@ -26,4 +26,4 @@ Gizmodo tarafından yayınlanan kısa bir Canon EOS 6D incelemesi var. Buraya t�
 Bu hare problemi internette de birçok yerde tartışılıyor. Eğer ileride yapılacak olan incelemelerden de aynı sonuçlar gelirse **EOS 5D Mark 3**’ göre daha az sensör noise üreten bu harika makineye yazık olacak.
 
  [1]: https://www.murekkep.org/canon-eos-6d-ozellikleri-9992
- [2]: http://www.turknikon.com/nikon-govdeler/fx-format/nikon-d800 "nikon d800"
+ [2]: https://www.turknikon.com/nikon-govdeler/fx-format/nikon-d800 "nikon d800"

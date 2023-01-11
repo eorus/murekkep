@@ -14,7 +14,7 @@ tags:
   - uygulama
 
 ---
-Google diller arası çeviri hizmeti <a title="Google Translate" href="http://translate.google.com.tr/" target="_blank">Google Translate</a> yani Google Çeviri son gelen güncelleme sayesinde iPad ile uyumlu hale geldi. iPad için Google Translate uygulaması App Store üzerinden indirilebilir.
+Google diller arası çeviri hizmeti <a title="Google Translate" href="https://translate.google.com.tr/" target="_blank">Google Translate</a> yani Google Çeviri son gelen güncelleme sayesinde iPad ile uyumlu hale geldi. iPad için Google Translate uygulaması App Store üzerinden indirilebilir.
 
 Daha önce Google Translate uygulamasını kullanmak isteyen iPad kullanıcıları, Safari tarayıcı ile web üzerinden giriş yaparak hizmeti kullanabiliyorlardı. Ya da [Google Translate iPhone uygulamasını][1] iPad üzerine kuruyorlardı. Google Translate yükseltildiği versiyon 1.3.0 ile **iOS işletim sistemi** kullanan iPhone, iPod Touch ve artık iPad için kullanılabilir duruma gelmiş oldu.
 
@@ -25,4 +25,4 @@ Google Çeviri hizmeti 17 dilde sesli arama özelliğinin yanısıra 63 dili bir
 Google Çeviri (Translate) uygulaması ücretsiz bir şekilde [App Store üzerinden][2] indirilebilir.
 
  [1]: https://www.murekkep.org/google-ceviri-translate-iphone-uygulamasi-4299 "Google Translate iPhone"
- [2]: http://itunes.apple.com/us/app/google-translate/id414706506?mt=8 "Google Translate App Store"
+ [2]: https://itunes.apple.com/us/app/google-translate/id414706506?mt=8 "Google Translate App Store"

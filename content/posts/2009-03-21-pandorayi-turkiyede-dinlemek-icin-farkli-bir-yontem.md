@@ -26,8 +26,8 @@ Benim gibi yapmaya karar verdiyseniz, Opera&#8217;da şu şekilde ayarları yapa
 **  
 Araçlar &#8211;> Tercihler &#8211;> Gelişmiş &#8211;> Ağ &#8211;> Vekil Sunucular**
 
-Burada şu adresi: http://pac.byterelay.com/ aşağıdaki şekilde yerine yerleştiriyorsunuz.
+Burada şu adresi: https://pac.byterelay.com/ aşağıdaki şekilde yerine yerleştiriyorsunuz.
 
 Ardından Opera&#8217;yı yeniden başlattığınız zaman, mis gibi Opera ile Pandora dinleyebileceksiniz. Tüm
 
- [1]: http://pandora.com/
+ [1]: https://pandora.com/

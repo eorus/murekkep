@@ -24,5 +24,5 @@ Geçen ay içerisinde yapılan indirimi hatırlayalım. [[1][2]{.broken_link}]
 
 Yüksek hızda ve kotalı uygulamalarda hızların değişmeden fiyatların % 30 &#8211; 40 aralığında indirilmesi güzel ancak tahminimce bu erişimlerde kullanıcı sayısı fazla değil. 256 sınırsızın kullanıcı sayısı oldukça fazla. Açıkçası indirimler devam ettiği sürece 256 sınırsız bağlantı hızının fiyatının çok fazla düşeceği gözükmüyor.
 
- [1]: http://www.milliyet.com.tr/2007/03/31/son/soneko08.asp
- [2]: http://www.f5haber.com/haber.aspx?id=132358&cat_id=6&title=adslde_indirim_mujdesi_haber
+ [1]: https://www.milliyet.com.tr/2007/03/31/son/soneko08.asp
+ [2]: https://www.f5haber.com/haber.aspx?id=132358&cat_id=6&title=adslde_indirim_mujdesi_haber

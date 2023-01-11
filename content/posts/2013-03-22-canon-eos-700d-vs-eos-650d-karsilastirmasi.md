@@ -443,7 +443,7 @@ Nisan ayından itibaren satışa sunulacak Canon EOS 700D satış fiyatı ise sa
   </tr>
 </table>
 
-via <a title="Canon EOS 700D / Rebel T5i Vs. EOS 650D / Rebel T4i Specifications Comparison" href="http://www.dailycameranews.com/2013/03/canon-eos-700d-rebel-t5i-vs-eos-650d-rebel-t4i-specifications-comparison/" rel="external dofollow">Canon EOS 700D / Rebel T5i Vs. EOS 650D / Rebel T4i Specifications Comparison</a>
+via <a title="Canon EOS 700D / Rebel T5i Vs. EOS 650D / Rebel T4i Specifications Comparison" href="https://www.dailycameranews.com/2013/03/canon-eos-700d-rebel-t5i-vs-eos-650d-rebel-t4i-specifications-comparison/" rel="external dofollow">Canon EOS 700D / Rebel T5i Vs. EOS 650D / Rebel T4i Specifications Comparison</a>
 
  [1]: https://www.murekkep.org/kamera "fotoğraf makinesi"
  [2]: https://www.murekkep.org/kamera/canon/eos-650d "canon eos 650d"

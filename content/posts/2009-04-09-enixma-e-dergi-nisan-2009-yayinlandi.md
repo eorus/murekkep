@@ -31,6 +31,6 @@ Açık kaynak yazılımlar konusunda yayın yapan edergi Enixma&#8217;nın Nisan
   * vi Editörü &#8211; II
   * Bsd &#8211; IV
 
- [1]: http://www.enixma.org/
- [2]: http://www.enixma.org/dergiler/0904/0904.php
- [3]: http://tr.wikipedia.org/wiki/Enixma
+ [1]: https://www.enixma.org/
+ [2]: https://www.enixma.org/dergiler/0904/0904.php
+ [3]: https://tr.wikipedia.org/wiki/Enixma

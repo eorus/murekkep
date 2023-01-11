@@ -16,7 +16,7 @@ tags:
 ---
 **Mozilla Firefox 4** resmi olarak duyurulduktan sonra final sürüm firefox 4 indirme süreci Dünya genelinde başlamış oldu. Firefox 4 duyuru yazısında belirttiğimiz gibi Mozilla, firefox 4 indirme istatistiklerini takip etmek için güzel bir çalışma yapmıştı.
 
-Glow üzerinden izlenebilen <a href="http://www.burcinyazici.com/firefox-4-indirme-istastiklerini-canli-izleyin-1268.html" target="_blank">Firefox 4 İndirme İstatistikleri</a>, dünya haritası üzerinde kıtalara ve ülkelere göre indirme yoğunluğunu gösterirken, sağ üst kısımda artarak devam eden ulaşılan **indirme sayısı** gösteriliyor. Alt kısımda ise saat ve dakika olarak anlık ulaşılan firefox 4 indirme sayısı ayrıca aktarılıyordu.
+Glow üzerinden izlenebilen <a href="https://www.burcinyazici.com/firefox-4-indirme-istastiklerini-canli-izleyin-1268.html" target="_blank">Firefox 4 İndirme İstatistikleri</a>, dünya haritası üzerinde kıtalara ve ülkelere göre indirme yoğunluğunu gösterirken, sağ üst kısımda artarak devam eden ulaşılan **indirme sayısı** gösteriliyor. Alt kısımda ise saat ve dakika olarak anlık ulaşılan firefox 4 indirme sayısı ayrıca aktarılıyordu.
 
 Mozilla, Firefox 4 için final sürüm duyurulduktan sonra geçen 48 saatin bir bilançosunu çıkarmış. 2 günlük sürede **firefox 4 indirme sayısı** ve firefox 4&#8217;e gelen talebi farklı istatistik rakamlarıyla aktarmaya çalışmış. **Firefox 4&#8217;ün ilk 48 saat indirme istatistikleri** şu şekilde gerçekleşmiş.
 

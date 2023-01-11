@@ -20,17 +20,17 @@ Bu durumda **RSS okumak** için Google Reader kullanan ve buradaki rss beslemele
 
 ## Google Reader Alternatifi En İyi RSS Okuyucular
 
-  1. <a href="http://www.feedly.com/" target="_blank">Feedly</a>
-  2. <a href="http://theoldreader.com/" target="_blank">The Old Reader</a>
+  1. <a href="https://www.feedly.com/" target="_blank">Feedly</a>
+  2. <a href="https://theoldreader.com/" target="_blank">The Old Reader</a>
   3. Pulse News
-  4. <a href="http://www.netvibes.com/en" target="_blank">Netvibes</a>
-  5. <a href="http://www.newsblur.com/" target="_blank">NewsBlur</a>
+  4. <a href="https://www.netvibes.com/en" target="_blank">Netvibes</a>
+  5. <a href="https://www.newsblur.com/" target="_blank">NewsBlur</a>
   6. Taptu
-  7. <a href="http://www.feedreader.com/myfeeds/" target="_blank">Feedreader</a>
-  8. <a href="http://www.feeddemon.com/" target="_blank">FeedDemon</a>
-  9. <a href="http://www.curiostudio.com/" target="_blank" class="broken_link">GreatNews</a>
- 10. <a href="http://www.jetbrains.com/omea/reader/" target="_blank">Omea Reader</a>
+  7. <a href="https://www.feedreader.com/myfeeds/" target="_blank">Feedreader</a>
+  8. <a href="https://www.feeddemon.com/" target="_blank">FeedDemon</a>
+  9. <a href="https://www.curiostudio.com/" target="_blank" class="broken_link">GreatNews</a>
+ 10. <a href="https://www.jetbrains.com/omea/reader/" target="_blank">Omea Reader</a>
  11. WebReader
- 12. <a href="http://feeds.qsensei.com/" target="_blank" class="broken_link">FeedBooster</a>
- 13. <a href="http://reederapp.com/" target="_blank">Reeder</a>
+ 12. <a href="https://feeds.qsensei.com/" target="_blank" class="broken_link">FeedBooster</a>
+ 13. <a href="https://reederapp.com/" target="_blank">Reeder</a>
  14. Akıllı telefon ve tabletlerdeki yeni özellikleriyle FlipBoard uygulaması

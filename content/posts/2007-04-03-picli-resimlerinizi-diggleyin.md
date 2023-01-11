@@ -20,7 +20,7 @@ Genel olarak Picli&#8217;ye baktığımızda aslında farklı olarak söylenebil
 
 İleriye dönük olarak oyyla üzerine de böyle birşey eklenebilir diye düşünüyorum.
 
-http://www.picli.com/
+https://www.picli.com/
 
- [1]: http://digg.com/
+ [1]: https://digg.com/
  [2]: https://www.murekkep.org/oyyla-com-turkce-digg-227

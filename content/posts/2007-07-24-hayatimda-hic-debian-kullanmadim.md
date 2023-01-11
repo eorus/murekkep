@@ -18,4 +18,4 @@ tags:
 
 Debian kullanmama konusuna gelirsek, röportajın sonuna doğru, merak edilen bir durum olduğundan &#8220;**Hangi dağıtımı kullanıyorsunuz**&#8221; sorusu geliyor. Linus, bunu pek önemsemediğini, kolay kurulup, yükseltilebilir bir dağıtım olmasının yeterli olduğunu söylüyor. Ve olaya çekirdek açısından baktığını belirtiyor. Bu yüzden hayatında hiç Debian kullanmamasının nedenini, Debian&#8217;ın zor kurulabilen bir dağıtım olmasından kaynaklandığını belirtiyor. Röportajın detaylarına buradan bakabilirsiniz.
 
- [1]: http://www.oneopensource.it
+ [1]: https://www.oneopensource.it

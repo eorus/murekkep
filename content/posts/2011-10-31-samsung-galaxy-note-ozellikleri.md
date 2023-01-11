@@ -41,4 +41,4 @@ tags:
 
 Özelliklerde dikkatimi çeken 2,500 mAh pil 5.3 ekrana ne kadar süre hizmet edecektir. Samsung Galaxy Note pil süresini araştırmak gerekiyor.
 
-**Samsung Galaxy Note çıkış tarihi** 2012 ilk çeyreği olarak düşünülüyor. <a title="Samsung Galaxy Note N7000" href="http://www.amazon.de/Samsung-Galaxy-Smartphone-AMOLED-Touchscreen-Android/dp/B005SYZ4SQ/ref=sr_1_1?ie=UTF8&qid=1319774330&sr=8-1" target="_blank">Samsung Galaxy Note N7000</a> olarak Alman yaAmazon&#8217;da  satılıyor. Fiyatı ise 552 avro olarak gözüküyor. Türkiye satış fiyatı ise raflarda yerini alacağı zaman netlik kazanacaktır.
+**Samsung Galaxy Note çıkış tarihi** 2012 ilk çeyreği olarak düşünülüyor. <a title="Samsung Galaxy Note N7000" href="https://www.amazon.de/Samsung-Galaxy-Smartphone-AMOLED-Touchscreen-Android/dp/B005SYZ4SQ/ref=sr_1_1?ie=UTF8&qid=1319774330&sr=8-1" target="_blank">Samsung Galaxy Note N7000</a> olarak Alman yaAmazon&#8217;da  satılıyor. Fiyatı ise 552 avro olarak gözüküyor. Türkiye satış fiyatı ise raflarda yerini alacağı zaman netlik kazanacaktır.

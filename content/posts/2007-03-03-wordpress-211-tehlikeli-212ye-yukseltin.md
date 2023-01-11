@@ -32,8 +32,8 @@ WordPress 2.0 serisi ile ilgili genel bir sorun bulunmuyor. Etkilenen sadece wor
  **Yeni eklemeler** : Türkçe WordPress 2.1.1 kullanıcıları bu tehlikeden etkilenmiyorlar. Sadece ingilizce 2.1.1 sürüm için geçerli bir durum. (Teşekkürler, Hasan)  
  [WordPress][2] &#8211; [TR][3] üzerinden yeni [Türkçe 2.1.2 sürümü][4] [indirebilirsiniz][5].
 
- [1]: http://wordpress.org/development/2007/03/upgrade-212/
- [2]: http://www.wordpress.org
- [3]: http://www.wordpress-tr.com/
- [4]: http://www.wordpress-tr.com/wordpress-212/
- [5]: http://www.wordpress-tr.com/indir
+ [1]: https://wordpress.org/development/2007/03/upgrade-212/
+ [2]: https://www.wordpress.org
+ [3]: https://www.wordpress-tr.com/
+ [4]: https://www.wordpress-tr.com/wordpress-212/
+ [5]: https://www.wordpress-tr.com/indir

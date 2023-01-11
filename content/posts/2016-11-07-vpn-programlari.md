@@ -46,7 +46,7 @@ Hotspot Shield VPN progrmaı ile internet gizliliği ve güvenlik elde edebili
 
 [<img class="alignnone size-full wp-image-17305" src="https://www.murekkep.org/wp-content/uploads/2016/11/opera.jpg" alt="opera" width="880" height="487" srcset="https://www.murekkep.org/wp-content/uploads/2016/11/opera.jpg 880w, https://www.murekkep.org/wp-content/uploads/2016/11/opera-768x425.jpg 768w, https://www.murekkep.org/wp-content/uploads/2016/11/opera-400x221.jpg 400w, https://www.murekkep.org/wp-content/uploads/2016/11/opera-50x28.jpg 50w, https://www.murekkep.org/wp-content/uploads/2016/11/opera-125x69.jpg 125w, https://www.murekkep.org/wp-content/uploads/2016/11/opera-300x166.jpg 300w" sizes="(max-width: 880px) 100vw, 880px" />][5]
 
-Opera VPN ile, reklamları engelleyebilir, sanal konumunuzu değiştirebilir ve sitelerin web&#8217;de sizi izlemesini önleyebilirsiniz. Web&#8217;deki tüm engelleri ücretsiz aşın sloganıyla çıkan Opera VPN programına <a href="http://www.opera.com/tr/apps/vpn" target="_blank">buradan</a> ulaşılabilir.
+Opera VPN ile, reklamları engelleyebilir, sanal konumunuzu değiştirebilir ve sitelerin web&#8217;de sizi izlemesini önleyebilirsiniz. Web&#8217;deki tüm engelleri ücretsiz aşın sloganıyla çıkan Opera VPN programına <a href="https://www.opera.com/tr/apps/vpn" target="_blank">buradan</a> ulaşılabilir.
 
 Türkiye’de son yıllarda internet sitelerine uygulanan erişime kapatılma kararları ile gündeme gelen protokol için piyasada birçok özelleşmiş çözümler bulmak mümkün. **VPN programları** kullanım açısından zor değildir. Kurduktan sonra bağlanmak istediğiniz bölgeyi seçmeniz yeterli olmaktadır. Bu sayede Türkiye’nin veya dünyanın farklı bir noktasından internete bağlanmış olursunuz.
 

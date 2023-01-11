@@ -18,7 +18,7 @@ tags:
   - uygulama
 
 ---
-Adobe, kullanıcıların kolay bir şekilde **fotoğraf ve videoları düzenlemek** için kullandıkları mobil bir uygulama olan Photoshop Express&#8217;in iOS işletim sistemi için güncellemesini duyurdu. Adobe tarafından [iOS işletim sistemi][1]{.broken_link} üzerinde kullanılabilen yeni **Adobe Photoshop Express v2.1** ile şimdi hata düzeltmeleri Adobe ile paylaşılabiliyor olacak. Uygulama için satın almanın entegre olduğu yeni yapısıyla Adobe Photoshop Express eposta geliştirmeleri yanısıra <a href="http://www.flickr.com " target="_blank">Flickr</a> ile kolay paylaşım imkanı da sunuyor.
+Adobe, kullanıcıların kolay bir şekilde **fotoğraf ve videoları düzenlemek** için kullandıkları mobil bir uygulama olan Photoshop Express&#8217;in iOS işletim sistemi için güncellemesini duyurdu. Adobe tarafından [iOS işletim sistemi][1]{.broken_link} üzerinde kullanılabilen yeni **Adobe Photoshop Express v2.1** ile şimdi hata düzeltmeleri Adobe ile paylaşılabiliyor olacak. Uygulama için satın almanın entegre olduğu yeni yapısıyla Adobe Photoshop Express eposta geliştirmeleri yanısıra <a href="https://www.flickr.com " target="_blank">Flickr</a> ile kolay paylaşım imkanı da sunuyor.
 
 **Adobe Photoshop Express** mobil yazılımı **iPhone, iPad ve iPod** gibi mobil cihazınızdan hızlı bir şekilde fotoğrafları düzenlemek ve paylaşmak için basit hareketleri kullanmanıza olanak tanır. Cihazınızın değerli **depolama** alanını israf etmeden fotoğraf ve video kütüphanesine keyifle ulaşmanızı sağlar.
 
@@ -33,6 +33,6 @@ Online fotoğraf paylaşımı ve düzenlemesine olanak sağlayan Photoshop Expre
   * Flickr ile fotoğraf paylaşma &#8211; Flickr hesabınıza tam boyutlu fotoğraf yükleyin.
   * Adobe Border Pack iPad 1 ve 2, ikinci nesil iPod Touch ve iPhone 3G sonrası için kullanılabilir.
 
-<a title="Adobe Photoshop Express" href="http://itunes.apple.com/us/app/adobe-photoshop-express/id331975235" target="_blank">App Store Adobe Photoshop Express İndir</a>
+<a title="Adobe Photoshop Express" href="https://itunes.apple.com/us/app/adobe-photoshop-express/id331975235" target="_blank">App Store Adobe Photoshop Express İndir</a>
 
  [1]: https://www.murekkep.org/ios-5-ile-gelen-yeni-ozelliklerin-tum-listesi-6882 "iOS işletim sistemi"

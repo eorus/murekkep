@@ -18,4 +18,4 @@ Windows 7 masaüstü için farklı konu ve mekan içerikli temaları görebiliyo
 
 **Windows 7 kişiselleştirme** galerisindeki yeni bir tema olan **Windows 7 surfing theme**, içerdiği 10 adet deniz dalga görüntülü **masaüstü duvar kağıdı** ve deniz sesleriyle birlikte surf havasını masaüstünüze getiriyor.
 
-<a href="http://windows.microsoft.com/en-GB/windows/downloads/surfing-theme" target="_blank">Windows 7 Surfing Theme</a> tema paketini Windows 7 tema galerisindeki resmi sayfasından indirebilirsiniz.
+<a href="https://windows.microsoft.com/en-GB/windows/downloads/surfing-theme" target="_blank">Windows 7 Surfing Theme</a> tema paketini Windows 7 tema galerisindeki resmi sayfasından indirebilirsiniz.

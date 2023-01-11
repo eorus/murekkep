@@ -16,10 +16,10 @@ Bunun için öncelikle buraya uğrayıp greasemonkey firefox eklentisini kuruyor
 
 Firefox ile **greasemonkey** eklentisini kurduktan sonra google reader için [burada][3] oluşturulmuş greasemonkey betiğini alıyorsunuz. Kurulumunu yaptıktan sonra gmaila girip beraber kullanabiliyorsunuz. Böylelikle maillerinize bakarken aynı zamanda **Google Reader** içindeki feedleri kontrol edebiliyorsunuz.
 
-  * http://greasemonkey.mozdev.org/
-  * http://diveintogreasemonkey.org/toc/
-  * <http://persistent.info/archives/2006/10/13/google-reader-redux>
+  * https://greasemonkey.mozdev.org/
+  * https://diveintogreasemonkey.org/toc/
+  * <https://persistent.info/archives/2006/10/13/google-reader-redux>
 
- [1]: http://www.gmail.com
- [2]: http://www.google.com/reader
- [3]: http://persistent.info/archives/2006/10/13/google-reader-redux
+ [1]: https://www.gmail.com
+ [2]: https://www.google.com/reader
+ [3]: https://persistent.info/archives/2006/10/13/google-reader-redux

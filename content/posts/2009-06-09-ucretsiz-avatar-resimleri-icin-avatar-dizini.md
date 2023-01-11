@@ -19,7 +19,7 @@ tags:
 ---
 **Avatar resimleri**, sosyal olarak aktif biriyseniz sizin online kimliğiniz niteliğinde tercih ettiğiniz resimlerdir. Avatar resminizi birçok sosyal paylaşım platformlarında kullanabilirsiniz. Bir forum üyeliğiniz ya da herhangi bir blog yazısına gönderdiğiniz yorumda ve daha bir çok sosyal ağ üzerinde gözüken avatar resmi, sizin ilgi duyduğunuz bir karakteri ya da objeyi temsil edecek şekilde kullanıcı adınızın yanında gözüken küçük resimlerdir. 
 
-Avatar resmi oluşturmak için siteler mevcut. Fakat yeni bir tane oluşturmaktansa, ilgilendiğiniz konuya veya artiste göre avatar resmi seçmek daha kolay olabilir. **<a href="http://www.avatarsdb.com/" target="_blank">AvatarsDB</a>** isimli internet sitesi, avatar resimleri için veritabanı şeklinde çalışan bir özelliğe sahip ve içerisinde birçok konuya veya ünlülerin isimlerine göre avatar resimleri barındırıyor. 
+Avatar resmi oluşturmak için siteler mevcut. Fakat yeni bir tane oluşturmaktansa, ilgilendiğiniz konuya veya artiste göre avatar resmi seçmek daha kolay olabilir. **<a href="https://www.avatarsdb.com/" target="_blank">AvatarsDB</a>** isimli internet sitesi, avatar resimleri için veritabanı şeklinde çalışan bir özelliğe sahip ve içerisinde birçok konuya veya ünlülerin isimlerine göre avatar resimleri barındırıyor. 
 
 **Ücretsiz avatar resimleri için avatar dizini** olan AvatarsDB üzerindeki avatar resimlerinden istediğinizi sadece birkaç tıklama ile indirip, kullanabiliyorsunuz. Burada yer alan avatar resimleri belirli konu başlıklarına göre kategorilenmiş. Ünlülerin avatar resimlerinden, animasyonlu karakterlere kadar birçok avatar resmini bulabiliyorsunuz. 
 

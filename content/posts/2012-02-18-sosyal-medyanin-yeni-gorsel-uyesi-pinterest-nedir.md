@@ -14,7 +14,7 @@ tags:
   - sosyal medya
 
 ---
-**Pinterest sanal bir bilgilendirme panosudur.** **Pinboard** olarak ifade edilen bilgilendirme panoları insanlar tarafından oluşturularak paylaşılır. <a title="Pinterest" href="http://pinterest.com/" target="_blank">Pinterest</a> ise web üzerinde bulunan tüm güzel şeyleri paylaşmak için oluşturulmuş bir servistir. Pinboard bilgilendirme panoları sayesinde insanlar planladıkları düğün organizasyonlarını, evlerinin dekorasyonu için görselleri, sevdikleri yemek tariflerini organize edip paylaşabilirler. Kısaca Pinterest bir çevrimiçi bilgilendirme panosudur. (**Online Pinboard**) İnsanlar bu bilgilendirme panolarını organize ederek paylaşımda bulunabilirler.
+**Pinterest sanal bir bilgilendirme panosudur.** **Pinboard** olarak ifade edilen bilgilendirme panoları insanlar tarafından oluşturularak paylaşılır. <a title="Pinterest" href="https://pinterest.com/" target="_blank">Pinterest</a> ise web üzerinde bulunan tüm güzel şeyleri paylaşmak için oluşturulmuş bir servistir. Pinboard bilgilendirme panoları sayesinde insanlar planladıkları düğün organizasyonlarını, evlerinin dekorasyonu için görselleri, sevdikleri yemek tariflerini organize edip paylaşabilirler. Kısaca Pinterest bir çevrimiçi bilgilendirme panosudur. (**Online Pinboard**) İnsanlar bu bilgilendirme panolarını organize ederek paylaşımda bulunabilirler.
 
 Pinterest üzerinde kullanıcılar tema tabanlı görüntü kolleksiyonları oluşturabilirler ve bunları yönetebilirler. Pinterest aslında bir sosyal bilgilendirme panosu olarak da adlandırılmaktadır. (**Social Pinboard**) Pinterest hakkındaki detaylara geçmeden önce Pinterest&#8217;in özellikle kadınlar arasında oldukça popüler olduğunu söyleyebiliriz.
 
@@ -32,6 +32,6 @@ Pinterest henüz yeni bir servis olmakla beraber **web 2.0** döneminin del.icio
 
 iPhone için Pinterest uygulaması Ağustos 2011 yılında güncellendi. Şirketin aynı zamanda bir mobil web sitesi var. Hitwise verilerine göre Pinterest Aralık 2011&#8217;de haftada 11 milyon toplam ziyaret ile en iyi 10 sosyal ağ arasına girdi.
 
-<a title="#pinterest" href="https://twitter.com/search/pinterest" target="_blank">#pinterest</a> <a title="#socialmedia" href="https://twitter.com/search/socialmedia" target="_blank">#socialmedia</a> <a title="twitter @murekkep" href="http://twitter.com/murekkep" target="_blank">@murekkep</a>
+<a title="#pinterest" href="https://twitter.com/search/pinterest" target="_blank">#pinterest</a> <a title="#socialmedia" href="https://twitter.com/search/socialmedia" target="_blank">#socialmedia</a> <a title="twitter @murekkep" href="https://twitter.com/murekkep" target="_blank">@murekkep</a>
 
 ### Pinterest Tanıtım Videosu

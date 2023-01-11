@@ -20,5 +20,5 @@ Eğer yüklenen fotoğrafta birden fazla kişinin yüzü varsa sıraya göre ilk
 
 Açıkçası ilk keşfettiğimden bu yana oldukça eğlenceli vakit geçirdiğimi söylemeliyim.
 
- [1]: http://www.photofunia.com/
- [2]: http://www.photofunia.com
+ [1]: https://www.photofunia.com/
+ [2]: https://www.photofunia.com

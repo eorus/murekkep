@@ -30,19 +30,19 @@ Peki internet bağlantısı olmadan sevdiğiniz bu videolardan bazılarını dah
 
 ### Any Video Converter
 
-Listenin ilk sırasında <a href="http://www.any-video-converter.com/products/for_video_free/" target="_blank">Any Video Converter</a> programı var. Sayısız video formatını destekleyen program sayesinde YouTube&#8217;da hoşunuza giden videoları da indirebilir ve gerekli düzenlemeleri yapıp kaydedebilirsiniz. Oldukça kolay bir kullanımı olan Any Video Converter ile hızlı dönüştürme yapabilir ve görüntü kalitesi yüksek video dosyalarını üzerinde oynayabilirsiniz.
+Listenin ilk sırasında <a href="https://www.any-video-converter.com/products/for_video_free/" target="_blank">Any Video Converter</a> programı var. Sayısız video formatını destekleyen program sayesinde YouTube&#8217;da hoşunuza giden videoları da indirebilir ve gerekli düzenlemeleri yapıp kaydedebilirsiniz. Oldukça kolay bir kullanımı olan Any Video Converter ile hızlı dönüştürme yapabilir ve görüntü kalitesi yüksek video dosyalarını üzerinde oynayabilirsiniz.
 
 ### Free Youtube Download
 
-<a href="http://www.dvdvideosoft.com/products/DVD/Free-YouTube-Download.htm" target="_blank">Free YouTube Download</a> programı ile benzer şekilde YouTube üzerindeki videoları bilgisayarınıza indirebiliyorsunuz. Ek olarak sunduğu oynatma listesi özelliğiyle YouTube&#8217;daki listelerde yer alan videoları toplu olarak indirebiliyorsunuz. Ya da sevdiğiniz bir vlogger var. Bu program sayesinde direkt olarak kanal içerisindeki tüm videoları bilgisayarınıza indirebiliyorsunuz.
+<a href="https://www.dvdvideosoft.com/products/DVD/Free-YouTube-Download.htm" target="_blank">Free YouTube Download</a> programı ile benzer şekilde YouTube üzerindeki videoları bilgisayarınıza indirebiliyorsunuz. Ek olarak sunduğu oynatma listesi özelliğiyle YouTube&#8217;daki listelerde yer alan videoları toplu olarak indirebiliyorsunuz. Ya da sevdiğiniz bir vlogger var. Bu program sayesinde direkt olarak kanal içerisindeki tüm videoları bilgisayarınıza indirebiliyorsunuz.
 
 ### KeepVid
 
-Elinizin altında devamlı olması gereken bir video indirme servisi <a href="http://tr.keepvid.com/" target="_blank" class="broken_link">KeepVid</a>. YouTube, DailyMotion ve Vimeo gibi sitelerdeki videoları çeşitli formatlarda indirmek için oldukça faydalı. online bir servis olan KeepVid, program kurulumuna gerek kalmadan istediğiniz videonun linkini (URL) girerek indirme işlemlerini yapabilmenizi sağlıyor.
+Elinizin altında devamlı olması gereken bir video indirme servisi <a href="https://tr.keepvid.com/" target="_blank" class="broken_link">KeepVid</a>. YouTube, DailyMotion ve Vimeo gibi sitelerdeki videoları çeşitli formatlarda indirmek için oldukça faydalı. online bir servis olan KeepVid, program kurulumuna gerek kalmadan istediğiniz videonun linkini (URL) girerek indirme işlemlerini yapabilmenizi sağlıyor.
 
 ### Savefrom.Net
 
-Listemizin sonunda bir diğer ücretsiz servis olarak karşımıza <a href="http://tr.savefrom.net/" target="_blank">Savefrom.net</a> çıkıyor. Aynı KeepVid gibi herhangi bir bilgisayardan internet tarayıcısı sayesinde video linki girerek indirme işlemi gerçekleştiren bir servis. Kullanıcılar arzu ederlerse mevcut **Android** uygulaması sayesinde de YouTube video indirme işlemlerini gerçekleştirebiliyorlar.  Eğer akıllı telefondan nasıl Youtube videolarını telefonuma indirirm diye merak ediyorsanız, Savefrom.net uygulaması biçilmiş kaftan.
+Listemizin sonunda bir diğer ücretsiz servis olarak karşımıza <a href="https://tr.savefrom.net/" target="_blank">Savefrom.net</a> çıkıyor. Aynı KeepVid gibi herhangi bir bilgisayardan internet tarayıcısı sayesinde video linki girerek indirme işlemi gerçekleştiren bir servis. Kullanıcılar arzu ederlerse mevcut **Android** uygulaması sayesinde de YouTube video indirme işlemlerini gerçekleştirebiliyorlar.  Eğer akıllı telefondan nasıl Youtube videolarını telefonuma indirirm diye merak ediyorsanız, Savefrom.net uygulaması biçilmiş kaftan.
 
 Hem internet üzerinden sadece tarayıcı aracılığıyla, hem de bilgisayarınıza indirebileceğiniz ve kullabileceğiniz ücretsiz **Youtube video indirme** programlarını listelemeye çalıştık. Kullandığınız ve eklemek istediğiniz başka servisler varsa yorumlarınızda belirtebilirsiniz.
 

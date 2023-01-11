@@ -15,7 +15,7 @@ tags:
 ---
 **True Blood dizisi**, Amerikan televizyonlarında **Alan Ball** tarafından yaratılmış ve yapımı üstlenilmiş bir drama dizisidir. Alan Ball aynı zamanda **Six Feet Under** dizisini yaratmıştı. True Blood dizisi, yazar **Charlaine Harris** tarafından yaratılmış bir roman olan **Güney Vampirleri Serisini** ya da başka bir söylemle **Sookie Stackhouse** Günlüklerini ve kurgusal olarak küçük bir Louisiana kasabası olan Bon-Temps&#8217;da birlikte yaşamayı öğrenmiş insanların ve vampirlerin hikayesini temel alır.
 
-<a href="http://www.hbo.com/true-blood" target="_blank">True Blood</a> dizisi içerisinde merkez karakterleri, bir barda garson olarak çalışan ve insanların düşüncelerini duyabilen **Sookie Stackhouse** (Anna Paquin) ve aşık olduğu vampir **Bill Compton** (Stephen Moyer) şeklinde sıralayabiliriz. True Blood dizisi Amerika&#8217;da kablolu olarak yayın yapan **HBO** kanalında yayınlanmaktadır. True Blood&#8217;ın ilk yayınlandığı tarih 07 Eylül 2008&#8217;dir.
+<a href="https://www.hbo.com/true-blood" target="_blank">True Blood</a> dizisi içerisinde merkez karakterleri, bir barda garson olarak çalışan ve insanların düşüncelerini duyabilen **Sookie Stackhouse** (Anna Paquin) ve aşık olduğu vampir **Bill Compton** (Stephen Moyer) şeklinde sıralayabiliriz. True Blood dizisi Amerika&#8217;da kablolu olarak yayın yapan **HBO** kanalında yayınlanmaktadır. True Blood&#8217;ın ilk yayınlandığı tarih 07 Eylül 2008&#8217;dir.
 
 True Blood dizisinin birinci sezonu oldukça ses getirmiş, Golden Globe ve Emmy ödülleri dahil olmak üzere çeşitli ödüller kazanmıştır. True Blood ikinci sezon başlangıç tarihi 14 Haziran 2009 olmuş ve 12 bölüm olarak yayınlanmıştır. 13 Haziran 2010 tarihinde başlayan 3. sezon içerisinde HBO tarafından yenilenme kararı alınan **True Blood&#8217;ın 4. sezonu başlangıç tarihi** 12 Haziran 2011 olarak düşünülmektedir.
 
@@ -23,11 +23,11 @@ True Blood dizisinin birinci sezonu oldukça ses getirmiş, Golden Globe ve Emmy
 
 ### Ana karakterler
 
-* **Sookie Stackhouse** (<a href="http://www.imdb.com/name/nm0001593/" target="_blank">Anna Paquin</a>), Bon-Temps kasabasında bir barda çalışan telepatik (düşünce okuyabilen) bir garson kız.  
-* **Bill Compton** (<a href="http://www.imdb.com/name/nm0610459/" target="_blank">Stephen Moyer</a>), Sookie&#8217;nin aşık olduğu 1840 doğumlu ve sivil savaşı yaşamış bir vampir.  
-* **Sam Merlotte** (<a href="http://www.imdb.com/name/nm0870794/" target="_blank">Sam Trammell</a>), Sookie&#8217;nin çalıştığı barın şekil değiştirme özelliği olan sahibi. Köpek şeklinde gördüğümüz Sam&#8217;in Sookie&#8217;ye ilgisi vardır.  
-* **Jason Stackhouse** (<a href="http://www.imdb.com/name/nm0477127/" target="_blank">Ryan Kwanten</a>), Sookie&#8217;nin zamanında V bağımlısı olmuş erkek kardeşi. Sonra güneşin kardeşliği grubuna katılmış ve arayışları hep devam etmiştir.  
-* **Tara Thornton** (<a href="http://www.imdb.com/name/nm2179180/" target="_blank">Rutina Wesley</a>), Sookie&#8217;nin en yakın arkadaşı
+* **Sookie Stackhouse** (<a href="https://www.imdb.com/name/nm0001593/" target="_blank">Anna Paquin</a>), Bon-Temps kasabasında bir barda çalışan telepatik (düşünce okuyabilen) bir garson kız.  
+* **Bill Compton** (<a href="https://www.imdb.com/name/nm0610459/" target="_blank">Stephen Moyer</a>), Sookie&#8217;nin aşık olduğu 1840 doğumlu ve sivil savaşı yaşamış bir vampir.  
+* **Sam Merlotte** (<a href="https://www.imdb.com/name/nm0870794/" target="_blank">Sam Trammell</a>), Sookie&#8217;nin çalıştığı barın şekil değiştirme özelliği olan sahibi. Köpek şeklinde gördüğümüz Sam&#8217;in Sookie&#8217;ye ilgisi vardır.  
+* **Jason Stackhouse** (<a href="https://www.imdb.com/name/nm0477127/" target="_blank">Ryan Kwanten</a>), Sookie&#8217;nin zamanında V bağımlısı olmuş erkek kardeşi. Sonra güneşin kardeşliği grubuna katılmış ve arayışları hep devam etmiştir.  
+* **Tara Thornton** (<a href="https://www.imdb.com/name/nm2179180/" target="_blank">Rutina Wesley</a>), Sookie&#8217;nin en yakın arkadaşı
 
 ### Yardımcı karakterler
 
@@ -65,6 +65,6 @@ True Blood&#8217;ın **açılış jenerik müziği** Jace Everett&#8217;in &#822
 
 True Blood 1. sezon ve 2. sezonda insan vampir ilişkileri, baküs perisi, şekil değiştirenler gibi konulara yoğunlaşılırken, 3. sezon kurt adamların sezonu olmuştur. HBO tarafından 12 Haziran 2011&#8217;de başlayacağı duyurulan **True Blood 4. sezonundan** işlenecek konu daha çok cadılar üzerine gibi gözüküyor.
 
-True Blood için geç kalınmış bir tanıtım yazısı olsa bile özellikle <a href="http://en.wikipedia.org/wiki/True_Blood" target="_blank">Wikipedia True Blood</a> yazısından belirli kısımları çevirilerek bu yazının içeriği oluşturulmuştur.
+True Blood için geç kalınmış bir tanıtım yazısı olsa bile özellikle <a href="https://en.wikipedia.org/wiki/True_Blood" target="_blank">Wikipedia True Blood</a> yazısından belirli kısımları çevirilerek bu yazının içeriği oluşturulmuştur.
 
 Herkese iyi seyirler

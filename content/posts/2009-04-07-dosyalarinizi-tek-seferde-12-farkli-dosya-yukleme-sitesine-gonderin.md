@@ -22,4 +22,4 @@ tags:
 
 **RapidShare**, **MegaUpload**, EasyShare, DepositFiles, ZShare, FlyUpload, SendSpace, Badongo, NetLoad, MegaShare, ZippyShare ve UploadedTo gibi dosya yükleme sitelerinin desteklendiği **Upload Mirrors**, eğer internet üzerinde dosya paylaşımında bulunuyorsanız, bu işi kolayca yapmanızı sağlayan bir web servisi olarak karşımıza çıkıyor.
 
- [1]: http://www.uploadmirrors.com/
+ [1]: https://www.uploadmirrors.com/

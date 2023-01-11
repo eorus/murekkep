@@ -20,6 +20,6 @@ Cuill&#8217;un küçük bir takım tarafından kuruldu. Bu takımın arasında T
 
 [[bknz.][3]]
 
- [1]: http://www.techcrunch.com/2007/09/04/cuill-super-stealth-search-engine-google-has-definitely-noticed/
- [2]: http://www.google.com
- [3]: http://googlefokus.blogspot.com/2007/09/neue-konkurrenz-fr-google-cuill.html
+ [1]: https://www.techcrunch.com/2007/09/04/cuill-super-stealth-search-engine-google-has-definitely-noticed/
+ [2]: https://www.google.com
+ [3]: https://googlefokus.blogspot.com/2007/09/neue-konkurrenz-fr-google-cuill.html

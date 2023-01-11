@@ -12,7 +12,7 @@ tags:
   - internet
 
 ---
-<a href="http://en.wikipedia.org/wiki/Main_Page" target="_blank">Wikipedia</a>&#8216;nın hayatımızdaki yeri azımsanamayacak derecede arttı. Bu sadece internet ile ilgili bir mevzû değil, artık bilgi mahiyetinde bir referans arandığında başvuru kaynaklarının başında geliyor wikipedia. Ancak bazen karşımıza çıkan içerik çok temiz olmayabiliyor, bu bilginin elden geçmesi, birilerinin doğruluğunu kontrol etmesi, kısacası güvenebileceğimiz bir kaynak haline getirilmesi gerekmekte. Bu bağlamda birileri oturmuş ve bu eksikliği gidermek istemiş, ortaya ise Veropedia çıkmış. Veropedia, kaynağını aslen wikipedia&#8217;dan sağlayan fakat içerik olarak yukarıda saydığımız kriterleri yerine getiren bir yapıya sahip. Haliyle herkes Veropedia&#8217;da yazamıyor. Hep beraber Veropedia&#8217;ya bir göz atalım.
+<a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank">Wikipedia</a>&#8216;nın hayatımızdaki yeri azımsanamayacak derecede arttı. Bu sadece internet ile ilgili bir mevzû değil, artık bilgi mahiyetinde bir referans arandığında başvuru kaynaklarının başında geliyor wikipedia. Ancak bazen karşımıza çıkan içerik çok temiz olmayabiliyor, bu bilginin elden geçmesi, birilerinin doğruluğunu kontrol etmesi, kısacası güvenebileceğimiz bir kaynak haline getirilmesi gerekmekte. Bu bağlamda birileri oturmuş ve bu eksikliği gidermek istemiş, ortaya ise Veropedia çıkmış. Veropedia, kaynağını aslen wikipedia&#8217;dan sağlayan fakat içerik olarak yukarıda saydığımız kriterleri yerine getiren bir yapıya sahip. Haliyle herkes Veropedia&#8217;da yazamıyor. Hep beraber Veropedia&#8217;ya bir göz atalım.
 
 <!--more-->
 
@@ -54,6 +54,6 @@ Bize bir e-posta gönderin, kendinizden ve özgür içerikle ne şekilde ilgili 
 
 Daha fazlası için:
 
-http://en.veropedia.com/
+https://en.veropedia.com/
 
-http://en.veropedia.com/docs/faq.php
+https://en.veropedia.com/docs/faq.php

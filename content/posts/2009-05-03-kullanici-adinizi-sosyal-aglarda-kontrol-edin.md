@@ -27,4 +27,4 @@ Bildiğimiz üzere **web 2.0** ile beraber gelen fazla sayıda servis bulunuyor.
 
 Sorgulamanın **ücretsiz** olduğu KnowEm üzerinde, eğer üye olup bu **120 popüler sosyal medya sitesinde**, kullanıcı adınızın KnowEm ile otomatik üye olmasını isterseniz **$64.95** gibi bir maliyet ortaya çıkıyor. Ben kullanıcı adımı değiştirmem ve her siteye tek tek girip üye olamam diyenler için böyle de bir hizmeti var.
 
- [1]: http://knowem.com/
+ [1]: https://knowem.com/

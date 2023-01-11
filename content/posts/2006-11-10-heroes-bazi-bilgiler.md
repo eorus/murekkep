@@ -27,8 +27,8 @@ Gerçek zamanlı olarak Heroes dizisine çizimlerinizle katkıda bulunabilirsini
 
 Dizinin official blog sayfasına buradan bakabilir ya da [Hiro Nakamura][3]&#8216;nın blogunda zaman yolculuğuna çıkabilirsiniz.
 
-Ayrıca dizi ile ilgili tüm bilgileri barındıran site (spoiler içerir) : http://www.heroestheseries.com/ 
+Ayrıca dizi ile ilgili tüm bilgileri barındıran site (spoiler içerir) : https://www.heroestheseries.com/ 
 
- [1]: http://www.nbc.com/Heroes/
+ [1]: https://www.nbc.com/Heroes/
  [2]: https://www.murekkep.org/yeni-dizi-heroes-35
- [3]: http://en.wikipedia.org/wiki/Hiro_Nakamura
+ [3]: https://en.wikipedia.org/wiki/Hiro_Nakamura

@@ -26,5 +26,5 @@ Anlaşılması kolay bir şekilde yeşil ikonlu olanlar o an üyelik alımına a
 Bir başka örnek için [Opentrackers.Net][3] sitesine bakabilirsiniz. Bu site yukarıda saydığımız özelliklerin yanısıra RSS ile güncellemeleri takip etmenizi sağlıyor.
 
  [1]: https://www.murekkep.org/en-iyi-torrent-siteleri-719
- [2]: http://trackerchecker.org/
- [3]: http://www.opentrackers.net/
+ [2]: https://trackerchecker.org/
+ [3]: https://www.opentrackers.net/

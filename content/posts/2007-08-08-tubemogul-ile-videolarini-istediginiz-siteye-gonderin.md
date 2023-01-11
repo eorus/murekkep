@@ -18,7 +18,7 @@ tags:
 
 <p style="text-align: center">
   <p>
-    Video gönderim konusu zaten <a href="http://www.tubemogul.com/">TubeMogul</a>&#8216;un çok kısa sürede gerçekleştirdiği ve işlevinin sadece bir kısmını yansıtan bir olay. Esas işlevi video gönderimi gerçekleştikten sonra gönderilen videonun istatistiklerinde ve yarattığı etkiyi takip etmekte yatıyor. Ben buna kısaca Video Analytics dedim. Aynı Google Analytics gibi birçok farklı konuda gönderilen videoyu takip etme imkanı sağlıyor. Tüm ayrıntılarına buradan bakılabilir.
+    Video gönderim konusu zaten <a href="https://www.tubemogul.com/">TubeMogul</a>&#8216;un çok kısa sürede gerçekleştirdiği ve işlevinin sadece bir kısmını yansıtan bir olay. Esas işlevi video gönderimi gerçekleştikten sonra gönderilen videonun istatistiklerinde ve yarattığı etkiyi takip etmekte yatıyor. Ben buna kısaca Video Analytics dedim. Aynı Google Analytics gibi birçok farklı konuda gönderilen videoyu takip etme imkanı sağlıyor. Tüm ayrıntılarına buradan bakılabilir.
   </p>
 
  [1]: https://www.murekkep.org/etiket/youtube

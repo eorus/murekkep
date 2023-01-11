@@ -16,6 +16,6 @@ categories:
 
 Google Reader Trends sayfasına gitmek için **[tıklayın][3]{.broken_link}**
 
- [1]: http://www.google.com/reader
+ [1]: https://www.google.com/reader
  [2]: https://www.murekkep.org/wp-content/uploads/2007/01/google-reader-stats.gif
- [3]: http://www.google.com/reader/view/?page=trends
+ [3]: https://www.google.com/reader/view/?page=trends

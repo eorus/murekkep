@@ -10,7 +10,7 @@ categories:
   - Fotoğraf
 
 ---
-<a href="http://www.thepicturesoftheday.com/" target="_blank">The Pictures of the day</a> yani **günün fotoğrafları** isimli site her gün için farklı bir fotoğraf sunuyor. Dünyanın dört bir tarafından haber içerikli **fotoğraf görüntüleri**, spor fotoğrafları ve ünlü kişilerin fotoğrafları gibi değişik fotoğraf karelerini günün fotoğraflarında bulabiliyorsunuz. Yılın her günü, hatta her saati şeklinde güncellenen bir yapıya sahip olan günün fotoğraflarında dünyanın dört bir tarafından ilginç fotoğraflar görmeniz mümkün.
+<a href="https://www.thepicturesoftheday.com/" target="_blank">The Pictures of the day</a> yani **günün fotoğrafları** isimli site her gün için farklı bir fotoğraf sunuyor. Dünyanın dört bir tarafından haber içerikli **fotoğraf görüntüleri**, spor fotoğrafları ve ünlü kişilerin fotoğrafları gibi değişik fotoğraf karelerini günün fotoğraflarında bulabiliyorsunuz. Yılın her günü, hatta her saati şeklinde güncellenen bir yapıya sahip olan günün fotoğraflarında dünyanın dört bir tarafından ilginç fotoğraflar görmeniz mümkün.
 
 Bir fotoğraf bin kelimeye bedel sözünden yola çıkarsak **POD** içerisinde sunulan fotoğraflar aslında o gün dünyada olan olayların bir yansıması gibi kendini gösteriyor. Siyasi bir gelişme, bir spor aktivitesi gibi farklı birçok alandan ilginç fotoğrafları görmeniz mümkün.
 

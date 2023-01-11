@@ -17,5 +17,5 @@ Burada &#8220;I&#8217;m feeling lucky&#8230;&#8221; kısmını işaretliyorsunuz
 Tabi içeriklerin çok fazla kelime alternatifi yok. Bu sadece [Google Blog][2]&#8216;un da bahsettiği gibi [kendini tembel hissedenler][3] için &#8230; :wink:
 
  [1]: https://www.murekkep.org/konu/web-uygulamalari-ve-internet/google
- [2]: http://googleblog.blogspot.com/
- [3]: http://googleblog.blogspot.com/2007/03/im-feeling-lazy.html
+ [2]: https://googleblog.blogspot.com/
+ [3]: https://googleblog.blogspot.com/2007/03/im-feeling-lazy.html

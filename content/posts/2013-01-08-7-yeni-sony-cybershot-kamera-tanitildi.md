@@ -34,4 +34,4 @@ CES 2013 bereketiyle 7 yeni **Cybershot** modeliyle tanışıyoruz. **Sony** tar
 
 **kaynak: **[PhotoRumors][1]
 
- [1]: http://photorumors.com/2013/01/07/seven-new-sony-cybershot-compact-cameras-announced/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PhotoRumors+(PhotoRumors.com)
+ [1]: https://photorumors.com/2013/01/07/seven-new-sony-cybershot-compact-cameras-announced/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PhotoRumors+(PhotoRumors.com)

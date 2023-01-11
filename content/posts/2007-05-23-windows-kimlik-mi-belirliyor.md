@@ -28,16 +28,16 @@ Tamamen safiyane! bir şekilde yapılan bu icraattan tabi ki Microsoftun beklent
 
 Kaynaklar:
 
-1. http://www.newscientisttech.com/article.ns?id=mg19426046.400&feedId=being-human_rss20
+1. https://www.newscientisttech.com/article.ns?id=mg19426046.400&feedId=being-human_rss20
 
-2. http://www.theinquirer.net/default.aspx?article=39662
+2. https://www.theinquirer.net/default.aspx?article=39662
 
-3. http://www.microsoft.com/presspass/press/2004/jul04/07-21NCFTAPR.mspx
+3. https://www.microsoft.com/presspass/press/2004/jul04/07-21NCFTAPR.mspx
 
-4. http://news.zdnet.com/2100-1009_22-6040521.html
+4. https://news.zdnet.com/2100-1009_22-6040521.html
 
-5. http://www.microsoft.com/presspass/press/2005/aug05/08-26ZotobArrestPR.mspx
+5. https://www.microsoft.com/presspass/press/2005/aug05/08-26ZotobArrestPR.mspx
 
 Haber kaynağı:
 
- <a href="http://yro.slashdot.org/article.pl?sid=07/05/22/2223236" target="_blank">http://yro.slashdot.org/article.pl?sid=07/05/22/2223236</a>
+ <a href="https://yro.slashdot.org/article.pl?sid=07/05/22/2223236" target="_blank">https://yro.slashdot.org/article.pl?sid=07/05/22/2223236</a>

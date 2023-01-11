@@ -29,10 +29,10 @@ Diğer detaylara [Google Chrome 2.0 Beta][5] yazısından bakabilir ya da Chrome
 
 [Google Chrome has a new beta][7]
 
- [1]: http://www.google.com/chrome
- [2]: http://chrome.blogspot.com/
- [3]: http://www.google.com.tr
+ [1]: https://www.google.com/chrome
+ [2]: https://chrome.blogspot.com/
+ [3]: https://www.google.com.tr
  [4]: https://www.murekkep.org/google-chrome-ve-tarayici-piyasasi-572
  [5]: https://www.murekkep.org/google-chrome-20-beta-759
- [6]: http://www.google.com/intl/en/landing/chrome/beta/index.html
- [7]: http://chrome.blogspot.com/2009/03/google-chrome-has-new-beta_17.html
+ [6]: https://www.google.com/intl/en/landing/chrome/beta/index.html
+ [7]: https://chrome.blogspot.com/2009/03/google-chrome-has-new-beta_17.html

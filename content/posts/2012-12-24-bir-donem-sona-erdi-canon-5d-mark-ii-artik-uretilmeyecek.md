@@ -32,7 +32,7 @@ Büyük olasılıkla DSLR fotoğraf makinesi tarihindeki en popüler model olan 
 
 Eylül ayında [Canon 6D özellikleri][4]{.broken_link} tanıtılınca fiyat/performans olarak en mantıklı full-frame fotoğraf makinesi olmayı başardı. Yine de tüketiciler Canon 5D Mark II ve Canon 6D arasında kalıyorlardı. Artık Canon 6D efsane model 5D Mark II üretiminin durmasıyla daha fazla satmaya başlayacaktır.
 
- [1]: http://cweb.canon.jp/eos/lineup/old-products/index.html
- [2]: http://www.turknikon.com/nikon-govdeler/dx-format/nikon-d90 "nikon d90"
+ [1]: https://cweb.canon.jp/eos/lineup/old-products/index.html
+ [2]: https://www.turknikon.com/nikon-govdeler/dx-format/nikon-d90 "nikon d90"
  [3]: https://www.murekkep.org/canon-eos-5d-mark-iii-22-3mp-3-2-slr-dijital-fotograf-makinesi-8055 "canon 5d mark 3 özellikleri"
  [4]: https://www.murekkep.org/canon-eos-6d-ozellikleri-9992 "canon 6d özellikleri"

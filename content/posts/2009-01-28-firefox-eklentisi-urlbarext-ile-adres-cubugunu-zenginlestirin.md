@@ -28,5 +28,5 @@ UrlbarExt Firefox eklentisinin ayarlar kısmı oldukça geniş düşünülmüş.
 Tercih sizin.
 
  [1]: https://www.murekkep.org/firefox-3-beta-ilk-izlenimler-486
- [2]: http://blog.mozilla.com/blog/2008/04/21/a-little-something-awesome-about-firefox-3/
- [3]: http://www.tinyurl.com/
+ [2]: https://blog.mozilla.com/blog/2008/04/21/a-little-something-awesome-about-firefox-3/
+ [3]: https://www.tinyurl.com/

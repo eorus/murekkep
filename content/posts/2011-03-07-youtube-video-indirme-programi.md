@@ -19,7 +19,7 @@ tags:
 ---
 Youtube video paylaşım sitesinde hergün binlerce yeni [video][1] kullanıcıların ilgisini çekiyor. Youtube üzerinde paylaşılan videoları kolay bir şekilde bilgisayarınıza indirebilirsiniz. Youtube üzerine yüklenmiş video dosyalarını web üzerinden izlemek dışında, video dosyası olarak bilgisayarınıza kaydedebilirsiniz.
 
-**Youtube video indirme** işlemi için basit bir program yapılmış. Ücretsiz olan **youtube video indirme programı** <a href="http://youtubefisher.codeplex.com/" target="_blank" class="broken_link">YoutubeFisher</a> sayesinde youtube videolarını HD kalitesinde indirebiliyorsunuz. Basit ve küçük bir program olan youtubefisher ekranına sadece youtube video linkini (tarayıcınızın adres kısmındaki linki) yapıştırmanız ve &#8220;**download**&#8221; butonuna basmanız yeterli.
+**Youtube video indirme** işlemi için basit bir program yapılmış. Ücretsiz olan **youtube video indirme programı** <a href="https://youtubefisher.codeplex.com/" target="_blank" class="broken_link">YoutubeFisher</a> sayesinde youtube videolarını HD kalitesinde indirebiliyorsunuz. Basit ve küçük bir program olan youtubefisher ekranına sadece youtube video linkini (tarayıcınızın adres kısmındaki linki) yapıştırmanız ve &#8220;**download**&#8221; butonuna basmanız yeterli.
 
 ## Youtube Video İndirme
 

@@ -39,7 +39,7 @@ Manzara fotoğraflarında sıkça gördüğümüz üzere akan suyun ipek gibi bi
 
 Gün ortasında ışığın çok fazla olduğu durumlarda **alan derinliğini azaltmak** için ND filtre kullanılmaktadır. Çok parlak ortamlarda bazen ışığın azalmasıyla birlikte enstantane değerini değiştirmek fayda etmemektedir. Bu durumda kullanılacak bir ND filtre etkisi ile ışık azaltılabilir ve böylelikle diyafram daha açık bırakılarak netlenen öğe arka plandan ayrı tutulabilir.<figure style="width: 640px" class="wp-caption alignnone">
 
-[<img alt="" src="http://farm6.staticflickr.com/5050/5236445133_0a706f3d80_z.jpg" width="640" height="425" />][3]<figcaption class="wp-caption-text">Girrakool National Park 10 stop ND Fitlre ve 72 sn Pozlama image credit @Michael Lynch</figcaption></figure> 
+[<img alt="" src="https://farm6.staticflickr.com/5050/5236445133_0a706f3d80_z.jpg" width="640" height="425" />][3]<figcaption class="wp-caption-text">Girrakool National Park 10 stop ND Fitlre ve 72 sn Pozlama image credit @Michael Lynch</figcaption></figure> 
 
 <p class="info">
   <a title="ND Filtre ile Çekilmiş Fotoğraflar için 50 Mükemmel Örnek" href="https://www.murekkep.org/nd-filtre-ile-cekilmis-fotograflar/">Bkz. ND Filtre ile Çekilmiş Fotoğraflar için 50 Mükemmel Örnek</a>
@@ -211,4 +211,4 @@ ND filtrenin görevi neyse dereceli ND filtenin de görevi ve çalışma mantı�
 
  [1]: https://www.murekkep.org/uzun-pozlama-nedir-uzun-pozlama-nasil-yapilir-12785 "Uzun Pozlama Nedir? Uzun Pozlama Nasıl Yapılır?"
  [2]: https://www.murekkep.org/enstantane-nedir/ "enstantane nedir"
- [3]: http://www.flickr.com/photos/micklynch/5236445133/
+ [3]: https://www.flickr.com/photos/micklynch/5236445133/

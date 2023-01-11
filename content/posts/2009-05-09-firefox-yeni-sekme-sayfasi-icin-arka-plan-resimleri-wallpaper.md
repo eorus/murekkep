@@ -29,4 +29,4 @@ Bugüne kadar kullandığımız işletim sistemine göre, masaüstünde kullanma
 **Browser backgrounds** basit bir firefox eklentisi olduğundan kısaca alt bölümdeki durum çubuğuna **yeşil bir küp ikonu** olarak yerleştiğini ve bu kısımdan hem kullanabileceğiniz arkaplan resimlerini hem de yenilerini ekleyebileceğinizi söyleyebiliriz. Gerisi sizin yeni sekme sayfasında görsel olarak neleri tercih edeceğinize kalıyor.
 
  [1]: https://www.murekkep.org/firefox-yeni-sekme-sayfasini-zenginlestirin-2268
- [2]: http://browserbackgrounds.com/
+ [2]: https://browserbackgrounds.com/

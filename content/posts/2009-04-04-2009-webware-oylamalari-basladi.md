@@ -18,7 +18,7 @@ Kısaca Webware ödülleri için her sene düzenli olarak gerçekleştirilen ve 
 
 En iyi web 2.0 uygulamlarını seçebilmek için **Webware 2009** üzerinde kategoriler düzenlenmiş. Kullanıcıların şu anda oy kullanabileceği **10 kategori** belirlenmiş. Oylar kullanıldıktan sonra her kategoriden 10 tane kazanan belirlenecek. 
 
-Oy kullanabilmek ve kategorilere bakmak için **<a href="http://www.cnet.com/html/ww/100/2009/categories.html?tag=mncol" target="_blank" class="broken_link">Webware</a>** sayfasına bakabilirsiniz. Webware 100 2009 kazananları 19 Mayıs 2009 tarihinde açıklanacak.
+Oy kullanabilmek ve kategorilere bakmak için **<a href="https://www.cnet.com/html/ww/100/2009/categories.html?tag=mncol" target="_blank" class="broken_link">Webware</a>** sayfasına bakabilirsiniz. Webware 100 2009 kazananları 19 Mayıs 2009 tarihinde açıklanacak.
 
  [1]: https://www.murekkep.org/en-iyi-web-20-servisleri-hangisi-301
  [2]: https://www.murekkep.org/2009-webware-100

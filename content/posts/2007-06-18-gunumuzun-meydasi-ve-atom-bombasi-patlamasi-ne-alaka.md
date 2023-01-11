@@ -22,4 +22,4 @@ Günümüzün Medyasında halkın neye inanip inanmayacağı bu görüntüler il
 
 [[bkz.][1]]
 
- [1]: http://www.welt.de/vermischtes/article953226/Hacker_taeuschen_Explosion_einer_Atombombe_vor.html
+ [1]: https://www.welt.de/vermischtes/article953226/Hacker_taeuschen_Explosion_einer_Atombombe_vor.html

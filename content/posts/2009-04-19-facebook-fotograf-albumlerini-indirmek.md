@@ -29,4 +29,4 @@ Bir fotoğraf albümüne sağ tıklayıp menüden &#8220;**Download Album with F
 
 **Facebook Fotoğraf Albümü İndirme** ile indirilen fotoğraflar Firefox indirme dizinine kaydediliyor.
 
- [1]: http://www.facebook.com/
+ [1]: https://www.facebook.com/

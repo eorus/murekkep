@@ -22,4 +22,4 @@ Apple cihazları için Sn0wbreeze jailbreak aracı yeni versiyon ile Cydia için
 
 <img class="aligncenter" alt="ios-6.1-jailbreak" src="https://www.murekkep.org/wp-content/uploads/2012/12/ios-6.1-jailbreak.png" width="600" height="449" /> 
 
-Windows için <a href="http://github.com/iH8sn0w/sn0wbreezedl/archive/master.zip" target="_blank">Sn0wbreeze v2.9.11</a> indirin
+Windows için <a href="https://github.com/iH8sn0w/sn0wbreezedl/archive/master.zip" target="_blank">Sn0wbreeze v2.9.11</a> indirin

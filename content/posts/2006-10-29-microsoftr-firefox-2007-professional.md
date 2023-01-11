@@ -25,4 +25,4 @@ Gereksinimler :)
 >   * 1024 MB of RAM (Compensation for Frequent Memory Leaks)
 >   * 483MB Disk Space
 
-Link : http://www.msfirefox.com/
+Link : https://www.msfirefox.com/

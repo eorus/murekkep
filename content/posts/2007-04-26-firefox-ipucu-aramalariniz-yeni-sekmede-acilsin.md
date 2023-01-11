@@ -23,4 +23,4 @@ Birkaç gün önce sizlere [Firefox Klavye Kısayolları][1]{.broken_link}&#8216
 Yapmanız gereken üzerine çift tıklayıp **false** olan değeri **true** yapmak olacaktır. Bundan sonra aramalarınız yeni sekmede açılır. Bir diğer alternatif yol ise arama kısmına yazdıktan sonra enter yerine &#8220;**alt+enter**&#8221; ile aramanızı yapmak olabilir.
 
  [1]: https://www.murekkep.org/firefox-klavye-kisayollari-261
- [2]: http://www.google.com.tr
+ [2]: https://www.google.com.tr

@@ -20,7 +20,7 @@ Windows 7 masaüstünüzü kışa hazırlamak ister misiniz? Microsoft’un resm
 
 ## Windows 7 Kış Temalarını İndirin
 
-Yılbaşı için geri sayım başladı. Yeni yıla girdikten sonra kış aylarının devam edeceğini varsayarak kış aylarına ilişkin windows 7 kış temalarını masaüstünüzde kullanabilirsiniz. Windows 7 için winter tema paketi içerdiği masaüstü arkaplan resimleri ve kar resimleri ile Microsoft’un resmi windows 7 tema indirme sitesinde bulunuyor. <a href="http://windows.microsoft.com/en-US/windows/downloads/winter" target="_blank"><strong>Windows 7 winter themepack</strong></a> için ilgili sayfada download butonuna tıklamanız yeterli olacaktır.
+Yılbaşı için geri sayım başladı. Yeni yıla girdikten sonra kış aylarının devam edeceğini varsayarak kış aylarına ilişkin windows 7 kış temalarını masaüstünüzde kullanabilirsiniz. Windows 7 için winter tema paketi içerdiği masaüstü arkaplan resimleri ve kar resimleri ile Microsoft’un resmi windows 7 tema indirme sitesinde bulunuyor. <a href="https://windows.microsoft.com/en-US/windows/downloads/winter" target="_blank"><strong>Windows 7 winter themepack</strong></a> için ilgili sayfada download butonuna tıklamanız yeterli olacaktır.
 
  [1]: https://www.murekkep.org/windows-7-yeni-yil-temalari-indirin-3580
  [2]: https://www.murekkep.org/masaustu-icin-yilbasi-duvar-kagitlari-wallpaper-3800

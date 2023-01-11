@@ -24,7 +24,7 @@ Samsung’un galaxy serisi içerisinde [akıllı telefon][1] ile tablet pc aras�
 
 Samsung Galaxy Note&#8217;un Amazon üzerindeki fiyatı **629 GBP** şeklinde yani **Galaxy Note** fiyatı bu günkü kura göre **1800 TL**&#8216;den satılıyor olacak. **Amazon üzerindeki duyuruda ön sipariş ve satış tarihi olarak 11 Kasım 2011** gösteriliyor. Amazon üzerinde ön siparişteki Samsung Galaxy Note N7000 bir servis sağlayıcıya bağlı olmadan sim kart girişi serbest şekilde sunulan 16GB depolama alanı olan model.
 
-Amazon &#8211; <a title="Samsung Galaxy Note N7000 16GB Sim Free Unlocked" href="http://www.amazon.co.uk/gp/product/B005ZP9Z4W/ref=pd_lpo_k2_dp_sr_1/279-2834053-0772017?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=lpo-top-stripe&pf_rd_r=1TM1KEC25TXSREXE15YE&pf_rd_t=201&pf_rd_p=103612307&pf_rd_i=B005SYZ4SQ" target="_blank">Samsung Galaxy Note N7000 16GB Sim Free Mobile Phone &#8211; Dark Blue</a>
+Amazon &#8211; <a title="Samsung Galaxy Note N7000 16GB Sim Free Unlocked" href="https://www.amazon.co.uk/gp/product/B005ZP9Z4W/ref=pd_lpo_k2_dp_sr_1/279-2834053-0772017?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=lpo-top-stripe&pf_rd_r=1TM1KEC25TXSREXE15YE&pf_rd_t=201&pf_rd_p=103612307&pf_rd_i=B005SYZ4SQ" target="_blank">Samsung Galaxy Note N7000 16GB Sim Free Mobile Phone &#8211; Dark Blue</a>
 
 Hepsi Burada &#8211; Samsung Galaxy Note N7000 16GB 
 

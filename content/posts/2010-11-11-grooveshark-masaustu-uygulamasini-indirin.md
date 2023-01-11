@@ -24,6 +24,6 @@ tags:
 
 ## Grooveshark Masaüstü Uygulaması
 
-Oldukça küçük bir uygulama olan <a href="http://www.winmatrix.com/forums/index.php?/topic/29733-grooveshark-windows-application/" target="_blank" class="broken_link">grooveshark masaüstü uygulaması</a>, sanki bir internet tarayıcı ekranı gibi bir masaüstü penceresi açarak grooveshark erişiminizi sağlıyor. Gereklilik olarak **Microsoft. NET Framework 4** isteyen programı direkt olarak indirip bilgisayarınızda çalıştırabiliyorsunuz. Windows XP, Vista ve **Windows 7** için çalışan bu uygulama ile masaüstünüzden Grooveshark erişimini gerçekleştirebilirsiniz.
+Oldukça küçük bir uygulama olan <a href="https://www.winmatrix.com/forums/index.php?/topic/29733-grooveshark-windows-application/" target="_blank" class="broken_link">grooveshark masaüstü uygulaması</a>, sanki bir internet tarayıcı ekranı gibi bir masaüstü penceresi açarak grooveshark erişiminizi sağlıyor. Gereklilik olarak **Microsoft. NET Framework 4** isteyen programı direkt olarak indirip bilgisayarınızda çalıştırabiliyorsunuz. Windows XP, Vista ve **Windows 7** için çalışan bu uygulama ile masaüstünüzden Grooveshark erişimini gerçekleştirebilirsiniz.
 
  [1]: https://www.murekkep.org/online-ucretsiz-muzik-arama-ve-dinleme-grooveshark-3538

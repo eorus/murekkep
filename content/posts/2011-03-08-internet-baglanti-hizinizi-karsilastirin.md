@@ -14,7 +14,7 @@ tags:
 ---
 **İnternet bağlantı hızı** kullandığınız internet servis sağlayıcısına, hattınızın hızına ve bağlı olduğunuz şebekenin verimliliğine göre değişkenlik gösterebilmektedir. İnternet bağlantısının **download ve upload hızlarını ölçen** online servislerden en popüleri **Speedtest** internet sitesidir.
 
-<a href="http://speedtest.net/" target="_blank">Speedtest</a> yeni arayüzü ile bazı değişiklikler yapmış ve yeni özelliklerle beraber internet hız testi sonuçlarınızı kaydetmenizi sağlıyor. Tabi bunun için Speedtest üzerinde bir üyelik edinmeniz gerekiyor. Aynı zamanda yeni oluşturdukları **bağlantı yöneticisi** ile bağlantınızı isimlendirip bu bağlantı ismi altında çoklu ip adres gruplaması yapılabiliyor.
+<a href="https://speedtest.net/" target="_blank">Speedtest</a> yeni arayüzü ile bazı değişiklikler yapmış ve yeni özelliklerle beraber internet hız testi sonuçlarınızı kaydetmenizi sağlıyor. Tabi bunun için Speedtest üzerinde bir üyelik edinmeniz gerekiyor. Aynı zamanda yeni oluşturdukları **bağlantı yöneticisi** ile bağlantınızı isimlendirip bu bağlantı ismi altında çoklu ip adres gruplaması yapılabiliyor.
 
 Speedtest içerisine eklenen yeniliklerden bir tanesi olan **Speed Wave** özelliği ile [internet][1] bağlantı hızı testinizin sonuçlarını Dünya üzerindeki diğer kullanıcıların sonuçlarıyla karşılaştırabiliyorsunuz. Speedtest bu aşamada hem verimli ve kalıcı istatistikler edinmiş oluyor hem de kullanıcılar kendi hızlarını diğerleriyle yarıştırıp, paylaşımda bulunabiliyorlar.
 

@@ -29,5 +29,5 @@ Yukarıdaki resimden örnek vermek gerekirse **Fight Club** için yapılan bir f
 
 Nanocrowd **en çok sevdiğiniz fimler** üzerinden yola çıkarak size film tavsiyelerinde bulunan bir site. Eğer hangi filmi izleyeceğinize dair bir fikriniz yoksa **Nanocrowd** bu konuda size oldukça fazla alternatif sunabilir bir altyapıya sahip.
 
- [1]: http://www.nanocrowd.com/
+ [1]: https://www.nanocrowd.com/
  [2]: https://www.murekkep.org/etiket/film

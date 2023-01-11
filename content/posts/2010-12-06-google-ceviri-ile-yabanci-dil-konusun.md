@@ -15,7 +15,7 @@ categories:
   - Google
 
 ---
-**Ücretsiz Google Çeviri** hizmetini bir dilden diğer bir dile metin çevirisi olarak kullanabiliyoruz. <a href="http://translate.google.com.tr/" target="_blank">Google Translate (Çeviri)</a> kullanırken metin çeviri ekranında dikkat edebileceğimiz üzere mavi bir hoparlör butonu bulunuyor. Google çeviri üzerinden bir dilden diğer bir dile metin çevirisi yapıldığından çevrilen metni bu mavi hoparlör simgesine tıkladığınızda dinleyebiliyorsunuz.
+**Ücretsiz Google Çeviri** hizmetini bir dilden diğer bir dile metin çevirisi olarak kullanabiliyoruz. <a href="https://translate.google.com.tr/" target="_blank">Google Translate (Çeviri)</a> kullanırken metin çeviri ekranında dikkat edebileceğimiz üzere mavi bir hoparlör butonu bulunuyor. Google çeviri üzerinden bir dilden diğer bir dile metin çevirisi yapıldığından çevrilen metni bu mavi hoparlör simgesine tıkladığınızda dinleyebiliyorsunuz.
 
 Günlük yaşamımızda **bir dilden başka bir dile metin çevirisi** olarak kullandığımız google çeviri için hoparlör butonu kullanılarak iletişim amacı ile de kullanılabilir mi sorusu akla gelebiliyor. Web üzerinde rastladığım youtube videosu bu işlemin bazı durumlarda gayet güzel kullanılabileceğini gösteriyor.
 

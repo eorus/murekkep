@@ -18,4 +18,4 @@ tags:
 
 Yerli [delicious][1] adresiniz YumiYum hakkında daha fazla ayrıntıya yardım sayfalarından ulaşabilirsiniz. Mürekkep.Org içerisindeki yazıları artık tek bir tıklamayla YumiYum hesabınıza kaydedebileceksiniz. Bunun için her yazının altında yer alan yumiyum ekleme ikonunu kullanarak yumileyebilirsiniz.
 
- [1]: http://del.icio.us/
+ [1]: https://del.icio.us/

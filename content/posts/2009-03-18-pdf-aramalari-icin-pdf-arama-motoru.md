@@ -22,5 +22,5 @@ Bu aşamada şansımı [Google][1] üzerinden denemek istiyorum diyenlerdenseniz
 
 [DocJax döküman arama motoru][2] ile pdf dahil diğer birçok döküman üzerinde arama yapabileceğimizden bahsetmiştik. **PDF Search Engine** ise sadece PDF dosyaları üzerine yoğunlaşmış, özellikle pdf formatında yayınlanmış ekitaplara (ebook) ulaşabilmek açısından güzel sonuçlar çıkarıyor.
 
- [1]: http://www.google.com.tr
+ [1]: https://www.google.com.tr
  [2]: https://www.murekkep.org/docjax-dokuman-arama-motoru-1417
