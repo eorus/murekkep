@@ -1,2 +1,2 @@
 # Murekkep
-Murekkep.Org Static Files Hugo Deploy
+Murekkep.Org Static Files Hugo
