@@ -17,4 +17,4 @@ collections:
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - { label: "Tags", name: "tags", widget: "list",  required: false, default: ["post"] }
-      - { label: "Tags", name: "tags", widget: "list",  required: false, default: ["post"] }
+      - { label: "Categories", name: "categories", widget: "list",  required: false, default: ["post"] }
