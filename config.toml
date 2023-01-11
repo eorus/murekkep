@@ -25,7 +25,7 @@ other = "{{.Count}} dakika okuma süresi"
 [params.widgets]
     categories = true
     tags = true
-    search = true
+    search = false
 
 [taxonomies]
   category = "categories"
