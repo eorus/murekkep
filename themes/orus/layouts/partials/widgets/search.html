@@ -6,28 +6,10 @@
                         <div class="card-body">
 {{ if .Site.Params.widgets.search }}
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: 'TPDFKNI87M',
-    apiKey: 'a5b7ae35db5a63a414f15de15c8da3ad',
-    siteId: 'a465b3fd-4bc3-4232-99ac-95303c120cd3',
-    branch: 'master',
-    selector: 'div#search',
-  });
-</script>
 
 
-        <form action="//cse.google.com/cse?cx=b5c8c858d97ef4e90" method="get" accept-charset="UTF-8" role="search">
-            <div class="input-group">
-                <input type="search" name="q" class="form-control" placeholder="{{ i18n "searchTitle" }}">
-                <input type="hidden" name="sitesearch" value="{{ "/" | absURL }}">
-                <span class="input-group-btn">
-                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
-                </span>
-            </div>
-        </form>
+    <div id="search"></div>
+
 
 
 
