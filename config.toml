@@ -92,7 +92,6 @@ menu = ['main', 'footer']
 
 [[menu.footer]]
   name = 'Home'
-  pre = "<i class='bi bi-chevron-compact-right'></i>"
   url = '/'
   weight = 10
 [[menu.footer]]
