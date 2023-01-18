@@ -8,7 +8,7 @@ theme = "orus"
 disqusShortname = "murekkep" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "UA-434251-2" # Enable Google Analytics by entering your tracking id
 summaryLength = 25
-canonifyURLs = true
+#canonifyURLs = true
 enableRobotsTXT = false
 # Define the number of posts per page
 paginate = 10
