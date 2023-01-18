@@ -2,6 +2,13 @@
 layout: blog
 title: "Intel'in En Hızlı İşlemcisi : Intel Core i9-13900KS"
 date: 2023-01-18T11:24:18.581Z
+url: /intelin-en-hizli-i̇slemcisi-intel-core-i9-13900ks/
+categories:
+  - Masaüstü
+tags:
+  - microsoft
+  - linux
+  - windows
 featured_image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f106289-bb9a-448b-8aed-a162ac28d146/d4pwx3x-46f4a412-e370-4c9d-adc9-8cfea69e134d.jpg/v1/fill/w_900,h_506,q_75,strp/intel_logo_by_nikolain_art-d4pwx3x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi81ZjEwNjI4OS1iYjlhLTQ0OGItOGFlZC1hMTYyYWMyOGQxNDYvZDRwd3gzeC00NmY0YTQxMi1lMzcwLTRjOWQtYWRjOS04Y2ZlYTY5ZTEzNGQuanBnIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9NTA2In1dXX0.KZTawiyq3Hld_mCUQzSjqBxCOoElbFDtcBIeLHSPiq8
 ---
 Intel, bir süredir beklenen amiral gemisi işlemcisini nihayet piyasaya sürüyor. Core i9-13900KS, 699 dolarlık liste fiyatıyla çıkış yapacak.
