@@ -27,7 +27,7 @@
                               {{end}}
 
                                 <div class="card-body p-4">
-                                  <div class="rounded-pill mb-2">{{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}</div>
+                                  <div class="rounded-pill mb-2">{{ with .Page.Params.Categories }}{{ partial "categories.html" . }}{{ end }}</div>
                                   <a class="text-decoration-none link-dark stretched-link" href="{{ .Permalink }}"><h5 class="card-title mb-3">{{ .Title }}</h5></a>
 
                                 </div>

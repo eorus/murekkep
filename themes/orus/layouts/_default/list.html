@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                       <div class="rounded-pill mb-2">
-                                        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                                        {{ with .Page.Params.Categories }}{{ partial "categories.html" . }}{{ end }}
                                       </div>
                                       <h2 class="card-title h4"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="small text-muted">
